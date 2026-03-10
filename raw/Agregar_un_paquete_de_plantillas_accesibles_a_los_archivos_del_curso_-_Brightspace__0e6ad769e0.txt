@@ -1,0 +1,18 @@
+URL: https://community.d2l.com/brightspace-es-MX/kb/articles/10778-agregar-un-paquete-de-plantillas-accesibles-a-los-archivos-del-curso
+TITLE: Agregar un paquete de plantillas accesibles a los archivos del curso. - Brightspace
+HASH: 0e6ad769e0e02c94f6165d2fe14d5adae231a4768f2ed2ac3a016b352e7a7e33
+TYPE: web
+
+D2L diseñó un paquete de plantillas que los instructores del curso pueden usar para crear archivos de contenido HTML accesibles. Las plantillas utilizan una hoja de estilo en cascada (CSS) para dar formato al contenido de los archivos HTML.
+En la medida de lo posible y conforme con lo establecido por la ley, D2L renunció a todos los derechos de autor y los derechos relacionados o afines sobre las plantillas de accesibilidad. Puede utilizar estos archivos en un solo curso o para toda la organización a través de Archivos compartidos, según sus permisos.
+Si carga el paquete de plantillas y lo descomprime en la plataforma de Brightspace, se estructurará de forma adecuada y los archivos de muestra se remitirán al archivo CSS correctamente. Si decide cargar solo algunas de las plantillas disponibles en el paquete, es posible que necesite volver a crear la estructura de la carpeta para que los archivos se remitan al archivo CSS correctamente.
+Todos los paquetes de plantilla utilizan la misma estructura de carpeta y el mismo nombre, lo que facilita el intercambio de sus archivos CSS por archivos CSS diferentes si desea cambiar la apariencia del contenido del curso.
+Descargue el paquete de plantillas desde la comunidad de Brightspace.
+Agregar una plantilla a los archivos
+- Guarde el paquete de plantillas en la computadora.
+- Realice una de las siguientes acciones:
+- Para compartir las plantillas en la organización, diríjase a Archivos compartidos.
+- Para utilizar las plantillas en un curso específico, diríjase a Administrar archivos.
+- En el nivel raíz del árbol de archivos, seleccione Cargar.
+- Seleccione el archivo comprimido del paquete de plantilla y haga clic en Cargar.
+- Descomprima el archivo.

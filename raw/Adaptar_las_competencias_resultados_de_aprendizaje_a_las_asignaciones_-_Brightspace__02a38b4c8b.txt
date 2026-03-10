@@ -1,0 +1,22 @@
+URL: https://community.d2l.com/brightspace-es-MX/kb/articles/11007-adaptar-las-competencias-resultados-de-aprendizaje-a-las-asignaciones
+TITLE: Adaptar las competencias (resultados de aprendizaje) a las asignaciones - Brightspace
+HASH: 02a38b4c8b5bea6a82ac47486e3ae88a50708f57b534046698eb992a6aed4c9d
+TYPE: web
+
+Los resultados de aprendizaje y las competencias (objetivos de aprendizaje) no se pueden utilizar juntos. Si los resultados de aprendizaje están asociados con un curso, no se pueden usar competencias en las asignaciones. Para cambiar la alineación de una asignación de competencias a resultados de aprendizaje, primero debe eliminar su alineación con una competencia. Para obtener más información, consulte Acerca de los resultados del aprendizaje.
+Para alinear los resultados de aprendizaje a las asignaciones
+- Vaya a Asignaciones.
+- En el menú Acciones de la asignación a la que desea alinear resultados, seleccione Editar asignación.
+Figura: El menú Acciones en el que se muestra la opción Editar asignación.
+- En la página Editar asignación, haga clic en Estándares.
+Figura: La opción Estándares en la página Editar asignación.
+- En el cuadro de diálogo Examinar estándares, seleccione los resultados que desea alinear con la asignación y haga clic en Guardar.
+Figura: El cuadro de diálogo Examinar estándares.
+- Si desea alinear más resultados de aprendizaje, haga clic en el ícono Examinar estándares (+).
+Figura: El ícono Examinar estándares.
+- Si desea eliminar un resultado alineado, haga clic en la X junto al nombre del resultado.
+- Si desea eliminar todos los resultados alineados, haga clic en Borrar todo.
+- Haga clic en Borrar para confirmar que desea borrar las alineaciones.
+- Haga clic en Guardar y cerrar.
+Figura: La página Crear y editar asignaciones con los resultados seleccionados
+Ha alineado competencias con su asignación.

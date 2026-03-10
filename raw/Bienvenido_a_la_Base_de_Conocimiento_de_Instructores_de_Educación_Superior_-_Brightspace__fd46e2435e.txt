@@ -1,0 +1,17 @@
+URL: https://community.d2l.com/brightspace-es-MX/kb/articles/25812-bienvenido-a-la-base-de-conocimiento-de-instructores-de-educacion-superior
+TITLE: Bienvenido a la Base de Conocimiento de Instructores de Educación Superior - Brightspace
+HASH: fd46e2435e0dabd65fd994653c7a0716065481aad7e3c55ede6d7b180c658ec7
+TYPE: web
+
+Bienvenido a la Base de Conocimiento de Instructores de Educación Superior
+Bienvenido a la Base de Conocimiento de Documentación de Ayuda de Brightspace para Instructores de Educación Superior. En esta Base de Conocimientos, encontrará información sobre cómo usar las muchas herramientas que Brightspace tiene para ofrecer.
+Si usted es un nuevo usuario de Brightspace, consulte los encabezados a continuación para comenzar.
+De lo contrario, utilice el panel de navegación a la izquierda de esta página para acceder a la documentación de ayuda organizada por herramienta.
+Introducción
+Si no ha usado Brightspace y se pregunta por dónde empezar, no busque más. Utilice esta página para obtener información sobre los pasos fundamentales necesarios para navegar por Brightspace, configurar su curso, crear actividades básicas del curso, interactuar con sus estudiantes y evaluarlos.
+Nota: Una vez que haya aprendido lo básico, utilice el panel de navegación a la izquierda de esta página para acceder a la documentación de ayuda organizada por herramienta para conocer todas las características de funcionalidad que cada herramienta tiene para ofrecer.
+Navegar por las Configuraciones de Brightspace
+Configurar y administrar el curso
+Crear actividades del curso
+Interactuar y relacionarse con los estudiantes
+Evaluar y supervisar el progreso del estudiante

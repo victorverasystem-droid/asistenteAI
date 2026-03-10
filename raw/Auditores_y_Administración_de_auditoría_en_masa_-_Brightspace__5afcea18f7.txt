@@ -1,0 +1,36 @@
+URL: https://community.d2l.com/brightspace-es-MX/kb/articles/22046-auditores-y-administracion-de-auditoria-en-masa
+TITLE: Auditores y Administración de auditoría en masa - Brightspace
+HASH: 5afcea18f7b80416ec512ea444d835bc66885933366e6650586fedc64c8896f1
+TYPE: web
+
+Un auditor en Brightspace es un usuario con permiso para ver (auditar) la información de otro usuario. Esta función es útil si desea otorgar acceso a alguien que pueda ver y supervisar al estudiante en una oferta de cursos específica (por ejemplo, padres de estudiantes o asistentes de instructor).
+No es necesario que los auditores de usuarios tengan su propio rol en la organización. Debe decidir cuánta visibilidad desea que los auditores tengan en el listado de alumnos o a qué herramientas desea que tengan acceso. Su acceso puede depender también de la relación que tengan los auditores con los usuarios que auditan.
+Acciones disponibles para Administración de auditoría en masa
+Administración de auditoría en masa le permite inscribir varios auditores o anular su inscripción mediante la carga de un archivo CSV de valores separados por comas. Este archivo debe estar en formato .txt.
+Puede realizar las siguientes acciones:
+- CREATE,AuditorUsername,UserToAuditUsername
+- REMOVE,AuditorUsername,UserToAuditUsername
+- REMOVE,*,UserToAuditUsername
+AuditorUsername es el nombre de usuario del auditor.
+UserToAuditUsername es el nombre de usuario del usuario al que se auditará.
+Se usa un asterisco (*) para que la búsqueda coincida con todos los usuarios que son auditores de un usuario o que son auditados por un usuario.
+Inscribir o anular la inscripción de un auditor
+- En la barra de navegación, haga clic en Listado de alumnos.
+Nota: Si el Listado de alumnos no está en la barra de navegación, puede seleccionarlo en el menú Administración del curso.
+- En la página de la herramienta Listado de alumnos, en el menú contextual del usuario al que desea agregar auditores, haga clic en Administrar auditores.
+- Haga clic en Agregar auditores.
+Figura: Haga clic en Agregar auditores para agregar o quitar usuarios auditores manualmente.
+- Seleccione los usuarios a quienes desea agregar como auditores.
+- Para eliminar un auditor, marque la casilla de selección junto al usuario y haga clic en Eliminar.
+Para seleccionar a los usuarios en los que desea agregar auditados, en la página Administrar auditores, haga clic en la pestaña Auditorías de usuarios {user}.
+- Haga clic en Agregar.
+Inscribió o anuló la inscripción de un auditor.
+Inscribir o anular la inscripción de varios auditores con la Administración de auditoría en masa
+- En la barra de navegación, haga clic en Listado de alumnos.
+Nota: Si el Listado de alumnos no está en la barra de navegación, puede seleccionarlo en el menú Administración del curso.
+- En la página de la herramienta Listado de alumnos, en el menú contextual del usuario al que desea agregar auditores, haga clic en Administrar auditores.
+- Haga clic en Administración de auditoría en masa.
+Figura: Haga clic en Administración de auditoría en masa para agregar o quitar varios auditores utilizando un archivo CSV.
+- Haga clic en Elegir archivo y seleccione un archivo CSV de su computadora.
+- Haga clic en Continuar.
+Tiene auditores inscritos de forma masiva.

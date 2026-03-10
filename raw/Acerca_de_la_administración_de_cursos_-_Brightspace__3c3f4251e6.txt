@@ -1,0 +1,42 @@
+URL: https://community.d2l.com/brightspace-es-MX/kb/articles/23480-acerca-de-la-administracion-de-cursos
+TITLE: Acerca de la administración de cursos - Brightspace
+HASH: 3c3f4251e6602b6b2c0186f949960aef3f65d3c5066afebc5ba610454952394f
+TYPE: web
+
+El área Administración de cursos es un área central para acceder a herramientas relacionadas con la configuración y administración de su curso. Desde aquí, puede acceder a numerosas herramientas que le ayudarán a impartir su curso sin problemas, entre las que se incluyen las siguientes:
+- Activar y desactivar las herramientas del curso
+- Cambiar el nombre de las herramientas del curso
+- Administrar la información de la oferta de cursos
+- Importar componentes del curso
+- Importar resultados de aprendizaje
+Acerca de la configuración regional del curso
+Si su organización admite varias configuraciones regionales, puede cambiar la configuración regional predeterminada de la oferta de cursos. En general, los usuarios pueden especificar su configuración regional dentro de sus preferencias. También puede anular las preferencias de configuración regional, de modo que todos los usuarios vean la misma configuración regional del curso. Puede utilizarlo si está enseñando un curso de inmersión en un idioma y desea que todo el formato cultural y el texto en la oferta de cursos refleje el idioma que está enseñando.
+Información de la oferta de Administración de cursos
+Puede editar las propiedades de su oferta de cursos en la página Información de oferta de cursos.
+- En la barra de navegación, haga clic en Administración del curso.
+- Haga clic en Información de oferta de cursos.
+- Realice sus cambios.
+- Haga clic en Guardar.
+Cambiar el estado de una herramienta
+Las herramientas del curso, como Cuestionarios, Contenido, Debates, Calificaciones, son componentes del curso que usted agrega a su oferta de cursos para compartir el contenido de aprendizaje, promover la interacción y evaluar el desempeño. Puede activar y desactivar las herramientas del curso para diseñar específicamente el curso de acuerdo con su pedagogía y los materiales del curso.
+Antes de activar una herramienta, debe estar atento a las siguientes pautas:
+- Solo se puede acceder a algunas herramientas activas desde los componentes de la barra de navegación o de la página de inicio.
+Antes de desactivar una herramienta, debe estar atento a las siguientes pautas:
+- Las condiciones de publicación basadas en la herramienta no se implementan mientras la herramienta permanece desactivada.
+- Las actividades de competencia asociadas a la herramienta se ocultan, pero siguen asociadas a los objetivos de aprendizaje a los que están adjuntas. Los usuarios no pueden completar estos objetivos de aprendizaje mientras la herramienta se encuentra desactivada. Debe separar o eliminar las actividades asociadas con una herramienta antes de deshabilitar la herramienta.
+- Los elementos de calificación asociados con la herramienta se mantienen, pero debe actualizarlos manualmente en el cuaderno de calificaciones.
+- Los Enlaces rápidos a los elementos de la herramienta continúan, pero cuando se accede a ellos, aparece un mensaje que indica "No se encontró ningún recurso". Cuando desactiva una herramienta, debe quitar todos los enlaces rápidos relacionados.
+- Al desactivar una herramienta, no elimina ningún elemento ni datos de usuario dentro de la misma, sencillamente oculta la herramienta de la oferta del curso.
+Para activar o desactivar una herramienta:
+- En la barra de navegación, haga clic en Administración del curso.
+- Haga clic en Herramientas.
+- Realice una de las siguientes acciones:
+- Para activar una herramienta, cambie su estado a Activada.
+- Para desactivar una herramienta, cambie su estado a Desactivada.
+Cambiar el nombre de una herramienta
+Es posible que desee cambiar el nombre de una herramienta si su organización o área geográfica están más familiarizadas con una terminología distinta. Por ejemplo, podría cambiar el nombre de Asignaciones a Asignación.
+Al cambiar el nombre personalizado de la barra de navegación para una herramienta, no se reemplazan todos los usos del término original en el sistema. Únicamente cambia el nombre que se muestra para la herramienta en la barra de navegación. Para reemplazar todas las referencias a un término específico, el administrador de un sitio puede actualizar el paquete de idiomas de su organización en la herramienta Administrar idiomas.
+- En la barra de navegación, haga clic en Administración del curso.
+- Haga clic en Herramientas.
+- En el campo Nombre personalizado de la barra de navegación de la herramienta a la que desea cambiarle el nombre, escriba el nombre nuevo de la herramienta.
+- Presione Intro o haga clic fuera del campo. Los cambios se guardan automáticamente.

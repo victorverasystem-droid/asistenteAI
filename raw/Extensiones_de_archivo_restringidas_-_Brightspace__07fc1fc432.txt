@@ -1,0 +1,28 @@
+URL: https://community.d2l.com/brightspace-es-MX/kb/articles/10897-extensiones-de-archivo-restringidas
+TITLE: Extensiones de archivo restringidas - Brightspace
+HASH: 07fc1fc432339c81c91d9302cca29f9b57b48624deced07248a1fa9b1e55ce6d
+TYPE: web
+
+Para utilizar la función Extensiones de archivo restringidas, la variable de configuración d2l.Tools.Dropbox.RestrictFileExtensions debe estar ACTIVADA. Cuando la variable de configuración está habilitada, las opciones para restringir las extensiones de archivo en los materiales enviados se habilitan en la sección Material enviado y finalización en la página Nueva asignación.
+El campo Extensiones de archivo permitidas brinda opciones para restringir ciertos tipos de archivos que los estudiantes pueden enviar para la asignación. En el caso de las asignaciones de materiales enviados como archivo o texto, esta configuración solo restringe los archivos que los estudiantes pueden cargar a través del flujo de materiales enviados como texto; sin embargo, aún pueden ingresar contenido en el campo Material enviado como texto. Las opciones del menú desplegable incluyen lo siguiente:
+- Sin restricciones
+- Solo PDF
+- Archivos anotables, que incluyen todos los tipos de archivos admitidos por la herramienta de anotación en Asignaciones. Para obtener la lista completa de tipos de archivos, consulte Tipos de archivos compatibles para anotar materiales enviados.
+- Archivos con vista previa sin conversión, como .HTM, .HTML, .MHT, .MHTML y .BMP
+- Imágenes y videos
+- Tipos de archivos personalizados
+Si selecciona Tipos de archivo personalizadas, debe ingresar extensiones de archivo que se permitan para los envíos de archivos.
+Cuando se utilizan restricciones de tipo de archivo en una asignación, la lista de tipos de archivo admitidos aparece en la sección Enviar asignación.
+Cuando un estudiante intenta cargar el envío de archivo de una asignación de un tipo de extensión de archivo que usted restringió, aparece un mensaje de error.
+Qué ven los estudiantes cuando se cargan tipos de archivo restringidos
+Cuando una asignación restringe los tipos de archivo que pueden enviarse, Brightspace proporciona comentarios claros a los estudiantes si intentan cargar un archivo no compatible.
+Mensajes de error durante el envío
+Si un estudiante carga un archivo con una extensión de archivo restringida, la página de envío muestra un mensaje de error:
+- Cuando se restringen pocos tipos de archivo, en el mensaje se mostrarán las extensiones de archivos permitidas.
+- Cuando se restrigen siete o más tipos de archivo, aparecerá un mensaje simplificado en el que se indicará que solo se pueden enviar extensiones de archivo permitidas.
+Este enfoque ayuda a mantener los mensajes de error legibles, y, al mismo tiempo, guía a los estudiantes a enviar el tipo de archivo correcto.
+Comentarios en Visualización de actividad
+En Visualización de actividad, los estudiantes reciben comentarios visuales adicionales cuando se cargan archivos no compatibles:
+- Los archivos no compatibles se marcan para que los estudiantes puedan identificar con facilidad qué archivos deben reemplazarse.
+- Los archivos sin extensiones detectables se identifican como no compatibles.
+- Cuando se cargan varios archivos no compatibles, la Visualización de actividad consolida los tipos de archivo para mayor claridad.

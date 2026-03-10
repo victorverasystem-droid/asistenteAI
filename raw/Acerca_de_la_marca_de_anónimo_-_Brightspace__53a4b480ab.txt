@@ -1,0 +1,25 @@
+URL: https://community.d2l.com/brightspace-es-MX/kb/articles/10982-acerca-de-la-marca-de-anonimo
+TITLE: Acerca de la marca de anónimo - Brightspace
+HASH: 53a4b480abe189937f28abe10705d868dd8f3e84c76fe1d2c2d1ad688638b9d0
+TYPE: web
+
+Para evitar un sesgo inconsciente en los procesos de calificación y comentarios, los instructores pueden configurar asignaciones que utilicen nombres de estudiantes anónimos. Cuando se activa esta función, los instructores solo ven un nombre de estudiante anónimo en la asignación. Los estudiantes pueden estar seguros de que sus materiales enviados se evaluarán de forma justa. Un administrador debe activar la variable de configuración d2l.Tools.System.Features.AnonymousMarking para activar las marcas de anónimo. La Experiencia de evaluación de asignaciones admite por completo el marcado anónimo.
+- Los instructores solo pueden publicar marcas anónimas utilizando la opción Publicar todos los comentarios para evitar la identificación de los estudiantes mediante el envío selectivo de comentarios con marca de anónimo. Tenga en cuenta que el botón Publicar está deshabilitado en la página de envíos. Una vez que publica los comentarios, las asignaciones ya no son anónimas.
+- Un administrador debe activar el permiso Asignaciones > Publicar todos los comentarios en las asignaciones para que aparezca el botón Publicar todos los comentarios. El botón Publicar todos los comentarios se habilita cuando al menos un comentario se guarda como borrador.
+- Los instructores pueden configurar la marca de anónimo cuando crean una asignación. Los instructores también pueden activar las marcas de anónimo en las carpetas de envíos de asignaciones una vez creadas, pero no pueden desactivar esta función cuando se ha realizado un envío al buzón. Los instructores que utilicen TurnItIn solo pueden activar las marcas de anónimo en una carpeta de envíos de asignaciones existente antes de que se realice algún envío de asignación.
+- Según la configuración de su curso, es posible que los instructores vean la aplicación automática predeterminada de la marca de anónimo en las nuevas asignaciones. El instructor puede desactivar esta configuración predeterminada si así lo desea.
+- Los instructores pueden publicar comentarios sin completar comentarios para todos los envíos. Si hace clic en Publicar todos los comentarios, aparece un cuadro de diálogo de confirmación que informa que algunos envíos se publicarán sin comentarios.
+- Luego de seleccionar Publicar todos los comentarios, se revelará a los instructores los nombres de usuario asociados a envíos anónimos.
+- En instancias en las que se necesita que los instructores puedan identificar a un usuario, como cuando un estudiante tiene una alerta por infracción académica, existe un permiso que identifica a todos los usuarios anónimos en una carpeta para envíos de asignaciones con marca de anónimo activada: comuníquese con el administrador para obtener más información o ver los próximos pasos.
+Activar/desactivar marca de anónimo
+Se puede activar o desactivar una marca de anónimo durante la creación de una nueva carpeta de envíos de asignaciones. Puede activar las marcas de anónimo en una carpeta de envíos de asignaciones que tenga material enviado; sin embargo, una vez realizados envíos de asignaciones, no podrá desactivarlas. En los cursos que utilicen TurnItIn, solo se pueden activar las marcas de anónimo en las carpetas de envíos de asignaciones antes de que se realice algún envío de asignación. Un administrador debe activar la variable de configuración d2l.Tools.System.Features.AnonymousMarking para usar las marcas de anónimo.
+Para activar o desactivar una marca de anónimo
+- Vaya a Asignaciones.
+- Haga clic en Nueva asignación.
+Figura: La opción Nueva asignación en la página Asignaciones.
+- Complete todos los campos obligatorios.
+- En el acordeón Evaluación y comentarios, bajo Marca de anónimo, seleccione o anule la selección de Ocultar nombres de estudiantes durante la evaluación.
+Figura: La casilla de verificación Ocultar nombres de estudiantes durante la evaluación en el acordeón Evaluación y comentarios.
+- Haga clic en Guardar y cerrar.
+Video: Cree una asignación con la Experiencia de Contenido Clásico
+Video: Cree una asignación con la Experiencia de Contenido Nuevo

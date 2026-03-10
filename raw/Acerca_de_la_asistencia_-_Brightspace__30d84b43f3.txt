@@ -1,0 +1,30 @@
+URL: https://community.d2l.com/brightspace-es-MX/kb/articles/10856-acerca-de-la-asistencia
+TITLE: Acerca de la asistencia - Brightspace
+HASH: 30d84b43f3432886afe426084a33dd97a5a3332047109696d101bc80f9ef30b1
+TYPE: web
+
+La herramienta Asistencia le permite crear registros que controlan la asistencia a actividades dentro de su organización o curso. Puede controlar la asistencia para cualquier número de actividades y personalizar sus registros para adaptarse a sus necesidades.
+Utilice la herramienta Asistencia para crear sesiones para hacer un seguimiento de la asistencia y definir los estados de asistencia de las actividades. Puede asignar calificaciones por la asistencia de usuarios, ver los resultados de la asistencia y realizar un seguimiento de los usuarios que tengan problemas de asistencia.
+Requisitos
+Para usar la herramienta Lista de asistencia, se requiere lo siguiente:
+- Para ver y usar la herramienta Lista de asistencia, debe tener los permisos de Lista de asistencia requeridos aplicados a su rol. Solo el administrador de su organización puede acceder a estos permisos.
+Importante: También puede localizar las herramientas disponibles del curso si va a Administración del curso en la barra de navegación. Si no encuentra la herramienta Lista de asistencia en su instancia de Brightspace, comuníquese con el administrador de su organización para obtener los permisos necesarios.
+Recorrido visual de la herramienta Lista de asistencia
+Figura: Vaya a Lista de asistencia y haga clic en la pestaña Registros de asistencia para crear un nuevo registro.
+- Haga clic en Nuevo registro para configurar una nueva lista a fin de realizar un seguimiento de la asistencia y crear sesiones obligatorias a las que los usuarios deben asistir.
+- Haga clic en Más acciones para revisar más opciones de registro de asistencia.
+- Revisar todos los registros de asistencia creados.
+- Haga clic en un nombre de registro para revisar las sesiones y los datos de asistencia de ese registro.
+- Haga clic en la flecha junto al nombre de un registro para revisar más acciones de ese registro.
+- Vea el porcentaje de Motivo de preocupación de un registro de asistencia. El Motivo de preocupación lo ayuda a realizar un seguimiento de los estudiantes que no cumplen con sus requisitos de asistencia colocando un ícono junto a su nombre si su asistencia cae por debajo del porcentaje establecido.
+- Revise la cantidad de sesiones individuales creadas para un registro de asistencia específico.
+Nota: También puede cambiar el esquema de asistencia aplicado a su registro haciendo clic en la pestaña Esquemas de asistencia.
+Cómo se calcula la asistencia
+El campo % de asistencia se calcula sumando el % total asignado a cada estado y luego dividiéndolo entre la cantidad de estados que tienen un % asignado. Esto se representa con la siguiente fórmula ilustrada:
+La suma del % asignado / el total de los estados con un % asignado x 100.
+Para comprender cómo funciona este cálculo en la práctica, tome un esquema con los siguientes conjuntos de estados:
+Si un registro incluye cuatro sesiones y asigna a un usuario cada uno de los siguientes estados: P (presente), A (ausente), L (Tarde [Late]) y AA (Ausencia autorizada): uno por sesión, el cálculo del % de asistencia del usuario solo incluirá estados que tengan un valor de porcentaje asignado. En este ejemplo, los estados P, A y L contribuyen al cálculo, mientras que AA se excluye porque su valor de porcentaje asignado está en blanco.
+Esto da como resultado un % de asistencia del 58.33 %, calculado de la siguiente manera:
+(100 + 0 + 75) ÷ (100 × 3) × 100 = 58.33 %
+Si asigna un valor de porcentaje asignado de 100 al estado AA, se incluirá en el cálculo. El valor de porcentaje de asistencia actualizado se convierte en 68.75 %, calculado de la siguiente manera:
+(100 + 0 + 75 + 100) ÷ (100 × 4) × 100 = 68.75 %

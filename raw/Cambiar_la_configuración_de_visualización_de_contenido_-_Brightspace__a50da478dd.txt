@@ -1,0 +1,36 @@
+URL: https://community.d2l.com/brightspace-es-MX/kb/articles/15168-cambiar-la-configuracion-de-visualizacion-de-contenido
+TITLE: Cambiar la configuración de visualización de contenido - Brightspace
+HASH: a50da478ddb0d1f214ea6381686133b571fb2d9ae7bb9188eebf7a8d935000ce
+TYPE: web
+
+Puede personalizar su contenido cambiando la configuración de visualización de contenido.
+Para cambiar la configuración de visualización de contenido en la experiencia de contenido clásico
+-
+En la barra de navegación de su curso, haga clic en Contenido.
+Figura: El botón de herramienta de contenido en el curso Home.
+-
+En el menú de la herramienta de contenido , haga clic en Configuración.
+Figura: El botón Configuración.
+-
+Personalice la siguiente Configuración de contenido:
+-
+Después de revisar todos los detalles, haga clic en el botón Guardar para aplicar la nueva configuración del contenido.
+Se aplican nuevas configuraciones de contenido.
+Cambiar la ruta actual de la plantilla
+También puede usar la configuración de visualización de contenido para cambiar la ubicación de la ruta de archivo de su plantilla HTML.
+Para cambiar la ruta actual de la plantilla
+-
+En el menú de la herramienta de contenido , haga clic en Configuración.
+-
+En Plantillas, haga clic en Cambiar ruta.
+Figura: El botón Cambiar ruta.
+-
+Seleccione una nueva ruta de acceso o cree una nueva carpeta haciendo clic en Nueva carpeta.
+Figura: El botón Nueva carpeta.
+-
+Ingrese un nombre para la nueva carpeta y haga clic en Crear.
+Figura: El botón Crear.
+-
+Busque la carpeta y haga clic en Seleccionar ruta.
+Figura: El botón Seleccionar ruta.
+Ahora ha seleccionado una nueva ruta de plantilla.

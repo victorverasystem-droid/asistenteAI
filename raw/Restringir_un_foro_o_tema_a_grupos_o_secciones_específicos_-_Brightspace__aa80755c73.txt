@@ -1,0 +1,28 @@
+URL: https://community.d2l.com/brightspace-es-MX/kb/articles/10831-restringir-un-foro-o-tema-a-grupos-o-secciones-especificos
+TITLE: Restringir un foro o tema a grupos o secciones específicos - Brightspace
+HASH: aa80755c73ad47a0d2241a85dce67d0c0344c39ec97f31b9ead974768856d190
+TYPE: web
+
+Con las restricciones de tema o foro, puede crear áreas de debate donde los miembros de un equipo de trabajo de trabajo pueden colaborar en asignaciones o debatir el material del curso en equipos pequeños. También puede utilizar estas restricciones para crear foros o temas independientes para cada equipo de trabajo o sección dentro de una oferta de cursos.
+Para establecer restricciones para un foro
+- En la barra de navegación, haga clic en Debates.
+- En la página Lista de debates, en el menú contextual del foro o tema que desea restringir, haga clic en Editar foro.
+- En la pestaña de Restricciones, en Restricciones de equipos de trabajo y secciones, seleccione Restringir el acceso de este foro a los siguientes equipos de trabajo y secciones.
+- Haga clic en Agregar equipos de trabajo y secciones.
+- Seleccione los equipos de trabajo y secciones que desea agregar, luego haga clic en Agregar.
+Figura: Seleccione los equipos de trabajo o secciones y haga clic en Agregar.
+- Para eliminar el acceso específico de un equipo de trabajo o sección, haga clic en el botón X del equipo de trabajo o sección.
+Para eliminarlos todos, haga clic en el botón X junto aEliminar todas las restricciones de equipos de trabajo y secciones.
+Para abrir el foro a todos nuevamente, desmarque la casilla de selección Restringir el acceso de este foro a los siguientes equipos de trabajo y secciones.
+- Haga clic en Guardar y cerrar.
+Para establecer restricciones para un tema
+- En la barra de navegación, haga clic en Debates.
+- En la página Lista de debates, en el menú de contexto del tema que desea restringir, haga clic en Editar tema.
+- En la página del tema, expanda el acordeón Fechas y condiciones de disponibilidad.
+- En restricciones de equipos de trabajo y secciones, haga clic en Administrar restricciones.
+- Seleccione una de las siguientes opciones:
+Restringir el tema para permitir que los usuarios de los equipos de trabajo o secciones que seleccionó puedan ver este tema y todos sus hilos de conversación.
+Restringir el tema y separar los hilos de conversación para permitir que los usuarios de los equipos de trabajo o secciones que seleccionó vean este tema, pero solo vean hilos de conversación de sus equipos de trabajo o secciones.
+- Seleccione los equipos de trabajo y secciones que desea agregar, luego haga clic en Agregar.
+Para eliminar el acceso específico de un equipo de trabajo o sección, haga clic en el botón X del equipo de trabajo o sección.
+- Haga clic en Guardar y cerrar.

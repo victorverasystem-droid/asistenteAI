@@ -1,0 +1,21 @@
+URL: https://community.d2l.com/brightspace-es-MX/kb/articles/16414-agregar-un-recurso-de-aprendizaje-a-un-tema-de-contenido
+TITLE: Agregar un recurso de aprendizaje a un tema de contenido - Brightspace
+HASH: 158144adc1499989a1ce349595ae7095ba5d407a68b1bd7371cd6a2bf98683d7
+TYPE: web
+
+Puede asociar el contenido, incluidos los recursos de LTI y SCORM, con objetivos de aprendizaje directamente desde la herramienta Contenido.
+Nota: Debe tener objetivos de aprendizaje existentes en la herramienta Competencias antes de poder crear estas asociaciones. Consulte Crear un objetivo de aprendizaje para obtener más información.
+Agregar un objetivo de aprendizaje a un tema de contenido, o editarlo, en la Nueva Experiencia de Contenido (Lecciones)
+Puede agregar un objetivo de aprendizaje a un tema de contenido en la Nueva experiencia de contenido (Lecciones).
+Nota: Su administrador puede ACTIVAR o DESACTIVAR la Experiencia de contenido nuevo para todos los cursos a nivel de la organización. Sin embargo, el administrador también puede asignar a su rol la capacidad de cambiar entre experiencias de contenido de su curso. Consulte Experiencias de contenido para obtener más información sobre las diferencias entre la Experiencia de contenido clásico y la Nueva experiencia de contenido. Comuníquese con su administrador para obtener más información sobre cómo activar la Nueva experiencia de contenido.
+Para agregar un objetivo de aprendizaje a un tema de contenido:
+- Abra el curso en el que desea agregar un objetivo de aprendizaje a un tema.
+- En la barra de navegación, haga clic en Contenido.
+- En el panel Tabla de contenido, haga clic en el tema que desea asociar con un objetivo de aprendizaje.
+- Haga clic en el ícono Opciones (...) y seleccione Editar.
+Figura: Haga clic en Opciones para editar el tema seleccionado.
+- En el panel contraíble Comentarios, haga clic en Administrar objetivos de aprendizaje.
+- Realice una de las siguientes acciones:
+- Haga clic en Asociar objetivos de aprendizaje, ubique el objetivo de aprendizaje que desea agregar y haga clic en Agregar seleccionados.
+- Haga clic en el menú Más a la derecha de un objetivo existente y haga clic en Editar objetivo de aprendizaje o Eliminar objetivo de aprendizaje.
+- Haga clic en Cerrar.

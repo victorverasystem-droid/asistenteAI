@@ -1,0 +1,22 @@
+URL: https://community.d2l.com/brightspace-es-MX/kb/articles/10839-cumplimiento-de-las-normas-de-accesibilidad-en-el-contenido-creado-en-html
+TITLE: Cumplimiento de las normas de accesibilidad en el contenido creado en HTML - Brightspace
+HASH: d96da12fb8ada06fa78a43a9c9fbf0c4aa38e404fd379a79457112754ced7004
+TYPE: web
+
+Existe un verificador de accesibilidad disponible en el Editor de Brightspace para usarlo en la herramienta de Contenido, Componentes, Cuestionarios, Calendario, Asignaciones y cualquier otra herramienta desde la que se pueda acceder al editor.
+El verificador de accesibilidad está disponible en la barra superior dentro del Editor de Brightspace. Después de agregar contenido al Editor de Brightspace, puede hacer clic en el verificador para asegurarse de que la página HTML cumpla con los estándares de accesibilidad WCAG y de la Sección 508.
+El verificador de accesibilidad revisa la herramienta de contenido para el uso de los siguientes elementos:
+- Uso de los párrafos como encabezados
+- Encabezados secuenciales
+- Enlaces adyacentes
+- Estructura de lista ordenada
+- Estructura de lista sin ordenar
+- Relación de contraste del texto con los colores de fondo
+- Texto alternativo de la imagen
+- Nombre de archivo de texto ALTERNATIVO
+- Título de la tabla
+- Resumen de la tabla compleja
+- Subtítulo y resumen de la tabla
+- Alcance del encabezado de la tabla, marcado y encabezados
+El verificador indica si el la herramienta de contenido no presenta problemas de accesibilidad y, de ser necesario, ofrece sugerencias para solucionarlos.
+Tenga en cuenta que el verificador de accesibilidad no comprueba varios archivos a la vez ni los archivos que haya importado a un curso. También tenga en cuenta que el verificador de accesibilidad solo está disponible para archivos HTML en el Editor de Brightspace; no se puede usar para comprobar ningún otro tipo de archivo, como MS Word, PDF, PowerPoint, etc.

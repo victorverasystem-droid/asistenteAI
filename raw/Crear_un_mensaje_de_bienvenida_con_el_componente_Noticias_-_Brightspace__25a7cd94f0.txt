@@ -1,0 +1,123 @@
+URL: https://community.d2l.com/brightspace-es-MX/kb/articles/15161-crear-un-mensaje-de-bienvenida-con-el-componente-noticias
+TITLE: Crear un mensaje de bienvenida con el componente Noticias - Brightspace
+HASH: 25a7cd94f0621c69b0f3bd2dd96fc01ae17b5a246290fcd3f53016fa26acdf92
+TYPE: web
+
+El componente Noticias ayuda a aumentar la participación mediante la programación de noticias para mantener una comunicación frecuente y regular con todos los inscritos en un curso. Los estudiantes también pueden establecer preferencias de notificación para que estén al tanto de las actualizaciones importantes.
+Utilice el componente Noticias para crear un mensaje de bienvenida para sus .
+Para crear una noticia con el componente Noticias
+- En la página de inicio del curso, busque el componente Noticias.
+- Haga clic en el menú desplegable junto a Noticias.
+- Haga clic en Nueva noticia.
+- Agregue un Encabezado y Contenido para su noticia.
+- Realice una de las siguientes acciones:
+- Haga clic en Publicar para publicar la noticia en su curso.
+- Haga clic en Guardar como borrador para guardar su progreso y volver más tarde para publicar su noticia.
+- Haga clic en Cancelar para eliminar el borrador de la noticia.
+Su noticia se publica en el componente Noticias y está disponible para desde la página de inicio del curso.
+Si seleccionó Enviar copia de correo electrónico, el sistema enviará el contenido de la noticia a todos los usuarios del listado de alumnos como un correo electrónico de su parte cuando publique la noticia.
+Si establece Fechas de disponibilidad, el correo electrónico se enviará el día en que programó la publicación de la noticia. Para las noticias con Condiciones de publicación, el sistema solo envía el correo electrónico a los usuarios que actualmente cumplen las Condiciones de publicación.
+Editar una noticia
+Puede editar el contenido de las noticias para asegurarse de que la información siga siendo precisa.
+Para editar una noticia
+- En el componente Noticias, haga clic en el menú contextual y seleccione Ir a la herramienta Noticias.
+- En la página Noticias, haga clic en la noticia que desea editar.
+- En la página Editar noticia, edite los detalles de su noticia.
+- Para enviar una copia por correo electrónico de la noticia actualizada al Listado de alumnos, seleccione la casilla de selección Enviar copia por correo electrónico.
+- Haga clic en Actualizar.
+Su noticia se actualiza y aparece en el componente Noticias de la página de inicio del curso.
+Anclar una noticia en la parte superior
+Puede anclar una noticia en la parte superior de la página para asegurarse de que sea fácil de ver para los .
+Para anclar una noticia, realice lo siguiente:
+- En el componente Noticias, haga clic en el menú contextual y seleccione Ir a la herramienta Noticias.
+- En el menú desplegable junto a la noticia que desea anclar, haga clic en Anclar en la parte superior.
+Desanclar una noticia
+Puede desanclar una noticia para cambiar el orden en que aparecen las noticias en el componente y la herramienta Noticias.
+Para desanclar una noticia, realice lo siguiente:
+- En el componente Noticias, haga clic en el menú contextual y seleccione Ir a la herramienta Noticias.
+- En el menú desplegable junto a la noticia que desea desanclar, haga clic en Desanclar.
+Su noticia ahora está desanclada de la parte superior del componente y la herramienta Noticias.
+Eliminar y restaurar las noticias
+Elimine noticias o restaure una noticia eliminada de la herramienta Noticias.
+Para eliminar una noticia
+- En el componente Noticias, haga clic en el menú contextual y seleccione Ir a la herramienta Noticias.
+- Seleccione las noticias que desee eliminar y haga clic en Eliminar.
+- Haga clic en Sí para confirmar la eliminación.
+Se eliminan las noticias seleccionadas.
+Para restaurar una noticia eliminada
+- En la página Noticias, haga clic en Más acciones y seleccione Restaurar.
+- Seleccione las noticias que desea agregar y haga clic en Restaurar.
+Las noticias se restauran y están disponibles en la página de inicio del curso.
+Video: Cómo eliminar y restaurar noticias
+Copiar una noticia
+Utilice una noticia existente como punto de partida, para ello, cópiela y edite los detalles.
+Para copiar una noticia existente
+- En el componente Noticias, haga clic en el menú contextual y seleccione Ir a la herramienta Noticias.
+- Abra el menú contextual junto a la noticia que desea copiar y seleccione Copiar.
+- En la página Editar noticias, se copian los siguientes elementos desde la noticia original:
+- Encabezado, con "Copia de" anexada al frente
+- Herramienta de contenido
+- Configuración de Mostrar fecha de inicio
+- Archivos adjuntos
+- Condiciones de publicación
+- Si desea ocultar la fecha y la hora del encabezado, desmarque la casilla de selección Mostrar siempre fecha de inicio. De forma predeterminada, la fecha y la hora de inicio de un elemento de anuncios aparece debajo del encabezado cuando se muestra en el componente Anuncios.
+- En los campos Fecha de inicio y Fecha final, seleccione la fecha de disponibilidad de publicación. Los elementos de noticias se publican inmediatamente, a menos que se especifique una fecha de inicio alternativa en Fecha de inicio.
+- Puede eliminar un elemento de Noticias en una fecha específica si marca la casilla de selección Eliminar Noticias según la fecha final. Usted y los administradores pueden ver el elemento de anuncios de todas formas después de su fecha final, pero no aparecerá en el componente Anuncios.
+- Para incluir condiciones de publicación adicionales, haga clic en Adjuntar existente o Crear y adjuntar.
+- Para continuar con la edición del elemento de anuncios, haga clic en Guardar como borrador. Los no pueden ver los elementos de noticias en borrador.
+- Haga clic en Publicar.
+Se copia la noticia.
+Copiar una noticia a otros cursos
+Si tiene los permisos adecuados, puede copiar noticias de un curso a otros cursos en el menú de contexto de una noticia. Cuando copie noticias, puede seleccionar las siguientes opciones:
+- Copie noticias a otros cursos en estado de borrador para que pueda publicar posteriormente el contenido de la noticia desde el interior del curso de destino.
+- Publique noticias copiadas al mismo tiempo que las copia y omita la etapa de borrador.
+Atributos que se copian
+-
+Encabezado
+-
+Mostrar información de autor
+-
+Contenido: incluye archivos asociados, como imágenes insertadas.
+-
+Fecha de inicio y final: las fechas de inicio y final no se compensan automáticamente. Las fechas siguen siendo las mismas que en el curso original.
+-
+Archivos adjuntos
+-
+Estado del PIN
+Atributos que no se copian
+-
+Asignaciones
+-
+Enlaces rápidos a actividades
+-
+LTI
+-
+Condiciones de publicación
+-
+Configuración de Enviar copia por correo electrónico
+Para copiar una noticia a otros cursos
+- Haga clic en Copiar a otros cursos en el menú desplegable de noticias.
+- Seleccione el curso o los cursos de destino de la noticia y haga lo siguiente:
+Para publicar la noticia copiada en el curso de destino, seleccione Publicar noticia al copiar. Seleccione Siguiente.
+- Haga clic en Copiar.
+- Haga clic en Listo cuando aparezca Copia completa.
+- Después de copiar, vaya al curso o los cursos de destino. Si no seleccionó Publicar noticia al copiar, la noticia copiada aparecerá en la herramienta Noticias como borrador. Debe publicar la noticia del curso desde el que la copió.
+Si seleccionó Publicar noticia al copiar, la noticia copiada se publica en el curso de destino. No se requieren pasos adicionales.
+Su noticia se copió en otro curso.
+Publicar una noticia
+Puede publicar un borrador de noticia. Todas las noticias en borrador se indican en la columna Estado de la página Noticias.
+Para publicar un borrador de noticia, realice lo siguiente:
+- Vaya al componente Noticias.
+- En la página Noticias, haga clic en el título de la noticia en borrador que se publicará.
+- Haga clic en Publicar.
+La noticia ya se publicó.
+Reordenación de un elemento de anuncios
+Puede cambiar el orden de las noticias en el componente Noticias.
+Para reordenar una noticia, realice lo siguiente:
+- Haga clic en el componente Anuncios.
+- Realice una de las siguientes acciones:
+- En la página Anuncios, en el botón Más acciones, haga clic en Reordenar.
+- En el menú del componente Anuncios haga clic en Reordenar elementos de anuncios.
+- Use las listas desplegables de la columna Orden de clasificación para seleccionar el orden de un elemento. Otros elementos cambian de posición automáticamente según el orden nuevo.
+- Haga clic en Guardar.
+Sus noticias ahora están reordenadas.

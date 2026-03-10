@@ -1,0 +1,19 @@
+URL: https://community.d2l.com/brightspace-es-MX/kb/articles/10766-acerca-de-los-debates
+TITLE: Acerca de los debates - Brightspace
+HASH: f316e162861a67023263c6ebd24778c4c7ca4429dac67507a843d41b0be01aa9
+TYPE: web
+
+Utilice la Herramienta de debates en su curso a fin de estimular a los usuarios a compartir ideas sobre el material del curso con sus compañeros. Configure foros y temas para que los usuarios puedan hacer preguntas, debatir contenidos y tareas del curso y trabajar juntos en grupos y secciones asignados.
+Requisitos
+Para usar la herramienta Debates, se requiere lo siguiente:
+- Para ver y usar la herramienta Debates, debe tener los permisos de Debates requeridos aplicados a su rol. Solo el administrador de su organización puede acceder a estos permisos.
+- Para agregar la herramienta Debates a la barra de navegación de su curso, debe tener los permisos de Barra de navegación necesarios aplicados a su rol. Para obtener más información sobre cómo agregar una herramienta o un enlace a la barra de navegación del curso, consulte el tema Personalice la barra de navegación del curso.
+Recorrido visual de la Herramienta de debates
+Hay cinco puntos clave de navegación en la herramienta Debates para ayudarlo a crear y administrar debates en su curso.
+Figura: Descripción general de la interfaz de la herramienta de debates
+- Lista de debates: muestra una descripción general de los temas del foro. Haga clic en el enlace del tema para ver los hilos de conversación o haga clic en el botón desplegable junto al tema para ver más opciones.
+- Suscripciones: Establezca su método de notificación predeterminado para los elementos de debate a los que está suscrito. También puede utilizar el enlace Cambiar la configuración de notificaciones para actualizar sus métodos de contacto, el resumen de actividad y qué método se utiliza para recibir notificaciones instantáneas para diversas herramientas y funciones.
+- Restricciones de grupos y secciones: establezca restricciones para secciones individuales. También puede establecer restricciones para estudiantes individuales dentro de un grupo o una sección.
+- Estadísticas: Una descripción general de los niveles de actividad en sus Debates. Esta área se divide en dos pestañas: Usuario y Foro y Temas. Las estadísticas de la unidad de organización se muestran en cualquiera de las pestañas.
+- Configuración: configure sus opciones de visualización personal, la configuración de la unidad de organización (curso) y la configuración predeterminada para las condiciones de disponibilidad.
+Video: Nueva Experiencia de Creación de Debates

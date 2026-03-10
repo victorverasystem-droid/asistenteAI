@@ -1,0 +1,92 @@
+URL: https://community.d2l.com/brightspace-es-MX/kb/articles/10946-crear-y-administrar-registros-de-asistencia
+TITLE: Crear y administrar registros de asistencia - Brightspace
+HASH: d7cb4b6dca3af1c6964c1176e064507bffaeb7ec3dc13869ca913bd39b770e26
+TYPE: web
+
+Crear registros de asistencia para controlar la asistencia de sus actividades basadas en el curso, por ejemplo, un seminario de debate obligatorio.
+Crear un registro y sesiones de asistencia
+Las sesiones son los componentes de un registro de asistencia que definen uno o más eventos en su registro. Sus sesiones colectivas componen su registro.
+Por ejemplo, si desea controlar la asistencia de un seminario semanal, tendría que crear un registro denominado “Seminario semanal” y luego agregar las sesiones de cada seminario con nombres de sesiones distinguibles; por ejemplo, “Semana 1”, “Semana 2”, etc. Se hace un seguimiento de los datos de asistencia en cada sesión y se muestran en la página de datos de asistencia del registro.
+Para crear un nuevo registro y sesiones de asistencia, realice lo siguiente:
+-
+Vaya a su curso y, en la barra de navegación, haga clic en Asistencia.
+-
+En la página Registros de asistencia, haga clic en Registro nuevo.
+Figura: Ingrese la información de su registro de asistencia en la página Nuevo registro.
+-
+Ingrese un nombre para su registro.
+-
+Ingrese una Descripción.
+-
+Seleccione un esquema de asistencia en la lista desplegable Esquema de asistencia.
+-
+Si desea ver un ícono de Motivo de preocupación (advertencia) junto a los nombres de los usuarios que no tienen un buen desempeño en la página Datos de asistencia, ingrese un porcentaje en el campo Motivo de preocupación que indica su requisito mínimo de asistencia.
+-
+Marque una casilla de selección para Permitir a los usuarios ver este registro de asistencia.
+-
+Seleccione los usuarios que desea incluir en su registro. Puede incluir a todos los usuarios o a grupos o secciones específicos.
+-
+Agregar una o más sesiones a su registro.
+Figura: Ingrese nombres y descripciones y elija el orden cronológico de sus sesiones.
+-
+Haga clic en Guardar.
+Establecer el porcentaje de Motivo de preocupación
+Con el indicador de Motivo de preocupación puede hacer un seguimiento de los estudiantes que no cumplen con los requisitos de asistencia; para ello, se coloca el ícono de Motivo de preocupación junto a sus nombres en la página Datos de asistencia.
+Para establecer el porcentaje de Motivo de preocupación, realice lo siguiente:
+- En la página Registros de asistencia, haga clic en Nuevo registro o Editar registro en el menú de contexto de un registro de asistencia existente.
+- En el campo Motivo de preocupación, ingrese un porcentaje que indique el requisito de asistencia mínima.
+Figura: El campo Motivo de preocupación (%).
+- Haga clic en Guardar.
+Ingresar datos de asistencia
+Puede ingresar los datos de asistencia de cada sesión de su registro de asistencia.
+Para ingresar datos de lista de asistencia, realice lo siguiente:
+- En la página de inicio del curso, vaya a Lista de asistencia.
+- En la página Registros asistencia, haga clic en el nombre del registro utilizado para hacer un seguimiento de la lista de asistencia.
+- En la página Datos de la lista de asistencia, haga clic en el ícono Ingresar datos de la lista de asistencia junto a una sesión e ingrese los datos de la lista de asistencia de sus sesiones.
+- Utilice las listas desplegables Estado de asistencia para cambiar el estado de asistencia de sus usuarios. También puede hacer clic en Configurar estado para configurar el mismo estado para todos los usuarios.
+- Haga clic en Guardar.
+- En la página Datos de asistencia, haga clic en Listo.
+Modificar la visibilidad de un registro individual
+Puede modificar la visibilidad de los registros de asistencia de forma individual.
+Para modificar la visibilidad de un registro individual
+- Vaya a Administración del curso.
+- En Administración de estudiantes, haga clic en Asistencia.
+- Para modificar la visibilidad de un registro individual, en el menú desplegable Acciones del registro en particular, seleccione Hacer visible para los usuarios u Ocultar a los usuarios.
+Figura: En el menú desplegable Acciones de un registro individual, se muestran las opciones Hacer visible para usuarios y Ocultar a los usuarios.
+Modificar la visibilidad de los registros de forma masiva
+Puede modificar la visibilidad de los registros de asistencia de forma masiva.
+Para modificar la visibilidad de los registros por lote
+- Vaya a Administración del curso.
+- En Administración de estudiantes, haga clic en Asistencia.
+- Para modificar la visibilidad de los registros por lote, marque las casillas de selección ubicadas junto a los registros que desea hacer visibles u ocultar de la vista de los estudiantes.
+- Haga clic en el menú desplegable Más acciones y seleccione Hacer visible para los usuarios u Ocultar a los usuarios. Aparece un ícono junto a los registros ocultos.
+Figura: El menú desplegable Más acciones en el que se muestran las opciones Hacer visible para usuarios y Ocultar a los usuarios.
+Editar un registro, una sesión o un esquema de asistencia
+Es posible que desee editar un registro de asistencia para agregar sesiones adicionales (semanas).
+Para editar un registro de asistencia, realice lo siguiente:
+- En la página Registros de asistencia, en el menú desplegable del registro que desea editar, haga clic en Editar registro.
+- Actualice los detalles del registro de asistencia y haga clic en Guardar.
+Nota: No puede cambiar el esquema en un registro de asistencia una vez que se haya agregado la información de la sesión.
+Eliminar un registro de asistencia
+Puede eliminar un registro de asistencia individual o eliminar varios registros de forma masiva.
+Para eliminar un registro de asistencia individual, realice lo siguiente:
+-
+En la página Registros de asistencia, en el menú desplegable del registro que desea editar, seleccione Eliminar.
+-
+En el cuadro de diálogo Confirmación, haga clic en Eliminar.
+Para eliminar registros de asistencia de forma masiva, realice lo siguiente:
+- Marque las casillas de selección de los registros de asistencia que desea eliminar y, en el menú desplegable Más acciones, seleccione Eliminar.
+- En el cuadro de diálogo Confirmación, haga clic en Eliminar.
+Eliminar una sesión de asistencia
+Puede eliminar una sesión de registro de asistencia.
+Importante: Cuando se elimina una sesión en un registro o esquema, se borran todos los datos de asistencia asociados. Solo elimine sesiones cuando tenga plena seguridad de que ya no necesitará los datos de asistencia.
+Para eliminar una sesión de asistencia, realice lo siguiente:
+- En la página Registros de asistencia, en el menú desplegable del registro de asistencia que desea editar, haga clic en Editar registro.
+- Haga clic en Eliminar junto a la sesión que desea eliminar.
+Restaurar un registro de asistencia eliminado
+También puede restaurar un registro de asistencia después de eliminarlo.
+Para restaurar un registro, realice lo siguiente:
+-
+En la página Registros de asistencia, haga clic en el menú desplegable Más acciones y, a continuación, seleccione Ver registros eliminados.
+-
+Haga clic en Restaurar junto al nombre del registro que desea restaurar.

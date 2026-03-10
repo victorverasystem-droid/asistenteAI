@@ -1,0 +1,64 @@
+URL: https://community.d2l.com/brightspace-es-MX/kb/articles/15190-agregar-y-organizar-materiales-de-aprendizaje-en-la-experiencia-de-contenido-clasico
+TITLE: Agregar y organizar materiales de aprendizaje en la experiencia de contenido clásico - Brightspace
+HASH: 024838b9a5bdbea6050d04b5476215505a1c4c5667fcdb2088d447b24094d6c8
+TYPE: web
+
+Puede crear módulos, submódulos y temas para su curso en la Experiencia de contenido clásico. Luego, puede agregar y organizar sus materiales de aprendizaje dentro de esta estructura como parte de Contenido.
+Crear un nuevo módulo y submódulo
+Debe crear un módulo antes de que pueda agregar temas. También puede crear submódulos (módulos dentro de módulos ya existentes) para establecer una jerarquía más profunda.
+Para crear un nuevo módulo
+- En la barra de navegación de su curso, haga clic en Contenido.
+- En el panel Tabla de contenidos, haga clic en Agregar un módulo.
+Figura: El campo Agregar un módulo de la página Tabla de contenidos.
+- Ingrese el nombre de su nuevo módulo y luego presione Ingresar.
+Se agrega un nuevo módulo a su Tabla de contenidos y el módulo se abre para su edición.
+Para crear un submódulo
+- En Tabla de contenidos, haga clic en un módulo.
+- Haga clic en Agregar un submódulo.
+Figura: El campo Agregar un submódulo de un módulo.
+- Ingrese el nombre de su nuevo submódulo y luego presione Ingresar.
+El submódulo se agrega a su módulo. Puede cargar, crear y agregar actividades existentes.
+Crear un nuevo tema
+Puede agregar contenido a un módulo o submódulo. Este contenido se llama un tema. Los temas pueden contener grabaciones de audio-video, archivos subidos, texto y JavaScript, todos mostrados en HTML.
+Para crear un nuevo tema
+- En la barra de navegación de su curso, haga clic en Contenido.
+- En el panel Tabla de contenidos, haga clic en el módulo en el que desea crear un tema nuevo.
+- Realice cualquiera de las siguientes acciones:
+Figura: Las opciones Cargar/Crear y Actividades existentes de un módulo.Haga clic en Cargar/Crear para agregar contenido nuevo:
+Para agregar un tema de video o audio, haga clic en Video o audio. - Para agregar un tema de Brightspace Capture, haga clic en Capture.
+- Para agregar archivos existentes desde su computadora, archivos de ofertas de cursos o el área Archivos compartidos, haga clic en Cargar archivos.
+- Para agregar un archivo nuevo, haga clic en Crear un archivo.
+- Para agregar un enlace, haga clic en Crear un enlace.
+- Para agregar archivos existentes desde Administrar archivos, haga clic en Agregar desde Administrar archivos.
+- Para agregar archivos desde el Repositorio de aprendizaje de Brightspace, haga clic en Agregar objeto desde LOR.
+- Para agregar una nueva lista de control, haga clic en Nueva lista de control.
+- Para agregar un tema de debate nuevo, haga clic en Nuevo debate.
+- Para agregar una nueva asignación, haga clic en Nueva asignación.
+- Para agregar un nuevo cuestionario, haga clic en Nuevo cuestionario.
+- Para agregar una nueva encuesta, haga clic en Nueva encuesta.
+- Haga clic en Actividades existentes para agregar contenido existente:
+- Para agregar una asignación existente, haga clic en Asignaciones
+- Para agregar una lista de control existente, haga clic en Lista de control.
+- Para agregar un tema de debate existente, haga clic en Debates.
+- Para agregar un elemento de Brightspace ePortfolio existente, haga clic en Brightspace ePortfolio.
+- Para agregar una herramienta de aprendizaje externa existente, haga clic en Herramientas de aprendizaje externas.
+- Para agregar una plantilla de formulario existente, haga clic en Formularios.
+- Para agregar un cuestionario existente, haga clic en Cuestionarios.
+- Para agregar una autoevaluación existente, haga clic en Autoevaluaciones.
+- Para agregar una encuesta existente, haga clic en Encuestas.
+- Realice una de las siguientes acciones:
+- Para insertar una actividad existente, en la ventana Agregar actividad, haga clic en la actividad.
+- Para crear e insertar una actividad nueva, en la ventana Agregar actividad, haga clic en Crear nueva [actividad]. Introduzca los detalles de su actividad y haga clic en Crear e insertar.
+Se agrega un nuevo tema a su módulo.
+Eliminar un módulo, submódulo o tema
+Puede eliminar un módulo, submódulo o tema de la Tabla de contenidos de la Experiencia contenido clásico.
+Para eliminar un módulo, submódulo o tema
+- En la barra de navegación de su curso, haga clic en Contenido.
+- En el panel Tabla de contenidos, haga clic en el módulo, submódulo o tema que desea eliminar.
+- Realice una de las siguientes acciones:
+Figura: La opción Eliminar módulo.- Para eliminar un módulo, haga clic en Eliminar módulo en el menú contextual del módulo.
+- Para eliminar un tema, haga clic en Eliminar tema en el menú contextual del tema.
+- Para eliminar un submódulo, haga clic en el submódulo en el panel Tabla de contenidos y haga clic en Eliminar submódulo.
+- Elija si quiere eliminar el módulo o tema solo de la vista de contenido o eliminarlo de forma permanente del curso (esto también eliminará todos los recursos asociados tales como debates, cuestionarios, etc.).
+- Haga clic en Eliminar.
+El módulo, submódulo o tema se elimina.

@@ -1,0 +1,147 @@
+URL: https://community.d2l.com/brightspace-es-MX/kb/articles/11093-administrar-foros-y-temas-de-debate
+TITLE: Administrar foros y temas de debate - Brightspace
+HASH: 8cb1240feaa59ac3fccea1dc69b95f18bc369a2f019d92a319176929c8d5f646
+TYPE: web
+
+Una vez que haya creado foros y temas, podrá controlar su disponibilidad, establecer requisitos de participación (incluida una fecha de vencimiento para la primera publicación), moderar publicaciones, gestionar notificaciones y restringir el acceso por grupos o secciones.
+Antes de comenzar
+- Para ver y usar la herramienta Debates, debe tener los permisos de Debates requeridos aplicados a su rol. Solo el administrador de su organización puede acceder a estos permisos.
+- Para agregar la herramienta Debates a la barra de navegación de su curso, debe tener los permisos de Barra de navegación necesarios aplicados a su rol. Para obtener más información sobre cómo agregar una herramienta o un enlace a la barra de navegación del curso, consulte el tema Personalice la barra de navegación del curso.
+Bloquear un tema o foro de debate en la experiencia de creación de Nuevos debates
+Utilice las fechas de disponibilidad y el bloqueo para controlar cuándo el estudiante puede acceder a un tema y si puede publicar.
+Esta es también una buena opción cuando desea detener cualquier publicación y respuesta para que pueda calificar los debates.
+Para establecer la disponibilidad y el bloqueo de un tema de debate
+- Vaya a Debates.
+- En el menú Acciones del tema, haga clic en Editar foro o Editar tema.
+- Expanda las Fechas y condiciones de disponibilidad.
+-
+(Opcional) Configure una Fecha de inicio y una Fecha final.
+- Para configurar las opciones de bloqueo, haga clic en el enlace Visible con acceso restringido y seleccione una de las siguientes opciones de bloqueo:
+- Visible con acceso restringido: los estudiantes pueden ver el foro o el tema antes o después de la fecha de inicio o final, pero no pueden acceder a este.
+- Visible con envío restringido: los estudiantes pueden ver el foro o el tema antes o después de la fecha de inicio o final y pueden acceder a este, pero no pueden publicar nuevas cadenas ni respuestas. Esto hace que un debate sea de solo lectura.
+- Oculto: el foro o el tema está oculto para los estudiantes hasta la fecha de inicio o final. Los eventos de calendario para el inicio y el fin de la disponibilidad se ocultarán hasta la fecha de inicio o final. Las notificaciones tampoco se envían hasta la fecha de inicio o final.
+- Agregar fechas de disponibilidad al Calendario: agregue la fecha de inicio y la fecha de finalización de la conversación al Calendario del curso.
+- Haga clic en Listo.
+- Haga clic en Guardar y cerrar.
+Ha bloqueado Se suscribió a un tema o un foro de debate.
+Bloquee un tema o foro de debate en la experiencia de Debates clásicos
+Puede utilizar la Experiencia de debates clásicos para bloquear un tema de debate del foro.
+Para bloquear un tema o un foro de debate
+- Vaya a Debates.
+- En el menú de contexto del foro o tema que desea bloquear, haga clic en Editar.
+- En la pestaña Restricciones, elija sus Opciones de bloqueo.
+- Visible con acceso restringido antes del inicio/final: los estudiantes pueden ver el foro o el tema antes o después de la fecha de inicio o finalización, pero no pueden acceder a él.
+- Visible con envío restringido antes del inicio/final: los estudiantes pueden ver el foro o el tema antes o después de la fecha de inicio o finalización y pueden acceder a él, pero no pueden publicar nuevos hilos de conversación ni respuestas. Esto hace que un debate sea de solo lectura.
+- Oculto antes del inicio/final: el foro o el tema está oculto para los estudiantes hasta la fecha de inicio o finalización. Los eventos de calendario para el inicio y el fin de la disponibilidad se ocultarán hasta la fecha de inicio o final. Las notificaciones tampoco se envían hasta la fecha de inicio o final.
+- Haga clic en Guardar.
+Ha bloqueado Se suscribió a un tema o un foro de debate.
+Establecer una fecha de vencimiento para la primera publicación
+Establezca una fecha de vencimiento para la primera publicación del estudiante con el fin de fomentar la participación oportuna y ajustarse al ritmo y las políticas del curso.
+Para establecer una fecha de vencimiento para la primera publicación de un tema de debate
+- Vaya a Debates.
+- En el menú Acciones, seleccione Editar tema.
+- En Fecha de vencimiento, seleccione la fecha de vencimiento y la hora deseadas para el primer mensaje.
+- Seleccione Guardar y cerrar.
+Ocultar un tema o foro de debate
+Puede ocultar un tema o foro de debate.
+Para ocultar un tema o foro de debate
+- Vaya a Debates.
+- En el menú Acciones del foro o tema que desea ocultar, haga clic en Ocultar a los usuarios.
+Figura: Haga clic en Ocultar a los usuarios en el menú Acciones.
+Ocultó su tema o foro de debate.
+Acerca de los temas de debate moderados
+Si un tema requiere la aprobación de la publicación o su moderación, las publicaciones solo serán visibles para los usuarios con permiso para aprobarlas. Debe aprobar manualmente estas publicaciones para que sean visibles para todos los usuarios. Los usuarios que tengan permiso para aprobar las publicaciones de un tema pueden crear publicaciones aprobadas automáticamente.
+Puede activar o desactivar la aprobación de publicaciones en la pestaña Propiedades cuando crea o edita un foro o tema. Una vez que activa la aprobación de publicaciones, podrá ver una notificación de Moderado junto al nombre del foro o tema.
+Si una publicación no es apropiada para el tema y no desea aprobarla, puede realizar alguna de las siguientes acciones:
+- Dejar la publicación sin aprobar.
+- Editar la publicación antes de aprobarla.
+- Eliminar la publicación.
+Configure la aprobación de publicaciones
+Debe aprobar manualmente las publicaciones y cadenas en los temas que requieren aprobación. Una vez que apruebe una publicación o una cadena, será visible para todos los usuarios. Para ocultar la publicación o la cadena, debe desaprobarla.
+Para configurar la aprobación de publicaciones
+- Vaya a Debates.
+- En el menú Acciones del tema que desea moderar, haga clic en Editar tema.
+Figura: Haga clic en Editar tema en el menú Acciones.
+- En el acordeón Publicación y finalización, seleccione Publicaciones que se deben aprobar antes de que aparezcan en el tema.
+Figura: Haga clic en Las publicaciones deben aprobarse antes de que se muestren en el tema en el acordeón Publicación y finalización.
+- Haga clic en Guardar y cerrar.
+Ha configurado la aprobación de publicaciones.
+Aprobar publicaciones en un tema o foro
+Cuando un estudiante publica un tema moderado, aparecerá un mensaje en la publicación del estudiante con la nota Requiere aprobación.
+Figura: Debe aprobar las publicaciones que tienen el mensaje Requiere aprobación.
+Para aprobar la publicación de un estudiante
+- Vaya a Debates.
+- Haga clic en el tema y cadena donde desea aprobar las publicaciones.
+- Para aprobar o desaprobar todas las respuestas de cadenas, haga clic en el menú Acciones al lado del título del tema y seleccione Aprobar todas las respuestas de la cadena o Desaprobar cadena.
+Figura: Haga clic en Aprobar todas las respuestas en Thread o Unapprove Thread en el menú Acciones.
+- Para aprobar o desaprobar una publicación, haga clic en el menú Acciones de la publicación de un estudiante y seleccione Aprobar publicación o Desaprobar publicación.
+Figura: Haga clic en Aprobar publicación en el menú Acciones.
+Aprobó una publicación o cadena de debate.
+Suscribirse a un debate
+Utilice la opción Suscribirse para recibir notificaciones sobre las publicaciones de los estudiantes. Puede ajustar cómo y dónde desea que se envíen sus notificaciones.
+Para suscribirse a debates
+- Vaya a Debates.
+- En el menú Acciones del foro o tema al que se suscribió, haga clic en Suscribirse.
+Figura: Haga clic en Suscribirse en el menú Acciones.
+- En el cuadro de diálogo personalizar notificaciones, seleccione una de las siguientes opciones para recibir notificaciones:
+- Mostrar notificaciones solo en el área de navegación
+- Enviarme una notificación instantánea
+- Incluir en mi resumen de actividad
+Figura: Seleccione una opción de notificación en el cuadro de diálogo Personalizar notificaciones.
+- Haga clic en Suscribirse.
+Se suscribió a un tema o foro de debate.
+Cancelar la suscripción a debates
+También puede cancelar la suscripción a los debates.
+Para cancelar la suscripción
+- Vaya a Debates.
+- En el menú Acciones del foro o el tema al que se suscribió, haga clic en Cancelar suscripción.
+Figura: Haga clic en Cancelar suscripción en el menú Acciones.
+- En el cuadro de diálogo de Confirmación, haga clic en Sí.
+Figura: Haga clic en Sí en el cuadro de diálogo Confirmación para cancelar la suscripción.
+Se canceló la suscripción a un foro o tema de debate.
+Restringir varios foros o temas a grupos o secciones específicos
+Después de crear grupos o secciones, puede restringir el acceso a un foro o tema mediante los grupos o secciones. La restricción de los temas o foros le permite crear áreas de debate donde los miembros de un grupo o una sección pueden colaborar en asignaciones o debatir el material del curso en grupos pequeños. También puede crear las restricciones a fin de crear foros independientes para grupos o secciones específicos en una oferta de cursos.
+Para restringir el acceso a foros o temas para grupos específicos
+- Vaya a Debates.
+- Haga clic en la pestaña Restricciones de grupos y secciones.
+- En Ver opciones, seleccione la Categoría de grupo o sección y el Foro.
+Figura: Seleccione la Categoría de grupo o sección y el Foro.
+- En el área Editar restricciones, marque la casilla de selección Restringido de cualquier foro o tema que desea restringir; a continuación, marque la casilla de selección de cualquier grupo o sección que desea que tenga acceso al foro o tema. Para abrir un foro o un tema para todos, desactive la casilla de selección Restringido.
+Figura: Cambiar las restricciones en la sección Editar restricciones.
+- Haga clic en Guardar.
+Creó restricciones para los grupos.
+Video: Crear un tema y un foro de debate
+Crear automáticamente temas restringidos para grupos o secciones
+Puede crear automáticamente un tema de debate para cada grupo o sección en una categoría seleccionada. Los temas obtienen sus nombres de los equipos de trabajo o las secciones con los que se asocian.
+Para crear automáticamente temas restringidos para grupos o secciones
+- Vaya a Debates.
+- Haga clic en la pestaña Restricciones de grupos y secciones.
+- Haga clic en el enlace Crear automáticamente temas restringidos.
+Figura: Haga clic en Crear automáticamente temas restringidos.
+- Seleccione una Categoría de grupo o sección y el Foro donde desea crear sus temas. Si desea crear un foro nuevo, haga clic en Nuevo foro.
+Figura: Crear temas y foros restringidos en la página Crear temas restringidos.
+- Haga clic en Crear.
+Creó automáticamente temas restringidos para grupos y secciones.
+Copiar una cadena de debate con respuestas
+Copie una cadena de debate para agregarla a otros foros y temas de debate.
+Para copiar una cadena de debate
+- Vaya a Debates.
+- Haga clic en un tema de debate.
+- Desde el menú Acciones de la cadena de debate, haga clic en Copiar cadena.
+Figura: Haga clic en Copiar hilo de conversación en el menú Acciones.
+- En el cuadro de diálogo Copiar, seleccione el Foro de destino y el Tema de destino en los respectivos menús desplegables. Aquí es donde se copiará la cadena de debate.
+Figura: Seleccione un foro de destino y un tema de destino en el diálogo Copiar.
+- En Opciones de copia, marque la casilla de selección Copiar respuestas.
+Figura: Marque la casilla de selección Copiar respuestas.
+- Haga clic en Copiar.
+Copió una cadena de debate.
+Exportar estadísticas de debate
+Exporte las estadísticas de debate para realizar un seguimiento y visualizar la participación de los estudiantes. Puede exportar las estadísticas a un archivo CSV y luego importar los datos a una aplicación de hoja de cálculo para realizar otros análisis.
+Para exportar estadísticas de debate
+- Vaya a Debates.
+- Haga clic en la pestaña Estadísticas.
+- Haga clic en Exportar a archivo CSV.
+Figura: Haga clic en Exportar a archivo CSV en la pestaña Estadísticas.
+- Una vez que ha finalizado el procesamiento del archivo, haga clic en el nombre del archivo para descargarlo.
+Ha exportado las estadísticas de debate.
+Video: Descripción general de las estadísticas de debate

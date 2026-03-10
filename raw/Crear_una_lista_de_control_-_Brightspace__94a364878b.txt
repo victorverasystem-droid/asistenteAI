@@ -1,0 +1,33 @@
+URL: https://community.d2l.com/brightspace-es-MX/kb/articles/10893-crear-una-lista-de-control
+TITLE: Crear una lista de control - Brightspace
+HASH: 94a364878bddba66c94c7a7580cd0e7d6f51f8a460461d888aeb6116d2234861
+TYPE: web
+
+En una lista de control se incluyen asignaciones, lecturas u otros elementos importantes u obligatorios que se deben realizar. Cada lista de control contiene una o más categorías en las que se organizan los elementos de la lista de control. Por ejemplo, puede tener una lista de control “Asignaciones” con categorías para las asignaciones y los cuestionarios escritos, en los que se pueden incluir varios elementos que se deben completar.
+Los elementos de la lista de control deben residir en una categoría, que se utiliza para organizar los elementos de la lista de control. Por ejemplo, puede crear las categorías Semana 1, Semana 2 y Semana 3, y colocar los elementos de la lista de control específicos de cada semana en las categorías correspondientes. De forma alternativa, puede usar una lista de control para organizar los pasos de una asignación. Puede asignar fechas de vencimiento a los elementos de la lista de control.
+Crear una lista de control
+- Vaya a Listas de control.
+- Haga clic en Nueva lista de control.
+Figura: La opción Nueva lista de control en la página Listas de control.
+- Introduzca los detalles de la lista de control.
+- Haga clic en Guardar.
+- En la página Editar lista de control, en el área Categorías y elementos, realice una de las siguientes acciones:
+- Para agregar una categoría a la lista de control, haga clic en Nueva categoría. Introduzca los detalles de la categoría y haga clic en Guardar.
+Nota: Las categorías tienen un límite de caracteres de 65,536 caracteres. - Para agregar un elemento a la lista de control, haga clic en Nuevo elemento. En la lista desplegable Categoría, seleccione la categoría de su elemento. Introduzca los detalles del elemento. Si desea que el elemento caduque en una fecha o momento determinado, marque la casilla de selección e introduzca la información de Fecha de vencimiento. Haga clic en Guardar.
+Nota: La fecha de vencimiento predeterminada de un elemento de la lista de control es de un mes a partir de la fecha actual. Los elementos tienen un límite de caracteres de 65,536 caracteres.
+Figura: Las secciones Propiedades de la lista de control y Categorías y elementos en la pestaña Contenidos de la lista de control.
+- Repita el paso 5 hasta que haya agregado todo el contenido de la lista de control.
+- Haga clic en Guardar y cerrar.
+Copiar una lista de control
+- Vaya a Listas de control.
+- Abra el menú Acciones de la lista de control que desea copiar y haga clic en Copiar.
+Figura: El menú Acciones para una lista de control que muestra la opción Copiar.
+- Ahora hay una nueva lista de control visible en la parte inferior de la lista con el título Copia de {original checklist name}.
+Configurar las condiciones de publicación para una lista de control
+- En la barra de navegación, haga clic en Lista de control.
+- En el menú contextual de la lista de control para la que desea establecer condiciones de publicación, haga clic en Editar.
+- En la pestaña Restricciones, realice una de las siguientes acciones:
+- Haga clic en Adjuntar existente y, a continuación, marque la casilla de selección para cualquier condición que desee adjuntar. Haga clic en Adjuntar.
+- Haga clic en Crear y adjuntar y, a continuación, seleccione un Tipo de condición en la lista desplegable. Complete los Detalles de la condición que aparecen y haga clic en Crear.
+- Para establecer cómo se controla el acceso a la lista de control, en la lista desplegable, seleccione si Se deben cumplir todas las condiciones o si Se debe cumplir cualquier condición.
+- Haga clic en Guardar y cerrar.

@@ -1,0 +1,34 @@
+URL: https://community.d2l.com/brightspace-es-MX/kb/articles/16421-mejorar-la-navegacion-en-temas-de-contenido-con-multiples-paginas
+TITLE: Mejorar la navegación en temas de contenido con múltiples páginas - Brightspace
+HASH: a655fd40799f520a288a51a0331494fcb39e01f0ffafa2e87cd12d5fa1c5ca5a
+TYPE: web
+
+Para ofrecer navegación ininterrumpida en temas de contenido con múltiples páginas, los diseñadores de cursos pueden agregar una solución JavaScript de D2L a temas de contenido HTML que contienen enlaces a varias páginas HTML. Cuando un estudiante navega a un tema de contenido de múltiples páginas con este JavaScript, los enlaces a las páginas HTML están ocultos en el tema de contenido de múltiples páginas, y los botones Siguiente y Anterior de la herramienta de contenido navegan entre las páginas HTML vinculadas, en lugar de navegar entre los temas de contenido. Sin este JavaScript, los alumnos podrían perder los enlaces a las páginas HTML y hacer clic en el botón Siguiente, navegando al siguiente tema de contenido.
+Uso de navegación de múltiples páginas
+Para aprovechar la navegación del tema de múltiples páginas, los diseñadores de cursos deben incluir varios componentes de JavaScript y agregar un marcado especial para su HTML.
+Incluir el JavaScript
+Hay tres referencias de JavaScript para incluir en su HTML. Debe hacer referencia a la ruta totalmente calificada a estos recursos mediante su propio dominio de Brightspace en la URL. Por ejemplo:
+1. Jquery (disponible bajo licencia MIT)
+<script src="https://s.brightspace.com/lib/jquery/1.11.0/jquery.min.js"></script>
+2. Simular Jquery (disponible bajo licencia MIT)
+<script src=" /d2l/lms/content/static/scripts/jquery.Simulate/jquery.simulate.js">
+</script>
+3.d2l-nav.js (derecho de autor de D2L)
+<script src=" /d2l/lms/content/static/scripts/d2l-nav.js"></script>
+Agregar estilos CSS para ocultar su navegación
+Puede optar por utilizar HTML para ocultar sus elementos de navegación. Ocultar sus elementos de navegación interna ayuda a reducir la confusión a los alumnos, ya que hace que solo la navegación de Brightspace esté disponible. Por ejemplo:
+<style>
+.d2l-hide { display: none; }
+</style>
+Ocultar la navegación
+Marque su navegación para aprovechar sus estilos CSS. Por ejemplo:
+<div id="nav" class="d2l-hide">
+<a href="page1.html">Page 1/4 - What is Lorem Ipsum?</a>
+<a href="page3.html">Page 3/4 - Why do we use it?</a>
+</div>
+Marcar su navegación para identificar los enlaces Anterior y Siguiente
+Utilice las clases d2l-nav-next y d2l-nav-prev para identificar qué enlaces href se deben utilizar cuando el alumno haga clic en los enlaces Siguiente y Anterior. Por ejemplo:
+<div id="nav" class="d2l-hide">
+<a href="page1.html" class="d2l-nav-next">Page 1/4 - What</a>
+<a href="page3.html" class="d2l-nav-prev">Page 3/4 – Why</a>
+</div>

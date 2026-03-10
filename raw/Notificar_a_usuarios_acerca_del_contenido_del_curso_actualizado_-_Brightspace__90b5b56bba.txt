@@ -1,0 +1,33 @@
+URL: https://community.d2l.com/brightspace-es-MX/kb/articles/16417-notificar-a-usuarios-acerca-del-contenido-del-curso-actualizado
+TITLE: Notificar a usuarios acerca del contenido del curso actualizado - Brightspace
+HASH: 90b5b56bbabb1b29af85b657e3ff4fa1b229212fd1030599ecd386cd4689853e
+TYPE: web
+
+Puede notificar a los estudiantes cuando actualiza o cambia un tema HTML en Contenido. Reciben una notificación de Alerta de actualización en la minibarra, la cual los lleva al tema actualizado si hacen clic en ella.
+Notifique a los usuarios sobre el cambio de contenido en la Experiencia de contenido nuevo.
+Puede notificar a los estudiantes cuando el contenido se cambie o actualice mediante la nueva experiencia de contenido (Lecciones).
+Notificar a los usuarios sobre contenido actualizado
+- Vaya a Contenido.
+- Haga clic en el módulo que contiene el tema que desea editar.
+- Haga clic en el menú Opciones (...) y seleccione Editar.
+Figura: Haga clic en Opciones (…) y seleccione Editar.
+- En la página Editar tema, realice las modificaciones en su tema.
+- Haga clic en Guardar y cerrar.
+- En el tema modificado, haga clic en el menú Opciones (...) y seleccione Publicar en la página de inicio del curso.
+Figura: Haga clic en Opciones (…) y seleccione Publicar en la página de inicio del curso.
+- En el cuadro de diálogo Crear una publicación, ingrese un mensaje que notifique a los estudiantessobre el cambio de contenido.
+- Haga clic en Publicar.
+Figura: Utilice el cuadro de diálogo Crear una publicación para publicar actualizaciones de contenido.
+Notificó a los estudiantes sobre el tema de contenido modificado.
+Notifique a los usuarios sobre el cambio de contenido en el Contenido clásico
+También puede utilizar la Experiencia de contenido clásico para notificar a los estudiantes sobre actualizaciones o cambios en el contenido del curso.
+Notificar a los usuarios en el Contenido clásico
+- En la barra de navegación, haga clic en Contenido.
+- En el panel Tabla de contenidos, haga clic en el módulo con el tema HTML que desea actualizar y, luego, haga clic en el tema.
+- Realice una de las siguientes acciones:
+- Para editar el contenido del tema, en el menú de contexto del tema, haga clic en Editar HTML. Realice sus cambios.
+- Para reemplazar el tema, en el menú de contexto del tema, haga clic en Cambiar archivo. Para cargar un archivo nuevo, haga clic en Cargar. Siga las instrucciones para agregar el archivo nuevo.
+- Marque la casilla de selección Notificar a los estudiantes que el contenido cambió.
+- Si desea describir los cambios de la actualización, introduzca una descripción en el campo Incluir un resumen de los cambios.
+- Si desea que los estudiantes vuelvan a revisar el tema para completar la actividad, marque la casilla de selección Restablecer seguimiento de avances.
+- Haga clic en Actualizar.

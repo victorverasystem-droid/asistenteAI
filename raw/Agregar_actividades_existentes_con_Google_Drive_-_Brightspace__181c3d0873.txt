@@ -1,0 +1,43 @@
+URL: https://community.d2l.com/brightspace-es-MX/kb/articles/15180-agregar-actividades-existentes-con-google-drive
+TITLE: Agregar actividades existentes con Google Drive - Brightspace
+HASH: 181c3d08735d348d85c2728e0a9040f924f625bf8cf1deb441e62a76f7a22182
+TYPE: web
+
+Amplíe el contenido existente o cree contenido nuevo agregando archivos existentes de Google Drive a tu curso de Brightspace.
+Vincule su cuenta de Google a Brightspace
+Vincular su cuenta de Google a Brightspace le permite importar contenido de su cuenta de Google al curso Brightspace.
+Para vincular su cuenta de Google a Brightspace
+Puede vincular su cuenta de Google a Brightspace realizando cualquier acción que requiera que use su cuenta de Google. Cada acción le pide que vincule su cuenta si aún no lo ha hecho.
+- Desde la página de inicio de su curso, vaya a Contenido.
+Figura: Página de inicio del curso con la herramienta Contenido resaltada.
+- En la Tabla de contenidos, seleccione el módulo deseado y haga clic en Agregar existente.
+Figura: Haga clic en Agregar existente en el módulo donde desea insertar contenido.
+- En la página ¿Qué le gustaría agregar?, haga clic en Google Drive.
+Figura: La página ¿Qué le gustaría agregar? con la opción Google Drive resaltada.
+- Haga clic en Iniciar sesión en Google Drive o haga clic en Iniciar sesión en una cuenta personal.
+Figura: El indicador de inicio de sesión de Google Drive tanto para Google Workspace como para una cuenta personal de Google.
+Agregar archivos existentes de Google Drive a Contenido
+Agregue archivos existentes de Google Drive a Contenido para incluir recursos existentes en su curso.
+Para agregar archivos existentes de Google Drive a Contenido
+- Desde la página de inicio de su curso, vaya a Contenido.
+Figura: Página de inicio del curso con la herramienta Contenido resaltada.
+- En la Tabla de contenidos, seleccione el módulo deseado y haga clic en Agregar existente.
+Figura: Haga clic en Agregar existente en el módulo donde desea insertar contenido.
+- En la página ¿Qué le gustaría agregar?, haga clic en Google Drive.
+Figura: La página ¿Qué le gustaría agregar? con la opción Google Drive resaltada.
+- En el cuadro de diálogo Agregar materiales, en Archivos, haga clic en el archivo que desea incluir y haga clic en Agregar.
+Agregar archivos existentes de Google Drive a Asignaciones
+Agregue archivos existentes de Google Drive a Asignaciones para incluir archivos adicionales como un esquema de asignación.
+Para agregar archivos existentes desde Google Drive a Asignaciones
+- Desde la página de inicio de su curso, vaya a Contenido.
+Figura: Página de inicio del curso con la herramienta Contenido resaltada.
+- En la Tabla de contenido, en el módulo deseado, haga clic en Crear nuevo.
+Figura: Haga clic en Crear nuevo en el módulo donde desea agregar contenido.
+- En la página ¿qué le gustaría crear?, haga clic en Asignación.
+Figura: La página ¿Qué le gustaría crear? con la opción Asignación resaltada.
+- En la página Nueva asignación, haga clic en el ícono Adjuntar desde Google Drive.
+Figura: La página Nueva Asignación con el ícono Adjuntar desde Google Drive resaltado.
+- En el cuadro de diálogo Agregar materiales, seleccione el archivo que desea agregar y haga clic en Agregar.
+- Cambie la Visibilidad de la asignación a Oculta o Visible.
+- Haga clic en Guardar y cerrar.
+Figura: Las opciones para Guardar y cerrar y Visibilidad.

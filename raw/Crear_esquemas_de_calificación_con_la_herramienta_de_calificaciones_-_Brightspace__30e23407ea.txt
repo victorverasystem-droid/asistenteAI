@@ -1,0 +1,63 @@
+URL: https://community.d2l.com/brightspace-es-MX/kb/articles/15164-crear-esquemas-de-calificacion-con-la-herramienta-de-calificaciones
+TITLE: Crear esquemas de calificación con la herramienta de calificaciones - Brightspace
+HASH: 30e23407ea2ab1d5d7bcddf52e3231a1b20f64319c127815419bbf3a17420a1b
+TYPE: web
+
+Un esquema de calificaciones le permite organizar el desempeño de los estudiantes respecto de los elementos de calificación en niveles de logros. Puede incluir cualquier cantidad de niveles de logros, y cada nivel de logro tiene su propio rango de calificaciones aceptables y un símbolo (como un valor numérico, una letra o un texto descriptivo) para representarlo. En la pestaña Esquemas, puede revisar los esquemas organizacionales creados por su administración, y los instructores pueden crear y editar esquemas personalizados para un curso.
+Acerca de los rangos del esquema de calificaciones y el valor de calificación asignado
+Un rango del esquema de calificaciones se utiliza cuando una actividad utiliza un elemento de calificación numérico. Si el número evaluado se encuentra dentro del rango definido, el estudiante ve el esquema de calificaciones y el color asociados cuando corresponda. Por ejemplo, en un cuestionario, un estudiante recibe un 72 %. La escala de calificaciones para una B es de 70 a 80 %; por lo tanto, el estudiante ve una B cada vez que pueda ver esquemas de calificaciones.
+Un valor de calificación asignado se utiliza cuando una actividad utiliza un elemento de calificación del cuadro de selección. Cuando se selecciona un rango del esquema desde el menú desplegable del elemento de calificación del cuadro de selección, el porcentaje de Valor asignado se registra en el cuaderno de calificaciones y el estudiante ve ese valor cuando corresponda.
+Por ejemplo, en una asignación de 20 puntos, un estudiante recibe una B. El valor asignado para el rango del esquema B es 75 %. En el cuaderno de calificaciones, el estudiante ve 15/20 puntos o 75 % como el equivalente numérico de una B.
+Vaya a Esquemas
+En la herramienta Calificaciones, haga clic en la pestaña Esquemas.
+Figura: Pestaña Esquemas.
+Revise los esquemas de calificaciones a nivel de la organización
+Los administradores crean esquemas a nivel de la organización, pero usted puede revisar estos esquemas y sus propiedades, así como revisar y cambiar los esquemas que se configuran como predeterminados.
+Para revisar los esquemas de calificaciones a nivel de la organización
+-
+En la pestaña Esquemas, en la lista Esquemas de organización, haga clic en el esquema que desea revisar.
+Figura: La columna Establecer como predeterminado indica los esquemas que puede establecer para reemplazar el esquema predeterminado existente. Haga clic en la marca de verificación para establecer un nuevo esquema predeterminado.
+-
+Revise las propiedades del esquema, lo que incluye lo siguiente:
+-
+Nombre
+-
+Nombre abreviado
+-
+Símbolo o texto mostrado: La etiqueta que aparece en Calificaciones cuando se establece una calificación, como calificaciones de letras (A+, A, B+, , Aprobado/Reprobado, o texto descriptivo (Requiere mejoras, Competente, Sobresaliente).
+-
+% inicial: El porcentaje mínimo necesario para que un estudiante se ubique dentro de este rango.
+-
+Color: Un indicador visual que se utiliza en Calificaciones para ayudar a identificar rápidamente los patrones y las tendencias de calificación.
+-
+% De valor asignado: El porcentaje numérico que registra Brightspace cuando se selecciona esta calificación y que se utiliza en los cálculos de calificaciones. Nota: Estas funciones solo se aplican a los elementos de calificación del tipo Cuadro de selección.
+Figura: Descripción general de un esquema de calificaciones a nivel de la organización.
+-
+Haga clic en Guardar y cerrar.
+Crear un nuevo esquema de calificaciones
+Puede crear un nuevo esquema de calificaciones que le permita elegir un rango de calificaciones y otras propiedades.
+Para crear un nuevo esquema de calificaciones
+-
+En la página Esquemas, haga clic en Nuevo esquema.
+Figura: Botón Nuevo esquema.
+-
+Complete los detalles del esquema, lo que incluye lo siguiente:
+-
+Si desea agregar más rangos, ingrese el número de rangos nuevos y haga clic en Agregar rangos. (4)
+Figura: Las propiedades del esquema, como se identificaron anteriormente.
+-
+Haga clic en Guardar y cerrar. (5)
+Copiar o eliminar esquemas
+Puede copiar un esquema existente o eliminar un esquema.
+Nota: Solo los administradores con los permisos adecuados pueden eliminar esquemas a nivel de la organización.
+Para copiar o eliminar esquemas
+-
+En la pestaña Esquemas, haga clic en Más acciones.
+-
+Realice una de las siguientes acciones:
+-
+Haga clic en Copiar para copiar un esquema personalizado existente dentro de su curso.
+-
+Haga clic en Eliminar para eliminar un esquema personalizado existente dentro de su curso.
+Figura: Menú Más acciones que muestra las opciones Copiar y Eliminar.
+Video: Crear esquemas de calificación con la herramienta Calificaciones

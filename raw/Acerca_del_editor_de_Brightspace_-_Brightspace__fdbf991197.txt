@@ -1,0 +1,71 @@
+URL: https://community.d2l.com/brightspace-es-MX/kb/articles/10880-acerca-del-editor-de-brightspace
+TITLE: Acerca del editor de Brightspace - Brightspace
+HASH: fdbf99119758f8c5a5892ab62e397a28b5e2a894ec0d7c9784e08baeafeb0f79
+TYPE: web
+
+El Editor de Brightspace es el editor predeterminado en Brightspace. Puede encontrar el Editor de Brightspace casi en cualquier lugar en el que cree contenido en Brightspace.
+Descripción general
+El Editor de Brightspace permite que los usuarios creen e inserten contenido en Brightspace.
+Los usuarios pueden utilizar las herramientas del Editor de Brightspace para lo siguiente:
+- Formato: cambie el formato del texto para que sea un párrafo, encabezado, blockquote o un código.
+- Negrita: texto en negrita.
+- Cursiva: texto en cursiva.
+- Formatos en línea: cambie el texto a los formatos subrayados, tachados, superíndice o subíndice.
+- Seleccionar color: cambie el color del texto con el selector de color.
+Figura: Haga clic en Seleccionar color para cambiar el color del texto.
+Figura: Seleccione un color de texto en el cuadro de diálogo Selector de color.
+- Alineación: cambie la alineación del texto.
+- Lista: elija entre diferentes formatos de lista e indentaciones.
+- Insertar objetos: agregue contenido desde Brightspace, su dispositivo y herramientas de terceros. Puede agregar distintos tipos de contenidos, como imágenes, enlaces, videos y mucho más.
+Figura: Haga clic en Insertar objetos para agregar varios contenidos.
+Figura: Seleccione lo que desea agregar en el cuadro de diálogo Insertar objetos.
+- Insertar enlace rápido: agregue enlaces a los materiales del curso y al contenido de terceros.
+- Insertar imagen: agregue una imagen desde su dispositivo o archivos de oferta de cursos.
+- Otras opciones de inserción: Agregue otros elementos, como ecuaciones, tablas, atributos (tanto para elementos individuales como para página completa), divisores, emoji, símbolos y códigos.
+- Más acciones (…): expanda la barra de herramientas del Editor de Brightspace.
+- Pantalla completa: ingrese al modo de pantalla completa para el Editor de Brightspace.
+- Fuente: cambie la fuente de texto.
+- Tamaño de fuente: cambie el tamaño del texto.
+- Pintura de formato: resalte el texto para cambiar su formato o insertar un enlace.
+- Verificador de accesibilidad: compruebe si el contenido es accesible para todos los usuarios. En el cuadro de diálogo Verificador de accesibilidad, se indica dónde y por qué no se puede acceder al contenido y fomenta las revisiones.
+- Recuento de palabras: vea el conteo de palabras para su contenido.
+- Vista previa: vea cómo aparecerá su contenido para los usuarios cuando lo publique.
+- Código fuente: vea y edite el HTML para su contenido.
+- Deshacer/Rehacer: revertir una acción.
+Características especiales
+El editor de Brightspace incluye la siguiente funcionalidad de uso opcional para mejorar la experiencia de creación de contenido:
+- Asteriscos
+- Advertencias de detección de ruta de enlace
+Asteriscos
+En el Editor de Brightspace, puede colocar un asterisco al principio y al final de una palabra y, a continuación, presionar Intro para aplicar automáticamente un atributo de texto (estilo de fuente) al texto. Por ejemplo:
+- Un asterisco (*ejemplo*) genera una letra cursiva.
+- Dos asteriscos (**ejemplo**) generan una letra en negrita.
+- Tres asteriscos (***ejemplo***) generan una letra en negrita y cursiva.
+Cuando agrega asteriscos y presiona Intro, el atributo de texto se actualiza y los asteriscos desaparecen.
+Esta función no puede desactivarse y es independiente del navegador.
+Advertencias de detección de ruta de enlace
+Si está configurado para su organización, el Editor de Brightspace puede alertar a los usuarios cuando un recurso pegado (como un enlace o una imagen) hace referencia a contenido fuera de la oferta de cursos actual. Esto puede ocurrir cuando se vinculan imágenes o documentos de otros cursos. Estos enlaces pueden funcionar para los instructores inscritos en ambos cursos, pero es posible que no sean accesibles para los estudiantes inscritos en solo uno de los cursos.
+Por ejemplo, si se pega una imagen en un cuestionario del curso B donde el enlace de la imagen apunta al curso A, la imagen puede aparecer como un enlace roto para los estudiantes del curso B. Este problema puede prevalecer en las organizaciones que tienen establecida la configuración de seguridad de inscripción.
+Para habilitar esta advertencia, un administrador debe habilitar la variable de configuración d2l.Tools.WYSIWYG.LinkPathDetection para su organización. Las advertencias de detección de ruta de enlace están desactivadas de forma predeterminada.
+Lo que no se incluye en el Editor de Brightspace
+En la siguiente lista, se describe lo que no está incluido en el Editor:
+- Función de corrección ortográfica: D2L recomienda utilizar la función de corrección ortográfica del navegador. Sin embargo, la variable de configuración d2l.Tools.Quizzing.ShowSpellCheckInAttempts de la unidad de organización aún se respeta y marca el texto en cuestionarios para que el corrector ortográfico del navegador lo omita. Se puede desactivar para todos los cuestionarios a nivel de la unidad de organización.
+- Función cortar/pegar: D2L recomienda utilizar los atajos o los menús de su navegador para esta función.
+Opciones de visualización de contenido
+El Editor de Brightspace tiene las siguientes opciones de visualización de contenido:
+- Vista de diseño: la vista de diseño se carga automáticamente cuando se accede al Editor de Brightspace. Use esta vista para crear y formatear contenido de forma rápida sin necesidad de contar con conocimientos previos de HTML. Ingrese el contenido y use los controles disponibles para aplicar formato al texto, insertar imágenes y tablas, así como crear enlaces.
+- Vista del editor de fuente: haga clic en el ícono Editor de fuente de HTML para acceder a esta vista. En esta vista, se muestra el código que estructura y formatea su contenido. Use esta vista si tiene experiencia con HTML y prefiere crear su contenido en HTML o desea aplicar estilos de una hoja de estilo en cascada (CSS). Si tiene contenido según HTML en otra aplicación, también puede copiar y pegar ese código en la vista de editor de fuente.
+- Vista previa: use esta vista para previsualizar el contenido HTML en una nueva ventana. Esto le permite obtener una vista previa del contenido y comprobar que se muestre como lo espera antes de guardar los cambios.
+Editor en línea de Brightspace Editor
+El Generador de cuestionarios y las Noticias de Actividad son compatibles con el Editor en línea.
+La versión limitada en línea del Editor de Brightspace es el editor predeterminado de Noticias de Actividad. Las opciones HTML del Editor de Brightspace en Noticias de Actividad incluyen lo siguiente:
+- Negrita
+- Cursiva
+- Subrayado, tachado, superíndice y subíndice
+- Color de fuente
+- Listas con viñetas, listas numeradas y aumentar/disminuir indentación
+- Insertar objetos
+- Insertar enlace rápido
+- Emoji
+Insertar objetos cuenta con varias capacidades, incluida la función de video note.
+Video: Uso del editor de Brightspace (HTML)

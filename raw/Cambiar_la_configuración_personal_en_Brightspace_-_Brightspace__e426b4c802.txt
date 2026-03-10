@@ -1,0 +1,74 @@
+URL: https://community.d2l.com/brightspace-es-MX/kb/articles/11020-cambiar-la-configuracion-personal-en-brightspace
+TITLE: Cambiar la configuración personal en Brightspace - Brightspace
+HASH: e426b4c802c9455daf9779f59f100dbf50fbc3be61f276fa43264b729ea43130
+TYPE: web
+
+Video: Administrar la configuración de la cuenta
+Si hace clic en su nombre de usuario, puede realizar cambios a su perfil de usuario, notificaciones, configuración de la cuenta y cerrar sesión.
+Edite su perfil de usuario
+Puede editar su perfil de usuario, incluida la actualización de la foto de perfil, redes sociales e información personal.
+Para editar su perfil de usuario
+- Haga clic en su nombre de usuario.
+- Seleccionar Perfil.
+-
+Realice cualquiera de las siguientes acciones:
+- Haga clic en Cambiar imagen para cargar una imagen de perfil.
+Notas:- El tamaño recomendado para las imágenes de perfil es de 100 x 100 píxeles.
+- Cargar una imagen de un tamaño diferente podría ocasionar pérdida de calidad, estiramiento o recorte.
+- El tamaño máximo de archivo permitido para las imágenes de perfil es de 1 MB; no se pueden cargar archivos de mayor tamaño. Los formatos de archivo aceptados para las imágenes de perfil son: JPG, JPEG, PNG y GIF.
+- Su imagen de perfil se muestra en todos sus cursos en áreas como Debates y Listado de alumnos. Si no carga una imagen de perfil, la barra de navegación mostrará sus iniciales en la insignia del perfil de usuario. Esto se muestra en la barra de navegación de Brightspace y en las Noticias de Actividad.
+- Ingrese un enlace de Red social. Por ejemplo, LinkedIn.
+- Ingrese su Información personal, incluidos su Eslogan e Intereses/Pasatiempos.
+- Haga clic en Guardar y cerrar.
+Ha editado la información de su perfil de usuario.
+Edite la configuración de notificaciones
+Puede elegir el método y la frecuencia de las notificaciones que recibe en Brightspace. Controla la manera en que recibe notificaciones sobre la actividad en sus cursos. También puede recibir un resumen periódico de actividad o recibir notificaciones individuales cuando algo sucede.
+Para editar la configuración de notificaciones
+- Haga clic en su nombre de usuario.
+- Haga clic en Notificaciones.
+- En Método de contacto, puede realizar cualquiera de las siguientes acciones:
+- Haga clic en Cambiar la configuración de correo electrónico para establecer la dirección de correo electrónico predeterminada del sistema.
+- Haga clic en Registrar su teléfono celular para establecer un número de teléfono celular.
+- En Resumen de actividad, seleccione la frecuencia con la que desea recibir un correo electrónico con un resumen de todas las actividades de cada uno de sus cursos.
+- En Notificaciones instantáneas, establezca notificaciones individuales de actividad en componentes específicos del curso, como anuncios, actualizaciones del curso, y cuando esté etiquetado en publicaciones e hilos de conversación de debate.
+- En Personalizar notificaciones, seleccione una de las siguientes opciones:
+- Incluir mi valor de calificación en las notificaciones de Calificaciones.
+- Permitir que cursos futuros me envíen notificaciones.
+- En Excluir algunos cursos, haga clic en Administrar mis exclusiones de cursos para establecer de qué cursos no desea recibir notificaciones.
+- Haga clic en Guardar.
+Se guarda la configuración de las notificaciones. Como parte de este proceso, puede descargar Brightspace Pulse de manera opcional para ayudarlo a mantenerse conectado y al tanto de sus cursos.
+Cambiar la configuración de la cuenta
+En la cuenta, también puede cambiar la configuración de fuentes, cuadros de diálogo, editor de Brightspace, contenido de lectura, video, configuración regional y de idioma, zona horaria, seudolocalización, inicio de sesión y autenticación de dos factores, aplicaciones, debates, correo electrónico y metadatos.
+Para cambiar la configuración de la cuenta
+- Haga clic en su nombre de usuario.
+- Haga clic en Preferencias.
+-
+En la pestaña Configuración de la cuenta, realice una de las siguientes acciones:
+- En Configuración general, cambie el correo electrónico y la contraseña del sistema. Según sus permisos, también puede configurar la autenticación de dos factores seleccionando Activar la autenticación de dos factores.
+- En Pronombres, permita que otros vean sus pronombres y establezca sus pronombres personales.
+- En Configuración de fuente, seleccione el tamaño de fuente predeterminado para su cuenta.
+- En Contenido de lectura, si utiliza tecnología de asistencia, como los lectores de pantalla, seleccione No marcar automáticamente los elementos como leídos a medida que se desplaza la página.
+- Para garantizar que las tecnologías de asistencia puedan detectar videos, en Configuraciones de video, seleccione Optimizar las presentaciones de video para tecnologías de asistencia basadas en programación.
+- En Configuración regional e Idioma, establezca la región y el idioma preferidos para su cuenta. También puede establecer el reloj predeterminado, el día de la semana, la fecha, el formato de número y el formato de porcentaje.
+- En Zona Horaria, seleccione el continente predeterminado y la zona horaria.
+- En Inicio de sesión, seleccione si desea que aparezca en línea o fuera de línea cuando inicie sesión en Brightspace.
+- En Configuración de aplicaciones, administre aplicaciones OAuth 2.0, y administre el acceso a la Autorización de la clave de identificación.
+- En la pestaña Debates, realice una de las siguientes acciones:
+En Configuración personal, seleccione:- Siempre mostrar el panel Lista de debates.
+- Incluir publicación original en la respuesta.
+- Haga clic en Guardar y cerrar.
+Se guarda la configuración de su cuenta.
+Modificar la contraseña
+Si su organización utiliza una configuración de inicio de sesión local en la que su administrador utiliza Brightspace para administrar nombres de usuario y contraseñas, puede cambiar su contraseña en su instancia de Brightspace.
+Para actualizar la contraseña de inicio de sesión local
+- Haga clic en su nombre de usuario.
+- Haga clic en Preferencias.
+- En la pestaña Configuración de la cuenta, haga clic en Cambiar contraseña.
+- En el cuadro de diálogo Cambiar contraseña, realice lo siguiente:
+- Introduzca su Contraseña antigua.
+- Ingrese su Contraseña nueva y confirme.
+- Haga clic en Guardar.
+Su contraseña se actualizó para su instancia de Brightspace.
+Video: Administrar la configuración de su cuenta
+Video: Crear un perfil
+Video: Administrar las notificaciones

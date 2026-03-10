@@ -1,0 +1,166 @@
+URL: https://community.d2l.com/brightspace-es-MX/kb/articles/15189-personalice-la-barra-de-navegacion-del-curso
+TITLE: Personalice la barra de navegación del curso - Brightspace
+HASH: 0768f7ebc08a0ea0cf3211264a0999725a42b8511018bb71d3c3655e4652a974
+TYPE: web
+
+Cuando inicie sesión en Brightspace, observará que la página de inicio de su curso está dividida en dos secciones. En la mitad superior, verá las herramientas de navegación, como la barra de navegación. Puede personalizar su barra de navegación para que aparezcan las herramientas más importantes para usted y sus estudiantes . La barra de navegación puede estar basada en texto o en íconos.
+Importante: Para personalizar la barra de navegación de su curso, crear nuevas barras de navegación, agregar enlaces a su barra de navegación o crear temas para la barra de navegación, debe tener permisos de Instructor > Barra de navegación. Comuníquese con el administrador para obtener más información.
+Figura: Barra de navegación basada en texto.
+Figura: Barra de navegación basada en íconos.
+Personalizar la barra de navegación
+- En la barra de navegación de su curso, vaya al menú desplegable Acciones de la barra de navegación (…).
+- Haga clic en Editar esta barra de navegación.
+Figura: Haga clic en Editar esta barra de navegación en el menú Acciones.
+- En la página Editar barra de navegación, puede realizar una o varias de las siguientes acciones:
+- Nombrar: Cambie el nombre de la barra de navegación de su curso.
+- Agregar enlaces: Agregue diferentes herramientas de Brightspace a su barra de navegación.
+- Nota: Para eliminar una herramienta de la barra de navegación, sitúese sobre ella y haga clic en la X.
+- Activar barra de navegación basada en íconos: Haga clic en la casilla de selección para cambiar la barra de navegación basada en íconos. Desmarque la casilla de selección para que la barra de navegación sea una basada en texto.
+- Cambiar tema: Cambie el tema de su barra de navegación. Por ejemplo, puede cambiar el color de la barra de navegación.
+- Haga clic en Guardar y cerrar para guardar y utilizar su nueva barra de navegación.
+Creación de una barra de navegación
+Puede crear su propia barra de navegación personalizada que aparecerá en la página de inicio de su curso.
+Para crear una barra de navegación
+- En la barra de navegación, haga clic en Administración del curso.
+- Haga clic en Navegación y temas.
+- En la pestaña Barra de navegación, haga clic en Crear barra de navegación.
+Figura: Haga clic en Crear barra de navegación en la pestaña Barra de navegación.
+- En la página Crear barra de navegación, realice lo siguiente:
+Figura: Edite la barra de navegación en la página Crear barra de navegación.
+- Ingrese un Nombre para su barra de navegación personalizada.
+- Si lo desea, haga clic en Agregar una descripción e ingrese una descripción para su barra de navegación personalizada.
+- En Enlaces, haga clic en Agregar enlaces.
+- Seleccione los enlaces y haga clic en Agregar. La lista de enlaces disponibles depende de las herramientas que usa su organización, los enlaces o grupos de enlaces personalizados disponibles y las herramientas habilitadas para su curso.
+- Si corresponde, haga clic para seleccionar Habilitar la barra de herramientas basada en íconos.
+- Si desea cambiar el tema de la barra de navegación, haga clic en Cambiar tema. Seleccione un nuevo tema y haga clic en Actualizar.
+- Para que esta barra de navegación esté disponible para unidades de organización específicas, haga clic en Agregar unidades de organización.
+En Más opciones, haga clic en Cambiar el título de la barra de navegación y seleccione una de las siguientes opciones:- Ninguno
+- Nombre de unidad de organización: Utilice el nombre de unidad de organización predeterminado.
+- Personalizado: Ingrese una cadena de reemplazo. Por ejemplo:
+- {OrgUnitId}: Identificador de la unidad de organización
+- {OrgUnitName}: Nombre de la unidad de organización
+- {OrgUnitCode}: Código de la unidad de organización
+- {OrgId}: Identificador de la organización
+- {OrgName}: Nombre de la organización
+Haga clic en Guardar y cerrar.
+Ha creado una barra de navegación personalizada. Para obtener una vista previa de la nueva barra de navegación, en la pestaña Barra de navegación, haga clic en el menú contextual situado junto a la barra de navegación y seleccione Vista previa. Seleccione Establecer como predeterminado para aplicar la nueva barra de navegación a su curso.
+Crear y agregar un nuevo enlace personalizado a la barra de navegación
+También puede agregar enlaces personalizados a la barra de navegación de su curso. Esto incluye URL personalizadas y enlaces rápidos a materiales de cursos existentes o herramientas de terceros.
+Para agregar un nuevo enlace personalizado a la barra de navegación
+- En la barra de navegación, haga clic en Administración del curso.
+- Haga clic en Navegación y temas.
+- Haga clic en la pestaña Enlaces personalizados y en Crear enlace.
+Figura: Haga clic en Crear enlace en la pestaña Enlaces personalizados.
+- En la página Crear enlace personalizado, ingrese lo siguiente:
+Figura: Haga un enlace personalizado en la página Crear enlace personalizado.
+- Nombre: El nombre del enlace que desea que aparezca en la barra de navegación.
+- URL: Agregue la ruta de la URL que sigue el enlace personalizado o haga clic en Insertar Quicklink para vincular el material del curso existente o las herramientas de terceros.
+- Comportamiento: Seleccione cómo se abre el enlace cuando se hace clic en él:
+- Misma ventana
+- Misma ventana sin barra de navegación
+- Nueva ventana/pestaña: Especifique el ancho (px) y la altura (px) de la nueva ventana/pestaña.
+- En Atributos del explorador, especifique si desea que la nueva ventana incluya la barra de menú (Archivo, Edición, etc.) o la barra de herramientas (Anterior, Actualizar, etc.), o ninguna de estas opciones.
+- Descripción: Proporciona una descripción opcional del enlace personalizado.
+- Ícono: Un ícono para usar con el enlace personalizado.
+- Disponibilidad: Determina la visibilidad del enlace personalizado.
+- Para compartir con unidades de organización secundarias, seleccione Compartir con unidades de organización secundarias.
+- A fin de limitar la visibilidad del enlace personalizado para roles específicos, seleccione Límite para roles específicos y, luego, seleccione los roles.
+- Para limitar la visibilidad de los enlaces personalizados a los usuarios con configuraciones regionales específicas, seleccione Límite para configuraciones regionales específicas y, luego, seleccione las configuraciones regionales.
+- Haga clic en Guardar.
+Se crea un nuevo enlace personalizado y se agrega a la barra de navegación.
+Crear y agregar grupos de enlaces personalizados a la barra de navegación
+Los grupos de enlaces personalizados son varios enlaces agrupados. Puede crear grupos de enlaces personalizados y usar nombres de grupos de enlaces eficaces para sugerir relaciones o funciones comunes que comparte cada grupo. Por ejemplo, puede crear un grupo de enlace de evaluaciones que contenga enlaces a las herramientas de cuestionarios, asignaciones, encuestas y autoevaluaciones.
+Cuando crea un grupo de enlaces personalizados y lo agrega al área de enlaces de una barra de navegación, el grupo de enlaces aparece como un menú desplegable etiquetado con el nombre del grupo de enlaces personalizados.
+Para crear grupos de enlaces personalizados
+- En la barra de navegación, haga clic en Administración del curso.
+- Haga clic en Navegación y temas.
+- En la pestaña Enlaces personalizados, haga clic en Crear grupo de enlaces.
+Figura: Haga clic en Crear grupo de enlaces en la pestaña Enlaces personalizados.
+- En la página Crear grupo de enlaces personalizados, realice lo siguiente:
+Figura: Haga un grupo personalizado de enlaces en la página Crear grupo personalizado de enlaces.
+- Ingrese un nombre para el grupo de enlaces personalizados.
+- Para aplicar un ícono a su grupo de enlaces personalizados, realice cualquiera de las siguientes acciones:
+- Arrastre y suelte un archivo de imagen.
+- Haga clic en Cargar.
+- Haga clic en Elegir existente para aplicar una imagen que ya esté cargada en Brightspace.
+- Si lo desea, ingrese una Descripción para su grupo de enlaces.
+- Seleccione Compartir con unidades de organización secundarias, si corresponde.
+- En Enlaces, realice cualquiera de las siguientes acciones:
+- Para agregar enlaces existentes al grupo, haga clic en Agregar enlace existente. Seleccione los enlaces que desea agregar y haga clic en Agregar.
+- Haga clic en Crear enlace para crear un nuevo enlace.
+- Haga clic en Guardar.
+Se crea un nuevo grupo de enlaces personalizados.
+Para agregar el grupo de enlaces personalizados a una barra de navegación
+- En la barra de navegación de su curso, vaya al menú desplegable Acciones de la barra de navegación (…).
+- Seleccione Editar esta barra de navegación.
+- En la página Editar barra de navegación, haga clic en Agregar enlaces.
+- En el cuadro de diálogo Agregar enlaces, haga clic en la pestaña Grupos personalizados.
+Figura: Crear Grupos personalizados del cuadro de diálogo Agregar enlaces.
+- Seleccione los grupos de enlaces personalizados que desee agregar a su barra de navegación.
+- Haga clic en Agregar y, a continuación, en Guardar y cerrar.
+El grupo de enlaces personalizados se agrega a la barra de navegación.
+Cambiar la barra de navegación del curso
+Puede seleccionar y aplicar una barra de navegación diferente a su curso.
+Para cambiar la barra de navegación del curso
+- En la barra de navegación, haga clic en Administración del curso.
+- Haga clic en Navegación y temas.
+- En la lista desplegable de la sección Activar barra de navegación, seleccione una barra de navegación para el curso.
+- Haga clic en Aplicar.
+Cree un tema
+Los temas le permiten personalizar y asignar una marca a la apariencia de las barras de navegación y los fondos de páginas. Los temas no controlan el tipo de enlaces que pueden contener las barras de navegación. Cuando se crea un tema, hay dos colores del tema que se pueden configurar para garantizar una experiencia de usuario coherente y adherirse a las pautas de marca de su organización:
+- Color primario: Modifica el fondo del área de enlace en la barra de navegación y las unidades de las Lecciones (cada lección y carpeta en una unidad se muestran del mismo color, solo que más claro), si la opción está activada.
+- Color de énfasis: Modifica la franja delgada de color encima de la barra de navegación.
+Notas:
+- Si no se especifica el color principal, se utiliza el esquema de color “arco iris” predeterminado en Lecciones, si está activado.
+- A nivel de ofertas de cursos, todos los temas que aparecen en la página Temas contienen información sobre si un tema se comparte de otra unidad de organización y el nombre de la unidad de organización que comparte el tema.
+- Si sus permisos no lo autorizan para crear temas, debe seleccionar entre los temas existentes o usar el tema predeterminado. Los temas creados en una unidad de organización se comparten automáticamente con las unidades de organización secundarias.
+- Los temas creados a nivel del curso no se pueden compartir con otros cursos, pero puede crearlos y guardarlos dentro de la plantilla de un curso para que estén disponibles en las ofertas de cursos que usan dicha plantilla.
+- El área Vista previa del tema muestra los cambios a medida que los realiza.
+Para crear un tema
+- En la barra de navegación, haga clic en Administración del curso.
+- Haga clic en Navegación y temas.
+- En la pestaña Temas, haga clic en Crear tema.
+Figura: Haga clic en Crear tema en la pestaña Temas.
+- En la página Crear tema, realice lo siguiente:
+Figura: Establezca su tema en la página Crear tema.
+- Ingrese un nombre y una descripción para su tema.
+- Para aplicar un logotipo a su tema, realice una de las siguientes acciones:
+- Arrastre y suelte un archivo de imagen.
+- Haga clic en Cargar.
+- Haga clic en Elegir existente para aplicar una imagen que ya esté cargada en Brightspace.
+Nota: Se recomienda utilizar archivos SVG para conseguir un mejor ajuste de escala. El logotipo puede ser de hasta 260 x 60 píxeles; sin embargo, se mostrará en tamaños más pequeños en dispositivos más pequeños o cuando se visualice una barra de navegación con un título de curso.
+- Seleccione un color primario para modificar el fondo del área de enlace en la barra de navegación y las unidades de las Lecciones, si está habilitado (cada lección y carpeta en una unidad aparece del mismo color, pero con un tono más claro).
+- Seleccione un color de énfasis para modificar la franja delgada de color encima de la barra de navegación.
+- Si desea personalizar el destino del enlace, haga clic en el menú contextual y seleccione el destino correcto en las opciones del menú.
+Haga clic en Guardar y cerrar.
+Se creó su nuevo tema. Para hacer que su tema sea el tema predeterminado de su curso, haga clic en el menú contextual junto al tema y seleccione Establecer como predeterminado.
+Video: Crear un tema
+Eliminar de un tema
+Puede eliminar un tema de Brightspace.
+Nota: No puede eliminar un tema Predeterminado ni un tema compartido con usted por la organización, un curso principal ni un departamento. Si desea eliminar un tema, se le solicitará elegir un tema de reemplazo para las barras de navegación que usen el tema que desea eliminar. Si no existe un tema con diseño idéntico, no se le permite eliminar el tema hasta que haya creado uno de reemplazo aceptable.
+Para eliminar un tema
+- En la barra de navegación, haga clic en Administración del curso.
+- Haga clic en Navegación y temas.
+- En la página Temas, en el menú contextual del tema que desea eliminar, haga clic en Eliminar.
+- En el cuadro de diálogo Elegir un reemplazo, en la lista desplegable, seleccione un tema nuevo.
+- Haga clic en Eliminar.
+Cambiar el color en la barra de navegación
+El color de la banda en la parte superior de la pantalla se ajusta desde la pestaña Temas en la herramienta Navegación y temas. Puede seleccionar el color predeterminado de la organización o establecer un color único para la banda de color superior de cada tema. Si no configura un color único para un tema, la banda superior de color y el área de enlace cambian al color predeterminado de la organización.
+Nota: Es conveniente utilizar un color que cumpla con WCAG para garantizar de la mejor manera posible el contraste de color con el texto blanco.
+Para establecer un color único para un tema
+- Vaya a Administración del curso y, luego, haga clic en Navegación y temas.
+- En la página Temas, haga clic en Crear tema.
+Figura: Haga clic en Crear tema en la pestaña Temas.
+- Puede seleccionar hacer lo siguiente:
+- Ingrese un nombre para el nuevo tema.
+- En Color principal, puede usar el color principal predeterminado o seleccionar Elegir colores y seleccionar un color principal para la barra de navegación.
+- Para establecer que el texto de la barra de navegación sea negro, seleccione Primer plano oscuro y para establecer que sea blanco, seleccione Fondo claro.
+- En Color de acento, puede usar el color de acento predeterminado o seleccionar Elegir un color para el color de acento.
+Figura: Personalice su tema en la página Crear tema.
+- Haga clic en Guardar y cerrar.
+- Agregue el tema que acaba de crear a su barra de navegación.
+- En la pestaña Barras de navegación, haga clic en el nombre de su barra de navegación para editarla.
+Nota: No puede editar la barra de navegación predeterminada definida por su organización. Si desea cambiar el color, debe crear una barra de navegación nueva. - Seleccione Cambiar tema.
+- Busque el tema que creó y selecciónelo.
+Figura: Haga clic en Cambiar tema en la página Editar barra de navegación.
+- Haga clic en Guardar y cerrar.

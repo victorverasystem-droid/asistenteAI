@@ -1,0 +1,24 @@
+URL: https://community.d2l.com/brightspace-es-MX/kb/articles/10976-copiar-una-asignacion-existente
+TITLE: Copiar una asignación existente - Brightspace
+HASH: 29f23b837b85a21cdccc7996dad620b47cbafc29ac34aaeb2bbb1b3befbad277
+TYPE: web
+
+Puede crear rápidamente nuevas asignaciones a partir de asignaciones existentes mediante la opción Copiar asignación. Esta función copia todas las configuraciones de una asignación existente, excepto las configuraciones de Turnitin y del elemento de calificación asociado.
+Para copiar una asignación existente
+- Vaya a Asignaciones.
+- Haga clic en la casilla de selección para seleccionar una asignación y, a continuación, haga clic en Más acciones > Copiar asignación. O bien haga clic en el menú desplegable junto a la asignación que desea copiar y seleccione Copiar asignación.
+- La asignación copiada se abre en modo de edición. Puede cambiar la siguiente configuración de la asignación copiada:
+- Actualizar Nombre de la asignación.
+- Cambie los puntos de la opción Calificar sobre.
+- Haga clic en el menú desplegable para cambiar la configuración de otras calificaciones.
+- Si selecciona la opción Editar o Vincular a existente, puede elegir si desea crear y vincular un nuevo elemento de calificación o un enlace a un elemento de calificación existente.
+- Crear y vincular a un nuevo elemento de calificación: Cambiar la configuración Elegir categoría de calificación y Cambiar tipo y esquema.
+- Haga clic en el botón desplegable para seleccionar una Categoría de calificación.
+- Elija un Tipo de calificación y haga clic en el botón desplegable para seleccionar un Esquema de calificaciones.
+- Enlace a un elemento de calificación existente: haga clic en el botón desplegable para elegir un elemento de calificación existente.
+- No está en el cuaderno de calificaciones: elija no colocar la asignación copiada en el cuaderno de calificaciones.
+- Restablecer a Sin calificar: los puntos en el campo Calificación de se eliminan y reemplazan con la etiqueta "Sin calificar".
+- Seleccione una fecha de vencimiento para la asignación.
+- Actualice las Instrucciones.
+- Después de revisar todos los detalles, haga clic en Guardar y cerrar para volver a la página Asignaciones.
+La asignación existente se copia y agrega como una nueva asignación al curso.

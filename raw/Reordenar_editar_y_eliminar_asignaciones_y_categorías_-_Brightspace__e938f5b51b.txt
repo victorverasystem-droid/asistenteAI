@@ -1,0 +1,38 @@
+URL: https://community.d2l.com/brightspace-es-MX/kb/articles/11068-reordenar-editar-y-eliminar-asignaciones-y-categorias
+TITLE: Reordenar, editar y eliminar asignaciones y categorías - Brightspace
+HASH: e938f5b51bd915873657aa54ccd9f938ec3e7579706b84307cdc4058a499afde
+TYPE: web
+
+Si elimina una categoría que contiene asignaciones, estas aparecerán en la sección Ninguna categoría de la lista Asignación.
+Reordenar asignaciones y categorías
+- Vaya a Asignaciones.
+- En la página Asignaciones, haga clic en Más acciones > Reordenar.
+Figura: El menú desplegable Más acciones en el que se muestra la opción Reordenar.
+- En la columna Orden de clasificación, cambie el orden en que se van a mostrar las categorías y las asignaciones.
+Figura: La columna Orden de clasificación en la página Reordenar.
+- Haga clic en Guardar.
+Ha reordenado sus asignaciones y categorías.
+Editar asignaciones y categorías
+- Vaya a Asignaciones.
+- Para editar una categoría, haga clic en el ícono Editar, realice los cambios y haga clic en Guardar.
+Figura: El ícono Editar para las categorías de asignación.
+- Para editar una asignación, haga clic en el menú desplegable Acciones y, luego, en Editar asignación. Realice los cambios y haga clic en Guardar y cerrar.
+Figura: El menú desplegable Acciones en el que se muestra la opción Editar asignación.
+Ha editado una asignación o categoría.
+Eliminar asignaciones y categorías
+- Vaya a Asignaciones.
+- Para eliminar una categoría, haga clic en el ícono Eliminar y, luego, en Eliminar.
+Figura: El ícono Eliminar.
+- Para eliminar una asignación, haga clic en el menú desplegable Acciones y haga clic en Eliminar asignación. A continuación, haga clic en Eliminar.
+Figura: El menú desplegable Acciones en el que se muestra la opción Eliminar asignación.
+Ha eliminado una asignación o categoría.
+Restaurar asignaciones eliminadas
+Si la asignación tiene fechas de disponibilidad asociadas a esta, cuando restaure la asignación, también restaura sus fechas en la herramienta Calendario.
+Nota: Restaurar una asignación eliminada requiere los permisos de Ver y administrar carpetas de envío de asignaciones y de Agregar/editar carpetas de envíos de asignaciónes. Es posible que deba comunicarse con su administrador para obtener estos permisos otorgados a su rol.
+Para restaurar una asignación eliminada
+- Vaya a Asignaciones.
+- En la página Asignaciones, desde el botón Más acciones, haga clic en Registro de eventos.
+Figura: El menú Más acciones en el que se muestra la opción Registro de eventos.
+- Para cada asignación que desea restaurar, haga clic en Restaurar.
+Figura: La opción Restaurar para una asignación.
+Ha restaurado una asignación eliminada.

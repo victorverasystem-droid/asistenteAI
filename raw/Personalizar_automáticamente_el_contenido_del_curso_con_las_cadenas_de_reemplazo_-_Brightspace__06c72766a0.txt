@@ -1,0 +1,32 @@
+URL: https://community.d2l.com/brightspace-es-MX/kb/articles/10840-personalizar-automaticamente-el-contenido-del-curso-con-las-cadenas-de-reemplazo
+TITLE: Personalizar automáticamente el contenido del curso con las cadenas de reemplazo - Brightspace
+HASH: 06c72766a0b2da4092b4fd84d26e2cda3113b7e37568d1bff7ae580db1bcecee
+TYPE: web
+
+Personalizar automáticamente el contenido del curso con las cadenas de reemplazo
+Puede utilizar cadenas de reemplazo para personalizar el contenido y las comunicaciones del curso en Brightspace Learning Environment. Las cadenas de reemplazo incorporan automáticamente la información personalizada de su estudiante, como su nombre o ID de usuario. Esto le permite desarrollar mejores relaciones con sus estudiantes, aumentar los niveles de compromiso y mejorar la experiencia de aprendizaje en general.
+Acerca de las cadenas de reemplazo
+Las Cadenas de reemplazo, que a veces se mencionan como las variables de configuración de visualización, consisten en nombres de variables de configuración que están encerrados entre llaves {} que se sustituyen automáticamente por los valores de la variable de configuración correspondiente. Por ejemplo, si ingresa el texto {OrgUnitID} en un campo en una configuración de herramienta o componente, verá la ID de unidad de organización (número de unidad de organización) del curso cuando vea la herramienta o el componente. Las cadenas de sustitución se utilizan en todas las herramientas que utilizan el Editor de Brightspace, que aparece en cualquier lugar donde usted crea contenido. Sin embargo, las reglas de evaluación de las cadenas de reemplazo varían según la herramienta.
+Reglas de evaluación para temas de contenido
+En el caso de los temas creados en Contenido, las cadenas de reemplazo se evalúan solo una vez cuando se ingresan por primera vez. Por consiguiente, no se produce un registro de que se haya ingresado una cadena de sustitución. Por ejemplo, si introduce {OrgUnitID} en un tema de contenido en el curso "A" y luego copia ese tema en el curso "B", la ou # del curso "A" se mostrará en el tema en el curso "B".
+Reglas de evaluación para todas las demás herramientas
+En el caso de todas las demás herramientas, se evalúa una cadena de reemplazo cada vez que se visualiza el documento que contiene la cadena de reemplazo. Por ejemplo, si introduce {OrgUnitID} en un tema de debate en el curso "A" y luego copia ese tema en el curso "B", la ou # del curso "B" se mostrará en la publicación del curso "B".
+- No todas las cadenas de sustitución se aplican a todas las herramientas que se describen a continuación.
+Las cadenas de sustitución son particularmente útiles en los siguientes elementos:
+- Componentes de la Página de inicio del curso
+- Enlaces de la barra de navegación personalizada
+- Barras de navegación
+- Plantillas de correspondencia
+- Grades cuando se agregan comentarios por lote
+- Términos del idioma
+Utilice cadenas de reemplazo con varios componentes y herramientas
+Las cadenas de sustitución disponibles son:
+Ejemplo: utilice cadenas de reemplazo para mostrar el nombre de un usuario en el banner del curso
+Si bien hay varias cadenas de reemplazo disponibles, así como varias herramientas en las que se pueden aplicar, este es un ejemplo. Puede usar cadenas de reemplazo para ver el nombre de su estudiante en el banner de su curso.
+Cómo ver el nombre de su estudiante en el banner del curso
+- En la página de inicio de su curso, busque el banner del curso.
+- Haga clic en Configuración de banner (…) y seleccione Personalizar texto del banner.
+- En el cuadro de diálogo Personalizar texto de banner, seleccione Personalizar.
+- Ingrese el texto deseado y agregue la cadena de reemplazo {FirstName}.
+- Haga clic en Guardar.
+El banner de la página de inicio se actualiza y muestra el nombre de su estudiante.

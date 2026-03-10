@@ -1,0 +1,32 @@
+URL: https://community.d2l.com/brightspace-es-MX/kb/articles/11045-insertar-y-editar-imagenes-con-el-editor-de-brightspace
+TITLE: Insertar y editar imágenes con el editor de Brightspace - Brightspace
+HASH: a13b0fde6d22c5ceac660daf8ffba3cf2ca955152419c812f1a2a743aa825d6d
+TYPE: web
+
+La opción Insertar imagen está disponible cuando el Editor de Brightspace está presente, lo que le permite agregar y editar imágenes según sus preferencias.
+Insertar imágenes con el Editor de Brightspace
+- Vaya a cualquier lugar donde esté disponible el Editor de Brightspace, como Contenido o Debates.
+- En el editor de Brightspace, haga clic en el ícono Insertar imagen.
+Figura: Haga clic en Insertar imagen.
+- En el cuadro de diálogo Agregar un archivo, haga clic en Mi PC o Archivos de oferta de cursos y seleccione la imagen que desea insertar, o haga clic en la URL y vincule la imagen que desea insertar.
+Figura: El cuadro de diálogo Agregar un archivo en el que se muestran las opciones Mi PC, Archivos de oferta de cursos y URL.
+- Haga clic en Agregar.
+Figura: La opción Agregar en el cuadro de diálogo Agregar un archivo.
+- Ingrese el Texto alternativo y haga clic en Aceptar.
+Figura: El cuadro de diálogo Proporcionar texto alternativo con la opción Aceptar.
+Editar imágenes en el Editor de Brightspace
+- Vaya a cualquier lugar donde esté disponible el Editor de Brightspace, como Contenido o Debates.
+- Haga clic con el botón derecho en la imagen que desea actualizar y haga clic en Editar imagen.
+Figura: La opción Editar imagen.
+- En el cuadro de diálogo Editar imagen, puede editar su imagen usando las siguientes opciones:
+- Recortar
+- Cambiar tamaño
+- Orientación
+- Brillo
+- Nitidez
+- Contraste
+- Niveles de color
+- Gama
+- Invertir
+Figura: El cuadro de diálogo Editar imagen con las opciones para editar una imagen.
+- Haga clic en Guardar.

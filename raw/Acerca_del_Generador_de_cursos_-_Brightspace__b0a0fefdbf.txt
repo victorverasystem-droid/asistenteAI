@@ -1,0 +1,34 @@
+URL: https://community.d2l.com/brightspace-es-MX/kb/articles/10756-acerca-del-generador-de-cursos
+TITLE: Acerca del Generador de cursos - Brightspace
+HASH: b0a0fefdbfbf839df1d92f7e4ac4cc6c2d6904025a6108f4b77e6a9f0839393d
+TYPE: web
+
+Utilice el Generador de cursos para interactuar con los materiales, las experiencias de aprendizaje y las evaluaciones del curso en una interfaz consolidada que le permite visualizar y revisar todo el curso a la vez. La interfaz del Generador de cursos es simple y eficiente, y transforma el proceso de diseño y organización de cursos de varios pasos con distintas herramientas en acciones sencillas de un solo paso.
+A medida que crea el curso, el Generador de cursos interactúa con las siguientes herramientas de Brightspace:
+- Herramienta de contenido
+- Administrar archivos
+- Debates
+- Asignaciones
+- Cuestionarios
+- Calificaciones
+- Competencias
+El Generador de cursos también amplía las guías de diseño educativas que proporciona el Asistente de diseño instructivo mediante la implementación y la visualización del anteproyecto que crea en el asistente. Si decide no utilizar el Asistente de diseño instructivo, el Generador de cursos le permite incorporar prácticas recomendadas de diseño educativo cuando planifique el curso. A medida que crea un bosquejo del curso con módulos y marcadores de posición, puede agregar notas a cada módulo y marcadores de posición con comentarios breves sobre las metas del curso y los objetivos de aprendizaje. Una vez que esté listo, puede completar su bosquejo al crear lecciones y actividades apropiadas dentro del Generador de cursos.
+Requisitos
+Para usar la herramienta Generador de cursos, se requiere lo siguiente:
+- Para ver y usar la herramienta Generador de cursos, debe tener los permisos de Generador de cursos requeridos aplicados a su rol. Solo el administrador de su organización puede acceder a estos permisos.
+- Para agregar la herramienta Generador de cursos a la barra de navegación de su curso, debe tener los permisos de Barra de navegación necesarios aplicados a su rol. Para obtener más información sobre cómo agregar una herramienta o un enlace a la barra de navegación del curso, consulte el tema Personalice la barra de navegación del curso.
+Importante: También puede localizar las herramientas disponibles del curso si va a Administración del curso en la barra de navegación. Si no encuentra la herramienta Generador de cursos en su instancia de Brightspace, comuníquese con el administrador de su organización para obtener los permisos necesarios.
+¿Cuál es la relación entre Generador de cursos y Contenido?
+Cuando agrega módulos, marcadores de posición y recursos al árbol del curso, el Generador de cursos se sincroniza con varias herramientas de Brightspace, incluida la herramienta Contenido.
+La manera en que el Generador de cursos interactúa con la herramienta Contenido depende de lo que agregue al árbol del curso:
+- Cuando agrega un módulo al árbol del curso, el sistema genera un módulo de contenido que aparece en la herramienta Contenido.
+- Cuando agrega un marcador de posición al árbol del curso, el sistema genera un tema de contenido vacío. El tema de este contenido se encuentra oculto de la herramienta Contenido hasta el momento en que adjunta un recurso al marcador de posición.
+- Cuando agrega un recurso al árbol del curso, el sistema genera un tema de contenido. Este tema de contenido es visible en la herramienta Contenido. Si edita el nombre o las notas del marcador de posición de un recurso en el Generador de cursos, editará el nombre y los comentarios compartidos del diseñador del tema de contenido correspondiente en la herramienta Contenido.
+Para ver cómo se muestra el contenido del Generador de cursos a los estudiantes, en la navegación de la herramienta, acceda al área de Contenido.
+Descripción general de la interfaz del Generador de cursos
+La interfaz del usuario del Generador de cursos consta de tres secciones.
+Terminología del Generador de cursos
+Comprender los nodos y el árbol del curso
+El árbol del curso representa el contenido del curso como una jerarquía de nodos anidados. La apariencia de cada nodo denota su tipo, el tipo de recurso que contiene y las acciones que se pueden realizar en él.
+El primer nodo en el árbol del curso es el nodo del curso. Cuando lo selecciona, puede cambiar la información de su oferta de cursos en el panel de nodo seleccionado.
+Figura: Elementos del nodo del generador del curso.

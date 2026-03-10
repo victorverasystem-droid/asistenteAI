@@ -1,0 +1,24 @@
+URL: https://community.d2l.com/brightspace-es-MX/kb/articles/16424-acerca-del-calendario
+TITLE: Acerca del calendario - Brightspace
+HASH: ab56fab46cb1ed4e9c542d37538f41e02fd10294f2fa2599464c623ee164acf8
+TYPE: web
+
+Mostrar todos los próximos eventos a los alumnos en un solo lugar. Publique eventos como fechas de vencimiento del proyecto, horas de oficina, eventos en clase y más en el calendario.
+Requisitos
+Para usar la herramienta Calendario, se requiere lo siguiente:
+- Para ver y usar la herramienta Calendario, debe tener los permisos de Calendario requeridos aplicados a su rol. Solo el administrador de su organización puede acceder a estos permisos.
+- Para agregar la herramienta Calendario a la barra de navegación de su curso, debe tener los permisos de Barra de navegación necesarios aplicados a su rol. Para obtener más información sobre cómo agregar una herramienta o un enlace a la barra de navegación del curso, consulte el tema Personalice la barra de navegación del curso.
+Importante: También puede localizar las herramientas disponibles del curso si va a Administración del curso en la barra de navegación. Si no encuentra la herramienta Calendario en su instancia de Brightspace, comuníquese con el administrador de su organización para obtener los permisos necesarios.
+Nota: También puede presentar la información de calendario en la página de inicio de su curso mediante el componente Calendario. Consulte el tema Crear una página de inicio basada en componentes para obtener información sobre cómo agregar componentes a la página de inicio de su curso.
+Recorrido visual de la herramienta Calendario
+Una vez que haya cumplido los requisitos de permiso y haya agregado la herramienta a la barra de navegación de su curso, seleccione Calendario.
+Figura: Descripción general de la interfaz de la herramienta Calendario.
+Acceda a las siguientes funciones:
+- Utilice el área Vistas de calendario para alternar entre diferentes diseños de visualización de eventos.
+- Con la vista de diario, agrupe los eventos de su curso por fecha, Curso o Categoría (los eventos se muestran en orden cronológico y los eventos de día entero en la parte superior de cada listado agrupado).
+- Con las vistas de día, semana y mes, agrupe sus eventos en incrementos diarios, semanales o mensuales.
+- Con la vista de lista, filtre sus eventos por asignaciones, listas de control, debates, calificaciones, materiales, módulos, cuestionarios y encuestas.
+- Utilice el área de contenido de calendario para navegar por su contenido. La navegación varía en función de la vista que seleccione.
+- Con el menú de calendario, seleccione varios calendarios para visualizar, cambie el esquema de color asociado a los calendarios individuales y agregue nuevos calendarios.
+- Con el minicalendario, navegue rápidamente a un día, una semana o un mes específicos.
+- Utilice el panel de tareas para crear, controlar y mantener las tareas personales.

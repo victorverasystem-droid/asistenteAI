@@ -1,0 +1,52 @@
+URL: https://community.d2l.com/brightspace-es-MX/kb/articles/15179-navegue-en-brightspace-y-busque-su-curso
+TITLE: Navegue en Brightspace y busque su curso - Brightspace
+HASH: d9d31df2d713050f837243d59b6e988492c0b7aec739dc3d9bb6358ed27b64b4
+TYPE: web
+
+Obtenga más información acerca de la página de inicio de la organización de Brightspace, cómo encontrar un curso en su organización y cómo navegar por la página de inicio a nivel de curso.
+Navegue por la página de inicio de su organización
+La página de inicio de la organización de Brightspace está diseñada para permitir que su trabajo sea más fácil y eficiente y ofrecerle un mayor alcance cuando se trata de involucrar a sus estudiantes.
+Figura: Navegue por los elementos de la página de inicio de su organización
+- El botón Inicio: vuelva fácilmente a su página de inicio de la organización desde cualquier lugar de Brightspace
+- La barra de navegación superior: acceda a cualquier curso en el que esté inscrito o que esté impartiendo, a las notificaciones globales y a la configuración de su perfil. En su nombre de usuario ubicado en la barra de navegación superior, puede realizar cambios en su perfil de usuario, recibir Alertas de actualización, administrar la Configuración de la cuenta y cerrar sesión.
+- La barra de navegación: es una lista de herramientas que aparece en su página para acceder cómodamente a las potentes funciones de Brightspace; la puede configurar su equipo administrativo.
+- Página de inicio basada en componentes: las páginas de inicio se pueden personalizar con los componentes de Brightspace. Los componentes, como Anuncios, Evaluación rápida, Calendario y acceso a cualquier curso en el que esté inscrito con el componente Mis cursos, son herramientas potentes que aumentan y enriquecen la experiencia del usuario.
+Video: Navegar por Brightspace
+Encuentre su curso
+En la página de inicio de la organización, seleccione el curso deseado utilizando el componente Mis cursos o el Selector de cursos.
+Figura: Vaya a sus cursos utilizando el componente Mis cursos o el Selector de cursos en la página de inicio de su organización.
+En el componente Mis cursos, los cursos tienen imágenes asociadas y los estudiantes pueden acceder a sus cursos favoritos si los anclan a la parte superior de su lista de cursos. En la vista móvil, los componentes se apilan uno sobre otro, y el componente Mis cursos ofrece numerosas opciones a los instructores.
+Con este componente, los instructores y estudiantes ven los cursos ordenados por fecha de inscripción y priorizan las inscripciones actuales. Los administradores y los usuarios avanzados ven los cursos ordenados por la última fecha de acceso. Si hay menos de 50 inscripciones en total, se ordenan de la siguiente manera:
+En el componente Mis cursos, se muestran los cursos anclados de forma manual en la pestaña Anclados. En la pestaña Todos se muestran primero los cursos anclados, seguidos de las inscripciones actuales y luego las futuras (si están disponibles o visibles para el usuario) para un total de 12 inscripciones.
+En el menú desplegable del selector de cursos se muestran los cursos anclados manualmente, seguidos de las inscripciones actuales y luego las futuras (si están disponibles y visibles para el usuario) y, por último, las inscripciones pasadas (si están visibles para el usuario).
+Con la opción Ver todos los cursos, se profundiza en los cursos, ya que se muestran los que están anclados manualmente, seguidos de las inscripciones actuales, luego las futuras (si están disponibles y visibles para el usuario) y, por último, las inscripciones pasadas (si están disponibles o visibles para el usuario) como orden predeterminado. Si el usuario cambia el orden, el filtro no separa los cursos anclados de otros cursos según el orden, los filtros y los términos de búsqueda.
+Si hay más de 50 inscripciones en total, se ordenan de la siguiente manera:
+- En el componente Mis cursos, se muestran los cursos anclados de forma manual en la pestaña Anclados. En la pestaña Todos, a los cursos anclados de forma manual los siguen cursos a los que accedió, hasta los 12 últimos. Tenga en cuenta que es probable que aparezcan más de 12 cursos en el componente si se anclan manualmente.
+- En el menú desplegable del Selector de cursos, se muestran los cursos anclados manualmente, seguidos de los últimos 12 cursos a los que se accedió y luego todos los cursos restantes disponibles para el usuario.
+- En el área Ver todos los cursos se muestran los cursos anclados manualmente, seguidos de los últimos 12 cursos a los que se accedió y luego todo los cursos restantes disponibles o visibles para el usuario, como orden predeterminado. Si el usuario cambia el orden, el filtro no separa los cursos anclados de otros cursos según el orden, los filtros y los términos de búsqueda.
+- Además, puede usar Personalizar este componente para configurar el componente Mis cursos a fin de que muestre las pestañas que organizan los cursos por Nombre del semestre, Departamento o Rol para la organización. Puede optar por aplicar el orden alfabético o alfabético inverso en las pestañas Nombre del semestre y Departamento. Los usuarios pueden visualizar fácilmente todos los cursos mediante un clic en cada pestaña.
+Las siguientes alertas están disponibles en el componente Mis cursos:
+- startedInactiveAlert: tiene cursos iniciados, pero están inactivos. Los usuarios no pueden acceder a estos cursos. : solo los administradores y los instructores que tienen acceso a cursos inactivos pueden ver esta alerta.
+- noCoursesMessage: no tiene ningún curso para mostrar. : solo los instructores nuevos y los estudiantes nuevos que aún no se han inscrito en ningún curso pueden ver esta alerta.
+Navegue por la página de inicio a nivel del curso
+A nivel del curso, la barra de navegación de la página de inicio cambia para reflejar las herramientas que están disponibles en su curso. Dedicará la mayor parte de su tiempo a administrar y editar su curso en Contenido.
+Figura: Navegue por los elementos de la página de inicio de su curso.
+Su página de inicio del curso tiene características similares a la página de inicio de la organización. Hay algunos puntos clave de navegación para optimizar su tiempo en el curso:
+- Título del curso: seleccione el título del curso para volver a la Página de inicio del curso.
+- Contenido: el contenido es la herramienta todo en uno para crear y administrar todos los materiales del curso. Recomendamos utilizar esta herramienta como la forma más eficiente de establecer enlaces con las diversas herramientas a lo largo del curso.
+- Componente de Noticias: este componente lo ayuda a mantenerse conectado con sus estudiantes, ya que facilita el acceso a las noticias y la creación de estas.
+- Administración del curso: si no puede encontrar una herramienta en algún momento, Administración del curso proporciona una lista de todas las herramientas habilitadas en su curso.
+Barra de navegación del curso
+La barra de navegación contiene enlaces a herramientas y recursos específicos de cursos y de todas la organización. Cada curso (o unidad de organización) tiene su propia barra de navegación que enlaza las herramientas relevantes para ese curso. Puede crear enlaces y grupos de enlaces personalizados si desea incluir enlaces URL a herramientas de terceros y a otras áreas de Brightspace.
+Su organización o departamento específico pueden compartir barras de navegación con cursos y otras unidades de organización para asegurar la marca y la navegación consistentes. Si tiene permiso para administrar barras de navegación, puede usar una barra de navegación compartida o crear una barra de navegación específicamente para su curso. Las nuevas ofertas de cursos (o unidades de organización) utilizan la barra de navegación predeterminada que define la organización (o la unidad de organización principal).
+Las barras de navegación creadas a nivel del curso no se pueden compartir con otros cursos, pero puede crearlas y guardarlas dentro de la plantilla de un curso para que estén disponibles en las ofertas de cursos que usan dicha plantilla.
+Las barras de navegación constan de dos componentes: un tema que controla la apariencia de la barra de navegación y la barra de navegación misma, que controla los enlaces disponibles en ella.
+A nivel de la organización, las barras de navegación enumeradas en la página Barras de navegación muestran información acerca de si una barra de navegación se comparte con otras unidades de organización. A nivel de oferta de cursos, todas las barras de navegación que aparecen en la página Barras de navegación muestran información sobre si son compartidas por otra unidad de organización (como un departamento, plantilla de curso o la organización) y el nombre de la unidad de organización que comparte la barra de navegación. Si tiene permiso para administrar barras de navegación compartidas, el nombre de la unidad de organización que comparte esta barra de navegación se convierte en un enlace a la página Barras de navegación donde se creó la barra de navegación.
+Solo puede compartir barras de navegación con unidades de organización secundarias bajo la unidad de organización en que fueron creadas. Por ejemplo, puede crear una barra de navegación en un departamento que solo puede compartir con todos los cursos de dicho departamento.
+No puede agregar todas las herramientas y funcionalidad a una barra de navegación. Algunas herramientas solo están disponibles en los componentes y en la barra de navegación superior. Ahora puede agregar un enlace en la barra de navegación a la página Lista de agentes.
+Página de inicio del curso
+La página de inicio es la primera página que usted ve cuando visualiza Mi página de inicio de la organización o ingresa a un curso. La típica página de inicio predeterminada está basada en componentes. Los componentes son secciones de contenido que ofrecen información y enlaces a herramientas, cursos y configuraciones personales. Las páginas de inicio de la organización y los cursos pueden enviarlo a las herramientas de Brightspace, como Anuncios o Contenido, o a una dirección URL externa.
+Los componentes son las "piedras angulares" de las páginas de inicio. Puede crear, editar, eliminar, personalizar y obtener una vista previa de los componentes en su organización.
+Existen dos tipos de componentes disponibles para sus páginas de inicio:
+- Componentes del sistema
+- Componentes personalizados

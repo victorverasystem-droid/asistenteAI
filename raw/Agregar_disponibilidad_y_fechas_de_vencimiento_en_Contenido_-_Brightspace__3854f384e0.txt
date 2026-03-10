@@ -1,0 +1,25 @@
+URL: https://community.d2l.com/brightspace-es-MX/kb/articles/16409-agregar-disponibilidad-y-fechas-de-vencimiento-en-contenido
+TITLE: Agregar disponibilidad y fechas de vencimiento en Contenido - Brightspace
+HASH: 3854f384e07fd58768e3acac9dc893c9eab59e275c769216b93fd71939491aea
+TYPE: web
+
+Las fechas de inicio y final especifican cuándo los estudiantes pueden acceder a un tema o módulo. Si están definidas, estas fechas aparecen en la página Próximos eventos y en la herramienta de calendario.
+- Fecha final comparación con fecha de vencimiento: establecer una fecha final posterior a la fecha de vencimiento permite a los estudiantes acceder al tema a través de la pestaña Vencido en el Calendario del curso una vez pasada la fecha de vencimiento.
+- Anulación de fecha de vencimiento: una fecha de vencimiento agregada al contenido vinculado a una asignación anula cualquier fecha final existente que sea posterior en el futuro.
+Para agregar disponibilidad y fechas de vencimiento en la experiencia de contenido nuevo
+- Vaya a Contenido.
+- Vaya al módulo en el que desea agregar disponibilidad y fechas de vencimiento, y haga clic en Opciones (…) > Editar.
+- En la página Editar tema, agregue la fecha de vencimiento deseada en el campo Fecha de vencimiento.
+- En el acordeón Fechas y condiciones de disponibilidad, ingrese una Fecha de inicio y una Fecha final. Uno o ambos campos pueden estar en blanco.
+- Active o desactive la Visibilidad.
+- Haga clic en Guardar y cerrar.
+Para agregar disponibilidad y fechas de vencimiento en la experiencia de contenido clásico
+- En la barra de navegación, haga clic en Contenido.
+- En la página Tabla de contenidos, haga clic en Edición masiva.
+- Para cualquier tema o módulo al que desee agregar disponibilidad o fechas de vencimiento, haga clic en Agregar fechas y restricciones.
+- Realice cualquiera de las siguientes acciones:
+- Para agregar una fecha de inicio, haga clic en Agregar fecha de inicio. Ingrese los detalles de la fecha de inicio.
+- Para agregar una fecha de vencimiento, haga clic en Agregar fecha de vencimiento. Ingrese los detalles de la fecha de vencimiento.
+- Para agregar una fecha final, haga clic en Agregar fecha final. Ingrese los detalles de la fecha final.
+- Haga clic en Actualizar.
+- Haga clic en Edición lista.

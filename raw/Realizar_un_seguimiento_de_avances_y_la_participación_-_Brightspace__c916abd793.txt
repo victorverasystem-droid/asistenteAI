@@ -1,0 +1,51 @@
+URL: https://community.d2l.com/brightspace-es-MX/kb/articles/16413-realizar-un-seguimiento-de-avances-y-la-participacion
+TITLE: Realizar un seguimiento de avances y la participación - Brightspace
+HASH: c916abd793027bc8cbeb7fde05f9185718143342216706daddf79622bdec3659
+TYPE: web
+
+La función de seguimiento de avances permite a los instructores establecer el método de realización de una actividad y proporciona indicadores de progreso para los estudiantes, a medida que realizan las actividades del curso. Existen dos tipos de seguimiento de avances que puede utilizar en su oferta de cursos:
+- Realización automática: un seguimiento de avances que determina automáticamente si los estudiantes han completado un tema cuando hacen clic en un tema para verlo. Para determinadas actividades, la función de seguimiento automático requiere que los usuarios participen en un debate, envíen un archivo o formulario o realicen una evaluación, como un cuestionario o encuesta, para poder completar correctamente dichas actividades.
+- Realización manual: un seguimiento de avances que los estudiantes definen manualmente. Los estudiantes pueden marcar la casilla de selección de finalización al final de cada tema de contenido para indicar que lo han completado.
+Si la opción de seguimiento automático de un tema se cambia a realización manual, se restablece el seguimiento de avances de dicho tema. Esto significa que los estudiantes podrían tener que volver al tema para marcarlo como completo; los estudiantes no necesitan volver a enviar archivos ni actividades de evaluación.
+Para la nueva solución SCORM, la marca de verificación que aparece en la plataforma de aprendizaje integrada solo se muestra cuando un estudiante completa el contenido SCORM (en lugar de cuando inicia el recurso).
+Administrar la configuración de seguimiento de avances para un tema en la Nueva experiencia de contenido (lecciones)
+Utilice el seguimiento de avances para supervisar el progreso de los estudiantes durante todo el curso en la Nueva experiencia de contenido. Los instructores pueden establecer los criterios de finalización de los temas como Automático o Manual en la página Editar para los siguientes tipos de contenido:
+- Enlaces de LTI
+- Enlaces web, incluidos Google Drive, MS OneDrive y Capture
+- Archivos del curso, incluidos archivos multimedia y HTML
+- Contenido del Modelo de referencia para recursos de software de cursos intercambiable, incluidos contenido importado, servicios de contenido y del repositorio de recursos de aprendizaje
+- Enlaces del repositorio de recursos de aprendizaje, incluidas URL y archivos
+Establecer la configuración de finalización de una página de contenido
+- Desde la página de inicio del curso, vaya a Contenido.
+- Seleccione el módulo en el que se encuentra el tema que desea actualizar.
+- Realice una de las siguientes acciones:
+- Si está agregando la configuración de finalización como parte del nuevo contenido, haga clic en Crear nuevo > Página, y complete los campos para el nuevo contenido.
+- Si está actualizando un tema existente, haga clic en el menú Opciones (…) y haga clic en Editar.
+Figura: Haga clic en Opciones > Editar para realizar cambios en el contenido existente.
+- Haga clic para expandir el acordeón Finalización.
+Figura: Haga clic en el acordeón Finalización para ampliar las opciones.
+- Realice una de las siguientes acciones:
+- Haga clic en Automáticamente al abrir (predeterminado durante la creación del tema).
+- Haga clic en Manual por el estudiante.
+- Haga clic en Guardar.
+En la Nueva experiencia de contenido, cuando los instructores creen nuevos temas mediante la opción Manual por el estudiante, los estudiantes ven el botón Marcar como completo la parte inferior de la página de contenido. La capacidad de los estudiantes para marcar un tema como completo de forma manual permite a los instructores y administradores de datos realizar un seguimiento más preciso de la finalización. Una vez que el tema esté completo, el botón ya no estará disponible y el mensaje junto al botón indicará que se marcó como completo.
+Administrar la configuración de seguimiento de avances para un tema en la Experiencia de contenido clásico
+Utilice el seguimiento de avances para supervisar el progreso de los estudiantes durante todo el curso.
+Para establecer la configuración del seguimiento de avances de un tema
+- Vaya a Contenido.
+- Haga clic en el tema cuya configuración desea modificar.
+- En el menú desplegable Opciones, realice una de las siguientes acciones:
+- Haga clic en Establecer como opcional para que el tema sea opcional y no parte del seguimiento de avances.
+Figura: Haga clic en Establecer como opcional en el menú Opciones.
+- Haga clic en Establecer como obligatorio para que el tema sea obligatorio y parte del seguimiento de avances.
+Figura: Haga clic en Establecer como obligatorio en el menú Opciones.
+Verificar el seguimiento de avances de un tema de contenido
+Utilice el seguimiento de avances para supervisar el progreso de los estudiantes durante todo el curso.
+Para verificar el seguimiento de avances de un tema de contenido, realice lo siguiente:
+- Vaya a Contenido.
+- Haga clic en el tema cuyos resultados de seguimiento de avances desea ver.
+- En la pestaña Resumen del nivel de avance, realice una de las siguientes acciones:
+- Para ver los resultados de todos los estudiantes del tema, haga clic en Todos.
+- Para ver todos los estudiantes que hayan completado el tema, haga clic en Completados.
+- Para ver todos los estudiantes que no hayan completado el tema, haga clic en Incompleto.
+Video: Seguimiento de avances de temas de contenido

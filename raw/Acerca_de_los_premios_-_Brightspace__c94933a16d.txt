@@ -1,0 +1,31 @@
+URL: https://community.d2l.com/brightspace-es-MX/kb/articles/22048-acerca-de-los-premios
+TITLE: Acerca de los premios - Brightspace
+HASH: c94933a16d23dc6e29677d0abaee6f88dcf4942c2cc60b22eeb0456a353789f0
+TYPE: web
+
+Acerca de los premios
+La herramienta Premios le permite otorgar a los estudiantes premios según el mérito. Existen dos tipos de premios: insignias y certificados.
+Insignias
+Las insignias se otorgan de acuerdo con los criterios determinados por el instructor. Su propósito es ofrecer marcadores digitales que representan logros alcanzados durante un curso o programa. Las insignias no contribuyen a lograr una calificación aprobada; sin embargo, las insignias se otorgan por la obtención de logros que también pueden contribuir al tipo de ética de trabajo que genera como resultado una calificación aprobada. Por ejemplo, un instructor podría crear una insignia para otorgar por realizar 15 publicaciones en debates durante el primer mes de un curso, por una asistencia perfecta y por la excelencia académica. Estos elementos constituyen los tipos de tendencias que pueden ayudar a un estudiante a tener un desempeño satisfactorio en un curso o programa.
+Certificados
+Los certificados también se otorgan de acuerdo con los criterios establecidos por el instructor. Los certificados son similares a las insignias; sin embargo, incluyen un archivo PDF que los usuarios pueden imprimir. Generalmente, los certificados son una declaración oficial de la certificación o el premio al término de un programa, pero pueden otorgarse durante el curso de acuerdo a distintos criterios. Los certificados pueden otorgarse tras la consecución de un hito que un estudiante puede utilizar para alcanzar un mayor desempeño satisfactorio a nivel académico o profesional, como aprobar un examen práctico. Los certificados tampoco contribuyen a lograr una calificación aprobada.
+Requisitos
+Para usar la herramienta Premios, se requiere lo siguiente:
+- Para ver y usar la herramienta Premios, debe tener los permisos de Premios requeridos aplicados a su rol. Solo el administrador de su organización puede acceder a estos permisos.
+- Para agregar la herramienta Premios a la barra de navegación de su curso, debe tener los permisos de Barra de navegación necesarios aplicados a su rol. Para obtener más información sobre cómo agregar una herramienta o un enlace a la barra de navegación del curso, consulte el tema Personalice la barra de navegación del curso.
+Importante: También puede localizar las herramientas disponibles del curso si va a Administración del curso en la barra de navegación. Si no encuentra la herramienta Premios en su instancia de Brightspace, comuníquese con el administrador de su organización para obtener los permisos necesarios.
+Nota: Si tiene el Paquete de expansión de componentes de la página de inicio, también puede utilizar el componente Ranking de Premiaciones para mostrar los 10 usuarios principales que han ganado insignias (premios) en el curso.
+Recorrido visual de la herramienta Premios
+Una vez que haya cumplido los requisitos de permiso y haya agregado la herramienta a la barra de navegación de su curso, seleccione Premios.
+Figura: Utilice la pestaña Premios del listado de alumnos de la herramienta Premios para emitir y revocar premios.
+- Pestaña Premios del listado de alumnos: emita y revoque premios para los estudiantes de su clase.
+- Emitir: seleccione un usuario de la lista y seleccione Emitir para enviarle un premio.
+- Revocar: seleccione un usuario de la lista y seleccione Revocar para quitar un premio.
+- Filtre y ordene el listado de alumnos mediante las opciones desplegables.
+- Filtre el listado de alumnos por las insignias o los certificados otorgados.
+Figura: Utilice la pestaña Premios del curso de la herramienta Premios para controlar la visibilidad de los premios y agregar premios a su curso.
+- Pestaña Premios del curso: comparta premios y agreguélos a su curso.
+- Seleccione la forma en que los usuarios de su curso pueden compartir premios.
+- Agregar premio al curso: elija de una lista de premios creados por el administrador de su organización.
+Nota: Si desea crear sus propios premios personalizados, comuníquese con su administrador para obtener los permisos de rol requeridos.
+- Revise todos los certificados y las insignias disponibles actualmente en su curso. Edite o elimine el premio si lo desea.

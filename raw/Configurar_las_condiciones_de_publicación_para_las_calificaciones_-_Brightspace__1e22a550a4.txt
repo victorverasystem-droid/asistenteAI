@@ -1,0 +1,15 @@
+URL: https://community.d2l.com/brightspace-es-MX/kb/articles/11078-configurar-las-condiciones-de-publicacion-para-las-calificaciones
+TITLE: Configurar las condiciones de publicación para las calificaciones - Brightspace
+HASH: 1e22a550a478bbfd342feeaf85ec212f0c09b6bee48627e3423e12ad12600089
+TYPE: web
+
+Las condiciones de publicación le permiten asociar elementos de calificación y categorías de cuaderno de calificaciones con otros elementos en Brightspace. Por ejemplo, puede exigir que los usuarios cumplan con algunos otros criterios, como completar un cuestionario o una asignación, antes de que un elemento de calificación específico aparezca en su cuaderno de calificaciones.
+Para configurar las condiciones de publicación de las calificaciones
+- Vaya a Calificaciones.
+- En la página Administrar calificaciones, haga clic en el elemento de calificación sobre el que desea configurar las condiciones de publicación.
+- En la pestaña Restricciones, en el área Condiciones de publicación, realice una de las siguientes acciones:
+- Haga clic en Adjuntar existente y, a continuación, marque la casilla de selección para cualquier condición que desee adjuntar. Haga clic en Adjuntar.
+- Haga clic en Crear y adjuntar y, a continuación, seleccione un Tipo de condición en la lista desplegable. Complete los Detalles de la condición que aparecen y haga clic en Crear.
+Figura: La pestaña Restricciones en la que se muestran las opciones para crear las condiciones de publicación.
+- En la lista desplegable, seleccione si Se debe cumplir con todas las condiciones o si Se debe cumplir con cualquiera de las condiciones para tener acceso al elemento de calificación o categoría.
+- Haga clic en Guardar y cerrar.

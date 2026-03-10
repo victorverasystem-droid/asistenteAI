@@ -1,0 +1,16 @@
+URL: https://community.d2l.com/brightspace-es-MX/kb/articles/11065-evaluar-asignaciones-con-esquemas-de-calificaciones
+TITLE: Evaluar asignaciones con esquemas de calificaciones - Brightspace
+HASH: ffc322e9c0b2f2877539afd50b316fb4a4f8619c4d26a9f4a54248a9bf571846
+TYPE: web
+
+Puede asociar un elemento de calificación del cuadro de selección a una asignación, lo que le permite evaluar los envíos de asignaciones con un esquema de calificaciones en lugar de ingresar un valor numérico directamente.
+Para evaluar asignaciones con esquemas de calificaciones en la experiencia de creación de asignaciones:
+- Vaya a Asignaciones.
+- En la página Asignaciones, haga clic en Nueva asignación.
+- Ingrese un Nombre para la asignación y las Instrucciones que desee.
+- En Calificación sobre, haga clic en Sin calificar para ingresar los puntos de la asignación.
+- Haga clic en Cuaderno de calificaciones y luego seleccione Editar o Vincular a existente.
+- En el cuadro de diálogo Editar o Vincular a existente, las siguientes opciones pueden aparecer en Crear y vincular a un nuevo elemento de calificación:
+- Si la herramienta de Calificaciones tiene categorías de calificación disponibles, se muestra la opción Elegir categoría de calificación. Al hacer clic en este botón, se muestran las categorías de calificación disponibles para la asociación.
+- Si la herramienta de Calificaciones tiene varios esquemas de calificaciones, se muestra la opción Cambiar tipo de calificación y esquema. Al hacer clic en este botón, se muestran los tipos de calificaciones y esquemas disponibles para la asociación.
+- Haga clic en Aceptar y luego en Guardar.

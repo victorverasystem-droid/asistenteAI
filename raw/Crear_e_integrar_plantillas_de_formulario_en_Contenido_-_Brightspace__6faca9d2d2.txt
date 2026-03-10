@@ -1,0 +1,20 @@
+URL: https://community.d2l.com/brightspace-es-MX/kb/articles/23483-crear-e-integrar-plantillas-de-formulario-en-contenido
+TITLE: Crear e integrar plantillas de formulario en Contenido - Brightspace
+HASH: 6faca9d2d212f62369a735bb69ca92282a91529692c5ab1101b86473bcd21da6
+TYPE: web
+
+Puede integrar plantillas de formulario a nivel de organización o de unidad de organización para recopilar información de los módulos y temas de los cursos en Contenido. Las respuestas de formulario que crean los usuarios luego se envían a sus Brightspace ePortfolio para referencia futura. Por ejemplo, puede pedir a los estudiantes que completen una respuesta de formulario para demostrar que comprenden una teoría en particular o para recopilar comentarios acerca de sus impresiones acerca de los métodos que se utilizan para fomentar el aprendizaje.
+Crear una plantilla de formulario para una unidad de organización
+- En la barra de navegación, haga clic en Administración del curso > Formularios.
+- Haga clic en Nueva plantilla de formulario.
+- Escriba los detalles del formulario. Haga clic en Guardar.
+- Realice cualquiera de las siguientes acciones:
+- Para agregar un campo del sistema a la plantilla, haga clic en Agregar campo del sistema. Seleccione sus campos y, a continuación, haga clic en Agregar.
+- Para agregar un campo personalizado a la plantilla, haga clic en Agregar campo personalizado. Escriba los detalles de sus campos y haga clic en Guardar.
+- Para agregar un encabezado de sección a la plantilla, haga clic en Agregar encabezado de sección. Escriba el nombre de encabezado y haga clic en Guardar.
+Integrar plantillas de formulario en Contenido
+Solo se pueden agregar plantillas de formulario que se crearon en el nivel de unidad de organización o que se crearon en el nivel de organización y se compartieron con el nivel de unidad de organización.
+- En la barra de navegación, haga clic en Contenido.
+- Navegue al módulo donde desea agregar una plantilla de formulario.
+- En el botón Actividades existentes, haga clic en Plantillas de formulario.
+- Seleccione el formulario que desea agregar.

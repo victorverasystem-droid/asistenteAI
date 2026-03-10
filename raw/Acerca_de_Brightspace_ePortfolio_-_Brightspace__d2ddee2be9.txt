@@ -1,0 +1,60 @@
+URL: https://community.d2l.com/brightspace-es-MX/kb/articles/23482-acerca-de-brightspace-eportfolio
+TITLE: Acerca de Brightspace ePortfolio - Brightspace
+HASH: d2ddee2be959a55eebe97635e9f205b29c3bbdf221db9a2fbb28a76c88404cd2
+TYPE: web
+
+Brightspace ePortfolio es una herramienta de portafolio personal para almacenar, organizar y compartir elementos que representan el aprendizaje y reflexionar sobre ellos. Puede incluir elementos como documentos, gráficos, archivos de audio, videos, presentaciones y trabajo del curso para demostrar su progreso o dominio en áreas específicas.
+Puede controlar qué elementos desea incluir en su portafolio, cómo organizarlos y con quién desea compartirlos. Cuando comparte elementos con sus pares, mentores o posibles empleadores, puede otorgarles permiso para ver elementos, editar elementos, ver o agregar comentarios y ver o agregar evaluaciones para recibir comentarios.
+Crear un grupo que comparte
+Puede crear grupos que comparten a nivel de la organización y de la unidad de organización.
+- En la barra de navegación, haga clic en Administración del curso > Grupos que comparten.
+- Haga clic en Nuevo grupo que comparte.
+- Introduzca los detalles del grupo que comparte.
+- Haga clic en Guardar y cerrar.
+- En la página Grupos que comparten, haga clic en el grupo que comparte creado recientemente.
+- Haga clic en Mostrar opciones avanzadas de compartir.
+- Realice cualquiera de las siguientes acciones:
+- Para permitir que otros usuarios en la unidad de organización actual utilicen el grupo que comparte, marque la casilla de selección Unidad de organización actual.
+- Si se encuentra en el nivel de organización, para permitir que los usuarios de otras unidades de organización utilicen el grupo que comparte, haga clic en Agregar unidades de organización. Seleccione las unidades de organización que desea agregar. Haga clic en Insertar.
+- Para compartir de forma automática los elementos con el grupo que comparte, marque la casilla de selección Compartir automáticamente elementos con este grupo que comparte. Esta configuración obliga a todos los usuarios (sin importar el rol) del curso a usar este grupo que comparte. Edite las opciones de uso compartido. Si oculta un grupo que comparte, los usuarios no podrán determinar qué elementos están compartiendo en forma automática ni los permisos que tienen.
+- Haga clic en Guardar.
+- Para agregar usuarios al grupo que comparte, haga clic en Agregar usuarios.
+- Busque los usuarios u ofertas de cursos que desea agregar. Haga clic en los usuarios o grupos de usuarios que desea agregar.
+- En el área Asignar permisos, seleccione los permisos para el grupo que comparte.
+- Haga clic en Agregar > Guardar y cerrar.
+Insertar elementos de Brightspace ePortfolio en otros
+Es posible insertar artefactos, reflexiones, presentaciones, colecciones y objetivos de aprendizaje en los Brightspace ePortfolio de otros usuarios para su propio uso.
+La funcionalidad de inserción permite a las organizaciones proporcionar ejemplos y elementos de plantilla de Brightspace ePortfolio a los estudiantes. Las organizaciones, los administradores o los instructores pueden personalizar el contenido de sus propios Brightspace ePortfolio y luego insertar el contenido en cursos o grupos que comparten. Esto le permite ofrecer un mejor apoyo, orientación y tareas genéricas de orientación a los usuarios.
+El sistema conserva las mismas propiedades de elementos durante un proceso de inserción que durante un proceso de exportación con las siguientes excepciones: los temas de presentación, incluidos los temas con los estilos modificados, se incluyen en una inserción; las Etiquetas se incluyen en una inserción; las Rúbricas asociadas con un elemento se incluyen en una inserción; las Rúbricas incrustadas en artefactos de formularios se incluyen en una inserción; y los Comentarios no se incluyen en una inserción.
+Puede revisar el estado de los procesos de inserción en la página Importar/exportar contenido del ePortfolio en la pestaña Inserciones realizadas hacia otras personas. Los procesos de inserción pueden demorar un poco en aparecer en los portafolios de los usuarios dependiendo del tamaño de los elementos, la cantidad de usuarios que reciben dichos elementos y la cantidad de procesos en cola.
+- En la barra de navegación, haga clic en Brightspace ePortfolio.
+- En el área Mis elementos, en el botón Más acciones, haga clic en la página Ir a Importar/Exportar.
+- Haga clic en Insertar.
+- Si desea incluir elementos relacionados con los elementos que está insertando, marque la casilla de selección Incluir automáticamente elementos asociados.
+- Haga clic en Agregar elementos. Seleccione los elementos que desea agregar.
+- Haga clic en Agregar siguiente.
+- Busque usuarios, grupos que comparten o cursos en los cuales insertar el contenido. Haga clic en los usuarios, grupos que comparten o cursos en los que desea insertar el contenido.
+- Haga clic en Insertar Sí.
+Nota: Asegúrese de que el elemento que va a insertar no se elimine antes de que se haya completado la inserción. Revise el estado del proceso de Importación o Exportación antes de limpiar los elementos de ePortfolio. En caso contrario, es posible que el destinatario no reciba sus elementos de ePortfolio.
+Acerca de los objetivos de aprendizaje y Brightspace ePortfolio
+Brightspace ePortfolio es compatible con dos configuraciones para facilitar los objetivos de aprendizaje: un enfoque dirigido por el programa y un enfoque independiente y autodirigido.
+En un enfoque dirigido por el programa, los instructores y los administradores del programa pueden insertar objetivos de aprendizaje (con elementos asociados) en el Brightspace ePortfolio de los estudiantes a nivel de organización, departamento, programa u oferta de cursos. En esta configuración, el estudiante puede:
+- Compartir elementos de objetivos de aprendizaje con los demás para generar comentarios
+- Asociar elementos de objetivos de aprendizaje con artefactos, reflexiones, colecciones y presentaciones que demuestren su aprendizaje
+- Mostrar los objetivos de aprendizaje en presentaciones
+- Crear presentaciones públicas basadas en objetivos de aprendizaje para obtener comentarios de personas externas a la organización
+- Eliminar objetivos de aprendizaje que ya no están alineados con su plan de aprendizaje
+El enfoque autodirigido permite a los usuarios seleccionar objetivos de aprendizaje de Brightspace para importarlos como elementos en Brightspace ePortfolio. Este modelo permite a los estudiantes definir sus propios planes de aprendizaje además de las acciones antes mencionadas.
+Disponibilidad de una estructura de competencias en Brightspace ePortfolio
+- En la barra de navegación, haga clic en Competencias.
+- Haga clic en Configuración.
+- Realice cualquiera de las siguientes acciones:
+- Para que las competencias estén disponibles para Brightspace ePortfolio, marque la casilla de selección Competencias.
+- Para que los objetivos de aprendizaje estén disponibles para Brightspace ePortfolio, marque la casilla de selección Objetivos de aprendizaje.
+- Para que los objetivos de aprendizaje huérfanos estén disponibles para Brightspace ePortfolio, marque la casilla de selección Objetivos de aprendizaje independientes.
+- Haga clic en Guardar.
+- En la Página de inicio de competencias, haga clic en la competencia que desea que esté disponible para Brightspace ePortfolio.
+- Realice los siguientes pasos:
+- Configure el estado de la competencia en Aprobada.
+- Seleccione Establecer la competencia y sus competencias secundarias como visibles para los usuarios. Si usted u otros usuarios tienen el permiso Administrar competencias, las competencias aprobadas aparecen como objetivos de aprendizaje en Brightspace ePortfolio, sin importar si marca esta casilla de selección o no.
+- Haga clic en Guardar.

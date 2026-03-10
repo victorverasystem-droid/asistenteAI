@@ -1,0 +1,18 @@
+URL: https://community.d2l.com/brightspace-es-MX/kb/articles/23481-acerca-de-los-artefactos-certificados-de-brightspace
+TITLE: Acerca de los artefactos certificados de Brightspace - Brightspace
+HASH: a3d3fefd1cd3d4b846e6120ebc9148cb4330bb1abfe6d9e575331a3a0aabd92a
+TYPE: web
+
+Si en la organización se utiliza tanto Brightspace ePortfolio como Brightspace, puede permitir a los usuarios importar elementos del curso como artefactos de aprendizaje a Brightspace ePortfolio. Puede permitirle a los usuarios importar artefactos de aprendizaje de las siguientes herramientas:
+- Cuestionarios
+- Asignaciones
+- Calificaciones
+- Competencias
+Los artefactos de Brightspace difieren de otros artefactos en que no se pueden modificar. Estos registran un material enviado o logro en un punto específico del tiempo. Los artefactos de Brightspace no se actualizan cuando se cambian los elementos de un curso, los usuarios solo pueden modificar su nombre, descripción y etiquetas. Los usuarios no pueden modificar el contenido real.
+Si un usuario importa los resultados de un cuestionario o de la asignación a Brightspace ePortfolio, los objetivos de aprendizaje asociados con el cuestionario o la asignación también se importan automáticamente con una asociación a los artefactos correspondientes.
+Activar artefactos certificados de Brightspace
+Puede permitir cualquiera o todas las siguientes opciones: Artefactos de cuestionarios, Artefactos de asignaciones, Artefactos de calificación o Artefactos de competencias.
+- Para activar los artefactos del cuestionarios, en la página Editar cuestionario de un cuestionario, en la pestaña Evaluación, seleccione Permitir a los usuarios agregar el resultado de este cuestionario a su Brightspace ePortfolio.
+- Para activar los artefactos de Asignaciones, en la página Editar carpeta de una carpeta de envíos de asignaciones, seleccione Permitir a los usuarios agregar esta carpeta a su Brightspace ePortfolio.
+- Para permitir artefactos de calificación en la página Configuración de Calificaciones, en la pestaña Opciones de visualización de la unidad de organización, seleccione Permitir a los usuarios agregar las calificaciones a su Brightspace ePortfolio.
+- Para permitir los artefactos de competencias, en la página Configuración de Competencias, seleccione Permitir a los usuarios agregar las competencias a sus Brightspace ePortfolio.

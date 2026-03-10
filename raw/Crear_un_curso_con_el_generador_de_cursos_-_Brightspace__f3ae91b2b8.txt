@@ -1,0 +1,53 @@
+URL: https://community.d2l.com/brightspace-es-MX/kb/articles/11088-crear-un-curso-con-el-generador-de-cursos
+TITLE: Crear un curso con el generador de cursos - Brightspace
+HASH: f3ae91b2b8af39835461fe653fb4146fefb28c534fc188312b5c8774340d6c7f
+TYPE: web
+
+El generador de cursos le da la opción de crear módulos de curso, marcadores de posición y otros recursos que se agregan automáticamente al contenido.
+Agregar un módulo o marcador de posición
+Arrastre y suelte módulos y marcadores de posición para crear la estructura de su curso. Esto le permite planificar sus charlas, temas de debate, actividades, pruebas y otras actividades del curso antes de comenzar a crearlos. Además, puede copiar y pegar las estructuras para construir el esqueleto de su curso.
+Para agregar un módulo o marcador de posición:
+- En la barra de navegación, haga clic en Administración del curso.
+- Haga clic en Generador de cursos.
+- En la sección Crear esquema de la caja de herramientas, realice una de las siguientes acciones:
+- Arrastre un módulo o marcador de posición al esquema del curso en la ubicación que desee.
+- Haga clic en un elemento de un módulo o marcador de posición. En el cuadro de diálogo Seleccionar una ubicación, haga clic en la ubicación en la que desea agregar el módulo o el marcador de posición.
+- Ingrese los detalles del módulo o del marcador de posición.
+- Haga clic en Crear.
+Agregar un recurso nuevo
+Cuando crea un recurso en la caja de herramientas o arrastra un recurso nuevo al árbol del curso, el Generador de cursos interactúa con la herramienta, lo que le permite proporcionar información básica y atributos. Esto agiliza el proceso de configuración sus recursos de manera que pueda concentrarse en desarrollar su curso. Desde la caja de herramientas o el panel de nodo seleccionado, puede iniciar la herramienta correspondiente de un recurso para completar y finalizar sus detalles.
+- En la barra de navegación, haga clic en Administración del curso.
+- Haga clic en Generador de cursos.
+- En la sección Agregar contenido de la caja de herramientas, realice una de las siguientes acciones:
+- Arrastre un tipo de recurso al árbol del curso en la ubicación que desee.
+- Haga clic en el tipo de recurso que desea crear. En el cuadro de diálogo Seleccionar una ubicación, haga clic en el módulo o marcador de posición al que desea agregar su recurso.
+- Introduzca los detalles del recurso.
+- Haga clic en Crear.
+Agregar un recurso existente
+- En la barra de navegación, haga clic en Administración del curso.
+- Haga clic en Generador de cursos.
+- En la sección Explorar herramientas de la caja de herramientas, busque el recurso existente que desea agregar al curso.
+- Realice una de las siguientes acciones:
+- Arrastre el recurso que desea agregar a su curso al árbol del curso en la ubicación deseada.
+- Marque la casilla de selección junto al recurso que desea agregar a la estructura de su curso y haga clic en Agregar al curso. En el cuadro de diálogo Seleccionar una ubicación, haga clic en el módulo o marcador de posición al que desea agregar su recurso.
+Agregar un nuevo recurso de evaluación
+Después de agregar recursos de actividad (debates, asignaciones y cuestionarios) a la estructura de su curso, puede asociarlos con recursos de evaluación (elementos de calificación y objetivos de aprendizaje). Si un recurso de evaluación ya se encuentra asociado con una actividad, dicha asociación aparece en los detalles del recurso de evaluación cuando examina recursos. Al mismo tiempo, un recurso de actividad muestra los detalles de calificación cuando está asociado con un recurso de evaluación.
+Para agregar un nuevo recurso de evaluación:
+- En la barra de navegación, haga clic en Administración del curso.
+- Haga clic en Generador de cursos.
+- En la sección Agregar contenido de la caja de herramientas, realice una de las siguientes acciones:
+- Arrastre un tipo de objeto de evaluación a un debate, una asignación o un cuestionario del árbol del curso.
+- Haga clic en el tipo de recurso de evaluación que desea crear. En el cuadro de diálogo Seleccionar una ubicación, haga clic en el debate, la asignación o el cuestionario en el que desea agregar el recurso de evaluación.
+- Introduzca los detalles del recurso de evaluación.
+- Haga clic en Crear.
+Agregar un recurso de evaluación existente
+- En la barra de navegación, haga clic en Administración del curso.
+- Haga clic en Generador de cursos.
+- En la sección Explorar herramientas de la caja de herramientas, busque el elemento de calificación o el objetivo de aprendizaje existente que desea agregar al curso.
+- Realice una de las siguientes acciones:
+- Arrastre el recurso de evaluación que desea a un debate, una asignación o un recurso de cuestionario en el árbol del curso.
+- Seleccione el botón de opción junto al recurso de evaluación que desea y haga clic en Agregar al curso. En el cuadro de diálogo Seleccionar una ubicación, haga clic en el debate, la asignación o el recurso de cuestionario al que desea agregar su elemento de calificación u objetivo de aprendizaje.
+Reparar recursos rotos
+La eliminación o movimiento de archivos, enlaces, debates, carpetas para envío de asignaciones y cuestionarios dentro de sus respectivas herramientas puede generar recursos rotos. Si un recurso se desvincula, el generador de cursos muestra un ícono de estado de enlace desvinculado dentro de su nodo. El recurso se convierte en un marcador de posición, y mantiene su nombre y sus notas.
+Para reparar recursos rotos:
+- Arrastre un recurso desde la caja de herramientas hasta el marcador de posición.

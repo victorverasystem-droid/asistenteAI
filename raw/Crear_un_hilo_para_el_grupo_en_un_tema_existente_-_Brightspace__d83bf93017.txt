@@ -1,0 +1,14 @@
+URL: https://community.d2l.com/brightspace-es-MX/kb/articles/11097-crear-un-hilo-para-el-grupo-en-un-tema-existente
+TITLE: Crear un hilo para el grupo en un tema existente - Brightspace
+HASH: d83bf93017a503de63b656f5774aa4de3e9ad87387b29a0dc0980a5dab781992
+TYPE: web
+
+Los instructores pueden asociar temas de debate existentes a un nuevo grupo o sección durante el proceso de creación del grupo o de la sección. Además, los instructores pueden asociar temas de debate existentes a grupos o secciones no asociados con ningún otro tema de debate. Tenga en cuenta que los usuarios solo pueden asociar temas existentes que no cuenten con publicaciones de debate.
+Asegúrese de que la opción Curso tiene secciones esté activada en Información de oferta de cursos.
+- Vaya a Grupos.
+- Haga clic en Nueva categoría.
+- En el menú desplegable Opciones adicionales, seleccione Configurar áreas de debate.
+- Seleccione una de las siguientes opciones:
+- Crear un nuevo tema: para crear un nuevo tema que se restrinja a esta categoría de grupo.
+- Adjuntar a tema existente: a fin de crear un hilo restringido para el grupo en un tema existente. Esto solo está disponible para los temas vacíos sin publicaciones ni restricciones de grupos anteriores.
+- Haga clic en Guardar.

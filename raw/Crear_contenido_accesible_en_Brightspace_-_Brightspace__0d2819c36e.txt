@@ -1,0 +1,132 @@
+URL: https://community.d2l.com/brightspace-es-MX/kb/articles/15177-crear-contenido-accesible-en-brightspace
+TITLE: Crear contenido accesible en Brightspace - Brightspace
+HASH: 0d2819c36e9415c9d2051448d84ea094ad5f9d6c2719632f754981df85e5c094
+TYPE: web
+
+Crear e insertar una Video Note en el editor de Brightspace
+Puede usar Video Note en varios lugares de Brightspace, como por ejemplo, Contenido, Debates, Fuente de actividades e incluso, cuando califica y proporciona comentarios a sus estudiantes.
+Crear e insertar una Video Note con la Nueva experiencia de contenido
+- Vaya a Contenido.
+- En el módulo al que desea agregar su Video Note, haga clic en Crear nueva > Nueva lección.
+- En el editor de Brightspace, haga clic en Insertar objetos.
+- En el cuadro de diálogo Insertar objetos, haga clic en Agregar Video Note.
+- Si lo desea, active la opción Audio solamente. Luego, haga clic en Nueva grabación.
+- Haga clic en Siguiente.
+- Ingrese el Título, la Descripción y seleccione el Idioma de audio para su Video Note. Si lo desea, marque la casilla de selección Generar subtítulos automáticamente a partir del audio.
+- Haga clic en Siguiente.
+- Haga clic en Insertar.
+Crear e insertar una Video Note con contenido clásico
+-
+En Contenido, haga clic en Cargar/crear y seleccione Crear un archivo.
+- Haga clic en Insertar objetos.
+- Haga clic en Agregar nota de video.
+- Para grabar su mensaje, haga clic en Nueva grabación.
+- Para finalizar su mensaje, haga clic en Detener grabación.
+- Haga clic en Siguiente.
+- Ingrese un Título, una Descripción y seleccione el Idioma de audio.
+- Para generar subtítulos automáticamente, seleccione Generar subtítulos automáticamente a partir del audio.
+- Haga clic en Siguiente.
+- Haga clic en Insertar.
+Para cargar una Video Note o seleccionar un archivo de Video Note existente en la Nueva experiencia de contenido:
+- Vaya a Contenido.
+- En el módulo al que desea cargar una Video Note existente, haga clic en Agregar existente > Más.
+- En el cuadro de diálogo Materiales del curso, haga clic en Biblioteca multimedia.
+- Seleccione la Video Note que desea cargar y haga clic en Siguiente.
+- Si lo desea, edite el Título de la Video Note. A continuación, haga clic en Insertar.
+Para cargar una Video Note o seleccionar un archivo de Video Note existente en contenido clásico:
+- En el editor de Brightspace, haga clic en Insertar objetos.
+- Seleccione Cargar archivo o Elegir existente.
+Si selecciona Cargar archivo, haga lo siguiente:
+- Haga clic en Elegir archivo y seleccione el archivo local que desee cargar.
+- Haga clic en Siguiente e ingrese un título y una descripción.
+- Haga clic en Siguiente y, luego, en Insertar.
+Si selecciona Elegir existente, haga lo siguiente:
+- Seleccione Búsqueda de video notes.
+- Ingrese los términos de búsqueda en el campo Buscar notas y luego seleccione Buscar. También puede realizar una búsqueda en blanco para ver todos los resultados de búsqueda.
+- Seleccione la nota de video que desea insertar.
+- Haga clic en Agregar.
+Acerca de los archivos SRT
+Un archivo SRT es un archivo de extensión .srt que contiene una lista con formato de texto simple de códigos de tiempo (HH:MM:SS,MIL) unido a los subtítulos. Cada elemento de la lista se enumera secuencialmente a partir de 1. Puede crear su propio archivo SRT con un editor de texto simple como el Bloc de notas o TextEdit, y guardar el archivo con extensión .srt El siguiente es un ejemplo de un archivo .srt:
+1
+00:00:00,000 --> 00:00:07,000
+Hola, bienvenidos a esta presentación de CaptureCast.
+2
+00:00:07,050 --> 00:00:12,000
+Hoy voy a hablar de los cambios en tecnología de eLearning.
+3
+00:00:12,050 --> 00:00:20,000
+Este es un seminario de treinta minutos. Si lo desea, puede tomar notas durante la presentación.
+Cómo agregar subtítulos a una video note
+- Cree una video note en el editor de Brightspace con Insertar objetos.
+-
+Utilice un programa de edición de texto, como el Bloc de notas (PC) o TextEdit (Mac) para crear un archivo .vtt con el siguiente formato:
+WEBVTT [Necesario en la primera línea para indicar el tipo de archivo]
+00:01.000 --> 00:03.000 [marca horaria de inicio y fin en minutos:segundos.milisegundos]
+Ingrese el texto de los subtítulos aquí [Escriba los subtítulos que desea que se muestren durante esta parte del video]
+00:04.000 --> 00:08.000
+Ingrese el texto de los subtítulos aquí.
+00:09:000 --> 00:14.000
+Ingrese el texto de los subtítulos aquí.
+-
+Guarde el archivo de texto como un archivo .vtt incluyendo la extensión .vtt al final del nombre y seleccionando el tipo de archivo como Todos los archivos.
+-
+Regresar a Brightspace Learning Environment.
+- En Herramientas de administración, seleccione Subtítulos de video note.
+- Busque la video note creada en el paso anterior y haga clic en ella.
+- Haga clic en Seleccionar archivo, localice el archivo .vtt creado en los pasos anteriores y haga clic en Abrir.
+- Haga clic en Guardar subtítulos.
+- Haga clic en Vista previa de video y seleccione el menú de opciones (…).
+- Haga clic en Subtítulos para pasar de Subtítulos desactivados a Subtítulos predeterminados.
+- Reproduzca el video y confirme que los subtítulos sean visibles y aparezcan en los momentos adecuados. Nota: Asegúrese de seguir con exactitud el formato; en caso contrario, no aparecerán los subtítulos. Puede utilizar cualquier método de subtítulos de terceros compatible para completar este proceso.
+Configurar y utilizar Anthology Ally (anteriormente Blackboard Ally) para mejorar la accesibilidad de los cursos
+Anthology Ally es un servicio de accesibilidad al contenido que guía a los instructores sobre cómo mejorar la accesibilidad al contenido de sus cursos y modificar el comportamiento futuro. Anthology Ally también busca problemas de accesibilidad automáticamente y genera formatos accesibles alternativos. Además, Anthology Ally genera informes de toda la institución para los administradores sobre la accesibilidad al contenido de cursos e impulsa mejoras adicionales en su institución.
+Figura: La puntuación de accesibilidad al curso de su curso con Anthology Ally.
+Configuración y administración de Anthology Ally
+Los clientes trabajarán directamente con Anthology para adquirir licencias de Ally. Anthology entrega los detalles de configuración para agregarlos a la variable de configuración d2l.Tools.Content.AllyIntegration en Brightspace.
+Nota: De forma predeterminada, el nivel de instancia de la integración de Anthology Ally está activado y el nivel de organización de la integración de Anthology Ally está desactivado.
+Mejorar la accesibilidad del contenido del curso con Anthology Ally (anteriormente Blackboard Ally)
+Anthology Ally es un servicio de accesibilidad al contenido con licencia directa de Anthology. Está diseñado para ayudar a los instructores a mejorar la accesibilidad del contenido de sus cursos. Anthology Ally ofrece verificaciones de accesibilidad para el contenido del curso y la lección, sugerencias para mejorar el contenido y formatos accesibles alternativos a fin de que los estudiantes puedan utilizar el formato que mejor se adapte a sus necesidades.
+Anthology Ally proporciona una puntuación de accesibilidad que va de baja a alta mediante un ícono de color para mostrar la puntuación actual del archivo:
+El rojo indica una puntuación baja como resultado de muchos problemas de accesibilidad. Los archivos con esta calificación deben mejorarse lo antes posible.
+El color amarillo indica una puntuación de rango medio. Hay problemas de accesibilidad, pero existen oportunidades de mejora.
+El color verde claro indica una puntuación alta. El archivo es accesible, pero todavía existen oportunidades de mejora.
+El color verde oscuro indica una puntuación perfecta. El archivo es completamente accesible, por lo que no hay sugerencias para mejorar la accesibilidad del archivo.
+Un ejemplo de la Puntuación de accesibilidad de un elemento de contenido.
+El panel principal de puntuación de accesibilidad también contiene un enlace que abre el panel Comentarios del instructor. El panel Comentarios del instructor contiene la siguiente información:
+- Porcentaje de puntuación de accesibilidad de todo el archivo con el ícono de color u medición correspondiente.
+- Un enlace a una lista de todos los problemas en el archivo, con el botón Reparar que puede usar para arreglar, guardar y cargar el archivo con la puntuación de accesibilidad mejorada.
+Figura: El menú Problemas de accesibilidad con el botón Reparar al lado de cada problema.
+- Una descripción del problema y cómo solucionarlo.
+Figura: El menú Corrección de accesibilidad, que destaca áreas del contenido que tienen problemas de accesibilidad.
+- Una ventana de carga que puede usar para arrastrar y soltar una nueva versión del archivo o buscar el archivo actualizado.
+Informe sobre la accesibilidad de la estructura de organización existente
+Los administradores pueden crear un informe de nivel institucional a fin de identificar y eliminar de manera proactiva las barreras de aprendizaje para los estudiantes. Estos informes muestran los tipos de problemas que se producen en el contenido total, que incluyen:
+- Archivos PDF, .DOC y .DOCX, .PPT, OpenOffice/LibreOffice y HTML;
+- archivos de imagen como .JPG, .JPEG, .GIF, .PNG, .BMP y .TIFF y
+- videos de YouTube.
+Los informes muestran estos problemas que se crean con el tiempo, ordenados por los tipos de contenido a lo largo del tiempo, incluido el filtrado por año calendario, plazo académico y mes. Esta información contiene los errores que se producen en una organización, un curso y un archivo en un curso mediante el filtrado de un nivel alto a un nivel muy genérico. En el informe, se muestra una calificación basada en cómo eran los archivos del curso sin la intervención de Anthology Ally en comparación con una estimación de cómo se puede mejorar la calificación de accesibilidad en función de los cambios automatizados disponibles mediante el uso de las herramientas de Anthology Ally.
+Los administradores pueden exportar el informe a formato CSV para realizar un seguimiento a más largo plazo de las mejoras de accesibilidad.
+Uso de encabezados y puntos de referencia ARIA con tecnología de asistencia
+Los encabezados y los puntos de referencia de Accessible Rich Internet Applications (ARIA) lo ayudan a navegar por las páginas de todo el sistema. ARIA es un conjunto de herramientas que ayuda a que los sitios web y las aplicaciones web sean más fáciles de usar para las personas con discapacidades.
+Funciona agregando información adicional a las páginas web para que los lectores de pantalla y otras tecnologías de asistencia puedan comprender y describir elementos interactivos, como botones, formularios o mensajes emergentes, que de otra manera no serían accesibles. Por ejemplo, ARIA ayuda a garantizar que las personas que utilizan herramientas de asistencia puedan acceder a funciones como actualizaciones en vivo, sugerencias útiles o mensajes de error en un sitio web. Para obtener más información, consulte la Guía de prácticas de creación de ARIA > regiones de referencia.
+El uso de encabezados y puntos de referencia ARIA ayuda a navegar de muchas maneras, incluidas las siguientes:
+- El Encabezado 1 y los puntos de referencia Principal guía por los títulos de página.
+- El Encabezado 2 guía por los componentes y las secciones de página principales.
+- El Encabezado 3 organiza la información dentro de los componentes y las subsecciones de página.
+- Los puntos de referencia ARIA de Navegación, Búsqueda y Complementarios proporcionan contexto en una página.
+Uso de la navegación con teclado
+Algunas teclas del teclado tienen acciones específicas que puede utilizar para navegar por el sistema
+- Utilice la tecla Tab de su teclado para navegar por las opciones de una página. Utilice Mayús + Tab para volver a la opción anterior. Brightspace resalta los elementos de la página con los que puede interactuar (como, por ejemplo, enlaces, campos y botones) cuando se desplaza por ellos con la tecla Tab, esto le facilita realizar las tareas y seleccionar las opciones.
+- Presione Intro o Volver para seleccionar un enlace o botón.
+- Utilice las teclas Flecha hacia abajo y Flecha hacia arriba para navegar por las listas desplegables que tienen un botón de Aplicar o Ir para seleccionar la opción.
+- Utilice las teclas Alt + Flecha hacia abajo (Windows y Linux) u Opciones + Flecha hacia abajo (Mac) para abrir listas desplegables que no tienen un botón de Aplicar o Ir y, a continuación, utilice las teclas Flecha hacia arriba, Flecha hacia abajo e Intro para seleccionar un elemento de la lista desplegable.
+- Utilice la tecla Intro o Volver para abrir un menú (como un menú de contexto, una alerta o la lista del selector de curso). A continuación, utilice la tecla Tab o Intro para seleccionar un enlace.
+- Utilice la Barra espaciadora para marcar una casilla de selección o seleccionar un botón de opción.
+- Utilice las teclas Flecha hacia abajo y Flecha hacia arriba para cambiar los botones de opción.
+- No presione Alt + F4 para cerrar ventanas o páginas emergentes. Con esta acción, se cierra la ventana del explorador.
+Uso del verificador de accesibilidad en el contenido creado en HTML
+El verificador de accesibilidad le ofrece una manera de asegurarse de que el contenido que crea en el editor de Brightspace cumpla con las normas de accesibilidad WCAG y de la Sección 508. El verificador de accesibilidad está disponible en el editor para usarlo en Contenido, Componentes, Cuestionarios, Asignaciones, Calendario, Asignaciones, Debates y cualquier otro tipo de herramienta en la que el usuario pueda acceder al editor.
+- Ingrese el contenido HTML en el editor de Brightspace.
+- Haga clic en para iniciar el verificador.
+Figura: El Verificador de accesibilidad en el editor de Brightspace.
+- Si hay algún problema de cumplimiento, lea el informe para obtener sugerencias sobre cómo solucionar el problema.

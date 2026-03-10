@@ -1,0 +1,65 @@
+URL: https://community.d2l.com/brightspace-es-MX/kb/articles/10925-crear-un-sistema-de-calificacion
+TITLE: Crear un sistema de calificación - Brightspace
+HASH: 898de9ec8cfa8a70bfc6d252d24cb3841317af28007ed6ab18eee59217a62190
+TYPE: web
+
+Puede elegir cómo los elementos de calificación contribuyen a la calificación final seleccionando un sistema de calificación en Calificaciones. Brightspace admite tres tipos de sistemas de calificación: Ponderado, Puntos y Fórmula. Elija la opción que coincida con el diseño de su curso y, a continuación, configure su cuaderno de calificaciones.
+Elegir el sistema de calificación
+Su sistema de calificación controla cómo cada elemento de calificación contribuye a la calificación final.
+Use una de las siguientes opciones:
+- Ponderado: los elementos o categorías de calificación representan porcentajes de un 100 % final.
+- Puntos: la calificación final es la cantidad total de puntos ganados en todos los elementos.
+- Fórmula: utilícela para cálculos personalizados que los sistemas Ponderado o Puntos no puedan expresar.
+Para elegir el sistema de calificación:
+- Vaya a Calificaciones > Configuración.
+-
+Seleccione Opciones de cálculo.
+- Seleccione Ponderado, Puntos o Fórmula.
+Consulte Tipos de sistemas de calificación a fin de obtener ayuda para elegir la opción correcta.
+Consulte Configurar el Cuaderno de calificaciones para obtener pasos detallados del asistente.
+Planificar el cuaderno de calificaciones
+Su cuaderno de calificaciones incluye el sistema de calificación, los cálculos de las calificaciones, el esquema de calificaciones, los elementos de calificación y las opciones de visualización y pantalla. Debe configurar su cuaderno de calificaciones antes de utilizar la herramienta Calificaciones.
+En la planificación de su cuaderno de calificaciones considere lo siguiente:
+- Qué elementos de calificación planea evaluar.
+- Cómo asignará los puntos y las ponderaciones entre todos los elementos de calificación.
+- Qué elementos de calificación desea asociar con los recursos de un curso. Tenga en cuenta que solo los elementos de calificación numérica pueden asociarse con los objetos del curso.
+- Si incluirá una calificación de hito (por ejemplo, una calificación de mitad de trimestre).
+- Qué esquema de calificaciones aplicará para calcular las calificaciones finales. Para obtener más información, consulte Crear Esquemas de calificación con la herramienta Calificaciones.
+Crear categorías y elementos de calificación
+Después de seleccionar su sistema de calificación, agregue las categorías y los elementos que componen su calificación final.
+Los elementos de calificación representan evaluaciones en su curso. Puede mantenerlos independientes o asociar elementos numéricos con herramientas como Asignaciones, Debates o Cuestionarios.
+Para crear categorías y elementos
+- Vaya a Calificaciones > Administrar calificaciones.
+- Seleccione Nuevo, luego elija Categoría o un tipo de elemento.
+- Configure los ajustes (puntos/ponderaciones, extra/exclusión, visibilidad) y, luego, seleccione Guardar y cerrar.
+Para asociar elementos con las herramientas del curso
+- Cree la actividad en su herramienta (por ejemplo, una Asignación).
+- En la configuración de actividad, seleccione o cree un Elemento de calificación y establezca los puntos máximos.
+- Publique evaluaciones en la herramienta para sincronizar los resultados con las Calificaciones.
+Consulte Crear y eliminar categorías y elementos de calificación para obtener procedimientos detallados.
+Sincronizar el cuaderno de calificaciones con otras herramientas
+El cuaderno de calificaciones se sincronizará automáticamente con los puntajes y los comentarios publicados que haya ingresado para los elementos de calificación en Asignaciones, Debates y Cuestionarios. Todos los puntajes y comentarios sobre elementos de calificación que ingrese de manera directa en Asignaciones, Debates y Cuestionarios de su cuaderno de calificaciones se sincronizarán directamente con las herramientas asociadas, y aparecerán en forma automática como elementos de calificación publicados visibles para los estudiantes.
+Si ingresa calificaciones en su cuaderno de calificaciones mediante la importación a través de CSV, importación a través de Excel o métodos de Interfaz de programación de aplicaciones de Brightspace para elementos de calificación en Asignaciones y Debates, estas también aparecerán automáticamente como comentarios publicados en las herramientas.
+Sincronizar con Assignments
+- Las puntuaciones y los comentarios que ingrese y publique para los elementos de calificación directamente en Asignaciones se sincronizarán en forma automática con Calificaciones, y aparecerán en su cuaderno de calificaciones.
+- Todas las puntuaciones y los comentarios que se retiren de la publicación se eliminarán automáticamente del cuaderno de calificaciones.
+- Las puntuaciones y los comentarios que ingrese y guarde como borradores no se volverán a sincronizar con las calificaciones hasta que se publiquen.
+Sincronizar con Discussions
+- Las puntuaciones y los comentarios que ingrese y publique para los elementos de calificación directamente en Debates se sincronizarán en forma automática con Calificaciones, y aparecerán en su cuaderno de calificaciones.
+- Todas las puntuaciones y los comentarios que se retiren de la publicación se eliminarán automáticamente del cuaderno de calificaciones.
+- Las puntuaciones y los comentarios que ingrese y guarde como borradores no se volverán a sincronizar con las calificaciones hasta que se publiquen.
+Sincronizar con Quizzes
+- Las calificaciones que ingrese directamente en Cuestionarios se sincronizarán en forma automática con las calificaciones, y aparecerán en su cuaderno de calificaciones.
+- Las puntuaciones y los comentarios para los elementos de calificación de cuestionarios que ingrese directamente en su cuaderno de calificaciones se sincronizarán en forma automática con Cuestionarios, y sobrescribirán cualquier puntuación calculada para el cuestionario.
+- Las puntuaciones y los comentarios generales que ingrese y publique para los elementos de calificación directamente en Cuestionarios se sincronizarán en forma automática con Calificaciones, y aparecerán en su cuaderno de calificaciones.
+- Todas las puntuaciones y los comentarios que se retiren de la publicación se eliminarán automáticamente del cuaderno de calificaciones.
+- Las puntuaciones y los comentarios generales que ingrese y guarde como borradores no se volverán a sincronizar con las calificaciones hasta que se publiquen.
+- Los puntajes y comentarios que ingrese para los intentos de cuestionario en Cuestionarios solo se sincronizarán con Calificaciones si seleccionó Actualizar automáticamente las evaluaciones en el cuaderno de calificaciones cuando se publiquen para el cuestionario. Si no ha habilitado Actualizar automáticamente las evaluaciones en el cuaderno de calificaciones cuando se publiquen, el puntaje y los comentarios del intento de cuestionario no se sincronizarán con su cuaderno de calificaciones hasta que seleccione Exportar a calificaciones, y publique el puntaje y los comentarios del intento.
+Términos clave (referencia rápida)
+Categorías de calificación
+Las categorías de calificación organizan y agrupan los elementos de calificación relacionados en secciones en su cuaderno de calificaciones, por ejemplo, una categoría de calificaciones de las Asignaciones de redacción para agrupar elementos de asignación y una categoría de calificación de Participación en clase para agrupar los elementos de debate. Las categorías de calificación aparecen en Administrar calificaciones.
+Nota: Para obtener más información sobre las categorías de calificación, consulte Crear y eliminar categorías y elementos de calificación.
+Calificación calculada final
+La calificación final calculada mediante el cuaderno de calificaciones. No puede ajustar la calificación final sin ajustar las puntuaciones de los elementos de calificación.
+Calificación final rectificada
+Puede cambiar manualmente el cálculo de calificación final sin afectar los puntajes de los elementos de calificación.

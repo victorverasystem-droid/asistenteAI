@@ -1,0 +1,27 @@
+URL: https://community.d2l.com/brightspace-es-MX/kb/articles/10858-acceso-a-los-datos-de-progreso-de-la-clase-en-la-plataforma-de-datos-de-brightspace
+TITLE: Acceso a los datos de Progreso de la clase en la plataforma de datos de Brightspace - Brightspace
+HASH: 0afae8660cb026529bdc959446eb9b087f41af619070f9e4d35567f75a586f0f
+TYPE: web
+
+Cuando la plataforma de datos de Brightspace se incluye con la plataforma de Brightspace, los instructores pueden acceder a los siguientes datos en la herramienta Progreso de la clase:
+- Identifique si los estudiantes descargan contenidos a nivel de tema, módulo o tabla de contenido. Por ejemplo, los instructores pueden ver las métricas de descarga de los indicadores de Resumen y Contenido para un curso específico.
+- Identifique los momentos en que los estudiantes acceden a sus cursos. Por ejemplo, en el indicador Acceso al curso, los instructores pueden ver información detallada del acceso al curso como, por ejemplo, cuándo fue la última vez que un estudiante accedió al curso y la cantidad total de días que accedió al curso.
+Nota: Cuando el acceso al curso está activado, el indicador Historial de inicios de sesión ya no contiene un campo Último curso al que se accedió. Además, en la Configuración de Progreso de la clase está disponible una casilla de selección de Acceso al curso para acceder a los datos en el informe de Progreso de la clase.
+Cuando se combina con otra métricas de acceso al contenido, estos datos proporciona a los instructores una imagen más detallada de la participación del estudiante.
+Nota: Si no almacenó los eventos en la plataforma de datos Brightspace, estas funciones no estarán disponibles. Para obtener más información, póngase en contacto con su administrador de cuentas de D2L.
+Personalice su panel de progreso de la clase
+Cambie el orden de los rastreadores o elija mostrar diferentes opciones de métricas.
+Para personalizar su panel
+-
+En Progreso de la clase, haga clic en Configuración.
+Figura: Opción Configuración en el panel de progreso de la clase.
+-
+Seleccione el menú desplegable junto a cada rastreador de progreso para cambiar el orden de los rastreadores o mostrar diferentes métricas de progreso.
+Figura: Opciones Mover hacia abajo y Reemplazar en la lista de indicadores de progreso de la clase.
+-
+Una vez que el panel aparezca en sus preferencias, haga clic en Guardar y cerrar.
+Ver los datos de desempeño de un estudiante individual
+Para ver las diez categorías de métricas en el Resumen de progreso de un estudiante específico, haga clic en el nombre del estudiante junto a la imagen en miniatura de su perfil o haga clic en la categoría de métrica específica.
+Figura: Resumen de progreso que destaca el nombre de los estudiantes y le permite ver más información de esos estudiantes específicos.
+Para comunicarse directamente con un estudiante desde el Progreso de la clase, coloque el cursor sobre la imagen de perfil del estudiante y haga clic en Enviar correo electrónico o Enviar mensaje instantáneo.
+Figura: Resumen de progreso de un estudiante.

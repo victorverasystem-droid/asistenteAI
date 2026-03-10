@@ -1,0 +1,12 @@
+URL: https://community.d2l.com/brightspace-es-MX/kb/articles/16408-integraciones-de-readspeaker-para-lecciones
+TITLE: Integraciones de ReadSpeaker para Lecciones - Brightspace
+HASH: c6fb69efb3c953d092a4d0c5643a4d047f021b28664d57fb6a63b945ce5a22ff
+TYPE: web
+
+La herramienta de Lecciones es compatible con las siguientes integraciones de ReadSpeaker:
+- La solución de integración de contenido HTML de ReadSpeaker habilita automáticamente la tecnología de texto a voz en línea ReadSpeaker para el contenido HTML en la herramienta Lecciones. Cualquier estudiante puede escuchar el contenido de su curso HTML leído en voz alta o descargarlo como un MP3 usando su navegador de Internet. Además, los estudiantes pueden resaltar y reproducir un subconjunto del contenido del curso.
+- La integración de ReadSpeaker docReader proporciona una versión de audio de los tipos de documentos compatibles en la herramienta Lecciones.
+Para habilitar las integraciones de ReadSpeaker
+- Póngase en contacto con ReadSpeaker para adquirir licencias y obtener claves de integración.
+- Implemente las integraciones de ReadSpeaker en su instancia de Brightspace, como se describe en los temas ReadSpeaker docReader y ReadSpeaker para contenido HTML.
+- En Contenido, haga clic en el ícono de ReadSpeaker Escuchar para iniciar la integración de ReadSpeaker.

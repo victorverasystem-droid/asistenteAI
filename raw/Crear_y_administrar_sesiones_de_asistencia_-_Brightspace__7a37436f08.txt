@@ -1,0 +1,17 @@
+URL: https://community.d2l.com/brightspace-es-MX/kb/articles/22496-crear-y-administrar-sesiones-de-asistencia
+TITLE: Crear y administrar sesiones de asistencia - Brightspace
+HASH: 7a37436f081801182f3495dd6b5f228786567603197a8b1c2e77bc2c3c075075
+TYPE: web
+
+Cree sesiones para las clases de sus cursos con el propósito de hacer un seguimiento más sencillo de la asistencia y la participación de los estudiantes.
+Crear y agregar sesiones de asistencia
+- Navegue a la herramienta Asistencia.
+- En la pestaña Registros de asistencia, haga clic en el menú Acciones del registro al que desea agregar sesiones. Luego, haga clic en Editar registro.
+Figura: Haga clic en Acciones > Editar registro del registro que desee editar.
+- En la página Editar registro, desplácese hasta la sección Sesiones.
+- En el campo situado debajo del gráfico de sesiones, ingrese la cantidad de sesiones que desea agregar. A continuación, haga clic en Agregar sesiones.
+Figura: Ingrese una cantidad de sesiones y haga clic en Agregar sesiones.
+- En las nuevas sesiones, ingrese un nombre de sesión.
+Figura: Ingrese un nombre para las sesiones nuevas.
+- Haga clic en Guardar y luego en Cerrar para volver a la lista de registro.
+Agregó sesiones a su registro de asistencia.

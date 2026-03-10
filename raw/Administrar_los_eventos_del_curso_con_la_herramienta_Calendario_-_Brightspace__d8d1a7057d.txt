@@ -1,0 +1,95 @@
+URL: https://community.d2l.com/brightspace-es-MX/kb/articles/10907-administrar-los-eventos-del-curso-con-la-herramienta-calendario
+TITLE: Administrar los eventos del curso con la herramienta Calendario - Brightspace
+HASH: d8d1a7057d62e9f00b749d966fb6ef1e71266fcbc89da429dafa1b45374e5e3e
+TYPE: web
+
+Mostrar todos los próximos eventos a los alumnos en un solo lugar. Publique eventos como fechas de vencimiento del proyecto, horas de oficina, eventos en clase y más en el calendario.
+Crear eventos del curso en Calendario
+Puede crear un evento para su curso con la herramienta de Calendario.
+Nota: También puede agregar ubicaciones a sus eventos y asignarlas a los gráficos de puestos. Consulte el tema Administrar eventos y ubicaciones para obtener más información.
+Para crear eventos del curso en Calendario
+- En la barra de navegación, haga clic en Calendario.
+- Haga clic en Crear evento.
+- En la página Crear evento, realice lo siguiente:
+Figura: La página Crear evento.- Para asociar el contenido del curso con el evento, haga clic en Agregar contenido. Seleccione el módulo del que desea agregar contenido. Haga clic en Agregar.
+- Si ha asociado el contenido del curso con el evento y desea utilizar un nombre personalizado para el evento, marque la casilla de selección Utilizar nombre personalizado. Ingrese un nombre para el evento.
+- Si no ha asociado el contenido del curso con el evento, ingrese un nombre para el evento.
+- Para agregar los detalles de la fecha y la hora a su evento del curso, en el área Cuándo, haga clic en los campos proporcionados.
+- Para agregar repeticiones al evento, haga clic en Agregar repetición. Ingrese los detalles de las repeticiones del evento.
+- Para agregar restricciones al evento, haga clic en Agregar restricción. Ingrese los detalles de las restricciones del evento.
+- Si desea agregar una ubicación para el evento, en la lista desplegable Ubicación, haga lo siguiente:
+- Seleccione una ubicación de la lista desplegable. Todas las ubicaciones activas están disponibles para asociarlas al evento.
+- Seleccione la opción Personalizar en la lista desplegable. Ingrese el nombre de la ubicación para su evento en el campo adyacente.
+- Si no hay ubicaciones activas y tampoco una lista desplegable, ingrese el nombre de la ubicación de su evento en el campo proporcionado.
+- Si tiene los permisos del rol necesarios, ingrese un nombre de ubicación para crear una ubicación nueva.
+Figura: El campo Ubicación de la página Crear evento.
+Importante: Se le deben otorgar los permisos Ubicaciones > Administrar ubicaciones y Eliminar ubicaciones para ingresar un nombre de ubicación y crear una ubicación. Con este permiso, también puede Administrar ubicaciones desde la herramienta Ubicaciones. Consulte el tema Administrar ubicaciones para obtener más información.
+- Haga clic en Crear.
+El evento se crea y se agrega a su calendario.
+Nota: puede agregar restricciones de fecha de inicio y finalización a Cuestionarios, Asignaciones y otras herramientas, que luego se llenan automáticamente en el calendario de su curso.
+Video: Crear un evento de calendario
+Cambiar la configuración de Calendario
+- En la barra de navegación del curso, haga clic en Calendario.
+- Haga clic en Configuración.
+Figura: El cuadro de diálogo Configuración del Calendario.
+- En Opciones de Calendario, puede realizar cualquiera de las siguientes acciones:
+- Establecer las Horas principales para el curso.
+- Seleccionar una Duración de evento predeterminada.
+- Para permitir que los usuarios se suscriban a sus calendarios mediante una noticia iCal, seleccione Habilitar noticias de calendario.
+- En Opciones de tareas, puede realizar cualquiera de las siguientes acciones:
+- Seleccionar cuánto tiempo se mostrarán las Tareas completadas en su calendario.
+- Seleccionar la Duración predeterminada de las próximas tareas.
+- Si lo desea, seleccione Confirmar antes de eliminar tareas.
+- Haga clic en Guardar.
+Se guarda la configuración del calendario.
+Crear varias instancias de un evento para distintos grupos y secciones
+Si hay más de un grupo o sección que participa en el mismo evento del curso durante distintos intervalos de tiempo, puede crear varias instancias del mismo evento, diseñadas de acuerdo con las necesidades de cada grupo o sección. Los eventos de grupo o sección comparten los campos de nombre y descripción pero, una vez que haya terminado de crear los eventos en masa, estos aparecen como eventos individuales.
+Para crear eventos en diferentes grupos o secciones
+- En la barra de navegación, haga clic en Calendario.
+- Haga clic en Crear evento.
+- En el área Participantes, haga clic en Agregar grupos/secciones.
+Figura: El área Participantes de la página Crear evento.
+Importante: Esta opción solo estará disponible si ya se creó al menos un grupo o sección para el curso.
+- En el cuadro de diálogo Agregar grupos, haga clic en el grupo o la sección que desea agregar. Repita los pasos 3 y 4 hasta que haya agregado todos los grupos y secciones que desee.
+- En cada grupo o sección, personalice la fecha, la hora, la frecuencia, la ubicación y cualquier restricción para su evento.
+- Haga clic en Crear.
+Se crean varias instancias del mismo evento para cada grupo o sección.
+Cambiar la visibilidad de los eventos
+Si desea que un evento esté oculto o visible, puede personalizarlo.
+Cambiar la visibilidad de los eventos
+- En la barra de navegación, haga clic en Calendario.
+- En la barra de navegación de la herramienta, haga clic en la pestaña Lista.
+Figura: La página Calendario con la pestaña Lista seleccionada.
+- Marque las casillas de selección de un evento para el que desea realizar cambios de visibilidad.
+- Haga clic en Más acciones y seleccione Cambiar visibilidad del evento.
+- En el cuadro de diálogo Configurar visibilidad, seleccione entre las siguientes opciones:
+Figura: El cuadro de diálogo Configurar visibilidad.- Visible
+- Oculto hasta: ingrese un intervalo de días, horas o minutos previos a que se oculte el evento.
+- Oculto después de: ingrese un intervalo de días, horas o minutos posteriores a que se oculte el evento.
+- Visible entre: establezca un intervalo de fechas de visibilidad del evento.
+- Oculto
+- Haga clic en Guardar.
+Los eventos seleccionados se establecen como ocultos o visibles según su configuración.
+Ajustar las fechas de los eventos
+Puede cambiar las fechas y las horas del evento.
+Para ajustar las fechas de los eventos
+- En la barra de navegación, haga clic en Calendario.
+- En la navegación de la herramienta, haga clic en Lista.
+- Marque las casillas de selección de cualquier evento para el que desea desplazar las fechas.
+- En el botón Más acciones, haga clic en Ajustar fechas.
+- En el cuadro de diálogo Ajustar fechas, realice cualquiera de las siguientes opciones:
+Figura: El cuadro de diálogo Ajustar fechas.- Seleccione la fecha que desea ajustar hacia delante o hacia atrás.
+- Seleccione para compensar por días, horas o minutos.
+- Ingrese un intervalo para el ajuste. Por ejemplo, un intervalo de 5 moverá la unidad de tiempo hacia delante o hacia atrás en 5.
+- Haga clic en Guardar.
+Se actualizó la fecha del evento.
+Agregar una ubicación a eventos del calendario
+La herramienta Ubicaciones se integra con Calendario, lo que le permite agregar ubicaciones a eventos que crea en el calendario para un curso específico o para la organización. Use esta funcionalidad para notificar en forma rápida y fácil a los estudiantes cuándo tendrán lugar los eventos. Cuando un evento del calendario tiene una ubicación asociada, ésta aparece en la información del evento.
+Las ubicaciones deben estar activas para agregarlas a los eventos. Si tiene los permisos adecuados, puede activar las ubicaciones cuando crea eventos en la herramienta Calendario haciendo clic en el enlace Administrar ubicaciones.
+- Acceda a la herramienta Calendario.
+- Haga clic en Crear evento.
+- Ingrese los detalles del evento.
+- En la sección Ubicación, realice una de las siguientes acciones:
+- Seleccione una ubicación de la lista desplegable. Todas las ubicaciones activas están disponibles para asociarlas al evento.
+- Seleccione la opción Personalizar en la lista desplegable. Ingrese el nombre de la ubicación para su evento en el campo adyacente.
+- Si no hay ubicaciones activas y tampoco una lista desplegable, ingrese el nombre de la ubicación de su evento en el campo proporcionado.

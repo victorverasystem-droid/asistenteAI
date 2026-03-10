@@ -1,0 +1,48 @@
+URL: https://community.d2l.com/brightspace-es-MX/kb/articles/16415-establecer-un-enlace-rapido-a-un-tema-o-foro-de-debate-dentro-de-un-tema-de-contenido-existente
+TITLE: Establecer un enlace rápido a un tema o foro de debate dentro de un tema de Contenido existente - Brightspace
+HASH: 0000fc9c6ab545be3668d28017661960d3db1e1a45917d8a663a29079ba3c838
+TYPE: web
+
+Puede agregar un enlace rápido que vincule a los estudiantes directamente a un tema o foro de debate.
+Configurar un enlace rápido a un tema de debate en la Experiencia de contenido nuevo
+Puede agregar un enlace rápido a un tema de debate en la Nueva experiencia de contenido (Lecciones).
+Agregar un enlace rápido a un tema de debate
+- Vaya a Contenido.
+- En el módulo donde desea agregar un enlace rápido a un tema de debate, haga clic en el menú Opciones (...) y haga clic en Editar.
+Figura: Haga clic en Opciones (…) para elegir el módulo y seleccione Editar.
+- En la página Editar tema, en el Editor de Brightspace, haga clic en Insertar enlace rápido.
+Figura: Haga clic en el ícono Insertar enlace rápido en el Editor de Brightspace.
+- En el cuadro de diálogo Insertar enlace rápido, haga clic en Debates.
+Figura: Seleccione Debates en el cuadro de diálogo Insertar enlace rápido.
+- Haga clic en el foro donde existe el tema de debate.
+- Seleccione el tema de debate.
+Se crea un enlace rápido en el módulo de Contenido que se vincula a su tema de debate.
+Configurar un enlace rápido a un tema de debate en la experiencia de Contenido clásico
+Puede agregar un enlace rápido a un tema de debate en la Experiencia de Contenido Clásica.
+Agregar un enlace rápido a un tema de debate
+- Desde la página de inicio del curso, haga clic en Contenido.
+- Haga clic en el módulo de contenido o en el submódulo del tema para el que desea crear un enlace rápido.
+- Desde el menú de contexto del tema al que desea agregar un enlace rápido, haga clic en Editar HTML.
+- En el editor de Contenido, ingrese el texto para el que desea crear el hipervínculo, resalte el texto y, a continuación, haga clic en el ícono Enlace rápido.
+- En el cuadro de diálogo Materiales del curso, haga clic en Debates.
+- Para agregar un foro de debate, haga clic en el ícono Insertar en el foro.
+- Para agregar un tema de debate, haga clic directamente en el tema.
+Configure un enlace rápido a un tema o foro de debate en la Experiencia de contenido nuevo (Lecciones)
+Puede establecer un enlace rápido a un tema o foro de debate como tema de contenido en un módulo principal o submódulo en la Experiencia de Contenido nuevo (Lecciones)
+Configurar un enlace rápido como un tema de contenido
+- Vaya a Contenido.
+- En el módulo principal o submódulo al que desea agregar el enlace rápido, haga clic en Agregar existente.
+Figura: Haga clic en Agregar existente en Contenido.
+- En la página ¿Qué le gustaría agregar?, haga clic en Debate.
+Figura: La página ¿Qué le gustaría agregar? en la que se muestra la opción Debate.
+- En el cuadro de diálogo Insertar un debate, haga clic en el foro que desea agregar.
+- Haga clic en el tema que desea agregar.
+Agregó un tema de debate al módulo principal o al submódulo.
+Establecer un enlace rápido a un tema o foro de debate como Contenido existente
+Establecer un enlace rápido a un tema o foro de debate como tema de contenido en un módulo principal o submódulo en Contenido clásico.
+Configurar un enlace rápido como un tema de contenido
+- Desde la página de inicio del curso, haga clic en Contenido.
+- En el módulo o submódulo al que desea agregar el enlace rápido, haga clic en Actividades existentes y, a continuación, en Debates.
+- Haga clic en el foro de debate donde desea agregar un enlace rápido:
+- Para agregar un foro de debate, haga clic en el ícono Insertar en el foro.
+- Para ingresar un tema de debate, haga clic en el tema.

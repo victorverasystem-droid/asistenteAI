@@ -1,0 +1,35 @@
+URL: https://community.d2l.com/brightspace-es-MX/kb/articles/11010-administrar-competencias
+TITLE: Administrar competencias - Brightspace
+HASH: 8649f7136ed84f842d8e8fc177a83eacb40194c19d02e5f05890948e6d60e942
+TYPE: web
+
+Utilice su herramienta de competencias para crear estructuras de competencias que le sean de utilidad para evaluar los resultados de aprendizaje de los usuarios y determinar si han adquirido el conocimiento, las habilidades y las capacidades previstas de una experiencia de aprendizaje. La transparencia de las estructuras de competencias y la responsabilidad en su gestión presentan una ventaja por sobre los mecanismos de calificación tradicionales, ya que no ocultan las discrepancias en el aprendizaje con promedios de calificación generales.
+Cambiar la vista en competencias
+La interfaz de la herramienta de competencias tiene dos vistas diferentes: Vista estándar y Vista avanzada.
+La Vista avanzada contiene un panel de navegación que le permite ver las estructuras de competencias, así como también los objetivos de aprendizaje y evaluaciones de actividad independientes que actualmente no están asociados con una competencia.
+Cambiar su vista
+- Navegue hasta Competencias.
+- En la página Inicio de competencias, haga clic en Configuración.
+- En Configuración personal > Vista de la herramienta de competencias, seleccione su vista.
+Figura: Cambie la vista en competencias.
+Configurar la visibilidad de elementos de la estructura de competencias
+Puede escoger qué elementos son visibles para los participantes del curso. Por ejemplo, es posible configurar las competencias para que solo muestren actividades a los usuarios si usted desea proporcionar una lista de actividades para que ellos las vean, pero que no vean los objetivos de aprendizaje ni las competencias a las que podrían estar asociadas.
+Establecer la visibilidad
+- Navegue hasta Competencias.
+- En la página Inicio de competencias, haga clic en Configuración.
+- En Configuración de la unidad de organización > Mostrar al usuario, seleccione las casillas de verificación al lado de cada tipo de elemento que desea que vean los participantes del curso.
+Figura: Seleccione las casillas de verificación junto a los elementos de la estructura de competencias.
+Permitir a los usuarios agregar competencias a Brightspace ePortfolio
+Puede permitir a los usuarios agregar competencias a Brightspace ePortfolio como artefactos.
+- Navegue hasta Competencias.
+- En la página Inicio de competencias, haga clic en Configuración.
+- En la sección Configuración de la unidad de organización, marque la casilla de selección Permitir a los usuarios agregar competencias a Brightspace ePortfolio.
+Evaluar actividades de evaluación manual
+Ingrese las evaluaciones de las actividades de evaluación manual en la página Resultados de actividades. Las actividades de evaluación manual se identifican con el ícono Evaluación de rúbrica manual.
+- Navegue hasta Competencias.
+- En la página Inicio de competencias, haga clic en una competencia u objetivo de aprendizaje que desee.
+- Haga clic en Estructura.
+- En la pestaña Resumen de estructura, haga clic en el ícono Ver resultados de la actividad de evaluación manual que desea evaluar.
+- En la página Resultados, haga clic en el enlace Evaluar junto al usuario que desea evaluar.
+- Complete la rúbrica.
+- Haga clic en Guardar.

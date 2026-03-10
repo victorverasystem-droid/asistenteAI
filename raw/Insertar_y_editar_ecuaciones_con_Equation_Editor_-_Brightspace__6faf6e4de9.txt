@@ -1,0 +1,41 @@
+URL: https://community.d2l.com/brightspace-es-MX/kb/articles/10794-insertar-y-editar-ecuaciones-con-equation-editor
+TITLE: Insertar y editar ecuaciones con Equation Editor - Brightspace
+HASH: 6faf6e4de9f6fbda7526cafdd3fcf1ec607f867d83abb31db6514399873041db
+TYPE: web
+
+Graphical Equation Editor es una aplicación basada en JavaScript de la herramienta Editor de HTML que permite a los usuarios agregar ecuaciones gráficas, químicas, MathML y LaTeX al contenido. El editor proporciona los elementos necesarios para que elabore sus ecuaciones en forma rápida y fácil. Cada botón en la barra de herramientas del editor abre una selección de símbolos matemáticos relacionados. Cuando las ecuaciones se insertan en el Editor de HTML, las puede ver en línea mientras edita su trabajo. Para insertar ecuaciones, escríbalas en el Editor de HTML.
+Antes de usar el Editor de HTML:
+- Asegúrese de haber instalado la versión más reciente del explorador de Internet y de tener habilitado JavaScript.
+- Desactive cualquier configuración de software o de explorador que bloquee las ventanas emergentes.
+Video: Uso del Equation Editor
+Ingresar ecuaciones en el Editor de Brightspace
+Graphical Equation Editor permite a los usuarios insertar ecuaciones matemáticas en el editor de Brightspace. Admite la escritura de ecuaciones MathML, LaTeX, gráficas y químicas.
+Pestañas de Graphical Equation Editor
+Cree una ecuación con el modo de entrada clásico
+Puede crear y agregar ecuaciones desde el Editor de Brightspace.
+Crear y agregar una ecuación
+- Acceda al Editor de Brightspace en la herramienta en la que desea crear una ecuación.
+- En la lista desplegable Ecuación gráfica, realice una de las siguientes acciones:
+- Para insertar una ecuación gráfica, haga clic en Ecuación gráfica.
+- Para insertar una ecuación química, haga clic en Ecuación química.
+- Para insertar una ecuación MathML, haga clic en Ecuación MathML.
+- Para insertar una ecuación LaTeX, haga clic en Ecuación LaTeX.
+- En la ventana Insertar ecuación, ingrese la ecuación con los caracteres del teclado y el cursor para seleccionar símbolos de las pestañas.
+- Haga clic en Insertar.
+Figura: Cuadro de diálogo Insertar ecuación.
+Se agrega la nueva ecuación.
+Editar una ecuación
+También puede editar ecuaciones existentes desde el Editor de Brightspace.
+Editar una ecuación
+- Desplácese hasta el elemento del curso que contiene la ecuación que desea editar.
+- En el menú de contexto del elemento del curso, haga clic en Editar HTML.
+- En el editor de Brightspace, haga clic en el recuadro con el signo sigma en mayúsculas.
+- En la lista desplegable Ecuación gráfica, realice una de las siguientes acciones:
+- Para editar la ecuación con el formato de ecuación gráfica, haga clic en Ecuación gráfica.
+- Para editar la ecuación con el formato de ecuación química, haga clic en Ecuación química.
+- Para editar la ecuación con el formato de ecuación MathML, haga clic en Ecuación MathML.
+- Para editar la ecuación con el formato de ecuación LaTeX, haga clic en Ecuación LaTeX.
+Figura: La lista desplegable Ecuación gráfica del Editor de Brightspace.
+- Realice sus cambios.
+- Haga clic en Insertar > Actualizar.
+Se actualiza la ecuación.

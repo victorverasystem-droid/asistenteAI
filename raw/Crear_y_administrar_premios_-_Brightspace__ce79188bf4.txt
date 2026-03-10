@@ -1,0 +1,193 @@
+URL: https://community.d2l.com/brightspace-es-MX/kb/articles/10913-crear-y-administrar-premios
+TITLE: Crear y administrar premios - Brightspace
+HASH: ce79188bf4f80f86bda2920a9627b1ffe15dfd49ef60f878f964a3be0adff8b4
+TYPE: web
+
+Puede crear premios que se pueden compartir con otros usuarios en otros cursos o bien, restringirlos al curso y sus unidades de organización secundarias. Si restringe el premio, solo puede agregarlo a la oferta de cursos en la que lo creó, y a cualquier oferta secundaria de dicho curso.
+Crear un premio
+Los premios, que incluyen insignias o certificados, pueden emitirse automáticamente de acuerdo con los criterios de condición de publicación u otorgarse de forma manual. Los estudiantes reciben una notificación emergente cuando se les emite un certificado o una insignia.
+Si agrega manualmente un premio, debe especificar los criterios necesarios para obtener este premio. Cuando el premio se emite automáticamente, las condiciones de publicación determinan si los estudiantes cumplen con los criterios.
+Para crear un premio nuevo
+- En la página de inicio, realice una de las siguientes acciones:
+- En la barra de navegación, haga clic en Premios.
+- Haga clic en Editar curso. En el área Evaluación, seleccione Premios.
+- Haga clic en la pestaña Premios del curso y seleccione las opciones para compartir su premio:
+- Permitir que los usuarios de este curso compartan los premios obtenidos con un repositorio/mochila de insignias externo para permitir la exportación y el uso compartido de los premios del curso en un repositorio de insignias externo o como credenciales digitales.
+- Permitir que los usuarios de este curso hagan públicos los premios obtenidos para permitir compartir los premios del curso como un enlace público.
+- Permitir que los usuarios de este curso compartan premios a LinkedIn para permitir compartir los premios del curso con los perfiles de LinkedIn de los estudiantes.
+- Haga clic en Agregar premio al curso.
+- Haga clic en Crear.
+- En la página Premio nuevo, realice lo siguiente:
+- Introduzca un Nombre, Criterios y Descripción para el nuevo premio. En los campos Criterios, especifique lo que debe hacer un estudiante para obtener este premio.
+- En la lista desplegable Tipo de premio, seleccione Insignia o Certificado.
+- En Disponibilidad, seleccione las casillas correspondientes para indicar si desea que el premio esté disponible para otros administradores de premios, y el lugar en que está disponible dentro de la estructura de la organización.
+- En Vencimiento, seleccione una de las siguientes opciones:
+- Para evitar que el premio venza, seleccione Nunca. Entre los ejemplos de premios que nunca vencen se encuentran los certificados al mérito por aprobar un curso o las insignias por asistencia perfecta.
+- Para establecer si el premio vence en una fecha específica, seleccione Fecha fija. Entre los ejemplos de premios que vencen en una fecha específica se encuentran las certificaciones de una habilidad que debe renovarse, como la capacitación en primeros auxilios.
+- Para establecer que el premio venza en un día aproximado al día en que se otorgó el premio, seleccione Día aproximado del mes. Entre los ejemplos de premios que vencen en una fecha aproximada se encuentran las insignias para el Estudiante de la semana o por haber alcanzado el 100 % en una prueba o asignación.
+- Para notificar al destinatario del premio antes de que este venza, seleccione Notificar antes del vencimiento e indique la cantidad de días de plazo.
+En Elegir imagen del premio, realice una de las siguientes acciones:- Si la imagen ya existe en la biblioteca de imágenes, haga clic en De biblioteca existente.
+- Si desea agregar un ícono nuevo a la biblioteca de imágenes, haga clic en Cargar nuevo ícono.
+- Para iniciar el sitio web OpenBadges, haga clic en Crear su propia imagen de premio.
+Si crea un nuevo certificado, en el área Elegir plantilla de certificado, realice una de las siguientes acciones:- Si la plantilla PDF ya existe en la biblioteca de imágenes, haga clic en De biblioteca existente.
+- Si desea agregar una plantilla nueva a la biblioteca de imágenes, haga clic en Cargar nueva plantilla.
+Nota: Si desea agregar un ID numérico generado automáticamente a su certificado que identifique de manera única el premio emitido, compruebe si la plantilla cargada tiene una cadena de sustitución {CertificateID}. Cuando se publica el ID único, este se genera y proporciona en la cadena de sustitución {CertificateID} de forma continua.Nota: Para admitir la localización y el formato de fecha coherente en todos los idiomas, puede utilizar cadenas de reemplazo de fecha en formato corto en las plantillas de certificado:{CourseStartDateShort}{CourseEndDateShort}{AwardDateShort}{AwardExpiryDateShort}
+Verifique que la Información del emisor sea correcta.
+Asegúrese de que la casilla de selección Usar ahora este premio con el <current course> esté configurada correctamente.
+Haga clic en Guardar.
+El premio se agrega a la lista de premios del curso.
+Agregar un premio existente a un curso
+Una vez que haya creado un premio, debe agregar el premio a un curso para que sea visible para los estudiantes en la pestaña Ver premios disponibles de la herramienta Premios o la pestaña Premios disponibles del componente Premios del estudiante.
+Para agregar un premio a un curso
+- En la barra de navegación del curso, haga clic en Premios.
+- En la pestaña Premios del curso, haga clic en Agregar premio al curso.
+Para encontrar un premio, haga clic en los botones Insignias, Certificados o Todo a fin de filtrar la lista de premios disponibles. Para buscar un premio específico, utilice la función Buscar premios. Si desea filtrar la lista según sus propios premios, haga clic en Mostrar únicamente los premios que he creado.
+- En la lista, seleccione los premios que desea agregar y haga clic en Agregar.
+Los premios seleccionados se agregan al curso.
+Emitir un premio manualmente
+Puede emitir premios manualmente (insignias o certificados) desde la pestaña Premios del listado de alumnos. Si agrega un premio manualmente, debe proporcionar evidencia de que los usuarios cumplen con los criterios necesarios para obtener este premio.
+Si emite un premio sin seleccionar Elegir fecha de emisión, se utilizará de manera predeterminada la fecha y hora actuales.
+Para emitir un premio manualmente
+- En la página de inicio del curso, haga clic en Premios en la barra de navegación.
+- Abra la pestaña Premios del listado de alumnos.
+- Seleccione uno o más usuarios y haga clic en Emitir.
+- En el cuadro de diálogo Emitir premio, seleccione un premio de la lista desplegable.
+- El campo Fecha de emisión tiene como valor predeterminado la fecha y hora actuales. Si necesita personalizar la fecha en que se emite el premio, seleccione Elegir fecha de emisión y seleccione una fecha y hora.
+- En Evidencia, ingrese el motivo por el que emite el premio.
+- Haga clic en Emitir.
+Compartir premios con otros cursos
+Cuando crea un premio, puede optar por compartirlo con otros cursos a su cargo. De forma predeterminada, existen nuevos premios disponibles para todos los cursos. Asimismo, puede compartir los de otros creadores de premios en su unidad de organización de inicio, o en todas las unidades de organización.
+Para compartir premios con otros cursos
+- En la barra de navegación del curso, haga clic en Premios.
+- En la pestaña Premios del curso, realice una de las siguientes acciones:
+- Si no ha creado un premio, haga clic en Crear para abrir la página Premio nuevo y complete los campos obligatorios.
+- Si ya creó un premio para el curso, pero no lo ha agregado, haga clic en Agregar premio al curso y, luego, en Editar premio.
+- Si ya creó y agregó un premio al curso, haga clic en Editar premio.
+- En Disponibilidad, realice una de las siguientes acciones:
+- Poner este premio a disposición de todos mis cursos:
+Permite que el premio esté disponible en todos los cursos en los que tenga permisos similares a los de instructor o administrador para Premios. Esta opción le permite reutilizar fácilmente los premios en sus propios cursos.
+Nota: Como creador del premio, siempre tendrá acceso a sus premios para utilizarlos en otros cursos. La configuración de esta página simplemente determina si otros también pueden usarla.
+- Poner este premio a disposición de otros creadores de premios y sus cursos:
+Pone el premio a disposición de todos los creadores de premios de su organización. Otros usuarios pueden ver y agregar este premio a los cursos en cualquier unidad de organización.
+- (Opcional) Restringir premio a [unidad de organización] y sus unidades de organización secundarias.
+Limita aún más la configuración de uso compartido anterior para que el premio solo esté disponible dentro de la unidad de organización seleccionada y sus unidades de organización secundarias. Por ejemplo, un premio creado en una unidad de organización “Departamento de matemáticas” podría estar restringido, por lo que solo está disponible para las ofertas de cursos matemáticos en ese departamento.
+- Haga clic en Guardar y cerrar.
+El premio ya está disponible en función de la opción de compartir que seleccionó.
+Ocultar un premio de los usuarios hasta que se obtenga
+En algunos casos, es posible que desee ocultar un premio de un estudiante hasta que lo haya obtenido. Ocultar un premio significa que este no aparece en la pestaña Premios disponibles de la página Premios. Después de que el estudiante obtiene el premio, este aparece en la página Premios disponibles y Mis premios.
+Para ocultar un premio hasta que se obtenga
+- En la barra de navegación del curso, haga clic en Premios.
+- En la pestaña Premios del curso, haga clic en Editar propiedades para el premio que desea editar.
+- Marque la casilla de selección Ocultar premio hasta su obtención.
+- Haga clic en Guardar.
+El premio no será visible para los estudiantes hasta que obtengan el premio.
+Agregar condiciones de publicación a un premio
+Puede agregar condiciones de publicación a un premio y publicar otro contenido u otro premio a los estudiantes cuando alcanzan el requisito definido para el premio.
+Para agregar condiciones de publicación a un premio
+- En la barra de navegación del curso, haga clic en Premios.
+- En la pestaña Premios del curso, haga clic en Editar propiedades para el premio que desea editar.
+- En Condiciones de publicación, haga clic en Crear.
+- En la lista desplegable Tipo de condición, seleccione un tipo de condición de publicación.
+- En Detalles de la condición, configure su condición de publicación según el tipo de condición que seleccionó. Por ejemplo, si seleccionó Premio ganado, seleccione el Premio que desea que el estudiante gane para activar la publicación.
+- Haga clic en Crear y, luego, en Guardar.
+Copiar un premio de otro curso
+Puede copiar los premios de otro curso. Los premios copiados incluyen todas las condiciones de publicación establecidas originalmente para publicar el premio.
+Para copiar un premio de otro curso
+- En la oferta de cursos a la que desea copiar el premio, haga clic en Administración del curso y, luego, en Importar/exportar/copiar componentes.
+- Seleccione Copiar componentes de otra unidad de organización y haga clic en Buscar oferta.
+- Busque y seleccione el curso desde el que desea copiar un premio y haga clic en Agregar lo seleccionado.
+- En la página Importar/exportar/copiar componentes, seleccione Seleccionar componentes.
+- Haga clic en Premios y realice una de las siguientes acciones:
+• Para incluir todos los elementos, seleccione Copiar todos los elementos y, a continuación, haga clic en Continuar.
+• Para incluir solo algunos elementos, elija Seleccionar elementos individuales para copiar y, a continuación, haga clic en Continuar. En la página Seleccionar elementos para copiar, seleccione los elementos que desea copiar. Haga clic en Continuar.
+- Haga clic en Continuar.
+-
+Haga clic en Finalizar.
+Brightspace le notifica cuando se completa la copia. Los premios se copian en el curso.
+Ver todos los premios emitidos
+Puede ver todos los premios que les ha asignado a los estudiantes de su curso.
+Para ver todos los premios emitidos
+- En la barra de navegación del curso, haga clic en Premios.
+- Haga clic en la pestaña Premios del listado de alumnos. Aparecen todos los estudiantes que integran su Listado de alumnos. Los Premios del curso se muestran junto a cada estudiante.
+- Para filtrar los premios que se muestran en el listado, haga clic en Todos, Insignias o Certificados.
+- Seleccione el orden de clasificación.
+- Revise el Listado de alumnos y los Premios del curso asociados.
+Uso de la tarea Premios para evaluar las funciones que no son del estudiante
+Cuando se evalúa un premio, la lista de usuarios se limita solo a los usuarios con la configuración de rol “Mostrar este rol en el listado de alumnos” habilitada. Esto coincide con la configuración de la interfaz de usuario de premios. Los premios publicados con condiciones ahora solo procesan a los usuarios que están visibles en el Listado de alumnos y, dado que están presentes en el listado de alumnos, en la lista de premios.
+Los premios publicados con condiciones se otorgan a los usuarios con el permiso Mostrar usuarios inscritos con este rol en la lista de clase.
+Revocar un premio
+En algunos casos, puede revocar un premio ya otorgado.
+Para revocar un premio
+- En la barra de navegación del curso, haga clic en Premios.
+- Haga clic en la pestaña Premios del listado de alumnos y seleccione uno o más estudiantes del listado.
+- Haga clic en Revocar.
+- En el cuadro de diálogo Revocar premio, seleccione el premio que desea revocar.
+- En el campo Motivo de revocación, introduzca un motivo para revocar el premio.
+- Haga clic en Revocar.
+Preguntas frecuentes sobre el intercambio de premios
+¿Por qué no veo esta opción para compartir?
+Un administrador debe activar esta función y los instructores pueden desactivarla para su curso. Está habilitada por la siguiente variable de configuración: d2l.Tools.Awards.PublicAwardsEnabled (Org). Cuando la configuración está Activada, aparece una casilla de selección en la página Premios del curso que permite al instructor determinar si los premios de ese curso se pueden compartir mediante un enlace público. De manera predeterminada, esta opción de uso compartido está Activada. Si la casilla de verificación permanece activada, los usuarios del curso pueden crear un enlace público para su premio. Si la casilla de verificación no está marcada, esta opción se elimina para los premios emitidos en ese curso.
+¿Puedo dejar de compartir un premio una vez que se haya hecho público?
+Sí, puede hacer clic en la opción Eliminar en el modal Compartir premio para eliminar la URL pública. Si alguien visita esa URL después de que se haya eliminado, verá un error.
+¿La eliminación del premio, el curso, etc., en Brightspace causa que se elimine el premio público?
+No. La eliminación del premio, el curso o el usuario de Brightspace no tienen ningún impacto en el premio público. Una excepción es si un usuario o una institución solicita formalmente una purga de datos. En este caso, cualquier dato purgado de Brightspace (como el nombre de un usuario) ya no aparecerá en las páginas de premios compartidos públicamente.
+¿Qué sucede con el premio público si mi institución o empresa deja de usar Brightspace?
+Si una institución o empresa ya no utiliza Brightspace como su LMS y se elimina todo el sitio de Brightspace, las páginas de premios públicos compartidas desde ese sitio dejarán de estar disponibles. Es posible que en el futuro se sigan mostrando estos premios, pero actualmente no se admite.
+¿Qué sucede si vence mi premio?
+El emisor establece la fecha de vencimiento del premio cuando crea el premio. Puede ser una fecha estática o una fecha aproximada (por ejemplo, 3 meses después de la fecha en que el destinatario obtuvo el premio). La página de premios públicos muestra la fecha de vencimiento y la página continúa después de la fecha de vencimiento.
+¿Qué sucede si se revoca mi premio?
+Si su premio es revocado (es decir, “devuelto” manualmente por su instructor o institución), se agregará un mensaje a la página de premios pública para indicar que el emisor revocó el premio.
+¿Puedo compartir un Certificado y una Insignia?
+Sí. Existen dos tipos de Premios en Brightspace: Insignias y Certificados. Las insignias están representadas por una imagen de insignia, mientras que los Certificados incluyen un PDF. Puede compartir el premio a través de una URL pública, ya sea una insignia o un certificado. Sin embargo, el PDF del certificado no está incluido actualmente en la página pública. Se muestra la información sobre el premio (como emisor, nombre, descripción, etc.), pero no se incluye el PDF.
+¿Qué otras opciones están disponibles para compartir mi premio?
+Las opciones de uso compartido dependen de la configuración de su sitio, pero si un administrador activa todas las opciones a través de variables de configuración, puede compartir su premio de varias maneras. Puede tener la opción de compartir su premio internamente dentro de Brightspace agregándolo a ePortfolio o a su Perfil. También puede tener la opción de compartirlo externamente con Badgr. Tenga en cuenta que esta opción requiere que inicie sesión o cree una cuenta de Badgr.
+¿Quién es el “emisor” del premio?
+El nombre, el correo electrónico y el sitio web del emisor son configurados por el creador del premio, dependiendo del premio, en la parte inferior de las páginas Crear premio y Editar premio. Los valores predeterminados para estos campos son establecidos por un administrador a través de las siguientes variables de configuración: d2l.Tools.Award.IssuerName, d2l.Tools.Award.IssuerContact, and d2l.Tools.Award.IssuerURL. Tenga en cuenta que esta es una funcionalidad existente y no ha cambiado con la introducción de esta función.
+¿Cómo se determinan los “criterios” del premio?
+Si su premio se emite automáticamente en Brightspace mediante las Condiciones de publicación, como obtener una puntuación determinada en un cuestionario o completar ciertos temas de contenido, estas Condiciones de publicación se enumeran como los criterios. Si su premio se emitió manualmente, el emisor podría ingresar los criterios con una declaración, "Se observó que el destinatario demostró las habilidades XYZ".
+¿Cómo se determina qué idioma mostrar en la página Premios públicos?
+El idioma de los encabezados de esta página (como Destinatario y Fecha de emisión) se determina por la preferencia de idioma que el usuario estableció en su navegador. El idioma del título y la descripción del premio proviene directamente de cómo se ingresaron en Brightspace. Por ejemplo, si el creador del premio le dio como título un nombre en español, ese nombre persistirá y no se traducirá, independientemente de la configuración del navegador de quien visualiza la página.
+¿Qué versión de mi nombre se mostrará en “Destinatario”?
+La página de premios públicos muestra el Nombre preferido del destinatario de Brightspace. Si no se ha establecido un Nombre preferido para el usuario, se mostrará el Nombre legal del usuario. Esto es coherente con otras áreas de Brightspace.
+¿Aparece el logotipo del emisor en la página de premios públicos?
+Aparece el nombre del emisor, así como la imagen de la insignia, que puede ser un diseño personalizado que puede incluir el logotipo del emisor. Además, la página utiliza una versión de la URL del emisor y mostrará el mismo ícono favorito que el sitio Brightspace del emisor, que puede ser su logotipo. Sin embargo, la página no contiene el logotipo del emisor en el encabezado o en el contenido de la página. En su lugar, el logotipo de D2L aparece en la esquina superior izquierda de la página para representar el sistema que impulsa el premio público.
+Solución de problemas: el texto del certificado es demasiado largo
+Según la plantilla que utilice para sus certificados, es posible que el texto que desea utilizar supere los bordes del cuadro de texto. Una parte del texto de los certificados se recopila automáticamente de los atributos del usuario y del curso. Es posible que necesite ajustar la plantilla para que se adapte a sus requisitos. Pruebe una o más de las siguientes sugerencias:
+- Cambiar la longitud del campo en la plantilla
+- Cambiar el tamaño de la fuente
+- Cambiar cadenas de fecha a cadenas de formato corto*
+- Agregar el ajuste automático de línea en el campo de texto
+- Aumentar el tamaño del cuadro de texto
+Preguntas frecuentes sobre premios
+¿Puedo otorgar a los estudiantes la misma insignia varias veces?
+Actualmente, no existe en Brightspace la función para otorgar a los estudiantes la misma insignia varias veces.
+¿Debo crear una nueva insignia cada vez que quiero otorgar la misma insignia al mismo estudiante?
+Sí, para otorgar la misma insignia a un estudiante varias veces, debe crear una nueva insignia cada vez. D2L recomienda crear una nueva insignia y otorgarla a los estudiantes cada vez que se comuniquen para obtener ayuda.
+¿Cómo puedo establecer una fecha de vencimiento para los certificados y permitir que los estudiantes los renueven antes de que venzan?
+La Fecha de vencimiento es propiedad del Certificado mismo y es definitiva, no relativa. Para facilitar la renovación de certificados antes de que venzan, tiene dos opciones:
+- Eliminar el vencimiento: Si bien esto no sería conveniente, eliminaría de manera eficaz la fecha de vencimiento.
+- Crear un nuevo premio: Genere un nuevo premio de certificado con una Fecha de vencimiento más adelante en el futuro. De esta manera, los estudiantes pueden recibir el certificado actualizado antes de que venza el actual.
+¿Cómo puedo replicar Premios entre cursos o en otra instancia de Brightspace, considerando que la herramienta de Importación/exportación/copia del curso no admite la copia de premios en forma directa?
+Aunque la herramienta de Importación/exportación/copia del curso no admite directamente la copia de premios, en el mismo entorno de Brightspace tiene dos opciones eficaces para reutilizar premios entre los cursos:
+- Compartir premios con otros usuarios
+- Durante la creación o edición de un premio, en Disponibilidad, seleccione una de las siguientes opciones:
+- Poner este premio a disposición de todos mis cursos.
+- Poner este premio a disposición de otros creadores de premios y sus cursos.
+- Esto permite compartir premios con usuarios de otros cursos que poseen los permisos de rol necesarios para crearlos.
+- Uso de la herramienta Importar/exportar/copiar componentes
+- Vaya al curso de destino donde desea replicar los premios.
+- Con la herramienta Importar/exportar/copiar componentes, seleccione Copiar componentes desde otra unidad de organización.
+- Elija el curso de origen y copie los premios en el destino deseado dentro del mismo entorno de Brightspace.
+Actualmente, no se admite la copia de premios entre entornos de Brightspace con la herramienta Importar/exportar/copiar componentes con la opción de copia del curso estándar. En tales casos, la recreación manual sigue siendo la alternativa de preferencia.
+¿Es posible agregar Premios como categoría de Progreso de la clase para el cuerpo docente, ya que actualmente sus miembros no tienen visibilidad de los premios que reciben los estudiantes?
+En este momento, los Premios no están disponibles de inmediato como una categoría en Progreso de la clase. Sin embargo, los administradores pueden otorgar a los miembros del cuerpo docente la capacidad de ver Premios mediante el ajuste de permisos a nivel de la organización. Para proporcionar visibilidad de los Premios a los miembros del cuerpo docente:
+- Ajuste los permisos de rol: Identifique el rol que los docentes tienen en la organización. Otorgue los permisos necesarios para que esos roles puedan ver los Premios.
+- Permisos a nivel de la organización: Asigne permisos a nivel de la organización para garantizar que los docentes tengan acceso para ver los Premios de los estudiantes.
+En el generador de certificados de premios, ¿De qué datos provienen los campos {FirstName}, {LastName} y {FullName}?
+Los campos {FirstName}, {LastName} y {FullName} en el generador de certificados de premios obtienen sus datos del Nombre y el Apellido legales del usuario.
+¿Cuál es la diferencia entre una Insignia y un Certificado?
+Las insignias se otorgan de acuerdo con los criterios determinados por el instructor. Su propósito es ofrecer marcadores digitales que representan logros alcanzados durante un curso o programa.
+Los certificados también se otorgan de acuerdo con los criterios establecidos por el instructor. Los certificados son similares a las insignias; sin embargo, incluyen un archivo PDF que los usuarios pueden imprimir.
+Para obtener más información, consulte Acerca de los premios.
+Cuando edito un premio, ¿por qué están inactivos los botones Guardar y Cerrar, y Guardar?
+Para guardar los cambios realizados en un premio existente, primero debe asegurarse de que todos los campos obligatorios (marcados con un asterisco) estén llenados, incluido el campo Criterios, que puede estar en blanco en los premios creados antes de que se introdujera este campo.

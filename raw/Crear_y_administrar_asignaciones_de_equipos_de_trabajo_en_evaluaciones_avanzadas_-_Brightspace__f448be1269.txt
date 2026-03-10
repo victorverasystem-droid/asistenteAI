@@ -1,0 +1,28 @@
+URL: https://community.d2l.com/brightspace-es-MX/kb/articles/33688-crear-y-administrar-asignaciones-de-equipos-de-trabajo-en-evaluaciones-avanzadas
+TITLE: Crear y administrar asignaciones de equipos de trabajo en evaluaciones avanzadas - Brightspace
+HASH: f448be12690db82157509325322b303bcfc87740334dabececff4163420273f6
+TYPE: web
+
+Las asignaciones de equipos de trabajo permiten que los estudiantes colaboren y entreguen tareas de manera conjunta. Puede evaluar al equipo de trabajo de forma colectiva en Evaluaciones avanzadas y proporcionar calificaciones y comentarios compartidos.
+Cree asignaciones de equipos de trabajo con Evaluaciones avanzadas
+Las asignaciones de equipos de trabajo se habilitan a través de la herramienta Equipos de trabajo en Administración del curso.
+- Cree sus equipos de trabajo y categorías mediante la herramienta Equipos de trabajo: Administración del curso > Equipos de trabajo. Omita este paso si los equipos de trabajo ya existen.
+- Asegúrese de que las variables de configuración d2l.Tools.Activities.AdvancedAssessmentsEnabled y d2l.Tools.Dropbox.GroupDropboxCreationRedirectOptIn estén habilitadas. En la página heredada de creación de asignaciones, haga clic en Probar ahora en el menú desplegable para usar el nuevo flujo de trabajo de asignación de equipo de trabajo en la nueva experiencia de creación de asignaciones.
+- Al crear una asignación, seleccione Asignación de equipo de trabajo en la sección Material enviado y finalización.
+- En Evaluadores, dentro de la configuración Evaluación y comentarios, haga clic en Seleccionar evaluadores para comenzar a activar los flujos de trabajo de Evaluaciones avanzadas.
+- Para completar la configuración de su asignación de equipos de trabajo en Evaluaciones avanzadas, siga el flujo de trabajo para realizar lo siguiente:
+- Configurar evaluadores
+- Asignar instructores a las asignaciones de equipos de trabajos
+- Seleccionar publicadores
+- Seleccionar Una evaluación compartida o una Evaluación múltiple
+Cambiar entre asignaciones individuales y de equipos de trabajo
+Durante el proceso de creación de la asignación, si cambia entre Asignación individual y Asignación de equipo de trabajo después de interactuar con el cuadro de diálogo Administrar asignaciones, aparecerá un mensaje de confirmación. Esta medida evita que las asignaciones se sobrescriban por accidente.
+Administrar asignaciones
+El cuadro de diálogo Administrar asignaciones le permite revisar los equipos de trabajo del curso y asignar instructores para evaluar cada equipo.
+Puede hacer lo siguiente:
+- Filtrar usuarios por sección
+- Ver y ordenar equipos de trabajo (A–Z o Z–A)
+- Asignar evaluadores por equipo de trabajo
+Al filtrar por sección, los instructores inscritos en esa sección se identifican visualmente con una etiqueta bajo su nombre.
+Para asegurarse de que ningún equipo de trabajo quede sin evaluador, todos los instructores inscritos pueden evaluar todos los equipos de forma predeterminada.
+Para revisar la pertenencia al equipo de trabajo, haga clic en la cantidad de estudiantes que se muestran para cada equipo en el cuadro de diálogo Administrar asignaciones.

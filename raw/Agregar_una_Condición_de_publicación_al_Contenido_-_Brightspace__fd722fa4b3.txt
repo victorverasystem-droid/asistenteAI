@@ -1,0 +1,26 @@
+URL: https://community.d2l.com/brightspace-es-MX/kb/articles/16410-agregar-una-condicion-de-publicacion-al-contenido
+TITLE: Agregar una Condición de publicación al Contenido - Brightspace
+HASH: fd722fa4b350bd0f1e501fc9147fe7a71bd64083c59c257a80ab69222f3938ba
+TYPE: web
+
+Agregue una condición de publicación a la Experiencia de contenido nuevo
+- Vaya a Contenido.
+- En el módulo en el que desea agregar condiciones de publicación, realice una de las siguientes acciones:
+- Haga clic en Opciones (…) > Editar. Expanda la sección Fechas y condiciones de disponibilidad y haga clic en el menú desplegable Agregar condición de publicación. Seleccione Crear nuevo o Agregar existente.
+Figura: Haga clic en el menú desplegable Agregar condición de publicación para abrir el cuadro de diálogo Condiciones de publicación.- Haga clic en Opciones (…) > Ver condiciones de publicación.
+Figura: Haga clic en Ver condiciones de publicación en el menú desplegable Opciones (…).
+- En el cuadro de diálogo Condiciones de publicación, realice una de las siguientes acciones:
+Figura: El cuadro de diálogo Condiciones de publicación en el que se muestran las opciones Crear y Examinar.
+- Haga clic en Examinar para buscar las condiciones de publicación existentes. Seleccione las condiciones de publicación que desea agregar y haga clic en Adjuntar.
+Figura: El cuadro de diálogo Adjuntar una condición existente.
+- Haga clic en Crear para crear una nueva condición de publicación. Elija un Tipo de condición e ingrese los detalles correspondientes. A continuación, haga clic en Crear.
+Figura: El cuadro de diálogo Crear una condición de publicación.
+- Haga clic en Guardar o en Guardar y cerrar.
+Agregar una condición de publicación en la Experiencia de contenido clásica
+- En la barra de navegación, haga clic en Contenido.
+- En la Tabla de contenido, ubique el elemento de contenido que desea que tenga una condición de publicación.
+- Abra el menú de contexto y seleccione Editar propiedades en el lugar.
+- Haga clic en Agregar fechas y restricciones…, y en Condiciones de publicación, haga clic en Crear.
+- En el menú Tipo de condiciones, seleccione la condición que desea crear.
+- Agregue Detalles de condición y haga clic en Crear.
+- Haga clic en Actualizar para guardar los cambios. Ahora, los detalles de la condición de publicación se enumerarán debajo del nombre del tema.

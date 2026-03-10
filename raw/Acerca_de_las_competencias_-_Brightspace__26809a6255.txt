@@ -1,0 +1,44 @@
+URL: https://community.d2l.com/brightspace-es-MX/kb/articles/11009-acerca-de-las-competencias
+TITLE: Acerca de las competencias - Brightspace
+HASH: 26809a6255d90a09359deb6cb17bd0a81efda8859b0f93b6a01d080460751f4d
+TYPE: web
+
+Las competencias ayudan a registrar información acerca del conocimiento, las habilidades y capacidades que adquieren los estudiantes al participar en cursos u otras experiencias de aprendizaje. Las competencias constituyen un inventario de habilidades y conocimiento más que evaluaciones sobre cuán buenos son los estudiantes en un área. Otros términos utilizados para describir las competencias incluyen: destrezas, resultados de aprendizaje, estándares, objetivos y habilidades. Algunos ejemplos de competencias pueden ser:
+- Certificación para operar una carretilla elevadora
+- Experiencia en cómo solucionar los problemas de una red
+- Habilidades de enseñanza básicas adquiridas a partir del cursado de un plan de estudios de educación docente
+- Licencia para operar una lancha a motor, habiendo realizado un curso de seguridad en navegación
+- Comprender y utilizar un método científico adecuado para diseñar un experimento
+Los tipos de competencias que desarrolle y registre dependerán de su organización y de lo que desee hacer en última instancia con la información.
+Nota: Se produce una superposición de distintas estructuras de competencias en la misma unidad de organización si contienen las mismas competencias, objetivos de aprendizaje o actividades. Esto es ideal para los elementos que son relevantes para completar varias estructuras de competencias.
+Requisitos
+Para usar la herramienta Competencias, se requiere lo siguiente:
+- Para ver y usar la herramienta Competencias, debe tener los permisos de Competencias requeridos aplicados a su rol. Solo el administrador de su organización puede acceder a estos permisos.
+- Para agregar la herramienta Competencias a la barra de navegación de su curso, debe tener los permisos de Barra de navegación necesarios aplicados a su rol. Para obtener más información sobre cómo agregar una herramienta o un enlace a la barra de navegación del curso, consulte el tema Personalice la barra de navegación del curso.
+Nota: También puede localizar las herramientas disponibles del curso si va a Administración del curso en la barra de navegación. Si no encuentra la herramienta Competencias en su instancia de Brightspace, comuníquese con el administrador de su organización para obtener los permisos necesarios.
+Recorrido visual de la herramienta Competencias
+En la barra de navegación de su curso, haga clic en Competencias.
+Figura: Utilice la herramienta Competencias para revisar competencias y objetivos de aprendizaje existentes, copiarlos o crear unos nuevos.
+- Haga clic para expandir el árbol y ver una jerarquía de competencias y objetivos de aprendizaje.
+- Seleccione “Buscar” para buscar competencias y objetivos de aprendizaje existentes.
+- Cree nuevas competencias u objetivos de aprendizaje.
+- Copie competencias existentes u objetivos de aprendizaje.
+- Seleccione Configuración para configurar la herramienta Competencias.
+- Seleccione Ayuda para obtener más información sobre las competencias y los objetivos de aprendizaje.
+Comprensión de las estructuras de competencias
+Una estructura de competencias constituye una jerarquía compuesta de tres elementos básicos:
+- Competencias
+- Objetivos de aprendizaje
+- Actividades
+Aunque se pueden crear varias actividades, objetivos de aprendizaje y competencias dentro de una estructura de competencias, la estructura más fundamental debe contener como mínimo una competencia, un objetivo de aprendizaje y una actividad.
+Si comparte una estructura de competencias con una unidad de organización secundaria, esta última deberá asociarse con sus propias actividades, ya que las actividades no pueden compartirse entre unidades de organización.
+En la siguiente tabla, se describen los tres elementos básicos de una estructura de competencias.
+Acerca de las relaciones de elementos principales con secundarios entre los elementos de la estructura de competencias
+Cuando se crea una estructura de competencias completa, primero se deben crear los elementos que conforman la estructura, y se deben asociar dichos elementos conjuntamente. Los elementos asociados tienen una relación de elementos principales con elementos secundarios. Por ejemplo, si una actividad está asociada con un objetivo de aprendizaje, la actividad es el elemento secundario y el objetivo de aprendizaje es el principal.
+Si desea crear estructuras más complejas (por ejemplo, un objetivo de aprendizaje asociado con dos competencias en distintos niveles de una estructura anidada), se recomienda primero crear todos los elementos antes de agregar relaciones de elementos principales con elementos secundarios.
+Puede crear las siguientes asociaciones de elementos:
+Acerca de las estructuras de competencias anidadas
+Para anidar competencias y objetivos de aprendizaje, puede agregar una asociación de elementos principales con elementos secundarios entre competencias o entre objetivos de aprendizaje.
+Si tiene un objetivo de aprendizaje con un ámbito muy amplio, se puede dividir en objetivos de aprendizaje más simples y luego anidarlos debajo del objetivo para que los usuarios puedan ir completando el objetivo de aprendizaje en partes más pequeñas. Esto a su vez proporcionaría una visión más detallada de las experiencias implicadas para lograr el objetivo de aprendizaje en general.
+Las competencias anidadas son ideales si las competencias son prerrequisitos para lograr una competencia general. Por ejemplo, si desea distinguir entre varios niveles de destreza, es posible que un usuario complete una competencia con destreza de nivel básico mediante el logro de dos objetivos de aprendizaje, y que luego complete una competencia con destreza de nivel intermedio mediante el logro de otros dos objetivos de aprendizaje.
+Si los usuarios pueden ver las competencias, las competencias anidadas se muestran individualmente y dentro de sus asociaciones de elementos principales con elementos secundarios.

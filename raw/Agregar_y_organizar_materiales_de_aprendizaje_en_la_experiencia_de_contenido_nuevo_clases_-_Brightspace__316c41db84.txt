@@ -1,0 +1,206 @@
+URL: https://community.d2l.com/brightspace-es-MX/kb/articles/15174-agregar-y-organizar-materiales-de-aprendizaje-en-la-experiencia-de-contenido-nuevo-clases
+TITLE: Agregar y organizar materiales de aprendizaje en la experiencia de contenido nuevo (clases) - Brightspace
+HASH: 316c41db8430389c7022cc34b07123fc16c3d9242f214f581954d8e348c79ece
+TYPE: web
+
+Utilice la Nueva experiencia de contenido (Lecciones) para crear, agregar y organizar los materiales de aprendizaje para su curso.
+Video: Nueva experiencia de contenido (Lecciones)
+Crear una nueva unidad en la Nueva experiencia de contenido (Lecciones)
+El primer paso para agregar y organizar los materiales de aprendizaje es crear una nueva unidad en su curso.
+Para crear una unidad nueva
+- En la barra de navegación de su curso, haga clic en Contenido.
+- Haga clic en Nueva unidad.
+- En la página Nueva unidad, realice lo siguiente:
+- Ingrese un Nombre para la unidad.
+- Si lo desea, haga clic en Agregar fecha de vencimiento e ingrese una Fecha de vencimiento.
+- Si lo desea, ingrese una Descripción para su nueva unidad.
+- Haga clic en Fechas de disponibilidad para establecer una Fecha de inicio y una Fecha final para la nueva unidad.
+- Use el botón de alternancia de visibilidad a fin de permitir que la unidad esté visible u oculta para los estudiantes durante la creación.
+- Haga clic en Guardar.
+Se agrega la unidad nueva a su curso.
+Crear una nueva lección en la Nueva experiencia de contenido (Lecciones)
+Cree una nueva lección y agréguela a una unidad en Contenido.
+Para crear una lección
+- En la barra de navegación de su curso, haga clic en Contenido.
+- En la tabla de contenido, haga clic en la unidad a la que desea agregar la lección.
+- Haga clic en Crear nuevo y, a continuación, haga clic en Nueva lección.
+- En la página Nueva lección, realice lo siguiente:
+- Ingrese un Nombre para la unidad.
+- Si lo desea, haga clic en Agregar fecha de vencimiento e ingrese una Fecha de vencimiento.
+- Si lo desea, ingrese una Descripción para su nueva unidad.
+- Haga clic en Fechas de disponibilidad para establecer una Fecha de inicio y una Fecha final para la nueva unidad.
+- Use el botón de alternancia de visibilidad a fin de permitir que la unidad esté visible u oculta para los estudiantes durante la creación.
+- Haga clic en Guardar.
+La nueva lección se agrega a la unidad seleccionada.
+Crear una nueva página en la Nueva experiencia de contenido (Lecciones)
+Cree una nueva página y agréguela a una unidad en Contenido.
+Para crear una página
+- En la barra de navegación de su curso, haga clic en Contenido.
+- En la tabla de contenido, haga clic en la unidad a la que desea agregar la lección.
+- Haga clic en Crear nuevo y, a continuación, haga clic en Página.
+- En la página Nueva página, realice lo siguiente:
+- Ingresar un Título de página.
+- Ingrese una Fecha de vencimiento.
+- Agregue el Contenido de la página. Para obtener información adicional sobre el uso de Plantillas para agregar contenido de la página, consulte Uso de plantillas en Contenido.
+- Establezca un marco de tiempo del curso y Condiciones de publicación para el contenido.
+- Establezca la Información de finalización para el contenido.
+- Haga clic en Guardar.
+Definir el color de los módulos raíz en su curso
+Puede definir el color de los módulos raíz de su curso. Los submódulos heredan el color del módulo principal. Esto es posible en situaciones en las que el módulo cumple con los siguientes criterios:
+- No hay un principal por encima del módulo en la jerarquía de navegación de contenido.
+- El curso utiliza un tema para establecer el color de la barra de navegación y todos los módulos tienen un mismo color.
+- El instructor que intenta cambiar el color del módulo tiene el permiso Contenido > Editar colores del módulo raíz otorgado a su rol.
+Cuando se cumplen los criterios, el panel plegable a la derecha de la página Editar módulo incluye el acordeón de visualización:
+Acerca de los colores de la barra de navegación y los criterios de colores consistentes
+Para que todos los temas dentro de un módulo aparezcan con el mismo color, uno de los criterios es garantizar que el curso utilice un conjunto de temas configurado con un color para barra de navegación y que todos los módulos tengan un color cohesivo. En Configuración de administración > Navegación y temas, en la pestaña Temas, puede configurar el Color principal para Utilizar el predeterminado (varios colores) o puede Elegir colores para seleccionar un solo color. Para cumplir con los criterios, debe elegir un solo color. Para verificar su configuración en la pestaña Temas:
+- Haga clic en el tema que está utilizando.
+- En Color principal, verifique que esté seleccionado el botón de opción Elegir colores.
+- Si no es así, seleccione Elegir colores, haga clic en el selector de color y seleccione un color.
+- Haga clic en Guardar y cerrar.
+Crear nuevo material en la Nueva experiencia de contenido (Lecciones)
+Puede agregar los siguientes materiales de aprendizaje a su curso en la Nueva experiencia de contenido (Lecciones). A fin de indicar claramente el lugar en el que está agregando material, la parte superior del menú Crear nuevo muestra las rutas de navegación. Esto también le permite desplazarse fácilmente hacia arriba o hacia abajo del árbol para agregar material en diferentes niveles.
+Para crear y agregar un nuevo material de aprendizaje
+- En la barra de navegación de su curso, haga clic en Contenido.
+- Realice cualquiera de las siguientes acciones:
+- Arrastre y suelte los archivos guardados localmente en la unidad, lección o carpeta a la que desea agregar el material directamente en el área de navegación.
+- En la tabla de contenido, seleccione la unidad, lección o carpeta a la que desea agregar el material y haga clic en Crear nuevo. Se abre la página ¿Qué le gustaría crear?.
+- Elija una de las opciones disponibles:
+- Nueva lección
+- Página: escriba un título y utilice el editor HTML para crear el nuevo elemento de contenido. Use el interruptor de visibilidad a fin de hacer que el documento HTML esté visible u oculto para los estudiantes durante la creación y haga clic en Guardar.
+- Enlace web
+- Asignación
+- Debate: elija un Foro e Ingrese un nombre y una descripción y, a continuación, haga clic en Crear e insertar.
+- Cuestionario: ingrese un Nombre y una Descripción y, luego, haga clic en Crear e insertar.
+- Lista de control: ingrese un Nombre y una Descripción y, luego, haga clic en Crear e insertar.
+- Autoevaluaciones: ingrese un Nombre y una Descripción y, a continuación, haga clic en Crear e insertar.
+- Encuestas: ingrese un Nombre y una Descripción y, a continuación, haga clic en Crear e insertar.
+Video: Cómo agregar nuevos materiales
+Enlazar a recursos externos en la Nueva experiencia de contenido (Lecciones)
+Para complementar el material de su curso con recursos externos, vincule a los recursos mediante un enlace web.
+Para enlazar a recursos externos
+- En la barra de navegación de su curso, haga clic en Contenido.
+- Haga clic en Crear nuevo.
+- Haga clic en el Enlace web.
+- En la página Nuevo enlace web, realice lo siguiente:
+- Ingrese el nombre para mostrar en el campo Nombre y la dirección web en el campo Enlace. Aparece una vista previa del enlace debajo de Mi enlace.
+- Si lo desea, ingrese una fecha de entrega, fecha de inicio y fecha final.
+- En Opciones de visualización, haga alguna de las siguientes acciones:
+- Seleccione el botón de opción Incrustar en la página (iframe) para incorporar un enlace seguro (https) en el visor de Lecciones.
+- Selecciones el botón de opción Abrir en una pestaña nueva.
+Haga clic en Guardar.
+Se agrega un enlace externo a los materiales de aprendizaje al Contenido.
+Incrustar en comparación con enlazar a recursos externos en la Nueva experiencia de contenido (Lecciones)
+Vincular e incorporar a estudiantes en recursos externos; pero son diferentes en la forma en que se muestra el camino hacia el recurso. Enlazar es cuando se copia la dirección URL o el enlace de un recurso y, luego, se pega en su curso como hipervínculo o el enlace en sí. Cuando los estudiantes hacen clic en el enlace o hipervínculo, son redirigidos de su curso al recurso en otra página web.
+La incorporación permite que los estudiantesestudiantes vean los medios externos en la misma página de su curso. Por ejemplo, si integra un video en un módulo del curso, los estudiantesestudiantes pueden ver el video en el módulo, en lugar de ser redirigidos a otra página web.
+La vinculación es la mejor opción cuando desea que los estudiantesestudiantes lean recursos más largos, como un artículo. La incorporación es la mejor opción cuando tiene medios de reproducción que desea que los estudiantesestudiantes vean o escuchen mientras repasan el contenido.
+Para enlazar a recursos externos
+- En la página de inicio del curso, vaya a Contenido.
+- Haga clic en el tema de contenido en el que desea agregar su enlace.
+- Haga clic en Opciones (…) > Editar. Si desea crear un nuevo tema de contenido, haga clic en Crear nuevo > Nueva lección.
+- Copie la dirección de enlace del recurso al que desea vincular.
+- En el editor de Brightspace, escriba el nombre de su recurso enlazado.
+- Con el cursor, resalte el nombre del recurso. En el menú contextual que aparece encima del nombre, haga clic en el botón Agregar/Editar enlace.
+- Ingrese la dirección del enlace en el campo Enlace y haga clic en Crear. El texto enlazado aparece de un color azul predeterminado.
+- Haga clic en Guardar y cerrar.
+Agregó un hipervínculo a su tema de contenido. Los estudiantesestudiantes serán redirigidos al recurso externo mediante un clic en el hipervínculo.
+Para incrustar un recurso externo
+- En la página de inicio del curso, vaya a Contenido.
+- Haga clic en el tema de contenido en el que desea incrustar su contenido multimedia.
+- Haga clic en Opciones (…) > Editar. Si desea crear un nuevo tema de contenido, haga clic en Crear nuevo > Nueva lección.
+- Navegue al contenido multimedia que desea incrustar. En este ejemplo, incrustaremos un video de YouTube.
+- En YouTube, haga clic en Compartir > Incrustar.
+- El código de incrustación aparece en el panel derecho. Haga clic en el botón Copiar para copiar el código incrustado.
+- En el tema de contenido, haga clic en Insertar objetos.
+- En el cuadro de diálogo Insertar objetos, desplácese hacia abajo y haga clic en Ingresar código de incrustación.
+- Pegue el código de incrustación en el cuadro de texto y haga clic en Siguiente.
+- Espere mientras el video se carga en el cuadro de diálogo. A continuación, haga clic en Insertar.
+- Haga clic en Guardar y cerrar.
+Su contenido multimedia se ha incrustado en el tema de contenido. Los estudiantesestudiantes pueden reproducir los contenidos multimedia dentro del tema de contenido, en lugar de ser redirigidos a YouTube.
+Establecer el material como opcional u obligatorio en la Nueva experiencia de contenido (Lecciones)
+Puede establecer los materiales del curso como Opcionales u Obligatorios para que los estudiantes mejoren su experiencia y administren su tiempo de aprendizaje de manera más eficaz.
+Para establecer el material como Opcional u Obligatorio
+- Desde la tabla de contenido, seleccione el material deseado.
+- Haga clic en el menú Opciones (…).
+- Seleccione Establecer como opcional o Establecer como obligatorio.
+Agregar material existente en la Nueva experiencia de contenido (Lecciones)
+También puede agregar material existente a su curso desde la Nueva experiencia de contenido (Lecciones). A fin de indicar claramente el lugar en el que está agregando material, la parte superior del menú Agregar existente muestra las rutas de navegación. Esto también le permite desplazarse fácilmente hacia arriba del árbol para agregar material en diferentes niveles.
+Para agregar material existente
+- En la barra de navegación de su curso, haga clic en Contenido.
+- En la tabla de contenidos, seleccione la unidad, lección o carpeta a la que desea agregar el material.
+- Haga clic en Agregar material existente. Se abre la página ¿Qué le gustaría agregar?.
+- Elija una de las opciones disponibles:
+- Google Drive: haga clic en Continuar a Google Drive > Permitir > elija un elemento para agregar.
+- OneDrive: haga clic en Continuar a OneDrive > seleccione su cuenta > ingrese las credenciales y haga clic en Aceptar > seleccione un elemento para agregarlo.
+- Asignación: seleccione una asignación de la lista.
+- Debate: seleccione un foro de debate > haga clic en un tema de debate.
+- Cuestionario: seleccione un cuestionario de la lista.
+- Lista de control: seleccione una lista de control de la lista.
+- Actividad de herramienta externa: seleccione de los proveedores de herramientas que usa su institución o haga clic en Crear un nuevo enlace de LTI para registrar un nuevo enlace de LTI.
+- Objeto SCORM/xAPI: seleccione un paquete de curso SCORM para importarlo a la herramienta Lecciones.
+- RRA: busque un objeto de aprendizaje en el Repositorio de aprendizaje de Brightspace (RRA). Un recurso de aprendizaje puede ser un cuestionario, una presentación, una imagen, un video o cualquier otro tipo de documento o archivo que se use para crear contenido y materiales de aprendizaje del curso para aprendizaje en línea.
+- Arrastre y suelte un archivo en el cuadro de diálogo o haga clic en examinar para seleccionar un archivo de su computadora, archivos del curso o un archivo público. El archivo se agrega a la unidad, lección o carpeta seleccionada.
+Video: Agregar contenido externo a un curso
+Video: Copiar contenido existente del curso en un curso
+Reemplazar archivos cargados en la Nueva experiencia de contenido (Lecciones)
+Puede reemplazar los archivos .PDF, Word, PowerPoint (.PPT) y de imagen cargados que agregó a una unidad, lección o carpeta en la nueva experiencia de contenido.
+Para reemplazar archivos cargados
+- En la barra de navegación de su curso, haga clic en Contenido.
+- En la tabla de contenido, seleccione el archivo .PDF, Word, .PPT o la imagen que desea reemplazar.
+- Haga clic en el menú Opciones y seleccione Editar.
+- Haga clic en Reemplazar.
+- Seleccione el archivo actualizado que desea agregar desde su computadora, archivos del curso o un archivo público.
+- Haga clic en Agregar.
+Se reemplaza el archivo seleccionado.
+Reorganizar materiales en la Nueva experiencia de contenido (Lecciones)
+Se pueden organizar las unidades, las lecciones y los materiales arrastrándolos y soltándolos en la posición deseada.
+Para reorganizar los materiales
+- En la tabla de contenido del área de contenido, haga clic y mantenga presionado sobre una unidad, una lección o un material contraídos.
+- Realice alguna de las siguientes acciones:
+- Luego, arrastre su opción hasta la posición deseada y suelte el clic.
+- En el (…) menú (...) Opciones, seleccione Mover a o Reordenar.
+- Utilice las teclas de flecha del teclado para establecer la nueva ubicación de la unidad, la lección o el material.
+- Haga clic en Listo.
+El material seleccionado se moverá a una nueva ubicación en la tabla de contenido de su curso.
+Video: Cómo reorganizar unidades, lecciones y materiales
+Editar materiales en la Nueva experiencia de contenido (Lecciones)
+Puede actualizar o modificar los materiales existentes, como la creación y edición de descripciones de temas, directamente desde la página de actividades.
+Para editar materiales
+- Seleccione una unidad, una lección o un material desde la tabla de contenido.
+- Haga clic en el (…) menú de Opciones y seleccione Editar.
+- Actualice el elemento.
+- Haga clic en Guardar.
+La unidad, lección o material seleccionado se edita y guarda.
+Eliminar materiales mediante la Nueva experiencia de contenido (Lecciones)
+Elimine materiales seleccionados de sus unidades o lecciones.
+Para eliminar materiales
+- En la barra de navegación de su curso, haga clic en Contenido.
+- Seleccione una unidad, una lección o un material desde la tabla de contenido.
+- Haga clic en el menú Opciones (…).
+- Seleccione Eliminar.
+- Seleccione una de las siguientes opciones:
+- Eliminar el tema del Contenido, pero conservar el archivo o la actividad asociados en el curso
+- Eliminar de forma permanente el tema del Contenido y el archivo o la actividad asociados del curso
+Haga clic en Eliminar.
+Se eliminan los materiales seleccionados del curso.
+Publicar materiales en la página de inicio de su curso
+Utilice Contenido para publicar debates, cuestionarios o asignaciones directamente en su página de inicio en el componente Noticias de actividad.
+Para publicar materiales en la página de inicio de su curso
+- En la barra de navegación de su curso, haga clic en Contenido.
+- Seleccione un elemento de contenido de la tabla de contenido.
+- Haga clic en el (…) menú Opciones y seleccione Publicar en la página de inicio del curso.
+- En el cuadro de diálogo Crear una publicación, realice lo siguiente:
+- Ingrese un mensaje para compartir con los estudiantesestudiantes.
+- Si lo desea, anule la selección de Permitir comentarios.
+- Si desea programar la publicación para más tarde, haga clic en Publicar más tarde > elija una fecha y hora > Programar publicación.
+- Haga clic en Publicar.
+El material seleccionado se publica en la página de inicio del curso en el componente Noticias de actividad.
+Enlaces para materiales en Lecciones
+Cuando se navega en Lecciones, se asigna una URL única a cada unidad, módulo, tema y lección. Esto permite a los instructores crear enlaces a una ubicación específica en Lecciones sin que los estudiantes deban ir al elemento manualmente.
+Cuando crea un nuevo documento HTML, puede insertar un enlace a una ubicación específica en Lecciones con la barra de herramientas HTML.
+- En Lecciones, haga clic en Crear nueva.
+- Haga clic en Documento HTML.
+- En la barra de herramientas, haga clic en Insertar Quicklink.
+- Haga clic en Contenido.
+- Busque y seleccione el material al que desea crear un enlace y, luego, haga clic en Guardar.
+- Haga clic en Guardar.
+¿Qué tipos de archivos pueden utilizarse con Lecciones?

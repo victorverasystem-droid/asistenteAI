@@ -1,0 +1,46 @@
+URL: https://community.d2l.com/brightspace-es-MX/kb/articles/15172-realice-un-seguimiento-del-progreso-del-curso-con-la-herramienta-de-progreso-de-la-clase
+TITLE: Realice un seguimiento del progreso del curso con la herramienta de progreso de la clase - Brightspace
+HASH: ce675e3261e0913b57314b6b901f2e32615da1abd8e8be3c0ffdc0e8093af60e
+TYPE: web
+
+La herramienta de progreso de la clase realiza un seguimiento del progreso general de los estudiantes de manera individual y como curso.
+Puede utilizar la herramienta de progreso de la clase para realizar cualquiera de las siguientes acciones:
+- Monitorear el progreso de cualquiera o de todos los usuarios en su curso
+- Preparar informes de progreso
+- Ver perfiles de usuario, usuarios de correo electrónico o usuarios de mensajes instantáneos
+- Realizar un seguimiento cuando un usuario accede al curso y descarga el contenido del curso
+- Realizar un seguimiento de las calificaciones del usuario, la realización de los objetivos de aprendizaje, el acceso a los temas de contenido, la participación en los debates, los envíos de las asignaciones, el envío de cuestionarios, la finalización de la lista de control, las respuestas a la encuesta, el historial de inicio de sesión y el acceso al sistema.
+- Configurar agentes inteligentes para los estudiantes que se están quedando atrás en un curso
+- Vea comentarios y materiales enviados de asignaciones, temas de debate y otras evaluaciones para estudiantes individuales
+El contenido debe cumplir estos criterios para que se incluya en el progreso del estudiante:
+- El estudiante debe tener acceso al contenido
+- El estudiante debe aparecer en el Listado de alumnos para que se pueda realizar un seguimiento de su progreso
+- El contenido debe estar marcado con un método de finalización obligatorio automático u obligatorio manual.
+- El contenido no está exento
+Cuando el contenido no cumple con estas condiciones, los temas no se incluyen en el cálculo del progreso del estudiante.
+Realice un seguimiento del tiempo dedicado a ver el contenido
+Debido a las múltiples configuraciones de navegadores y los distintos casos de uso, el seguimiento del tiempo dedicado a ver el contenido en Brightspace es solo una estimación. Por ejemplo, lo siguiente puede contribuir a un seguimiento del tiempo inexacto: ejecutar un bloqueador de avisos agresivo, abrir contenido en otra pestaña del navegador, descargar el contenido o verlo localmente, o perder la conexión a Internet mientras ve contenido en un navegador.
+El seguimiento del tiempo dedicado a ver el contenido es útil como herramienta de diagnóstico para que un instructor inicie una conversación con un estudiante; sin embargo, D2L no recomienda utilizarlo como una herramienta de evaluación. Considere el siguiente ejemplo como una práctica recomendada para utilizar el seguimiento de tiempo como una herramienta de diagnóstico: un estudiante solicita ayuda con una parte de contenido dada y el instructor nota que el estudiante solo vio el contenido durante 30 segundos. A continuación, el instructor le indica al estudiante que revise el contenido y que vuelva con preguntas más específicas acerca de las partes del contenido que le fueron difíciles de entender.
+Acceda a la herramienta de progreso de la clase
+Puede acceder a la herramienta de Progreso de la clase si selecciona Progreso de la clase en la barra de navegación a nivel del curso.
+Si no aparece en la barra de navegación, puede acceder a esto en el menú desplegable Herramientas del curso mediante la opción Administración del curso.
+El progreso de la clase permite que el equipo académico revise el progreso del estudiante en varias métricas en un panel conveniente. El equipo académico puede realizar lo siguiente:
+- Acceder a los datos individuales de los estudiantes.
+- Seleccionar los indicadores de progreso para obtener información más detallada.
+- Pase el cursor sobre la miniatura del estudiante para comunicarse a través de correo electrónico o mensaje instantáneo.
+De forma predeterminada, los siguientes indicadores de rendimiento aparecen de izquierda a derecha en la barra de navegación: Nombre, Contenido completado, Objetivos, Inicios de sesión y Calificaciones. Es posible filtrar a los participantes de la clase según la pertenencia a grupos o secciones. Además, puede hacer clic en el encabezado Nombre para ordenar la forma en que aparecen los usuarios.
+Se pueden mostrar un máximo de 4 indicadores de rendimiento en cualquier momento en la página Progreso de la clase. Los indicadores disponibles incluyen: Contenido completado, Objetivos, Envío de las asignaciones, Calificaciones, Finalización de la lista de control, Contenido visitado, Participación en debates, Historial de inicio de sesión, Calificaciones pronosticadas (solo para usuarios de Student Success System), Desempeño del cuestionario, Finalización de la encuesta y Acceso al sistema.
+- El Historial de inicio de sesión indica cuándo el estudiante inició sesión en Brightspace, no en el curso. Sin embargo, si la plataforma de datos Brightspace está habilitada, los Inicios de sesión del curso se muestran en el informe de progreso del usuario de cada estudiante para informar cuándo accedieron al curso.
+- Acceso al sistema indica cada vez que el estudiante accede a Brightspace mediante un navegador o inicia la aplicación Pulse. El acceso al sistema comienza cuando el usuario inicia sesión, inicia la aplicación o regresa después de 30 minutos de inactividad. Finaliza después de 30 minutos de inactividad.
+El Período ausente indica la cantidad de días desde la última vez que el estudiante inició sesión en Brightspace. Por ejemplo, si aparece “30 Oct, 3017 - período ausente: 3”, el estudiante no ha iniciado sesión durante los últimos 3 días, y un inicio de sesión del 26 Oct aparece debajo del inicio de sesión del 30 Oct.
+Personalice su panel de progreso de la clase
+Cambie el orden de los rastreadores o elija mostrar diferentes opciones de métricas.
+Para personalizar su panel
+- En Progreso de la clase, haga clic en Configuración.
+<![CDATA[ ]]>
+- Seleccione el menú desplegable junto a cada rastreador de progreso para cambiar el orden de los rastreadores o mostrar diferentes métricas de progreso.
+- Una vez que el panel aparezca en sus preferencias, haga clic en Guardar y cerrar.
+Ver los datos de desempeño de un estudiante individual
+Para ver las diez categorías de métricas en el Resumen de progreso de un estudiante específico, haga clic en el nombre del estudiante junto a la imagen en miniatura de su perfil o haga clic en la categoría de métrica específica.
+Para comunicarse directamente con un estudiante desde el Progreso de la clase, coloque el cursor sobre la imagen de perfil del estudiante y haga clic en Enviar correo electrónico o Enviar mensaje instantáneo.
+Video: Supervisar el progreso de la clase

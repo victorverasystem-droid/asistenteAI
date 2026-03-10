@@ -1,0 +1,34 @@
+URL: https://community.d2l.com/brightspace-es-MX/kb/articles/15163-acerca-del-progreso-de-la-clase
+TITLE: Acerca del progreso de la clase - Brightspace
+HASH: c2bfc99a3f1c71915358b7b38f7c9beb734b4561b2d7bae71232e52a0fb0dbd4
+TYPE: web
+
+La herramienta de progreso de la clase realiza un seguimiento del progreso general de los estudiantes de manera individual y como curso.
+Es posible utilizar la herramienta Progreso de la clase para realizar cualquiera de las siguientes acciones:
+- Monitorear el progreso de cualquiera o de todos los usuarios en su curso
+- Preparar informes de progreso
+- Ver perfiles de usuario, usuarios de correo electrónico o usuarios de mensajes instantáneos
+- Realizar un seguimiento cuando un usuario accede al curso y descarga el contenido del curso
+- Realizar un seguimiento de las calificaciones del usuario, la realización de los objetivos de aprendizaje, el acceso a los temas de contenido, la participación en los debates, los envíos de las asignaciones, el envío de cuestionarios, la finalización de la lista de control, las respuestas a la encuesta, el historial de inicio de sesión y el acceso al sistema.
+- Configurar agentes inteligentes para los estudiantes que se están quedando atrás en un curso
+- Ver comentarios y materiales enviados de asignaciones, temas de debate y otras evaluaciones de estudiantes individuales
+En el caso del contenido, este debe cumplir con estos criterios que se deben incluir en el progreso del estudiante:
+- El estudiante debe tener acceso al contenido
+- El estudiante debe aparecer en el Listado de alumnos para que se pueda realizar un seguimiento de su progreso
+- El contenido debe estar marcado con un método de finalización obligatorio automático u obligatorio manual.
+- El contenido no está exento
+Cuando el contenido no cumple con estas condiciones, los temas no se incluyen en el cálculo del progreso del estudiante.
+Requisitos
+Para usar la herramienta Progreso de la clase, se requiere lo siguiente:
+- Para ver y usar la herramienta Progreso de la clase, debe tener los permisos de Progreso de la clase requeridos aplicados a su rol. Solo el administrador de su organización puede acceder a estos permisos.
+- Para agregar la herramienta Progreso de la clase a la barra de navegación de su curso, debe tener los permisos de Barra de navegación necesarios aplicados a su rol. Para obtener más información sobre cómo agregar una herramienta o un enlace a la barra de navegación del curso, consulte el tema Personalice la barra de navegación del curso.
+Recorrido visual de la herramienta Progreso de la clase
+En la barra de navegación, seleccione Progreso de la clase.
+- Es posible filtrar a los participantes de la clase según la pertenencia a grupos o secciones.
+- Utilice la barra de navegación de Progreso de la clase para clasificar el orden en el que los usuarios aparecen en el gráfico. De forma predeterminada, los siguientes indicadores de rendimiento aparecen de izquierda a derecha en la barra de navegación: contenido completado, objetivos, inicios de sesión y calificaciones. Se pueden mostrar un máximo de 4 indicadores de rendimiento en cualquier momento en la página Progreso de la clase. Los indicadores disponibles incluyen: Contenido completado, Objetivos, Envío de las asignaciones, Calificaciones, Finalización de la lista de control, Contenido visitado, Participación en debates, Historial de inicio de sesión, Calificaciones pronosticadas (solo para usuarios de Student Success System), Desempeño del cuestionario, Finalización de la encuesta y Acceso al sistema.
+- El Historial de inicio de sesión indica cuándo el estudiante inició sesión en Brightspace, no en el curso. Sin embargo, si la plataforma de datos Brightspace está habilitada, los Inicios de sesión del curso se muestran en el informe de progreso del usuario de cada estudiante para informar cuándo accedieron al curso.
+- Acceso al sistema indica cada vez que el estudiante accede a Brightspace mediante un navegador o inicia la aplicación Pulse. El acceso al sistema comienza cuando el usuario inicia sesión, inicia la aplicación o regresa después de 30 minutos de inactividad. Finaliza después de 30 minutos de inactividad.
+- El Período ausente indica la cantidad de días desde la última vez que el estudiante inició sesión en Brightspace. Por ejemplo, si aparece “30 Oct, 3017 - período ausente: 3”, el estudiante no ha iniciado sesión durante los últimos 3 días, y un inicio de sesión del 26 Oct aparece debajo del inicio de sesión del 30 Oct.
+- Todos los participantes del curso aparecen en el gráfico. Su nombre, el nombre de usuario y la ID definida por organización aparecen junto a su imagen de perfil, si se suministra. Los resultados de rendimiento de los indicadores enumerados también se muestran en el gráfico. Al hacer clic en cualquier área de este gráfico, se muestra la página Progreso del usuario del usuario individual.
+- Para ajustar los indicadores de desempeño que se muestran y en qué orden se muestran, haga clic en Configuración. También puede buscar usuarios escribiendo en el campo Buscar usuarios.
+Ver una descripción general de la herramienta de progreso de la clase

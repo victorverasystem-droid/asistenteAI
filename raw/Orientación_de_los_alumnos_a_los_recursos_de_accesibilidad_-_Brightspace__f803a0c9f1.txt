@@ -1,0 +1,9 @@
+URL: https://community.d2l.com/brightspace-es-MX/kb/articles/10772-orientacion-de-los-alumnos-a-los-recursos-de-accesibilidad
+TITLE: Orientación de los alumnos a los recursos de accesibilidad - Brightspace
+HASH: f803a0c9f1d6b4675baeb7ac0ec35263f2dc0eaea00320905c89b4bbdbe53d03
+TYPE: web
+
+Se aconseja proporcionar a los estudiantes información acerca de cómo acceder a información y asistencia adicional:
+- En la configuración de la cuenta de Brightspace se incluyen varias opciones de configuración que pueden modificarse para mejorar la accesibilidad. Estas preferencias son controladas por usuarios individuales y pueden configurarse para beneficiar a los estudiantes.
+- La herramienta de Brightspace proporciona a los estudiantes ayuda acerca de las funciones de accesibilidad, lo que incluye consejos sobre cómo configurar Brightspace para su uso con un lector de pantalla, un amplificador de pantalla o un dispositivo de tecnología de asistencia con teclado únicamente. Puede encontrar información sobre el uso del zoom, el contraste de color y la navegación con teclado únicamente.
+- Es muy probable que su organización cuente con una oficina de Servicios para discapacitados, personal de asistencia en biblioteca y personal que brinde clases particulares disponible para los estudiantes que soliciten ayudan adicional. Como instructor, debe familiarizarse con los programas que ofrece la organización y compartir dicha información con los estudiantes que soliciten asistencia adicional.

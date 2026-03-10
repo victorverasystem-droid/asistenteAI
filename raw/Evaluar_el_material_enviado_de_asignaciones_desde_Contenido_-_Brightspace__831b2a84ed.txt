@@ -1,0 +1,30 @@
+URL: https://community.d2l.com/brightspace-es-MX/kb/articles/16418-evaluar-el-material-enviado-de-asignaciones-desde-contenido
+TITLE: Evaluar el material enviado de asignaciones desde Contenido - Brightspace
+HASH: 831b2a84edeeb5f684816755d8ecf3a3f6319aaa5e081439ba826e9e1b19baaa
+TYPE: web
+
+Es posible evaluar el material enviado de asignaciones de un estudiante desde Contenido incluso si el estudiante no envió ningún documento a la asignación. Como resultado, es posible asignar comentarios y calificaciones a los estudiantes sin envíos (por ejemplo, una calificación de 0) y a los estudiantes que enviaron trabajos fuera de Brightspace.
+Evalúe los materiales enviados con la Experiencia de contenido clásico
+Puede evaluar los materiales enviados de asignaciones en la experiencia de contenido clásico.
+Para evaluar materiales enviados en contenido clásico
+- Vaya a Contenido.
+- En el panel Tabla de contenidos, haga clic en el módulo que contiene la asignación en la que desea evaluar el material enviado.
+- Haga clic en la asignación.
+- En la pestaña Resumen del nivel de avance, haga clic en el nombre de un usuario. Filtre usuarios por Secciones o Equipos de trabajo si es necesario.
+- Ingrese sus comentarios en el área Evaluación.
+- Realice una de las siguientes acciones:
+- Para publicar sus comentarios, haga clic en Publicar.
+- Para guardar los comentarios sin publicarlos, haga clic en Guardar borrador.
+- Realice una de las siguientes acciones:
+- Para desplazarse al siguiente usuario de la lista, haga clic en Siguiente estudiante.
+- Para detener la evaluación de los usuarios, haga clic en Volver a envíos de carpetas.
+Evalúe los materiales enviados con la Experiencia de nuevo contenido
+Cómo evaluar materiales enviados con la Experiencia de nuevo contenido (lecciones)
+- Vaya a Contenido.
+- Haga clic en el módulo que contiene su asignación. A continuación, haga clic en su asignación.
+- En la sección Resumen de finalización, haga clic en Ir a la evaluación para el estudiante cuya asignación desea evaluar.
+- Ingrese sus comentarios en el área Evaluación.
+- Realice una de las siguientes acciones:
+- Para publicar sus comentarios, haga clic en Publicar.
+- Para guardar los comentarios sin publicarlos, haga clic en Guardar borrador.
+Ha evaluado a un estudiante con la Experiencia de nuevo contenido.

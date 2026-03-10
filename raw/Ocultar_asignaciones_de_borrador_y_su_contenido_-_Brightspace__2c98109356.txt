@@ -1,0 +1,29 @@
+URL: https://community.d2l.com/brightspace-es-MX/kb/articles/11038-ocultar-asignaciones-de-borrador-y-su-contenido
+TITLE: Ocultar asignaciones de borrador y su contenido - Brightspace
+HASH: 2c98109356c40fa08ab7d209fcbfeeff6eecf0926106627a712d7482ff0a1da9
+TYPE: web
+
+Puede establecer el estado de visibilidad del contenido en borrador al interior de las asignaciones de Content y Assignments. Cuando el contenido está en estado de borrador, los estudiantes no pueden verlo en Brightspace Learning Environment. Cuando los profesores de instructores han establecido la visibilidad en borrador, el icono oculto aparece en la vista del profesor de instructor para la herramienta de contenido.
+En Content, cuando los profesores agregan asignaciones existentes como temas, el estado de visibilidad del tema se obtiene del estado de visibilidad de la asignación. El estado de visibilidad de un tema refleja el estado de visibilidad de la asignación en la que se incluye el tema.
+Cuando los profesores crean una nueva asignación, esta se configura en el estado de visibilidad de borrador de manera predeterminada, de la misma manera que Quizzes y Surveys. Cuando los profesores actualizan la configuración de visibilidad de una asignación en Assignments, se actualiza automáticamente en el tema de Contenido asociado.
+Ocultar asignaciones o contenido de borrador en la herramienta de contenido
+- Vaya a Contenido.
+- En el panel Tabla de contenido, haga clic en la asignación que desea ocultar.
+- Cambie el estado de visibilidad a Oculto.
+Figura: Haga clic en el botón de visibilidad para cambiar la visibilidad de su asignación o contenido a Oculto.
+Ocultó su asignación o tema de contenido.
+Ocultar asignaciones de borrador en la herramienta Asignaciones
+- Vaya a Asignaciones.
+- Realice una de las siguientes acciones:
+- En el menú Acciones de la asignación que desea ocultar, haga clic en Ocultar a los usuarios.
+- Haga clic en el menú Acciones de la asignación que desea ocultar y haga clic en Editar asignación. Cambie el estado de visibilidad de Visible a Oculto. Haga clic en Guardar y cerrar.
+Ocultó una asignación en borrador en la herramienta Asignaciones.
+Exportación de asignaciones y contenido ocultos o en borrador
+En el proceso de exportación se incluye el estado de visibilidad del contenido de la asignación. El estado de visibilidad de la exportación proviene de la asignación.
+En el proceso de importar y copiar componentes del curso de asignaciones y temas de contenido, se utiliza la siguiente lógica a fin de ocultar contenido para los estudiantes:
+- Si en el archivo u origen de importación se incluye un estado de visibilidad en la asignación, utilice ese estado.
+- Si en el archivo u origen de importación se incluyen asignaciones sin un estado ni temas de contenido asociados, el estado de visibilidad se configura para mostrar el contenido importado.
+- Si en el archivo u origen de importación se incluyen tanto temas de contenido como asignaciones, utilice el estado de visibilidad de las asignaciones. Si no existe un estado de visibilidad en la asignación, utilice el estado de visibilidad del contenido.
+- Si varios temas de contenido con el mismo estado de visibilidad hacen referencia a una asignación sin un estado de visibilidad, utilice el mismo estado de los temas en la asignación.
+- Si varios temas de contenido con estados de visibilidad diferentes hacen referencia a una asignación sin un estado de visibilidad, configure el estado de la asignación y cambie todos los temas a borrador.
+Nota: El material enviado en papel y las asignaciones observadas en persona no se pueden agregar a Content.

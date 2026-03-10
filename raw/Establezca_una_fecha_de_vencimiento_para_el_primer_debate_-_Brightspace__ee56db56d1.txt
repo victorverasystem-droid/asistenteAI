@@ -1,0 +1,47 @@
+URL: https://community.d2l.com/brightspace-es-MX/kb/articles/33591-establezca-una-fecha-de-vencimiento-para-el-primer-debate
+TITLE: Establezca una fecha de vencimiento para el primer debate - Brightspace
+HASH: ee56db56d14063b6ab6c510175c809c592c093fff56938e3260001bd3a1dbdf5
+TYPE: web
+
+Para asegurar que la participación de los estudiantes sea oportuna y accesible, agregue una fecha de vencimiento a la primera publicación de un tema de debate. Con esa medida, se mejora la coherencia en todo el Sistema de gestión educativa y se cumple con las políticas institucionales.
+Qué cambió el 20.12.25 (diciembre de 2025)
+- Se habilitó la opción Fecha de vencimiento de debate en la primera publicación de forma predeterminada. No se requiere una configuración a nivel de organización.
+- Las fechas de vencimiento que configuró previamente en los temas de contenido clásico mediante Editar propiedades en el lugar ahora se muestran de forma coherente en las herramientas de Brightspace.
+- No ha cambiado la disponibilidad de los debates. La función respeta las fechas de inicio y las fechas finales, así como los tipos de disponibilidad existentes (por ejemplo, Oculto y Visible con acceso restringido).
+En qué parte aparece la fecha de vencimiento para los estudiantes e instructores
+La fecha de vencimiento de los debates aparece en:
+- Calendario (si está activado)
+- Página Lista de debates
+- Herramienta para administrar fechas
+- Experiencia de contenido nuevo (muestra los indicadores Atrasado y Tardío)
+- Evaluación rápida y coherente
+- Componente de Tareas pendientes (para elementos de contenido clásico con fechas de vencimiento)
+Notificaciones
+Los estudiantes pueden recibir una notificación predeterminada: La fecha de vencimiento o la fecha final del debate es en 2 días. La notificación se puede configurar en la web y en aplicaciones móviles.
+Informes y datos
+Aparece un nuevo campo de Fecha de vencimiento en el conjunto de datos de Brightspace (BDS) DiscussionTopics. De este modo, se puede hacer seguimiento de los plazos de participación y generar informes sobre el cumplimiento de las políticas.
+Lista de control de preparación para administradores
+Para preparar su organización y a los instructores
+- Para informar a los instructores, agregue una nota sobre la nueva opción de fecha de vencimiento en la primera publicación en sus comunicaciones de publicación y capacitaciones.
+- Para actualizar los materiales de capacitación, enumere dónde aparece la fecha de vencimiento (Calendario, Administrar fechas, Debates, Evaluación rápida, Evaluación coherente, Tareas pendientes).
+- Para actualizar analíticas, modifique los paneles y las consultas a fin de incluir el campo Fecha de vencimiento en la BDS DiscussionTopics.
+- Para validar las notificaciones, revise la configuración de Notificaciones y recomiende a los estudiantes habilitar las alertas correspondientes.
+Permisos y comportamiento de disponibilidad
+- La función respeta las fechas de inicio y las fechas finales, así como los tipos de disponibilidad existentes. No se requieren cambios en su modelo de disponibilidad.
+- Los instructores eligen establecer una fecha de vencimiento por tema de debate.
+- La función no se puede configurar a nivel de la organización (no se puede deshabilitar de forma global).
+Fechas de vencimiento en contenido clásico: Lo que necesita saber
+Si anteriormente configuró las fechas de vencimiento en los temas de contenido clásico mediante la opción Editar propiedades en el lugar, esas fechas ahora aparecerán en:
+- Calendario
+- Componente Tareas pendientes
+- Administrar fechas
+- Otras herramientas relevantes de Brightspace que incluyen las fechas de vencimiento de actividades
+Preguntas frecuentes
+¿Quiénes se benefician de esta función?
+Usted y sus instructores se benefician de una participación más predecible y de flujos de trabajo de evaluación mejorados.
+¿Esto cambia la manera en que funciona la disponibilidad de debates?
+No. La disponibilidad (fechas de inicio/fechas finales y visibilidad) sigue funcionando como antes.
+¿Podemos desactivar esta función?
+No. Es parte de la actualización de la plataforma principal y no se puede desactivar a nivel de la organización.
+¿Se notificará a los estudiantes?
+Sí. Existe una notificación predeterminada que pueden administrar los estudiantes.

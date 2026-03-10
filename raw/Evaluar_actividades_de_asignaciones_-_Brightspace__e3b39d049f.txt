@@ -1,0 +1,18 @@
+URL: https://community.d2l.com/brightspace-es-MX/kb/articles/10769-evaluar-actividades-de-asignaciones
+TITLE: Evaluar actividades de asignaciones - Brightspace
+HASH: e3b39d049f44145ad35e8310ee7f72f14fb513a6a2899f039c6d07f2dbd8d47d
+TYPE: web
+
+Para evaluar las asignaciones, proporcione comentarios y seleccione una rúbrica asociada con objetivos de aprendizaje específicos.
+Para evaluar actividades de asignaciones
+- Vaya a Asignaciones.
+- En la página Asignaciones, haga clic en la asignación que desea ver.
+- Haga clic en el nombre del estudiante que desea evaluar.
+- En la página Evaluación, ingrese la Calificación general y los Comentarios generales. También puede ingresar comentarios en línea, si lo desea. Nota: No puede publicar ni guardar su borrador si el campo Comentarios generales supera los 300,000 caracteres.
+Figura: Ingrese un valor en el campo Calificación general y agregue comentarios en el campo Comentarios generales.
+- Haga clic en Actualizar para agregar su evaluación a la asignación del estudiante.
+Descartar las evaluaciones incompletas
+En el flujo de trabajo de Evaluación de rúbricas, se proporciona una función de guardado automático para optimizar el proceso de evaluación. Sin embargo, si un instructor sale de la evaluación parcial, las partes guardadas automáticamente se destinan a la rúbrica y son visibles para el estudiante. A fin de proporcionar una mejor experiencia en Evaluación coherente (vistas en línea y emergentes), el instructor tiene la opción de publicar la evaluación actual o de guardar el borrador. Si el instructor elige Guardar borrador, la evaluación actual se guarda para su posterior finalización y publicación. Durante el proceso de evaluación, cualquier cambio en la evaluación se guarda automáticamente en un archivo temporal para que las evaluaciones parciales no se publiquen por error a los estudiantes. Esos cambios en el archivo temporal se guardan de forma permanente cuando el instructor haga clic en Publicar o Guardar borrador. Cuando el instructor haga clic en Publicar, los comentarios de la evaluación se publicarán para los estudiantes.
+Figura: los botones Publicar y Guardar borrador en una evaluación en proceso.
+Si un instructor hace clic en Volver a envíos de usuarios o Volver a envíos, aparecerá un cuadro de diálogo de verificación para asegurarse de que desea descartar la evaluación incompleta. Desde ese cuadro de diálogo, el instructor puede guardar el borrador, descartarlo o cerrar el cuadro de diálogo y volver a la evaluación parcial. Si un instructor edita una evaluación publicada anteriormente y decide cancelar antes de actualizar, se descartarán todos los cambios en la evaluación, incluidos los cambios en la evaluación de rúbrica.
+Nota: En la actualidad, las ventanas emergentes Carpeta y Cuaderno de calificaciones, así como las ventanas Crear y Editar rúbrica solo admiten la funcionalidad de guardado automático.

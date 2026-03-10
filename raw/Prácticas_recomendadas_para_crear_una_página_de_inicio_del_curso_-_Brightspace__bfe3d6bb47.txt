@@ -1,0 +1,65 @@
+URL: https://community.d2l.com/brightspace-es-MX/kb/articles/15193-practicas-recomendadas-para-crear-una-pagina-de-inicio-del-curso
+TITLE: Prácticas recomendadas para crear una página de inicio del curso - Brightspace
+HASH: bfe3d6bb4772cf48a9717f8dc881eca5bf136a39a3d7ceaea336219b3f431679
+TYPE: web
+
+Es probable que la página de inicio del curso sea la primera página que los alumnos ven cuando llegan a su curso. Por lo tanto, es importante diseñar la página de inicio con el propósito de mejorar la experiencia del curso. El objetivo es colocar información útil en lugares intuitivos en lugar de crear una página de inicio abarrotada que cause que a los estudiantes les cueste encontrar los enlaces y la información pertinentes.
+¿Qué es un componente?
+Un componente es una aplicación, o un componente de una aplicación, que muestra información específica o proporciona una forma específica para que un usuario interactúe con el entorno de aprendizaje. Normalmente, se trata de un acceso directo; por ejemplo, un enlace rápido a la introducción del primer módulo.
+¿Cómo puedo editar mi página de inicio?
+Para obtener más información sobre cómo editar la disposición de su página de inicio o los componentes en ella, consulte el tema Administrar componentes en su página de inicio.
+Diseño
+Al diseñar una página de inicio, el primer paso es decidir qué diseño utilizar. Brightspace permite hasta tres columnas con las que puede trabajar:
+- El diseño de una columna es muy similar a un diseño de página web típico fuera de Brightspace. Funciona bien para cosas como pancartas, imágenes grandes y elementos interactivos o personalizados.
+- El diseño de dos columnas también es muy común. Tiene la opción de dividir la página a la mitad o en un diseño de un tercio y dos tercios. El diseño de dos columnas tiende a ser el más versátil, a la vez que proporciona suficiente espacio real para el contenido.
+- El diseño de tres columnas se utiliza a menudo cuando se intenta condensar mucho contenido en una sola vista. Esto da una sensación de saturación y, en la mayoría de los casos, recomendamos no usar este diseño. Sin embargo, podría ser aplicable en algunas circunstancias (por ejemplo, tres listas similares de fechas clave, anuncios y recursos).
+Para seleccionar un diseño, haga clic en el botón de opción correspondiente y, a continuación, en Actualizar.
+Cuando piense en el diseño, considere también qué tan larga es la página de inicio y cuánto desplazamiento requiere. El desplazamiento mínimo reduce el esfuerzo cognitivo, hace que el contenido sea más fácil de digerir y ayuda a los usuarios a encontrar lo que necesitan más fácilmente. Sin embargo, no sacrifique un poco de desplazamiento en una página de inicio de tres columnas solo para lograr que todo esté a la vista cuando el usuario inicie sesión.
+Organización y estilo visual
+La mayoría de las organizaciones agregan la pancarta de forma predeterminada cuando se crea un nuevo curso. Se recomienda conservar este componente para dar una gran primera impresión. Elija una imagen que se adapte al contenido de su curso (D2L recomienda un tamaño de imagen de 2400 por 960 píxeles).
+¡La pancarta también reacciona!
+Figura: Ejemplo de una pancarta en la página de inicio de un curso.
+Tenga en cuenta cómo observa la página el usuario. Independientemente de los patrones de lectura cultural, los usuarios normalmente comienzan por la parte superior izquierda y avanzan hacia la derecha y abajo a medida que captan las palabras relevantes, así que coloque la información más importante en donde los alumnos miren primero. La parte menos observada en cualquier página web es la parte inferior derecha.
+Agregar un banner de imagen del curso que no está activado de forma predeterminada
+Si los administradores no configuran la pancarta de imagen del curso para que se active de forma predeterminada, tal vez pueda activarla mediante la página de información de la oferta de cursos. Deberá tener habilitado el permiso Cambiar imagen del curso y texto de pancarta para que su rol lo haga.
+Las imágenes del curso se utilizan para el componente Mis cursos, para la pancarta de la imagen del curso, en Brightspace Pulse y en todos los dispositivos y las resoluciones de pantalla. Aunque el tamaño de visualización del banner es de 1170 por 200 píxeles, se recomienda que la imagen que cargue sea de 2400 por 960 píxeles para garantizar que la imagen seleccionada se muestre claramente en todas estas situaciones. Las imágenes se ajustan automáticamente a la ubicación y la visualización adecuadas.
+- Vaya a Administración del curso y seleccione Información de oferta de cursos.
+- Haga clic en Examinar bajo el encabezado Imagen del curso y seleccione una opción para la ubicación de su imagen.
+Figura: Haga clic en la ubicación deseada para buscar la imagen de su curso.
+- Seleccione su imagen.
+- Seleccione Mostrar la imagen en un banner en la página de inicio del curso.
+- Haga clic en Guardar.
+Edición de los títulos de las imágenes de los banners de la página de inicio
+Los instructores con permisos adecuados pueden modificar los títulos de las imágenes de las pancartas de la página de inicio. Es posible cambiar el título al Nombre de la unidad de organización, a un valor personalizado (como Hola {FirstName}) o se puede eliminar el título y que no aparezca nada en el banner.
+- Coloque el puntero sobre la pancarta de la página de inicio o presione la tecla Tab para ingresar a este con el fin de ver el menú de Configuración del banner.
+- Haga clic para abrir el menú y seleccione Personalizar el texto del banner.
+- Realice una de las siguientes acciones:
+- Haga clic en Nombre de la unidad de organización e ingrese o edite el nombre. Este es el nombre predeterminado que aparece en el banner.
+- Haga clic en Personalizar para ingresar un valor personalizado (como Hola {FirstName}). Para obtener información sobre las otras cadenas que puede utilizar, haga clic en el enlace de ayuda del producto.
+- Haga clic en Ninguno para eliminar el texto actual y no mostrar ningún título en el banner.
+- Haga clic en Guardar.
+Elección de los componentes
+Una página de inicio útil es aquella que proporciona la información exacta que un usuario necesita cuando la necesita. Las páginas de inicio bien diseñadas deben mejorar la experiencia de aprendizaje en lugar de frustrar al usuario.
+Una página de inicio eficaz debe incluir componentes para dos propósitos: Navegación y comunicación.
+Navegación
+Proporcione a los estudiantes acceso rápido a las funciones de uso frecuente del curso:
+Figura: Ejemplo de cómo la página de inicio proporciona acceso rápido a las funciones del curso.
+- Utilice el componente Explorador de contenido para dar acceso rápido a los módulos y temas de contenido. Esto evita que el usuario tenga que adivinar cómo comenzar a aprender.
+- El componente Actualizaciones beneficia tanto a instructores como estudiantes, ya que proporciona una instantánea de todo el trabajo que requiere atención. Puede notificar a los usuarios de nuevos comentarios, cuestionarios que aún no se han intentado responder, publicaciones de debate sin leer y correos electrónicos nuevos, entre otros.
+- Si bien no es un componente, también sea selectivo con respecto a los enlaces que tiene en la barra de navegación y el orden en el que aparecen, de izquierda a derecha (según la organización visual anterior).
+- ¿Los enlaces están en orden de frecuencia o cronología de uso?
+- ¿Están incluidas solo las herramientas utilizadas en el curso?
+- ¿Todos los enlaces son nombrados de manera efectiva e intuitiva?
+Asegúrese de incluir, como mínimo, el contenido, las calificaciones (si se trata de un curso calificado), el progreso de la clase y las herramientas de participación y evaluación que esté utilizando (como cuestionarios o asignaciones).
+Comunicación
+Disponga de un método para compartir información del curso actualizada y recursos oportunos con las noticias o fuente de actividades de los alumnos como herramientas útiles para compartir actualizaciones, nuevos recursos, recordatorios del curso, y más con toda la clase a la vez. Se recomienda elegir una de estas dos herramientas ya que tienen características superpuestas. Noticias de actividad incorpora una experiencia social y permite a los estudiantes comentar en las publicaciones, mientras que las noticias son su herramienta de notificación más tradicional del instructor a la clase.
+Agregar el componente Calendario es una excelente manera de ayudar a los estudiantes a mantenerse al tanto de las fechas de vencimiento y otras fechas importantes del curso (como plazos de entrega, feriados y mucho más).
+Figura: Ejemplo de una página de inicio que incluye una noticia para comunicarse con los usuarios.
+Combinarlo todo
+¿Cómo decide dónde colocar las diferentes opciones en la página? Comience con la barra de navegación y decida a qué herramientas accederán los estudiantes con mayor frecuencia. Recomendamos que el contenido sea el primer enlace.
+Si opta por el diseño básico de dos columnas, asegúrese de que su pancarta esté en la parte superior. Coloque las noticias o la fuente de actividades en el panel izquierdo, de modo que sean más visibles cada vez que un usuario inicie sesión en su curso. En el panel derecho, comience con el Explorador de contenido y, a continuación, con Actualizaciones y Calendario.
+Lista de componentes del sistema
+Los componentes del sistema los define la plataforma del Brightspace Learning Environment. No se puede modificar el contenido de los componentes del sistema ni eliminarlos, pero es posible cambiar la parte en donde están ubicados los componentes en la página de inicio del curso y personalizar sus opciones de visualización.
+Componentes personalizados
+También puede crear sus propios componentes personalizados para satisfacer necesidades adicionales que los componentes estándar no cubran, como un componente de perfil con su información de contacto.
+Para obtener información adicional, consulte el encabezado Crear un componente personalizado en Administrar componentes en su página de inicio.

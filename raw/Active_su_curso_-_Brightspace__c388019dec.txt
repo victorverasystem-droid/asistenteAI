@@ -1,0 +1,21 @@
+URL: https://community.d2l.com/brightspace-es-MX/kb/articles/22495-active-su-curso
+TITLE: Active su curso - Brightspace
+HASH: c388019dec5f9330958e2046ebcb728a6375737eae02e14dba410ffe1669f77e
+TYPE: web
+
+Después de crear su curso, asegúrese de saber si los estudiantes pueden acceder a él controlando su disponibilidad y su estado activo. Esto es de especial importancia si solo desea que su curso esté disponible para los estudiantes durante un período de tiempo o período académico específico.
+Hacer que su curso esté disponible y activo
+- En la página de inicio de su organización, vaya a Administración del curso.
+- Haga clic en Información de oferta de cursos.
+- Desplácese hacia abajo y seleccione Curso activo.
+Figura: Seleccione Curso activo.
+Nota: Puede desactivar una oferta de cursos para ocultarla de los estudiantes si desmarca la casilla de selección El curso está activo.
+- Haga clic en Guardar.
+Importante: Si se establece la Fecha de inicio y la Fecha final, pero el instructor no selecciona El curso está activo, los estudiantes no pueden acceder al curso en la fecha de inicio seleccionada. Para activar el curso, se debe seleccionar Curso activo.
+Consideraciones sobre las fechas de inicio y final del curso
+Si no se establece la Fecha de inicio y la Fecha final en la Información de oferta de cursos, el curso estará inmediatamente disponible para que los estudiantes accedan a este en el componente Mis cursos y en el menú Seleccionar un curso.
+Figura: Establezca una fecha de inicio y una fecha final para su curso.
+Tenga presente las siguientes consideraciones sobre las fechas de inicio y final:
+- Si un curso está activo, aparecerá en el componente Mis cursos, pero los estudiantes no podrán acceder a él hasta que haya pasado la fecha de inicio.
+- Si un curso está activo y la fecha final ha pasado, el curso seguirá estando visible en el componente Mis cursos, pero no podrá abrirse.
+- Si se establece la Fecha de inicio y la Fecha final, pero el instructor no selecciona El curso está activo, los estudiantes no pueden acceder a este en la fecha de inicio seleccionada. Para activar el curso, se debe seleccionar Curso activo.

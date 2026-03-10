@@ -1,0 +1,24 @@
+URL: https://community.d2l.com/brightspace-es-MX/kb/articles/11040-ocultar-temas-de-contenido-modulos-y-descargas
+TITLE: Ocultar temas de contenido, módulos y descargas - Brightspace
+HASH: ca6c41e5436d6fe783deba769d4cb5952b90a932ea596ba7904bab7d35816ea3
+TYPE: web
+
+Puede ocultar temas, módulos y descargas de los estudiantes en la Experiencia de Contenido Clásica.
+Nota: Para obtener más información sobre las diferencias entre la Experiencia de Contenido Clásica y la Nueva Experiencia de Contenido (Lecciones), consulte Experiencias de contenido.
+Oculte los temas y módulos de contenido en la Experiencia de Contenido Clásica
+Puede ocultar temas individuales o módulos de contenido completos en la Experiencia de Contenido Clásica.
+Ocultar módulos y temas de contenido
+- Vaya a Contenido.
+- Abra el menú contextual del tema o módulo que desea ocultar.
+- Realice una de las siguientes acciones:
+- Seleccione Ocultar a los usuarios.
+Figura: Haga clic en el menú contextual junto al título de un módulo y seleccione Ocultar de los usuarios.
+Figura: Haga clic en el menú contextual junto a un tema y seleccione Ocultar de los usuarios.
+- Seleccione el ícono de visibilidad para el tema o módulo. Aparece una alternancia de visibilidad que le permite cambiar entre Visible y Oculto.
+Figura: Cambie un tema o un módulo a Oculto.
+Desactivar la función Descargar en Contenido
+Para deshabilitar la capacidad de los de descargar contenido, los siguientes permisos deben estar desactivados para los en la herramienta de Contenido:
+- Compilar y descargar contenido
+- Descargar temas de contenido
+Una vez que estos permisos estén desactivados, los no podrán ver el botón Descargar.
+Esta solución requiere que un administrador vaya a Roles y permisos y realice las actualizaciones. Esto no se puede configurar en cada curso de forma individual.

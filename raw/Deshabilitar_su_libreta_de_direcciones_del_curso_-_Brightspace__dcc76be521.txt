@@ -1,0 +1,6 @@
+URL: https://community.d2l.com/brightspace-es-MX/kb/articles/10912-deshabilitar-su-libreta-de-direcciones-del-curso
+TITLE: Deshabilitar su libreta de direcciones del curso - Brightspace
+HASH: dcc76be5211180f42a77a7277b249e9771e4d2f9b95a1c122147b527b5d084ac
+TYPE: web
+
+Realice una de las siguientes acciones:En el curso donde desea realizar los cambios, haga clic en Administrador del curso > Información de oferta de cursos. Desmarque la casilla de selección Mostrar libreta de direcciones del curso.

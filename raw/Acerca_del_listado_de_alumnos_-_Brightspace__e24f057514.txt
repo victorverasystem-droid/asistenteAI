@@ -1,0 +1,27 @@
+URL: https://community.d2l.com/brightspace-es-MX/kb/articles/15176-acerca-del-listado-de-alumnos
+TITLE: Acerca del listado de alumnos - Brightspace
+HASH: e24f057514fb31e96e5e6938f8084db811571a962460159a54029dea29063654
+TYPE: web
+
+Listado de alumnos es una herramienta que le permite agregar o eliminar participantes de un curso, cambiar los roles de estudiantes, crear nuevos estudiantes importar estudiantes desde un archivo TXT o CSV e imprimir o exportar el listado de alumnos para usarlo fuera de Brightspace.
+Utilice la herramienta Listado de alumnos para ver quiénes se inscribieron en el curso, enviar mensajes de correo electrónico o mensajes instantáneos, ver archivos de casillero compartidos y leer. También puede ver los premios que ha otorgado a los estudiantes del curso.
+Requisitos
+Para usar la herramienta Listado de alumnos, se requiere lo siguiente:
+- Para ver y usar la herramienta Listado de alumnos, debe tener los permisos de Listado de alumnos requeridos aplicados a su rol. Solo el administrador de su organización puede acceder a estos permisos.
+- Para agregar la herramienta Progreso de la clase a la barra de navegación de su curso, debe tener los permisos de Barra de navegación necesarios aplicados a su rol. Para obtener más información sobre cómo agregar una herramienta o un enlace a la barra de navegación del curso, consulte el tema Personalice la barra de navegación del curso.
+Recorrido visual de la herramienta Listado de alumnos
+Cuando vaya a Listado de alumnos, podrá ver a todos los participantes del curso y realizar las siguientes acciones:
+- Agregar participantes: agregue usuarios existentes o cree e inscriba un nuevo estudiante.
+- Estadísticas de inscripción: Consulte todas las inscripciones y cancelaciones de cursos.
+- Enviar correo electrónico a listado de alumnos: seleccione grupos o estudiantes a los que desee enviar mensajes.
+- Enviar un correo electrónico a todos los padres y tutores: enviar un correo electrónico a todos los contactos de padres o tutores disponibles (para educación primaria y secundaria).
+- Filtrar por: filtre la vista del listado de alumnos por Secciones o por Equipos de trabajo.
+- Buscar…: busque estudiantes o grupos en su Listado de alumnos. Para ver todos los parámetros de búsqueda disponibles, haga clic en Mostrar opciones de búsqueda.
+- Más acciones: seleccione a un estudiante o un grupo de estudiantes y realice una de las siguientes acciones:
+- Correo electrónico: envíe un mensaje de correo electrónico a los estudiantes seleccionados.
+- Mensaje instantáneo: envíe un mensaje a los estudiantes seleccionados.
+- Imprimir: imprima la lista de estudiantes o grupos seleccionados con información detallada.
+- Inscripción: inscriba una lista de estudiantes o grupos seleccionados.
+- Anular inscripción: anule la inscripción de una lista de estudiantes o grupos seleccionados.
+- Cantidad de registros por página: seleccione la cantidad de estudiantes que se muestra en cada página (10; 20; 50; 100; 200)
+Video: Descripción general de la herramienta Listado de alumnos

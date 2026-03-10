@@ -1,0 +1,14 @@
+URL: https://community.d2l.com/brightspace-es-MX/kb/articles/25805-crear-un-objetivo-de-aprendizaje
+TITLE: Crear un objetivo de aprendizaje - Brightspace
+HASH: ef9f7c82bc2fee28ee271d8bd29c48226dcaf4130a3a90eb5210e867a9c73425
+TYPE: web
+
+Utilice los objetivos de aprendizaje para representar los elementos que una persona necesita aprender para adquirir una competencia o para ser competente en cada dominio.
+Para crear un objetivo de aprendizaje
+- En la barra de navegación, haga clic en Competencias.
+- En la página Inicio de competencias, en el botón Nuevo, haga clic en Objetivo de aprendizaje.
+Figura: Utilice la página Nuevo objetivo de aprendizaje para nombrar y configurar su objetivo de aprendizaje.
+- Ingrese los detalles del nuevo objetivo de aprendizaje.
+- Si está listo para permitir que los usuarios accedan al objetivo de aprendizaje, en la sección Listo para evaluación, seleccione Sí.
+También puede crear un objetivo de aprendizaje desde el área Estructura de un elemento. En la pestaña Editar estructura, expanda las opciones Agregar elemento principal o Agregar elemento secundario y haga clic en Nuevo objetivo de aprendizaje.
+Video: Crear un objetivo de aprendizaje

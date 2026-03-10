@@ -1,0 +1,18 @@
+URL: https://community.d2l.com/brightspace-es-MX/kb/articles/32155-acerca-de-las-reglas-de-redondeo-de-brightspace
+TITLE: Acerca de las reglas de redondeo de Brightspace - Brightspace
+HASH: 6dd5dd307747dab015f6110bfde5683a97a2041ea1f8cae32924c9e5f7a04a87
+TYPE: web
+
+Acerca de las reglas de redondeo de Brightspace
+Cuando se aplica el redondeo, la herramienta Calificaciones de Brightspace aplica automáticamente la regla de redondeo “redondear hacia el valor contiguo más cercano” (Round to Half Even) al evaluar las respuestas que contienen decimales terminados con el número 5. Las calificaciones con decimales que terminan con 5 se redondearán hacia abajo para números pares antes de 5 y se redondearán hacia arriba para números impares antes de 5.
+Ejemplo 1
+3,41 * 25 = 85,25
+Si crea una pregunta aritmética y establece la Precisión de la respuesta en 1, la respuesta correcta según la aplicación del redondeo hacia el valor contiguo más cercano es 85,2.
+Ejemplo 2
+-3,41* 25 = -85,25
+Si crea una pregunta aritmética y establece la Precisión de la respuesta en 1, la respuesta correcta según la aplicación del redondeo hacia el valor contiguo más cercano es -85,2.
+Opciones de evaluación para las unidades
+Puede ingresar un tipo de unidad (mm, cm, gramos, pulgadas, etc.) para evaluar si las respuestas incluyen las unidades de medición correctas. Para las preguntas de cifras significativas, puede seleccionar un porcentaje para asignar un valor de puntos ponderados para la unidad de medición. Si utiliza unidades en su pregunta, puede configurar las siguientes opciones de Evaluación:
+- No distinguir mayúsculas de minúsculas: la autocalificación busca un patrón de caracteres coincidentes en el texto de la respuesta, ya sea que tenga una coincidencia exacta o no de las mayúsculas o minúsculas.
+- Distinguir mayúsculas de minúsculas: la autocalificación busca un patrón de caracteres coincidentes en el texto de la respuesta que deben tener coincidencia exacta de las mayúsculas o minúsculas.
+- Expresión regular: la autocalificación utiliza metacaracteres para buscar una o más cadenas coincidentes en el patrón de caracteres del texto de la respuesta. Lo que defina como parámetros de metacaracteres ayudará a determinar la distinción entre mayúsculas y minúsculas.

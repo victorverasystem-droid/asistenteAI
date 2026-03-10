@@ -1,0 +1,19 @@
+URL: https://community.d2l.com/brightspace-es-MX/kb/articles/15187-acerca-de-las-calificaciones
+TITLE: Acerca de las calificaciones - Brightspace
+HASH: 65c21ff2ed54e2fd354a4fff1a966469eefccdf894639b32d0ee085f4ed6fcf1
+TYPE: web
+
+La herramienta Calificaciones proporciona una serie de funciones para crear y administrar su cuaderno de calificaciones. Al aprovechar estas funciones, Brightspace ofrece un cuaderno de calificaciones flexible y potente que elimina las barreras técnicas y permite a los usuarios enseñar y evaluar de la forma que mejor se adapte a sus cursos.
+Requisitos
+Para usar la herramienta Calificaciones, se requiere lo siguiente:
+- Para ver y usar la herramienta Calificaciones, debe tener los permisos de Calificaciones requeridos aplicados a su rol. Solo el administrador de su organización puede acceder a estos permisos.
+- Para agregar la herramienta Calificaciones a la barra de navegación de su curso, debe tener los permisos de Barra de navegación necesarios aplicados a su rol. Para obtener más información sobre cómo agregar una herramienta o un enlace a la barra de navegación del curso, consulte el tema Personalice la barra de navegación del curso.
+Importante: También puede localizar las herramientas disponibles del curso si va a Administración del curso en la barra de navegación. Si no encuentra la herramienta Calificaciones en su instancia de Brightspace, comuníquese con el administrador de su organización para obtener los permisos necesarios.
+Recorrido visual de la herramienta Calificaciones
+Hay cinco puntos clave de navegación en la herramienta Calificaciones para ayudarlo a crear y administrar su cuaderno de calificaciones.
+- Ingresar calificaciones: revise las calificaciones de sus estudiantes, importe y exporte su cuaderno de calificaciones a Microsoft Excel o en un formato .CSV, califique los envíos del estudiante e ingrese o anule manualmente las calificaciones. Para obtener más información, consulte Ingresar calificaciones en la herramienta Calificaciones.
+- Administrar calificaciones: Cree nuevas categorías y elementos de calificación. Para obtener más información, consulte Administrar calificaciones en la herramienta Calificaciones.
+- Esquemas: Vea, cree y edite esquemas de calificación que hayan sido compartidos desde un nivel superior de su organización.
+- Asistente de configuración: un asistente de configuración de siete pasos que lo ayuda a establecer la configuración inicial de su cuaderno de calificaciones. Para obtener más información, consulte Configurar su cuaderno de calificaciones.
+- Configuración: Configure sus opciones personales de visualización, las opciones de visualización de la unidad de organización (curso) y las opciones de cálculo. Para obtener más información, consulte Definir la configuración en la herramienta Calificaciones.
+Video: Descripción general de la herramienta Calificaciones

@@ -1,0 +1,19 @@
+URL: https://community.d2l.com/brightspace-es-MX/kb/articles/11019-acerca-de-las-noticias
+TITLE: Acerca de las noticias - Brightspace
+HASH: 2452e7969efa4fb6d5672a1f870939e07d0e9bb899708dee79902103bef7e4bf
+TYPE: web
+
+Ayuda a aumentar la participación mediante la programación de noticias para mantener una comunicación frecuente y regular con todos los estudiantes inscritos en un curso. pueden establecer preferencias de notificación para estar informados de las actualizaciones importantes.
+Vea este video para aprender a usar la herramienta Noticias. Revise los pasos escritos a continuación.
+Requisitos
+Para usar la herramienta Noticias, se requiere lo siguiente:
+- Para ver y usar la herramienta Noticias, debe tener los permisos de Noticias requeridos aplicados a su rol. Solo el administrador de su organización puede acceder a estos permisos.
+Recorrido visual de la herramienta Anuncios
+Una vez que haya cumplido los requisitos de permiso y haya agregado la herramienta a la barra de navegación de su curso, seleccione Noticias.
+Figura: Descripción general de la interfaz de la herramienta Noticias.
+Cuando los instructores van a la herramienta Noticias, la primera página que verán mostrará todas las noticias creadas en el curso.
+- Nueva noticia: crear nuevas noticias de cursos.
+Nota: El cuerpo de una noticia no puede tener más de 1.5 millones de caracteres.
+- Más acciones: reordenar noticias, acceder a la configuración de notificaciones y restaurar elementos eliminados.
+- Eliminar: eliminar noticias de un curso si ya no son necesarias.
+- Después de hacer clic en el menú desplegable junto al título de una noticia, los instructores tienen las opciones para Ver, Editar, Eliminar o Copiar el elemento seleccionado, así como Anclar o Desanclar la noticia en la parte superior de la página, según sea necesario.

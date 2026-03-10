@@ -1,0 +1,186 @@
+URL: https://community.d2l.com/brightspace-es-MX/kb/articles/15184-evaluar-las-asignaciones-con-la-herramienta-asignaciones
+TITLE: Evaluar las asignaciones con la herramienta Asignaciones - Brightspace
+HASH: f0c0aedbecd599c92b831f1f90793a3ccf37fa95e48a234dc8d29fa3e01c2896
+TYPE: web
+
+La página Evaluar envío le permite evaluar los materiales enviados de las asignaciones y hacer comentarios sobre ellos. Consta de dos secciones principales: el panel Lista de envíos y el panel Evaluación. Use el panel Evaluación para calificar y proporcionar comentarios sobre el material enviado. En el caso de los envíos en papel y las asignaciones observadas en persona, solo se muestra el panel Evaluación, pues no se ha realizado ningún envío en Brightspace.
+Además, los comentarios de los elementos de calificación de asignaciones se sincronizan con la libreta de calificaciones cuando el evaluador hace clic en Actualizar. Esto garantiza que los comentarios publicados también se guarden automáticamente en el cuaderno de calificaciones.
+Evaluar el material enviado de asignaciones
+Al evaluar el material enviado de asignaciones, la función de comentarios masivos le permite proporcionar comentarios de manera eficiente a varios estudiantes directamente en las páginas de envío de asignaciones. Esto mejora el flujo de trabajo y la experiencia del usuario.
+Capacidades clave:
+- Agregar y guardar comentarios por lote como borrador si no existen comentarios anteriores.
+- Actualizar los borradores existentes o las evaluaciones publicadas de varios estudiantes a la vez.
+- Aplicar comentarios de manera selectiva o a todos los :
+- Utilice Agregar comentarios para aplicar comentarios a seleccionados.
+- Utilice Agregar comentarios a todos para aplicar los mismos comentarios a todos los .
+- Recibir una advertencia al guardar un cuadro de diálogo de comentarios vacío como comentarios masivos. Esto garantiza que los instructores sepan que, si se guardan comentarios vacíos, se sobrescribirá cualquier borrador o evaluación publicada existente.
+Puede publicar comentarios inmediatamente o guardarlos como borrador y publicarlos más tarde. Esto le permite revisar y repasar las evaluaciones, y publicar sus comentarios para varios usuarios al mismo tiempo. Puede retirar los comentarios publicados si desea proporcionar una actualización a las evaluaciones anteriores y solamente permitir que los estudiantes tengan acceso a sus comentarios más recientes.
+Los envíos de asignaciones tienen indicadores de estado para señalar el estado de la evaluación.
+Para proporcionar comentarios a estudiantes seleccionados
+- Vaya a Asignaciones.
+- En la página Asignaciones, haga clic en la asignación para la que desea proporcionar comentarios.
+- Seleccione los estudiantes a los que desea proporcionar comentarios y haga clic en Agregar comentarios.
+- Ingrese los comentarios que desea proporcionar y haga clic en Guardar. Los comentarios se guardan como borrador.
+- Para publicar los comentarios, seleccione los usuarios a los que proporcionó los comentarios y haga clic en Publicar comentarios.
+Para proporcionar comentarios a todos los estudiantes
+- Vaya a Asignaciones.
+- En la página Asignaciones, haga clic en la asignación para la que desea proporcionar comentarios.
+- Seleccione los estudiantes a los que desea proporcionar comentarios y haga clic en Más acciones > Agregar comentarios a todos.
+- Ingrese los comentarios que desea proporcionar y haga clic en Guardar. Los comentarios se guardan como borrador.
+- Para publicar los comentarios, seleccione los usuarios a los que proporcionó los comentarios y haga clic en Publicar comentarios.
+Agregar fechas de acceso especial a una asignación desde la página Envíos
+Puede cambiar la fecha de entrega y la disponibilidad de una tarea enviada para dar a un más tiempo para completar su asignación.
+Para agregar fechas de acceso especial a una asignación en la página Envíos
+- Vaya a Asignaciones.
+- En la página Asignaciones, bajo el nombre del para el que desea establecer un acceso especial, haga clic en una asignación para evaluar.
+- En el panel de evaluación de la derecha, haga clic en el menú desplegable de puntos suspensivos (...) Opciones de evaluación.
+- Haga clic en Fechas de acceso especial.
+- Establezca la fecha de vencimiento y la disponibilidad.
+- Haga clic en Guardar.
+- Haga clic en Volver a envíos.
+Las fechas de acceso especial heredan las propiedades de las fechas de la siguiente manera:
+- Cuando la asignación principal tiene una fecha de disponibilidad establecida, la propiedad de fecha se hereda en la fecha de acceso especial correspondiente. Por ejemplo, si la asignación está oculta antes de una fecha de inicio, entonces la fecha de inicio de acceso especial también se considera oculta.
+- Cuando la asignación principal no tiene una fecha de disponibilidad, la fecha de acceso especial hereda la propiedad de fecha del curso de forma predeterminada. Por ejemplo, si la asignación no tiene una fecha final, entonces se establece una fecha final de acceso especial para un estudiante. Esto también ocurre si el valor predeterminado del curso para las fechas finales de la asignación tiene envío restringido, lo que hace que la fecha final de acceso especial pase a tener envío restringido también.
+Verificar el estado de una evaluación
+Cuando hay varios evaluadores asignados, puede comprobar el estado de la asignación y la información adicional con el texto desplegable.
+Para comprobar el estado de una evaluación, realice lo siguiente:
+- Navegue a la herramienta Asignaciones.
+- Abra una asignación para comprobar su estado.
+- En la pestaña Usuarios, pase el cursor sobre el estado de la asignación para encontrar más información.
+Para obtener más información, consulte Evaluación avanzada para Asignaciones en entornos de prueba, desarrollo y ensayo de Brightspace.
+Preparar una evaluación compartida para su revisión
+Como evaluador, puede reducir los errores de comunicación durante la evaluación de las asignaciones de calificación conjunta y delegación cuando los editores y evaluadores no son la misma persona. Cuando haya completado su evaluación, seleccione la opción Listo para revisión para informar al editor que la evaluación está lista y puede pasar a la siguiente fase.
+Para preparar una evaluación compartida para su revisión, realice lo siguiente:
+- Navegue a la herramienta Asignaciones.
+- Haga clic en Crear una asignación y en Evaluación y comentarios > Coordinar varios evaluadores y seleccione Una evaluación compartida.
+- Haga clic en Guardar y cerrar.
+- Al enviar la tarea, en la página Asignaciones, haga clic en su asignación.
+- En la página Asignaciones, haga clic en la asignación.
+-
+Haga clic en Listo para revisión.
+Aparece un cuadro de diálogo que indica que la Evaluación está lista para su revisión, y el botón en la parte inferior cambia a Actualizar.
+Una vez que usted, como evaluador, haga clic en Listo para revisión, la evaluación está lista revisar y publicar. Los editores tienen acceso al botón Publicar.
+Para obtener más información, consulte Evaluación avanzada para Asignaciones en entornos de prueba, desarrollo y ensayo de Brightspace.
+Visualizar el esquema de calificaciones que se aplicó al curso mientras evalúa un material enviado de asignaciones
+Si aplicó un esquema de calificaciones a su curso, puede ver ese esquema de calificaciones mientras ingresa la calificación de un material enviado de asignaciones específico. Por ejemplo, si a su curso le aplicó un esquema de calificaciones por Porcentaje y si vinculó correctamente un material enviado de asignaciones a un elemento de calificación, puede ingresar una Calificación general y luego ver el esquema de calificaciones del estudianteen Vista de calificaciones del estudiante. Esta acción es útil para comprender cómo se verá la calificación que ingresó para el estudiante cuando vea su calificación final con el esquema de calificaciones aplicado.
+Para ver el esquema de calificaciones que se aplicó al curso mientras evalúa
+- Vaya a Asignaciones.
+- En la página Asignaciones, haga clic en el menú Acciones (ícono de flecha) junto a una asignación y seleccione Ver materiales enviados.
+- En la pestaña Usuarios de la página Materiales enviados, haga clic en un material enviado de asignaciones para abrirlo y evaluarlo.
+- Evalúe la asignación e ingrese una Calificación general. La Vista de calificaciones del estudiante se actualiza de forma automática para representar el esquema de calificaciones aplicado.
+Video: Asignar evaluadores y editores en Asignaciones
+Vea informes de herramientas externas de aprendizaje mientras evalúa asignaciones
+Si agregó una integración de herramientas externas de aprendizaje a una asignación individual, puede ver los informes de estas herramientas mientras evalúa el material enviado de los estudiantes. Esta función le permite aprovechar las herramientas externas que verifican el material enviado de los estudiantes para determinar la integridad académica, proporcionándole información detallada durante su proceso de evaluación.
+Para ver informes de herramientas externas de aprendizaje en asignaciones:
+- En la página Detalles del material enviado en Evaluación coherente, haga clic en Ver resultados de herramienta externa para abrir la ventana Resultados de herramienta externa para [nombre del estudiante]. Haga clic en Detalles para abrir el informe detallado en una nueva ventana.
+- En las pestañas Usuarios y material enviado de una asignación, haga clic en Ver en la columna Resultados de herramienta externa para abrir la ventana Resultados de herramienta externa para [nombre del estudiante]. Haga clic en Detalles para abrir el informe detallado en una nueva ventana.
+Si se adjuntan varias herramientas externas de aprendizaje o hay varios informes disponibles de una misma herramienta de aprendizaje, todos los enlaces a informes detallados aparecerán en la ventana Resultados de herramienta externa para [nombre del estudiante].
+Según la herramienta externa de aprendizaje que esté usando, los detalles del informe pueden incluir cualquiera de los siguientes datos:
+- Título del material enviado
+- Comentarios
+- Descripciones cortas y largas de los resultados
+- Indicadores de avance del procesamiento
+- Códigos de error
+Descargar y evaluar el material enviado de asignaciones
+Si descarga el material enviado por el usuario y deja comentarios en los archivos, puede cargarlos a la asignación correspondiente, de modo que aparezcan como datos adjuntos en la evaluación del material enviado de cada usuario. Para garantizar la carga y la distribución exitosa de los comentarios a los estudiantes, no cambie los nombres de los archivos descargados después de ingresar los comentarios y guardar los cambios.
+Evaluar y agregar comentarios al material enviado descargado
+- Vaya a Asignaciones.
+- Haga clic en el menú desplegable Acciones y luego, en Ver envíos.
+- En la página Material enviado, realice una de las siguientes acciones:
+- Si desea devolver comentarios sobre varios envíos a la vez o evaluar y calificar los envíos sin conexión:
+- Marque Seleccionar todas las filas y, a continuación, haga clic en Descargar. Esto crea un archivo .zip.
+- Haga clic en Descargar.
+- Abra cada asignación, evalúe la asignación, agregue sus comentarios y, luego, guarde el archivo.
+- Una vez que haya evaluado y agregado comentarios a todos los archivos de envío y los haya guardado, resalte todas las carpetas actualizadas y cree una carpeta .zip.
+- En la página Envíos, haga clic en Agregar archivos de comentarios. Seleccione su archivo comprimido .zip y, a continuación, haga clic en Agregar.
+- Para publicar comentarios a estudiantes seleccionados, seleccione estos estudiantes y haga clic en Publicar comentarios.
+- Para publicar comentarios a todos los estudiantes, haga clic en Publicar todos los comentarios.
+Si el botón Publicar todos los comentarios está en gris, significa que usted no tiene comentarios en borrador para publicar. Si la opción Marca de anónimo está activada, debe hacer clic en Guardar borrador para guardar los comentarios de cada usuario anónimo y, a continuación, hacer clic en Publicar todos los comentarios en la página de la asignación para enviarlos a dichos usuarios.
+- Si tiene rúbricas adjuntas al material enviado del estudiante y si este material enviado del estudiante no se han evaluado en todos los criterios de rúbrica, aparece un cuadro de diálogo de Confirmación que indica lo mismo. Haga clic en Continuar con la calificación o Publicar de todos modos, según corresponda.
+- Si desea evaluar a un usuario individual, haga clic en su nombre o en el enlace Evaluar de su material enviado.
+- Para evaluar por medio de los resultados de aprendizaje, seleccione el nivel deseado de logro bajo el resultado.
+- Cuando deje comentarios en Turnitin, se muestra el ícono de comentario en la página de envío de la asignación, en la columna Calificación en línea de Turnitin.
+- Si agregó una puntuación de Calificación en línea, esta se muestra en la página de envíos, en la columna Calificación en línea de Turnitin.
+Agregar material enviado de asignaciones a Brightspace Portfolio
+Puede agregar material enviado de asignaciones a Brightspace Portfolio. Cuando agrega material enviado de asignaciones al Portafolio, todas las versiones del material enviado, los comentarios y las calificaciones se agregan al Portafolio.
+Luego, puede revisar el material enviado como prueba en Brightspace Portfolio y compartir esa evidencia con los padres y tutores.
+Una vez que agregue el material enviado de los estudiantes al Portafolio como evidencia, se considerará como un registro de trabajo y evidencia de asignación independiente de la herramienta Asignaciones. Por lo tanto, el material enviado de asignaciones agregado al Portafolio como prueba permanece en el Portafolio del estudiante una vez finalizado el curso.
+Agregar material enviado de asignaciones al Portafolio
+- Vaya a la herramienta Asignaciones y haga clic en una asignación.
+- En la página Material enviado de esa asignación, haga clic en Usuarios.
+- Busque un usuario que haya completado el material enviado de una asignación.
+- Haga clic en Agregar al Portafolio.
+- En el cuadro de diálogo ¿Agregar esta asignación al Portafolio? haga clic en Agregar.
+El material enviado de la asignación del estudiante seleccionado se agrega a su carpeta como prueba. Esta prueba permanece en el portafolio del estudiante una vez finalizado el curso.
+Evaluar envíos en video
+Puede proporcionar calificaciones y comentarios para los archivos de video que los estudiantes adjuntan y envían como parte de una asignación.
+Evaluar envíos en video
+- Vaya a Asignaciones.
+- Haga clic en el menú desplegable Acciones al lado de la asignación deseada y luego, seleccione Ver envíos.
+- Haga clic en la pestaña Envíos.
+- Seleccione el envío de video y haga clic en Descargar. Guarde el archivo .zip y revíselo.
+- Para calificar y agregar comentarios al envío, haga clic en el nombre del archivo del video enviado.
+- Ingrese su calificación general y sus comentarios generales.
+- Haga clic en Publicar.
+Si su asignación está asociada a un elemento de calificación en su cuaderno de calificaciones, la Calificación general que ingresó se agrega automáticamente a su cuaderno de calificaciones. Para revisar y editar la Calificación general de todas las evaluaciones aplicadas a ese elemento de calificación, haga clic en el ícono Asignación adjunta junto al campo Calificación general para abrir su cuaderno de calificaciones. Para obtener más información sobre los elementos de calificación, consulte Crear y eliminar categorías y elementos de calificación.
+Video: Calificar envíos y agregar comentarios en Asignaciones
+Acerca de la experiencia de evaluación de asignaciones
+La experiencia de evaluación aporta consistencia a la evaluación en Brightspace.
+La experiencia de evaluación de asignaciones incluye las siguientes características:
+- La barra de contexto del usuario incluye un menú para elegir a un estudiante y otro menú para elegir un material enviado. En la lista de envíos de usuarios, los archivos se agrupan por envío sin repetir los comentarios, con el fin de facilitar la distinción entre los envíos. En las asignaciones grupales, la barra contextual del usuario incluye un menú de acciones desplegable con enlaces para ver todos los miembros del grupo, enviar correos electrónicos al grupo y enviar un mensaje instantáneo al grupo.
+- Si agregó una Herramienta externa de aprendizaje a una asignación individual, el enlace Ver resultados de herramienta externa aparece en el encabezado junto al panel de evaluación. Haga clic en el enlace para ver los informes correspondientes al material enviado del usuario que está evaluando.
+- El divisor del panel de evaluación se puede arrastrar para adaptarse a las preferencias del usuario y al tamaño de la pantalla. Las rúbricas se encuentran en la parte superior del panel de evaluación. Para agregar una rúbrica, seleccione Editar asignación.
+- Aparece un menú contextual (de puntos suspensivos) con las siguientes opciones:
+- Editar asignación: Abre la página Asignación en una nueva pestaña (requiere el permiso Ver y administrar las carpetas de envíos de asignaciones).
+- Previsualizar asignación: Abre la página Previsualización de asignación en una nueva pestaña, lo que permite a los evaluadores consultar las instrucciones de la asignación.
+- Fechas de acceso especiales: abre la pantalla Editar asignación como una ventana emergente (requiere el permiso Configurar acceso especial en carpetas de envíos de asignaciones).
+- La calificación general permanece como un ícono que indica si esa calificación está vinculada al cuaderno de calificaciones. Los resultados existentes y los componentes web de competencias también están visibles.
+- Para proporcionar comentarios para el envío, ingréselos manualmente en Comentarios generales o cargue un archivo adjunto.
+- Cuando abre una nueva ventana para evaluar las rúbricas de solo texto, se muestra el Puntaje general para cada rúbrica y puede anular el nivel, si fuera necesario.
+Evaluar mediante anotaciones
+Si tiene activadas las anotaciones integradas, puede marcar los envíos utilizando el resaltado, dibujo a mano alzada, formas y comentarios asociados directamente desde la página Evaluar material enviado de una asignación enviada.
+Acceder y evaluar con anotaciones
+- Vaya a Asignaciones.
+-
+Haga clic en una asignación específica para abrir y ver su contenido en la página Material enviado.
+- Haga clic en Material enviado.
+- Haga clic en un material enviado para abrirlo y evaluarlo.
+- En la barra de navegación superior, ubique los siguientes íconos de anotación:
+- Dibujo: Ajuste el color, el color de relleno, la opacidad, el espesor y el modo de mezcla. Realice un dibujo en el material enviado de la asignación.
+- Nota: Seleccione un color de nota y la forma del ícono y agréguelo al material enviado de la asignación.
+- Texto: Personalice el color del texto, el color de relleno, la opacidad y el estilo de fuente. Escriba el texto en el material enviado de la asignación.
+- Línea: Ajuste el color de la línea, el color de relleno, la opacidad, el espesor y el estilo de la línea.
+- Deshacer: Elimine la última anotación agregada.
+- Rehacer: Aplique la última anotación eliminada.
+- Para descargar el archivo del envío original o el archivo PDF anotado, haga clic en el botón Descargar en el visualizador de anotaciones.
+Una vez que se publican los comentarios, los estudiantes pueden ver su material enviado con las anotaciones visibles, lo que proporciona contexto adicional.
+Administrar el estado de evaluación
+Para determinar si la información de la evaluación se conservará o si se debe volver a ingresar, es importante comprender qué sucede con el estado de evaluación de un envío de asignación cuando un estudiante anula la inscripción de un curso y luego se vuelve a inscribir.
+Cuando un estudiante envía el trabajo de una asignación, y usted evalúa el material enviado, la restauración de esa evaluación depende de dos factores:
+- Si la evaluación se publicó
+- Cuánto tiempo estuvo el estudiante con la inscripción del curso anulada
+Las siguientes situaciones describen el comportamiento esperado:
+- Evaluaciones publicadas. Si publica la evaluación, el estado publicado se restaura de manera automática cuando el estudiante se vuelve a inscribir dentro de los 30 días posteriores a la anulación de la inscripción.
+- Evaluaciones listas para revisión. Si la evaluación se establece en Listo para revisión y no se publica, ese estado no se restaura cuando el estudiante se vuelve a inscribir. Se debe volver a aplicar la evaluación.
+- Reinscripción después de 30 días. Si un estudiante vuelve a inscribirse después de más de 30 días de haberse anulado la inscripción, el estado de la evaluación no se restablece, incluso si se publicó anteriormente. Esto se debe a que los registros de evaluación se eliminan de forma temporal cuando se anula la inscripción, y un proceso de limpieza del sistema elimina los registros eliminados de forma permanente después de 30 días.
+Tipos de archivos compatibles para anotar envíos
+Los siguientes tipos envíos son compatibles cuando se evalúa con anotaciones en la herramienta de Asignaciones:
+- .doc
+- .docx
+- .rtf
+- .odt
+- .ppt
+- .pps
+- .pptx
+- .ppsx
+- .odp
+- .xls
+- .xlsx
+- .txt
+- .jpg
+- .jpeg
+- .png
+- .tif
+- .tiff
+- .gif (una vez convertido en PDF, solo se muestra la primera imagen del archivo .gif)
+- .pdf

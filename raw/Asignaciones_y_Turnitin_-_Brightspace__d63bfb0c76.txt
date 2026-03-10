@@ -1,0 +1,110 @@
+URL: https://community.d2l.com/brightspace-es-MX/kb/articles/10800-asignaciones-y-turnitin
+TITLE: Asignaciones y Turnitin - Brightspace
+HASH: d63bfb0c76b579919cafabbdbf1c5c6663e9a675d9e572701177c08f058b76c0
+TYPE: web
+
+TurnItIn es una solución basada en la nube que presenta funciones de verificación de similitud y calificación en línea mediante las herramientas de Informe de similitud y Calificación en línea. TurnItIn permite que los instructores ahorren tiempo y facilita la realización de comentarios personalizados a los estudiantes.
+El informe de similitud permite monitorear los envíos de asignaciones e identificar posibles casos de plagio mediante la comparación en forma automática de los envíos a una base de datos en línea de contenido original. Luego, puede ver los informes de similitud, en los que se resaltan las áreas clave, mostrar un desglose de fuentes coincidentes y proporcionar enlaces directos al contenido coincidente.
+También puede aprovechar la herramienta integrada de calificación en línea, que permite agregar comentarios, texto en línea y resaltar secciones en los envíos de archivos, directamente desde la herramienta Asignaciones. Los estudiantes pueden ver los comentarios de Online Grading en Progreso del usuario en Asignaciones, en Calificaciones, en Asignaciones, en Progreso del usuario dentro de Calificaciones y en Contenido.
+Las funciones de informe de similitud y calificación en línea se habilitan mediante la integración con Turnitin de iParadigms, LLC. Para obtener más información acerca de estas funciones, consulte la Integración de Turnitin enBrightspace IntegrationHub.
+Acerca de las asignaciones habilitadas con TurnItIn
+Considere lo siguiente cuando cree o edite la asignación habilitada con TurnItIn:
+- Cuando se crea una asignación nueva, el nombre de la carpeta en Turnitin se trunca después de alcanzar los 99 caracteres, aunque el campo Nombre acepta 128 caracteres.
+- Cuando copia los componentes del curso de un curso a otro, confirme que todos los ajustes estén configurados en las asignaciones habilitadas con Turnitin en el nuevo curso.
+- Si desea que los estudiantes vean las instrucciones en la página Enviar archivos, debe ingresarlas en el campo de texto enriquecido Instrucciones en la pestaña Propiedades. Estas instrucciones se transfieren automáticamente a TurnItIn. Las instrucciones que introduce en la pestaña Propiedades sobrescriben las instrucciones ingresadas en Turnitin.
+- Si la opción de calificación en línea está activada para su unidad de organización, en la pestaña Turnitin, la fecha de calificación en línea disponible para los estudiantes se establece, de forma predeterminada, según la fecha y la hora actuales, con una adición de 7 días. En la pestaña Restricciones, si selecciona Tiene fecha final, la fecha de calificación en línea disponible para estudiantes se establece automáticamente en la fecha final, con la adición de 1 día. Puede cambiar cualquiera de estas fechas si es necesario.
+- Si desea transferir automáticamente las calificaciones como borrador a Brightspace, vaya a la página Integración de Turnitin, seleccione el botón de opción Sincronizar automáticamente las calificaciones como borrador en Brightspace o seleccione el botón de opción Sincronizar manualmente las calificaciones como borrador en Brightspace para que sea un paso manual.
+- Si desea que los estudiantes vean el enlace de Puntaje de similitud a TurnItIn:
+- El administrador debe asignar su rol al rol de IMS del estudiante.
+- En la pestaña Propiedades, asegúrese de seleccionar la opción Permitir que los estudiantes vean puntuaciones de Turnitin similares en su carpeta de envíos de asignaciones. Esta opción está activada de forma predeterminada.
+- En Turnitin, en Configuración opcional, asegúrese de que la casilla de selección ¿Permitir a los estudiantes ver los Informes de similitud? esté seleccionada. Esta opción está desactivada de forma predeterminada.
+- En la pestaña Propiedades, si selecciona la opción Permitir que los estudiantes vean los puntajes de similitud de TurnItIn en la asignación, la opción equivalente en TurnItIn denominada ¿Permitir que los estudiantes vean los informes de similitud? se establece automáticamente en Sí.
+- En TurnItIn, en Configuración opcional, la opción ¿Permitir materiales enviados fuera de tiempo? se establece de forma predeterminada en Sí. Esto significa que no tiene que cambiar las fechas finales para permitir que los estudiantes envíen asignaciones fuera de tiempo.
+Habilitar TurnItIn en una asignación
+A fin de activar Turnitin para una asignación, asegúrese de que el administrador haya realizado las siguientes acciones con anticipación:
+- Activado el informe de similitud de Turnitin para su unidad de organización mediante la configuración de las variables d2l.3rdParty.Turnitin.LTI en el Explorador de variables de configuración
+- Asignado los roles de IMS para los usuarios en la Configuración de IMS.
+Para obtener más información, consulte Configuración de Turnitin.
+Para activar TurnItIn en una asignación
+- Vaya a Contenido.
+- Realice una de las siguientes acciones:
+- Haga clic en Crear nuevo > Asignación e ingrese el nombre, la calificación, la fecha y las instrucciones de su asignación.
+- En la asignación que desea actualizar, haga clic en Opciones > Editar.
+- Haga clic para expandir el acordeón Material enviado y finalización.
+- En Extensiones de archivo permitidas, seleccione Compatible con TurnItIn. Para obtener más información, consulte ¿Qué tipos de archivo son compatibles con el informe de similitud?
+- Haga clic para expandir la pestaña Evaluación y comentarios.
+- Haga clic en Administrar TurnItIn.
+- Haga clic en Habilitar los informes de similitud para esta carpeta.
+- Haga clic en Habilitar la calificación en línea para esta carpeta si desea utilizar el conjunto de herramientas de comentarios y calificación de Turnitin.
+- Haga clic en Más opciones para obtener una lista de configuraciones opcionales adicionales.
+- Realice cualquiera de las siguientes acciones:
+- En el área configuración de Entregas, indique dónde y cuándo se pueden enviar las asignaciones. Para obtener más información, consulte Configuración de asignaciones de TurnItIn.
+- En el área Comparar con, indique las fuentes con las que desea comparar el material enviado, incluidos los documentos de los estudiantes enviados anteriormente, el contenido del sitio web actual y archivado, los periódicos, diarios y publicaciones.
+- En el área Informes de similitud, indique el momento para generar informes de similitud y el tipo de contenido del material enviado que desea excluir (como bibliografía, material citado y fuentes pequeñas).
+- En el área Excluir plantilla de asignación, puede cargar o crear una plantilla de texto que se excluya automáticamente del informe de similitud.
+- En el área Configuraciones adicionales, puede indicar si desea guardar la configuración que eligió en el cuadro de diálogo Más opciones para usarla en el futuro.
+- Haga clic en Enviar.
+- Haga clic en Guardar.
+- Revise los detalles de su asignación, cambie la visibilidad si lo desea y haga clic en Guardar y cerrar.
+Su asignación aparece en la herramienta de contenido y de asignaciones como TurnItIn habilitado.
+Video: Crear una asignación con TurnItIn activado
+Acerca de los tipos de material enviado
+Hay cuatro tipos de material enviado disponibles para los profesores durante la creación de asignaciones que permiten la evaluación de muchas tareas diferentes.
+- Envío de archivos: los estudiantes cargan y envían un archivo a la asignación.
+- Envío de texto: los estudiantes publican texto, imágenes o un enlace a su trabajo en un cuadro de texto dentro de la asignación.
+- Envío en papel: los estudiantes envían una copia física de su asignación directamente al profesor. No es necesario cargar ningún archivo para completar la asignación.
+- Observada en persona: permite a los profesores observar a los estudiantes mientras realizan tareas, como presentaciones en clase, y evaluarlas con Asignaciones. No es necesario cargar ningún archivo para completar la asignación.
+Los envíos en papel y las asignaciones observadas en persona incluyen opciones de finalización adicionales, ya que los estudiantes no envían ningún material a Brightspace. Los estudiantes pueden marcar estos tipos de envíos como completados manualmente o se pueden marcar de manera automática cuando se evalúen o en la fecha de vencimiento. Los profesores seleccionan la opción de finalización cuando crean las asignaciones.
+Acerca de las asignaciones grupales habilitadas con TurnItIn
+Considere lo siguiente cuando crea o edita la asignación grupal habilitada con Turnitin:
+- En TurnItIn, en Configuración opcional, la opción ¿Permitir materiales enviados fuera de tiempo? se establece de forma predeterminada en Sí. Esto significa que no tiene que cambiar las fechas finales para permitir que los estudiantes envíen asignaciones fuera de tiempo.
+Eximir a los usuarios individuales de TurnItIn
+Para eximir a los usuarios individuales de Turnitin, el administrador debe activar Turnitin para la herramienta Asignaciones de la organización o el curso. Las exenciones de Turnitin se aplican a todas las asignaciones dentro de un curso.
+- En la página Asignaciones, en el menú contextual Más acciones, seleccione Administrar preferencias de Turnitin®.
+- La página Administrar preferencias de Turnitin® muestra dónde puede seleccionar a los usuarios individuales para que estén exentos de Turnitin, con las opciones de alternancia. Una X en la opción de alternancia significa que los envíos de los estudiantes están exentos de TurnItIn. Una marca de verificación en la opción de alternancia significa que TurnItIn verificará los envíos de los estudiantes.
+Comprensión de las restricciones de fecha
+Las restricciones de cuestionarios permiten que los profesores establezcan fechas de inicio, fechas de vencimiento y fechas finales en sus cuestionarios. La fecha de inicio determina a partir de cuándo un cuestionario está disponible para los estudiantes. La fecha final determina cuándo deja de estar disponible un cuestionario para los estudiantes. La fecha de vencimiento indica hasta cuándo puede completar el cuestionario. Un cuestionario se considera atrasado si se envía después de que se llegue a la fecha de entrega. Si el cuestionario tiene un límite de tiempo asignado, pero el estudiante usa más tiempo, el cuestionario se marca con límite de tiempo excedido.
+En algunos casos, la terminología utilizada en TurnItIn no coincide con la que se utiliza en Brightspace. Con esta lista, se garantiza que las definiciones de fecha se asignen claramente para evitar malentendidos.
+Fecha de inicio:
+En Brightspace, la fecha de inicio indica el día en que los estudiantes pueden comenzar a enviar su trabajo. Si no está establecida, se utiliza la fecha de inicio del curso o la fecha y hora actuales.
+En TurnItIn, la fecha de inicio indica el día en que los estudiantes pueden comenzar a enviar su trabajo.
+Fecha de vencimiento:
+En Brightspace, la fecha de vencimiento indica el día en que vence una asignación. Si no está establecida, se utiliza la fecha final del curso o la fecha actual más 6 meses.
+En TurnItIn, la fecha de vencimiento también indica el día en que vence una asignación. La fecha de vencimiento en TurnItIn permite la comprobación automática de colusión que se utiliza en la opción Generar informes en la fecha de vencimiento. La configuración de la fecha de vencimiento admite la opción Permitir entregas fuera de tiempo.
+Fecha final:
+En Brightspace, la fecha final indica la finalización de un curso, cuando ya no se permiten entregas de asignaciones.
+En TurnItIn, se utiliza la fecha final proporcionada en Brightspace.
+Fecha de visibilidad de calificaciones:
+En Brightspace, la fecha de visibilidad de calificaciones indica el día en que los puntajes y los comentarios estarán disponibles en el cuaderno de calificaciones. Si no está establecida, se utiliza la fecha de vencimiento más 6 meses.
+En TurnItIn, la fecha de visibilidad de calificaciones también indica la fecha en que los puntajes y los comentarios estarán disponibles para los estudiantes.
+Video: Cómo evaluar una asignación habilitada para TurnItIn
+Publicar comentarios de calificación en línea de TurnItIn
+- Haga clic en Asignaciones en la barra de navegación del curso en el que desea calificar la asignación habilitada para TurnItIn.
+- En la lista de asignaciones, haga clic en la asignación para la que desea publicar sus comentarios de calificación en línea de TurnItIn. La lista de materiales enviados tendrá un indicador de comentarios del instructor para los estudiantes que recibieron comentarios.
+- Realice una de las siguientes acciones:
+- Utilice la casilla de selección junto a estudiantes individuales para indicar que desea publicar comentarios
+- Utilice la casilla de selección situada en la parte superior de la columna para indicar que desea publicar comentarios en todos.
+- Haga clic en Publicar comentarios a fin de publicar puntajes y comentarios dentro de calificación en línea de TurnItIn para los estudiantes seleccionados.
+Ver los informes de similitud de TurnItIn
+Puede ver los Informes de similitud en la página Materiales enviados. Cuando el informe está disponible, el estado cambia de En progreso a un porcentaje, que indica la cantidad de contenido coincidente.
+Una calificación de porcentaje más bajo indica que el contenido probablemente sea original y que no se ha copiado. Una calificación de porcentaje más alto indica que el contenido probablemente no sea original y que se ha copiado de otra fuente.
+Los rangos de porcentajes se asocian con colores:
+- Azul >= 0 y < 20 %
+- Verde >= 20 y < 40 %
+- Amarillo >= 40 y < 60 %
+- Naranja >= 60 y < 80 %
+- Rojo >= 80 y <= 100 %
+Haga clic en la sección de color junto a la clasificación de porcentaje para ver el Informe de similitud asociado. El Informe de similitud consta de dos paneles. En el panel derecho, se enumeran todas las fuentes coincidentes, incluido el porcentaje de texto que coincide, y un enlace al contenido en línea. El panel izquierdo muestra el texto de envío mediante resaltado de colores para resaltar el contenido coincidente.
+Los siguientes tipos de archivo son compatibles con el informe de similitud:
+- Microsoft Word (DOC, DOCX)
+- Corel WordPerfect (WPD)
+- Adobe Acrobat PDF
+- HTML (HTM, HTML)
+- Texto enriquecido (RTF)
+- Texto sin formato (TXT)
+- Procesador de palabras Hangul (HWP)
+- PostScript (PS)
+- Microsoft Excel (XLS, XLSX)
+- Microsoft PowerPoint (PPTX, PPT, PPSX, PPS)
+Solución de problemas: veo una asignación entregada en la que se muestra un ícono con el mensaje “No se pudo generar un Informe de similitud para este archivo”.
+Si no aparecen otros detalles en el mensaje de texto del ícono, como que el archivo no es de un tipo compatible o no incluye suficiente texto, el error genérico indica un problema de transferencia del archivo al servidor de TurnItIn. Para obtener asistencia con la solución de problemas, póngase en contacto con el equipo de soporte de D2L.

@@ -1,0 +1,58 @@
+URL: https://community.d2l.com/brightspace-es-MX/kb/articles/22934-calificaciones-de-banner
+TITLE: Calificaciones de Banner - Brightspace
+HASH: 601a37c5b565dbb5320468e75bf833c19a5432adc46fa3930755b194ec968ca6
+TYPE: web
+
+Las calificaciones de Banner consisten en un complemento de la herramienta Brightspace Grades y el adaptador de Banner que permite a los instructores exportar las calificaciones finales desde Brightspace al Sistema de información de estudiantes (SIS) de Banner de su organización en tiempo casi real. Las funciones de las calificaciones de Banner incluyen el intercambio de calificaciones con Banner by Ellucian® con comentarios en tiempo casi real y una interfaz de usuario de Brightspace coherente y familiar para exportar las calificaciones. Puede enviar las calificaciones finales calculadas o rectificadas, anular una calificación de Brightspace antes de enviarla y enviar calificaciones sección por sección.
+Póngase en contacto con su administrador para obtener más información sobre las siguientes funciones opcionales:
+- Enviar calificaciones por letras o numéricas
+- Restringir las calificaciones enviadas a las calificaciones publicadas únicamente
+- Enviar calificaciones de mitad del trimestre
+- Establecer la última fecha de asistencia de los alumnos con calificaciones reprobatorias
+Utilizar las calificaciones de Banner para exportar las calificaciones al Sistema de información de estudiantes de calificaciones de Banner
+Si el administrador le concedió los permisos necesarios, puede utilizar la herramienta Calificaciones de Brightspace para exportar las calificaciones al sistema de información de estudiantes (SIS) de Calificaciones de Banner. Si utiliza el Brightspace 10.3 o una versión posterior, el flujo de trabajo para exportar las calificaciones al SIS le permite elegir si desea exportar calificaciones finales o de mitad del trimestre.
+Si necesita registrar la última fecha la asistencia de los estudiantes con calificaciones reprobatorias (por ejemplo, para cumplir con un requisito federal), puede introducir un valor de Última fecha de asistencia cuando exporta las calificaciones al SIS. El administrador del sitio de D2L puede activar esta función.
+Exportación de calificaciones de mitad de trimestre
+- En la barra de navegación, haga clic en Calificaciones.
+- En la página Ingresar calificaciones, haga clic en Exportar al SIS.
+- En la página Exportar calificaciones al SIS, realice una de las siguientes acciones que sean aplicables:
+- En la lista desplegable Exportar calificaciones como, seleccione Mitad de trimestre. Si no selecciona la opción Mitad de trimestre, es posible que las calificaciones de los estudiantes se envíen al cuaderno de calificaciones incorrecto en el Sistema de información de estudiantes (SIS) de calificaciones de Banner.
+- Revise a los estudiantes que puede calificar.
+- Si se requieren códigos de calificación especializados (por ejemplo, incompleto), puede anular las calificaciones. El valor de calificación de la anulación no afecta el valor almacenado en la herramienta Calificaciones.
+- Haga clic en Exportar todas las calificaciones. Solo se exportarán al SIS las calificaciones de mitad de trimestre. Las calificaciones que el SIS ya ha aceptado no se exportan a menos que se actualicen.
+- En la página Estado de exportación de calificaciones, puede salir y volver para revisar los resultados de las exportaciones en otro momento. Cuando se ha completado la exportación de las calificaciones, la barra de estado se muestra en color verde y aparece la página de resumen de envíos de Exportar calificaciones, donde se muestra la información sobre la exportación. La información sobre las exportaciones puede incluir, por ejemplo, el apellido y el nombre de cada usuario con una calificación exportada, y el estado y los detalles de la exportación.
+Exportación de las calificaciones de mitad de trimestre y las últimas fechas de asistencia
+- En la barra de navegación, haga clic en Calificaciones.
+- En la página Ingresar calificaciones, haga clic en Exportar al SIS.
+- Si debe enviar la última fecha de asistencia de los estudiantes con calificaciones reprobatorias, es posible que aparezca la página Última fecha de asistencia, donde se muestran solamente dichos estudiantes. Si previamente ingresó una última fecha de asistencia de un estudiante, aparecerá dicha fecha. De lo contrario, aparecerá una fecha predeterminada (1/1/1970).
+- Para un estudiante con una calificación reprobatoria, realice una de las siguientes acciones:
+- En el calendario, seleccione una Última fecha de asistencia.
+- Para utilizar la fecha actual, haga clic en Ahora.
+- En la página Exportar calificaciones al SIS, realice una de las siguientes acciones que sean aplicables:
+- Si no existen estudiantes con calificaciones reprobatorias, en la página Exportar calificaciones al SIS, en la lista desplegable Exportar calificaciones como, seleccione Mitad de trimestre. Si no selecciona la opción Mitad de trimestre, es posible que las calificaciones de sus estudiantes se envíen al cuaderno de calificaciones incorrecto en el Sistema de información de estudiantes (SIS) de calificaciones de Banner.
+- Revise a los estudiantes que puede calificar.
+- Si se requieren códigos de calificación especializados (por ejemplo, incompleto), puede anular las calificaciones. El valor de calificación de la anulación no afecta el valor almacenado en la herramienta Calificaciones.
+- Haga clic en Exportar todas las calificaciones. Solo se exportarán al SIS las calificaciones de mitad de trimestre. Las calificaciones que el SIS ya ha aceptado no se exportan a menos que se actualicen.
+- En la página Estado de exportación de calificaciones, puede salir y volver para revisar los resultados de las exportaciones en otro momento. Cuando se ha completado la exportación de las calificaciones, la barra de estado se muestra en color verde y aparece la página de resumen de envíos de Exportar calificaciones, donde se muestra la información sobre la exportación (por ejemplo, el apellido y el nombre de cada estudiante con una calificación exportada, y el estado y los detalles de la exportación).
+Exportación de calificaciones finales
+- En la barra de navegación, haga clic en Calificaciones.
+- En la página Ingresar calificaciones, haga clic en Exportar al SIS.
+- En la página Exportar calificaciones al SIS, realice una de las siguientes acciones que sean aplicables:
+- Si la función para enviar calificaciones de mitad de trimestre está activada, en la lista desplegable Exportar calificaciones como debe seleccionar Final. Si no selecciona el cuaderno de calificaciones correcto, es posible que las calificaciones de los estudiantes se envíen al cuaderno de calificaciones incorrecto en el Sistema de información de estudiantes (SIS) de calificaciones de Banner.
+- Revise a los estudiantes que puede calificar.
+- Si se requieren códigos de calificación especializados (por ejemplo, incompleto), puede anular las calificaciones. El valor de calificación de la anulación no afecta el valor almacenado en la herramienta Calificaciones.
+- Haga clic en Exportar todas las calificaciones. Todas las calificaciones pertinentes y la última fecha de asistencia (si se ha establecido) de cada estudiante se exportan al SIS. Las calificaciones que el SIS ya ha aceptado no se exportan a menos que se actualicen.
+- En la página Estado de exportación de calificaciones, puede salir y volver para revisar los resultados de las exportaciones en otro momento. Cuando se ha completado la exportación de las calificaciones, la barra de estado se muestra en color verde y aparece la página de resumen de envíos de Exportar calificaciones, donde se muestra la información sobre la exportación. La información sobre las exportaciones puede incluir, por ejemplo, el apellido y el nombre de cada usuario con una calificación exportada, y el estado y los detalles de la exportación.
+Exportación de las calificaciones finales y las últimas fechas de asistencia
+- En la barra de navegación, haga clic en Calificaciones.
+- En la página Ingresar calificaciones, haga clic en Exportar al SIS.
+- En el cuadro de diálogo Comprobación de calificación final, haga clic en Final. Aparece la página Última fecha de asistencia donde se enumeran solamente los estudiantes con calificaciones reprobatorias. Si previamente ingresó una última fecha de asistencia de un estudiante, aparecerá dicha fecha. De lo contrario, aparecerá una fecha predeterminada (1/1/1970).
+- Para un estudiante con una calificación reprobatoria, realice una de las siguientes acciones:
+- En el calendario, seleccione una Última fecha de asistencia.
+- Para utilizar la fecha actual, haga clic en Ahora.
+- En la página Exportar calificaciones al SIS, realice una de las siguientes acciones que sean aplicables:
+- Si la función para enviar calificaciones de mitad de trimestre está activada, en la lista desplegable Exportar calificaciones como debe dejar marcada la opción Final. Si no selecciona el cuaderno de calificaciones correcto, es posible que las calificaciones de los estudiantes se envíen al cuaderno de calificaciones incorrecto en el Sistema de información de estudiantes (SIS) de calificaciones de Banner.
+- Revise a los estudiantes que puede calificar.
+- Si se requieren códigos de calificación especializados (por ejemplo, incompleto), puede anular las calificaciones. El valor de calificación de la anulación no afecta el valor almacenado en la herramienta Calificaciones.
+- Haga clic en Exportar todas las calificaciones. La última fecha de asistencia se exporta al SIS. Las calificaciones que el SIS ya ha aceptado no se exportan a menos que se actualicen.
+- En la página Estado de exportación de calificaciones, puede salir y volver para revisar los resultados de las exportaciones en otro momento. Cuando se ha completado la exportación de las calificaciones, la barra de estado se muestra en color verde y aparece la página de resumen de envíos de Exportar calificaciones, donde se muestra la información sobre la exportación. La información sobre las exportaciones puede incluir, por ejemplo, el apellido y el nombre de cada usuario con una calificación exportada, y el estado y los detalles de la exportación.

@@ -1,0 +1,210 @@
+URL: https://community.d2l.com/brightspace-es-MX/kb/articles/10996-crear-una-asignacion
+TITLE: Crear una asignación - Brightspace
+HASH: 8dfce6dd988a4e15b5a1716a474496ef018882930353653679b9b152bc41da95
+TYPE: web
+
+Proporcione comentarios y calificaciones más eficientes, oportunos y significativos. Cree y edite asignaciones, vea detalles de envío, vea envíos, asocie asignaciones a rúbricas y competencias, y devuelva envíos con calificaciones y comentarios. También están disponibles los formatos de asignación en papel y observados en persona.
+La página Crear y editar asignaciones tiene un diseño de página totalmente envolvente. Este diseño es consistente con otras áreas de Brightspace, incluidas Asignaciones, Contenido y Lecciones, donde puede cargar y crear una nueva asignación.
+Crear una nueva asignación en la Experiencia de Contenido clásica
+Puede crear una nueva asignación desde Contenido en la Experiencia de Contenido clásica.
+Para crear una asignación en la experiencia de contenido clásico
+- En contenido, seleccione el módulo donde desea crear una asignación.
+- Haga clic en Cargar/Crear.
+- Haga clic en Nueva asignación.
+Crear una nueva asignación en la Nueva experiencia de contenido (Lecciones)
+También puede crear una nueva tarea desde Contenido en la Nueva experiencia de contenido (Lecciones).
+Para crear un tema de debate en la nueva experiencia de contenido
+- Desde la página de inicio de su curso, vaya a Contenido.
+- En el módulo deseado, haga clic en Crear nuevo.
+- En la página ¿qué le gustaría crear?, haga clic en Asignación.
+Video: Crear una nueva asignación en la Nueva experiencia de contenido (Lecciones)
+Crear una asignación desde la herramienta Asignaciones
+También puede crear una asignación directamente desde la herramienta Asignaciones.
+Para crear una asignación desde la herramienta Asignaciones
+- Vaya a Asignaciones.
+- Haga clic en Nueva asignación.
+Agregar un título de asignación, una calificación máxima, una fecha de vencimiento e instrucciones
+Al crear una nueva asignación, comience por ingresar detalles básicos, como nombre, información de calificaciones, fecha de vencimiento e instrucciones.
+Para completar los detalles de la asignación
+- En la página Nueva asignación, ingrese un Título de asignación para la asignación.
+- En Calificación de, ingrese la cantidad de puntos para la asignación.
+- Haga clic en el menú desplegable para seleccionar si la asignación estará en el cuaderno de calificaciones.
+- Editar o enlazar a existente: Elija entre crear y enlazar a un nuevo elemento de calificación, o enlazar a un elemento de calificación existente.
+- Agregar al cuaderno de calificaciones
+- Ingrese la fecha de vencimiento de la asignación.
+- Ingrese instrucciones para su asignación.
+- Si no desea configurar aún más su asignación, cambie la asignación a Visible y haga clic en Guardar y cerrar.
+La nueva asignación se crea y está disponible para los estudiantes.
+Establecer fechas de inicio, finalización y disponibilidad
+Puede personalizar aún más su asignación estableciendo
+Para establecer una fecha de inicio y una fecha final
+- En la página Nueva asignación, expanda la sección Fechas y condiciones de disponibilidad.
+- Configure una Fecha de inicio y una Fecha de finalización.
+- Haga clic en el campo de disponibilidad de asignaciones debajo de las fechas de inicio y final. En el cuadro de diálogo Disponibilidad, elija una de las siguientes opciones para cada fecha:
+- Visible con acceso restringido: los estudiantes podrán ver la asignación antes de la Fecha de inicio o después de la Fecha final, pero no podrán hacer clic en ella ni abrirla. Los estudiantes pueden ver el nombre, las fechas y las restricciones, pero no pueden ver la descripción ni los archivos adjuntos de la asignación.
+- Visible con material enviado restringido: los estudiantes podrán ver la asignación antes de la Fecha de inicio o después de la Fecha final, y pueden hacer clic o abrirla, pero no pueden enviarla ni marcarla como completa. Los estudiantes pueden ver todos los detalles de la asignación, incluida la descripción, los archivos adjuntos y las rúbricas, pero no pueden cargar archivos, ingresar comentarios ni marcar la asignación como completa (para observación en persona o en envío en papel).
+- Oculta: la asignación está oculta para los estudiantes hasta que se alcance la fecha de inicio o después de que pase la fecha final. Los estudiantes no pueden ver la asignación en ningún lugar, incluidos los eventos de Calendario y las Notificaciones correspondientes.
+- En el cuadro de diálogo, seleccione Agregar fechas de disponibilidad al calendario si desea que la fecha de inicio o final esté disponible en el calendario de su curso.
+La nueva asignación se crea con fechas de inicio y final especificadas.
+Crear una condición de publicación para su asignación
+Puede agregar condiciones de publicación a su asignación. Las condiciones de publicación son condiciones que se deben cumplir para que una asignación sea visible para los estudiantes. Por ejemplo, puede configurar su asignación de modo que solo esté disponible para los cuando logren un puntaje específico en un cuestionario.
+Para crear una nueva condición de publicación
+- En la página Nueva asignación, expanda la sección Fechas y condiciones de disponibilidad.
+- En condiciones de publicación, haga clic en Agregar condición de publicación y seleccione Crear nueva.
+- En Tipo de condición, seleccione la condición que se debe cumplir.
+- En la Carpeta para envíos de asignaciones, seleccione la carpeta para envíos de asignaciones en la que se debe cumplir esta condición.
+- Haga clic en Crear.
+- Si no desea configurar aún más su asignación, cambie la asignación a Visible y haga clic en Guardar y cerrar.
+Se agrega una nueva condición de publicación a su asignación.
+Adjunte una condición de publicación existente a su asignación
+También puede adjuntar una condición de publicación existente a su asignación.
+Para adjuntar una condición de publicación existente
+- En la página Nueva asignación, expanda la sección Fechas y condiciones de disponibilidad.
+- En condiciones de publicación, haga clic en Agregar condición de publicación y seleccione Agregar existente.
+- Seleccione una condición de publicación existente de la lista y haga clic en Adjuntar.
+- Si no desea configurar aún más su asignación, cambie la asignación a Visible y haga clic en Guardar y cerrar.
+Se agrega una condición de publicación existente a su asignación.
+Administrar acceso especial para su asignación
+Puede administrar el acceso especial para su asignación. Los permisos de acceso especial le permiten configurar diferentes fechas y horarios de disponibilidad para usuarios específicos. Por ejemplo, podría extender la fecha de entrega para aquellos usuarios que necesitan ayuda compensatoria o que envían trabajos más allá del alcance original de la asignación. También puede agregar un acceso especial después de que la fecha final de una asignación haya expirado para los usuarios que tengan una razón válida para no haber cumplido con la fecha de entrega, o para los usuarios que deseen enviar material adicional, como notas de planificación o una bibliografía. El ícono de acceso especial se muestra en la página Lista de asignaciones junto a cualquier asignación que incluya configuraciones de acceso especial.
+Para poner su asignación a disposición de usuarios selectos
+- En la página Nueva asignación, expanda la sección Fechas y condiciones de disponibilidad.
+- Haga clic en Administrar acceso especial.
+- Seleccione una de las siguientes opciones:
+- Permitir que los usuarios con acceso especial hagan envíos fuera de las fechas normales de disponibilidad para esta carpeta.
+- Permitir que solo los usuarios con acceso especial vean esta carpeta.
+- Para agregar usuarios, haga clic en Agregar usuarios a acceso especial. Filtre por Secciones y Equipos de trabajo si es necesario.
+- Para que los usuarios con acceso especial tengan una fecha diferente de vencimiento de la asignación, marque la casilla de selección Tiene fecha de vencimiento y establezca la fecha de vencimiento correspondiente.
+- En Disponibilidad, marque las casillas de selección Tiene fecha de inicio y Tiene fecha final y establezca la disponibilidad de fechas para cuando desee que los usuarios tengan acceso especial a la asignación.
+- En el área Usuarios, seleccione los usuarios a los que desea dar acceso especial.
+- Haga clic en Guardar y, a continuación, en Guardar y cerrar.
+- Si no desea configurar aún más su asignación, cambie la asignación a Visible y haga clic en Guardar y cerrar.
+Su asignación está configurada para proporcionar acceso especial a usuarios específicos.
+Establecer la asignación como una asignación individual o grupal
+Puede elegir si su asignación es una asignación individual o grupal. Si elige crear una asignación grupal, también puede alinear su asignación grupal con una categoría de grupo. Las categorías le permiten organizar y administrar los grupos relacionados. Por ejemplo, puede tener una categoría para la Asignación 1, la Asignación 2, los Seminarios, la Ayuda compensatoria y las Revisiones de libros.
+Para elegir su tipo de asignación
+- En la página Nueva asignación, expanda la sección Material enviado y finalización.
+- Para el Tipo de asignación, seleccione una de las siguientes opciones:
+- Asignación individual
+- Asignación grupal: en el menú desplegable Categoría, seleccione una categoría existente para asignar a su asignación.
+- Si no desea configurar aún más su asignación, cambie la asignación a Visible y haga clic en Guardar y cerrar.
+Agregar categorías desde Asignaciones
+Organice sus asignaciones en categorías para que los naveguen más fácilmente a la asignación correcta. Por ejemplo, se pueden crear categorías diferentes para las unidades del curso, los proyectos finales, las asignaciones extras y los envíos individuales. La nueva categoría aparecerá en la página Asignaciones solo si existen asignaciones asociadas a ella.
+- Vaya a Asignaciones.
+- En la página Asignaciones, haga clic en Editar categorías.
+- Realice cualquiera de las siguientes acciones:
+- Haga clic en Agregar categoría para crear una categoría nueva.
+- Haga clic en el nombre de una categoría existente para modificarla. Presione Intro o haga clic fuera de la celda actual para guardar los cambios.
+- Ajuste el Orden de clasificación de las categorías existentes.
+- Para eliminar una categoría, marque la casilla de selección junto al nombre y haga clic en el ícono Eliminar.
+- Haga clic en Cerrar.
+Configurar el envío de la asignación.
+Puede elegir en qué formato debe entregarse la asignación, las extensiones de archivo permitidas, cómo se almacenan las entregas y si desea recibir un correo electrónico de notificación cuando se envían las asignaciones.
+Para configurar el envío de la asignación
+- En la página Nueva asignación, expanda la sección Material enviado y finalización.
+- En Tipo de envío, seleccione una de las siguientes opciones:
+- Material enviado como archivo: requiere que los estudiantes carguen un archivo como material enviado.
+- Material enviado como archivo o texto: requiere que los estudiantesenvíen un archivo, un texto o ambos.
+- Envío de texto
+- Material enviado en papel
+- Observado en persona
+- En Archivos permitidos por material enviado, seleccione una de las siguientes opciones. Esta configuración solo aparece si el Tipo de material enviado seleccionado es Material enviado como archivo o Material enviado como archivo o texto.
+- Ilimitado
+- Un archivo (para Materiales enviados como archivo o texto, los estudiantes pueden cargar un archivo y enviar un texto para la misma tarea)
+- En Extensiones de archivo permitidas, seleccione una de las siguientes opciones. Esta configuración solo aparece si el Tipo de material enviado es Material enviado como archivo o Material enviado como archivo o texto y la función Extensiones de archivo restringidas está habilitada.
+- Sin restricciones
+- Solo PDF
+- Archivos con opción de comentarios
+- Archivos que se pueden previsualizar sin conversión
+- Imágenes y videos
+- Tipos de archivos personalizados
+- Compatible con Turnitin
+- En Materiales enviados, seleccione una de las siguientes opciones: Esta configuración solo aparece si el Tipo de material enviado es Material enviado como archivo, Material enviado como archivo o texto o Material enviado como texto.
+- Se conservan todos los envíos
+- Se permite enviar solo un material
+- Se conserva solamente el material enviado más reciente
+- En Correo electrónico de notificación, ingrese una o más direcciones de correo electrónico para recibir notificaciones cuando se entregue una asignación. Esta configuración solo aparece si el Tipo de material enviado es Material enviado como archivo, Material enviado como archivo o texto o Material enviado como texto.
+- En Marcado como completado, seleccione una de las siguientes opciones: Esta configuración solo aparece si el Tipo de material enviado seleccionado es Material enviado en papel u Observado en persona.
+- Manualmente por los estudiantes
+- Automáticamente en la evaluación
+- Automáticamente en la fecha de vencimiento
+- Haga clic en Guardar y cerrar.
+Mostrar anotaciones y usar la calificación anónima
+Puede utilizar las herramientas de anotación al evaluar su asignación. Esto también le permite configurar su evaluación para que pueda evaluar las asignaciones sin ver los nombres de sus estudiantes.
+Para mostrar anotaciones y usar la calificación anónima
+- En la página Nueva asignación, expanda Evaluación y comentarios.
+- Para mostrar herramientas de anotación en el visor de documentos, en Herramientas de anotación, seleccione Dejar las herramientas de anotación disponibles para la evaluación.
+- Para activar la calificación anónima, en Calificación anónima, seleccione Ocultar nombres de estudiantes durante la evaluación.
+- Para que su asignación sea visible para los estudiantes, haga clic en el botón Visibilidad.
+- Haga clic en Guardar y cerrar.
+Utilizar varios evaluadores para una asignación
+También puede utilizar las Evaluaciones avanzadas para gestionar mejor los cursos con clases de gran tamaño y varios evaluadores, delegar y gestionar los flujos de trabajo de los evaluadores, y reducir los sesgos en las calificaciones.
+Para configurar los flujos de trabajo de delegación, calificación conjunta o de varios evaluadores
+- En la página Nueva asignación, expanda la sección Evaluación y comentarios.
+- En Evaluadores > Seleccionar evaluadores, elija quién puede evaluar esta asignación y haga clic en Listo.
+- En el campo Editores, seleccione una de las siguientes opciones:
+- Todos los evaluadores pueden publicar cualquier evaluación
+- Los evaluadores pueden publicar solo su evaluación
+- Seleccionar editores manualmente > seleccione los editores que pueden publicar calificaciones de la asignación y haga clic en Listo.
+-
+Para vincular evaluadores con estudiantes, en Vincular a los evaluadores con los estudiantes > Administrar asignaciones >, vincule manualmente estudiantes con evaluadores o seleccione una de las siguientes opciones:
+- Asignar todos los evaluadores a cada estudiante
+- Asignar aleatoriamente 1 evaluador a cada estudiante por igual
+- Asignar aleatoriamente 2 evaluadores a cada estudiante por igual
+- Asignar aleatoriamente 3 evaluadores a cada estudiante por igual
+Para las asignaciones de equipos de trabajo, puede filtrar usuarios por equipos de trabajo o secciones y asignar evaluadores a equipos en lugar de personas.
+Los nombres de los miembros del equipo de trabajo se muestran en una ventana emergente separada.
+- Haga clic en Aplicar método de asignación > Listo.
+Nota: de manera predeterminada, los evaluadores seleccionados pueden evaluar a cualquier estudiante.
+Cuando los evaluadores no están asignados a un estudiante debido a restricciones de la sección o cambios en la inscripción, un mensaje de advertencia en el cuadro de diálogo Administrar asignaciones le informa que algunos evaluadores se eliminarán durante el evento de anulación de la inscripción. Una vez que se completa la anulación de la inscripción, aparece una advertencia en la tabla Administrar asignaciones junto a los estudiantes que deberán redistribuirse a otros evaluadores.
+-
+Para elegir un flujo de trabajo de varios evaluadores, desplácese hasta Coordinar varios evaluadores y seleccione una de las siguientes opciones:
+-
+Una evaluación compartida para permitir que todos los evaluadores trabajen juntos en la misma evaluación. Los editores publican esta evaluación para los estudiantes.
+-
+Varias evaluaciones individuales para permitir a los evaluadores trabajar en sus propias evaluaciones por separado. Los editores agregan los resultados en una evaluación final y la envían a los estudiantes.
+-
+Si TurnItIn está activado para su rol en el curso, puede usar las opciones de Informe de similitud mientras las herramientas de Calificación en línea están desactivadas al hacer lo siguiente:
+- En Integración de Turnitin, haga clic en Administrar Turnitin.
+- Active la integración de Turnitin y haga clic en Guardar.
+- Para que su asignación sea visible para los estudiantes, haga clic en el botón de Visibilidad.
+- Haga clic en Guardar y cerrar.
+Agregar una rúbrica a una asignación
+Puede agregar rúbricas a su asignación.
+Para agregar una rúbrica a una asignación
+- En la página Asignaciones, haga clic en el menú desplegable Acciones de la asignación en la que desea agregar una rúbrica. Haga clic en Editar asignación.
+- En el menú Evaluación y comentarios, haga clic en Agregar rúbrica > Agregar existente.
+- En el cuadro de diálogo Agregar rúbrica existente, haga clic en la casilla de selección de la rúbrica que desea agregar.
+- Haga clic en Agregar lo seleccionado.
+Agregar herramientas externas de aprendizaje a una asignación
+Si está configurado para su organización, puede agregar herramientas externas de aprendizaje como procesadores a asignaciones que revisan el material enviado en cuanto a originalidad, uso de IA, gramática, etc. Estas integraciones de herramientas revisan automáticamente los materiales enviados de los estudiantes y generan informes. Puede agregar estas herramientas a asignaciones nuevas o existentes. Una vez agregada a una asignación, la herramienta externa se activa a fin de procesar y generar informes para envíos anteriores y posteriores. Los estudiantes pueden ver estos informes desde las páginas Ver comentarios e Historial de material enviado.
+Las herramientas externas de aprendizaje pueden tener asociado un Contrato de licencia de usuario final (CLUF) que los estudiantes deben aceptar antes de que puedan ver los informes.
+Aparece un modal de confirmación durante el envío de la asignación si el estudiante aún no ha aceptado el CLUF del procesador vinculado. Solo acepta el CLUF una vez por herramienta; no se requiere que lo acepte de nuevo para cada material enviado de asignación.
+Cuando se agrega una herramienta a una asignación, se añade automáticamente un enlace para aceptar el CLUF en la página Envío de asignaciones. Por lo general, los estudiantes solo deben aceptar el CLUF una vez. Pueden enviar asignaciones sin aceptar el CLUF de la herramienta asociada, pero es posible que los informes no estén disponibles para visualizarlos o que incluyan códigos de error.
+Para agregar una herramienta externa de aprendizaje a una asignación:
+- Vaya a Asignaciones.
+- Edite una asignación existente o cree una nueva.
+- En la página Asignación, expanda el panel Evaluación y comentarios.
+- En la subsección Herramientas externas de aprendizaje, haga clic en Agregar herramienta externa. Si solo hay una herramienta disponible, se inicia automáticamente un enlace profundo. Si hay varias herramientas disponibles, seleccione el enlace profundo de la herramienta que desea agregar.
+- Seleccione la configuración de la herramienta en la ventana nueva.
+Agregó una herramienta externa de aprendizaje a una asignación. En la subsección Herramientas externas de aprendizaje, una tarjeta muestra la herramienta de aprendizaje externa y
+Desde la tarjeta de la herramienta externa de aprendizaje, puede:
+- Eliminar la herramienta si la asignación no tiene materiales enviados.
+- Habilitar o deshabilitar la herramienta en asignaciones que ya tienen material enviado. Cuando se deshabilita, se ocultan los informes existentes y dejan de procesarse los nuevos materiales enviados. Cuando se vuelve a habilitar, se restauran todos los informes previamente visibles y se procesan los materiales enviados que se hayan recibido mientras el procesador estaba deshabilitado.
+- Actualizar la configuración y las opciones de configuración de la herramienta.
+Para administrar la herramienta externa de aprendizaje, haga clic en Editar configuración en la tarjeta y realice los cambios.
+Los informes de las herramientas externas de aprendizaje están disponibles en la página Evaluar material enviado, la página Detalles de material enviado y en la experiencia de Evaluación coherente.
+Enviar una asignación preliminar
+Puede pasar por el proceso de ver y enviar una asignación y tener su vista previa de la asignación disponible en el flujo de trabajo de evaluación.
+Para previsualizar el envío de una asignación
+- Vaya a Asignaciones.
+- Haga clic en Más acciones > Vista previa.
+- Seleccione la asignación que desea previsualizar.
+- Seleccione Permitir que este envío preliminar esté disponible en la carpeta.
+- Haga clic en Agregar un archivo para enviar una asignación de prueba.
+- Haga clic en Enviar.
+- En la página Revisar envío de asignación, haga clic en Salir de vista previa.
+- Si desea ver el flujo de trabajo de evaluación del envío de su asignación, haga clic en la asignación donde acaba de realizar el envío.
+- Haga clic en Mostrar opciones de búsqueda.
+- En la pestaña Usuarios de la sección Envíos, seleccione Usuarios con envíos preliminares.
+- Haga clic en Aplicar y busque el envío de su asignación.
+Ahora tiene acceso a la pantalla de evaluación para el envío de su asignación.

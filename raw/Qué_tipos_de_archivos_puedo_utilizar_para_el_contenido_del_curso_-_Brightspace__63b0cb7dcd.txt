@@ -1,0 +1,7 @@
+URL: https://community.d2l.com/brightspace-es-MX/kb/articles/23206-que-tipos-de-archivos-puedo-utilizar-para-el-contenido-del-curso
+TITLE: ¿Qué tipos de archivos puedo utilizar para el contenido del curso? - Brightspace
+HASH: 63b0cb7dcdb72b6a8b0b4bfcc873ece6b6f15020b15df11cd3136e349ccaf55c
+TYPE: web
+
+Puede cargar varios tipos de documentos, imágenes y archivos de video para usarlos en el contenido del curso. Los estudiantes pueden ver los archivos en línea. Para mostrar documentos en línea, el Servicio de conversión de documentos convierte los documentos cargados en la herramienta Contenido en archivos PDF. Los documentos se convierten durante la carga en lugar de hacerlo durante el acceso del estudiante, lo cual reduce los tiempos de espera cuando se presentan los documentos.
+En la siguiente tabla, se muestran las extensiones de archivo y los tipos de archivo que puede utilizar para el contenido del curso.

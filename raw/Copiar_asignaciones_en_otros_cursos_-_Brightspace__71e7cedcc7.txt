@@ -1,0 +1,37 @@
+URL: https://community.d2l.com/brightspace-es-MX/kb/articles/10882-copiar-asignaciones-en-otros-cursos
+TITLE: Copiar asignaciones en otros cursos - Brightspace
+HASH: 71e7cedcc701f4966a5add3a06939a94edbfbeb679c2585f0320153f1b1e6fd1
+TYPE: web
+
+Si enseña varios cursos, ahora puede copiar asignaciones en otros cursos. Para copiar asignaciones desde un curso de origen al de destino, debe tener el permiso del rol Asignaciones > Copiar en otros cursos, y debe estar inscrito en los cursos de origen y de destino. El permiso está DESACTIVADO en todos los roles de forma predeterminada.
+Qué atributos se pueden copiar
+Puede copiar asignaciones de la siguiente manera:
+- Con la herramienta Asignaciones para seleccionar una asignación existente.
+- Usando la herramienta Nueva experiencia de contenido (Lecciones).
+Cada uno de estos métodos permite a los instructores copiar los siguientes atributos de asignación en el nuevo destino:
+- Carpeta de asignación y sus propiedades, incluidas instrucciones, categoría de la asignación y visibilidad
+- Propiedades de la asignación, incluidas la descripción y la categoría
+- Archivos adjuntos como archivos adjuntos directos, cargados desde Google Workspace o desde OneDrive y archivos de audio y video
+- Elemento de calificación y categoría de calificación
+- Fechas de disponibilidad
+- Información de envío y finalización, incluido el elemento de Calificación opcional y el esquema del curso, si se utiliza.
+- Rúbricas asociadas a la asignación. Cuando se copia una asignación que utiliza una rúbrica compartida, en lugar de vincular una asignación copiada a una rúbrica compartida, también se copia la rúbrica. La asignación copiada se vincula a la rúbrica copiada. Si una asignación utiliza una rúbrica archivada, la rúbrica se copia y conserva su estado archivado en el curso de destino.
+No se copian los siguientes atributos:
+- Enlaces rápidos a instrucciones y recursos de archivos adjuntos creados con la acción Adjuntar enlace a una actividad existente
+- Imágenes de instrucciones agregadas mediante la opción Insertar imagen que se guardaron en los archivos del curso
+- Configuración de condiciones de publicación de disponibilidad y acceso especial
+- Información de envío y finalización, incluida la designación de asignación de grupo
+- Información de Evaluación y Comentarios, incluidas asociaciones de Turnitin, competencias y asociaciones de resultados
+- Asociaciones de temas de contenido (por ejemplo, si la asignación está vinculada al contenido)
+Nota: En algunos casos, las referencias a enlaces e imágenes que no están copiados pueden generar enlaces rotos.
+Copiar una asignación en otro curso
+- Realice una de las siguientes acciones:
+- En la barra de navegación del curso que contiene la asignación que desea copiar, haga clic en Asignaciones. En la Lista de asignaciones, haga clic en el menú contextual junto al título Asignación y haga clic en Copiar en otros cursos. Observe que el flujo de trabajo Asignaciones > Copiar en otros cursos incluye opciones de ubicación de destino y visibilidad. Esto permite a los instructores copiar rápidamente las asignaciones a ubicaciones específicas dentro del curso de destino y controlar la visibilidad de las asignaciones.
+- En la lista de asignaciones en Nueva experiencia de contenido (Lecciones), haga clic para expandir la lista desplegable Más acciones. Luego, haga clic en Copiar en otro curso.
+- Haga clic para seleccionar las rúbricas o los elementos de calificación si desea que esos elementos se copien con la asignación.
+- En el área Elegir destinos, busque por palabra clave o semestre a fin de encontrar los cursos de destino para la asignación.
+- Haga clic a fin de seleccionar los cursos de destino para la asignación.
+- Expanda el Curso de destino para establecer la ubicación y visibilidad de la asignación.
+- Haga clic en Siguiente.
+En la página de progreso, se indica el estado de cada curso de destino y cualquier problema. Si sale de la página de progreso, en una notificación en la minibarra en Brightspace, se indica cuándo se copió la asignación a todos los cursos de destino. Puede hacer clic en la notificación a fin de abrir la página de progreso para revisar el estado y los problemas registrados.
+La función Copiar se activa en función de la herramienta y el método que utiliza su institución:

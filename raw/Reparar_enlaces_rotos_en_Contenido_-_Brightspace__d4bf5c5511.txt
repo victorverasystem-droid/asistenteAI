@@ -1,0 +1,34 @@
+URL: https://community.d2l.com/brightspace-es-MX/kb/articles/10845-reparar-enlaces-rotos-en-contenido
+TITLE: Reparar enlaces rotos en Contenido - Brightspace
+HASH: d4bf5c551147b93929d42ebd6db63605690eb559640a6f6466e5b26bf7e16dd0
+TYPE: web
+
+Es probable que un enlace en Contenido esté roto si los estudiantes ven No autorizado después de seleccionar un enlace rápido a un recurso o a una herramienta.
+Para reparar enlaces rotos en Contenido
+- En la página de inicio del curso, haga clic en Contenido.
+- Haga clic en el módulo o submódulo que contiene el tema con el enlace roto.
+- Realice una de las siguientes acciones:
+- Para Contenido clásico:
+- Si el tema en sí es un enlace rápido:
+- Abra el menú contextual del tema.
+- Seleccione el enlace Editar.
+- Actualice la URL.
+- Seleccione Actualizar.
+- Si el enlace rápido está en el texto del cuerpo del tema:
+- Abra el tema.
+- Resalte el enlace y seleccione el ícono de Enlace rápido.
+- Elija el destino (por ejemplo, Insertar enlace rápido para Cuestionarios, Debates) o seleccione la URL para una dirección web.
+- Haga clic en Actualizar.
+- Para Experiencia de contenido nuevo
+- Si el tema en sí es un enlace rápido:
+- Abra el menú contextual del tema.
+- Seleccione Editar.
+- Actualice Enlaces externos.
+- Haga clic en Guardar y cerrar.
+- Si el enlace rápido está en el texto del cuerpo del tema:
+- Abra el menú contextual del tema.
+- Haga clic en Editar.
+- Resalte el enlace y seleccione el ícono de Enlace rápido.
+- Actualice la URL.
+- Haga clic en Aplicar.
+- Haga clic en Guardar y cerrar.

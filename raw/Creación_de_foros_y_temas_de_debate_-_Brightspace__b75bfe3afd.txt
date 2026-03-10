@@ -1,0 +1,243 @@
+URL: https://community.d2l.com/brightspace-es-MX/kb/articles/15162-creacion-de-foros-y-temas-de-debate
+TITLE: Creación de foros y temas de debate - Brightspace
+HASH: b75bfe3afda70c0b6a18617218e57a40baf89fa91bc197c8fd2fcb4bb5a64f15
+TYPE: web
+
+Anime a sus a compartir ideas sobre el material del curso con sus compañeros estableciendo foros y temas para que los hagan preguntas, debatan el contenido y las asignaciones del curso y trabajen juntos en grupos y secciones asignados.
+Puede iniciar la creación de un foro de debate y temas asociados desde las siguientes herramientas:
+- Experiencia de contenido nuevo (clases)
+- Experiencia de contenido clásico
+- Herramienta de debates
+Elija uno de los flujos de trabajo según la configuración de su organización.
+Prácticas recomendadas para el uso de debates
+- Asegúrese de que se hayan creado temas de debate para sus foros de debate: Los foros se utilizan para agrupar los temas en temas predeterminados, unidades del curso, etc. Solo se pueden realizar publicaciones en los temas de debate. Si no se han creado temas para un foro, los estudiantes no podrán participar en los debates. En la página de inicio del curso, haga clic en Debates. Asegúrese de que existan temas anidados en el foro de debate. Si no ve los temas anidados en los foros de debate, deberá crear temas.
+- Asegúrese de que los foros y temas de debate no estén ocultos de forma involuntaria: La opción de ocultar un foro o tema de debate se encuentra en la página Lista de debates, en el menú contextual de cada foro o tema. Si no puede ver la capacidad de ocultar debates de los usuarios, necesita el permiso Debates > Administrar debates. El ícono Oculto aparece junto a cualquier tema o foro que esté oculto en ese momento. Los foros y temas también se pueden ocultar en la página Nuevo foro o Nuevo tema (o en la página Editar de los foros y temas existentes), en la pestaña Restricciones de la sección Disponibilidad. Si seleccionó Ocultar este [tema o foro], los estudiantes no podrán verlo. Si un foro de debate tiene esta opción habilitada, todos los temas anidados en él también estarán ocultos.
+- Asegúrese de que no existan restricciones de fecha no deseadas para el foro o el tema de debate: Los estudiantes no pueden acceder a los temas que quedan fuera de las restricciones de fecha establecidas. Si en un foro de debate existen restricciones de fecha, todos los temas incluidos en él estarán ocultos fuera de esas restricciones de fecha.
+La opción para establecer restricciones de fecha se encuentra en la página Nuevo foro o Nuevo tema (o en la página Editar de los foros y temas existentes), en la sección Disponibilidad de la pestaña Restricciones.
+- Asegúrese de aplicar la configuración adecuada de restricciones de grupos:Si las restricciones de grupos están activadas para el foro o tema de debate, entonces solo los estudiantes del grupo seleccionado pueden ver el debate. La opción para establecer restricciones de grupo se encuentra en la página Nuevo foro o Nuevo tema (o en la página Editar de los foros y temas existentes), en la pestaña Restricciones de la sección Restricciones de grupo y sección. Seleccione Restringir el acceso de este foro a los siguientes grupos y secciones para activar las restricciones de grupo de un foro o un tema.
+Video: La Nueva Experiencia de Creación de Debates
+Puede crear un foro de debate en la Nueva Experiencia de Contenido (Lecciones). Esta adopta elementos de creación de Asignaciones y Cuestionarios, lo que permite que sea familiar y más fácil para crear un excelente contenido del curso. Primero debe crear un foro de debate, que contendrá temas de debate asociados. Los foros de debate organizan los temas de los debates del curso en categorías como debates semanales, debates abiertos y debates grupales.
+Para crear un foro de debate
+- Vaya a Contenido.
+- Haga clic en Crear nuevo.
+- Haga clic en Debate.
+- En la página Tema nuevo, realice lo siguiente:
+- En el acordeón Fechas y condiciones de disponibilidad, ingrese lo siguiente:
+- Configure una Fecha de inicio y una Fecha de finalización.
+- Ajuste las restricciones Antes de finalizar y Después de finalizar según sus preferencias haciendo clic en cada opción.
+- Haga clic en Agregar condición de publicación para crear una nueva condición de publicación o agregar una existente.
+- En Restricciones de grupo y sección, puede establecer diferentes restricciones si tiene grupos o secciones configurados en su curso.
+- En el acordeón Publicación y finalización, seleccione una de las siguientes opciones:
+- Participación predeterminada
+- Permitir que los estudiantes oculten su nombre de otros estudiantes
+- Los estudiantes deben iniciar un hilo de conversación antes de poder leer y responder a otros hilos de conversación:
+- Las publicaciones deben aprobarse antes de que se muestren en el tema
+- En el acordeón Evaluación y comentarios, haga lo siguiente:
+- Haga clic en Agregar rúbrica para adjuntar una rúbrica a su tema de debate.
+- Haga clic en Administrar objetivos de aprendizaje para asociar un objetivo de aprendizaje a su tema de debate.
+- Seleccione Permitir evaluación de publicaciones individuales para asignar puntuaciones a las publicaciones y seleccione su Método de cálculo. También puede elegir Incluir publicaciones sin evaluar en el cálculo de puntuación del tema como cero.
+- Seleccione Permitir que los estudiantes califiquen las publicaciones para permitir que los estudiantes califiquen las publicaciones de los demás. Luego, seleccione un tipo de calificación.
+- Cambie la Visibilidad para que esté Oculta o Visible.
+- Haga clic en Guardar y cerrar.
+Se crean el foro de debate y un tema de debate asociado.
+Video: crear un foro y un tema de debate en la Nueva Experiencia de Contenido (Lecciones)
+Edición de un tema de debate en la Nueva Experiencia de Contenido (Lecciones)
+Puede editar un tema de debate en la Nueva Experiencia de Contenido (Lecciones). Esta adopta elementos de creación de Asignaciones y Cuestionarios, lo que permite que sea familiar y más fácil para crear un excelente contenido del curso.
+Para editar un tema de debate en la Nueva Experiencia de Contenido (Lecciones)
+- Vaya a Contenido.
+- Busque el módulo donde está publicado el tema de debate y haga clic en el tema.
+- Realice una de las siguientes acciones:
+- Haga clic en Opciones (…) > y seleccione Editar.
+- Si su organización activó la vista de actividades evaluables, haga clic en Editar actividad.
+- En la página del tema de debate, edite los campos Título, Foro, Calificación de, Descripción y Fecha de vencimiento.
+- En el acordeón Fechas y condiciones de disponibilidad, edite la Fecha de inicio y la Fecha de finalización, las Condiciones de publicación y las Restricciones de grupo y sección.
+- En el menú Publicación y finalización, edite las opciones de participación y visualización de las publicaciones.
+- En el acordeón Evaluación y comentarios, adjunte una rúbrica, agregue objetivos de aprendizaje y cambie la configuración de evaluación de las publicaciones.
+- Define la actividad como Visible u Oculta.
+- Haga clic en Guardar y cerrar.
+Ha editado un tema de debate.
+Agregar un debate existente de la Nueva Experiencia de Contenido (Lecciones)
+Puede agregar un foro de debate o tema existente en la Nueva experiencia de contenido (clases).
+Para agregar un tema o foro de debate existente
+- En la barra de navegación de su curso, haga clic en Contenido.
+- Seleccione la unidad a la que desea agregar un tema de debate y haga clic en Agregar existente.
+- En la página ¿Qué le gustaría agregar?, haga clic en Debate.
+- En el cuadro de diálogo Insertar un debate, haga clic en el foro y el tema que desea agregar.
+Su tema de debate se agrega a la unidad seleccionada.
+Puede crear un foro de debate y un tema asociado en la Experiencia de Contenido Clásica. Los foros de debate organizan los temas de los debates del curso en categorías como debates semanales, debates abiertos y debates grupales.
+Para crear un foro de Debate en la Experiencia de Contenido Clásica
+- Desde la barra de navegación de la página de inicio de su curso, vaya a Contenido.
+- Haga clic en Cargar/Crear.
+- Haga clic en Nuevo debate.
+- Haga clic en seleccionar un Foro del menú desplegable o haga clic en Crear foro.
+- En el cuadro de diálogo Crear foro, ingrese un título del foro.
+- Haga clic en Guardar.
+Se crea un nuevo foro con la Experiencia de Contenido Clásica. Ahora puede crear un tema asociado con dicho foro.
+Editar un tema de debate en la Experiencia de Contenido Clásica
+Puede editar un tema de debate en la Experiencia de Contenido Clásica.
+Para editar un tema de debate en la experiencia de contenido clásica
+- Vaya a Contenido.
+- Busque el módulo donde está publicado el tema de debate y haga clic en el tema. Se abre el tema para su edición.
+- Realice una o más de las siguientes acciones:
+- Haga clic en Título para editar el título.
+- Haga clic en Agregar una descripción… para editar las instrucciones.
+- En la pestaña Detalles de la actividad, haga clic para cambiar Fecha de inicio, Fecha final, Fecha de vencimiento y Condiciones de publicación.
+- En la pestaña Objetivos de aprendizaje, haga clic en Agregar objetivos de aprendizaje para agregar objetivos de aprendizaje para su tema.
+- Haga clic en Actualizar para guardar los cambios.
+Ha editado un tema de debate en la Experiencia de Contenido Clásica
+Agregar un debate existente desde la Experiencia de Contenido Clásica
+También puede agregar un debate existente a un módulo desde la Experiencia de Contenido Clásica.
+Para agregar un debate a un módulo de contenido
+- En la página de inicio del nivel del curso, vaya a Contenido.
+- Seleccione el módulo donde desea agregar el debate.
+- Haga clic en Actividades existentes > Debates.
+- Haga clic en el foro de debate que contiene el tema de debate que desea agregar al módulo.
+- Seleccione el tema de debate.
+Los temas de debate aparecen en el módulo.
+También puede crear un foro de debate en la herramienta Debates. Primero debe crear un foro de debate, que contendrá temas de debate asociados. Los foros de debate organizan los temas de los debates del curso en categorías como debates semanales, debates abiertos y debates grupales.
+Para crear un foro de debate desde la herramienta Debates
+- En la barra de navegación del curso, vaya a Debates.
+- Haga clic en Nuevo > Nuevo foro.
+- Vaya a la pestaña Propiedades de la página Nuevo foro y establezca lo siguiente:
+- Ingrese un Título para su nuevo foro de debate (1).
+- Utilice el editor de Brightspace para agregar una Descripción (2).
+- Haga clic para seleccionar opciones adicionales de foro, como permitir publicaciones anónimas, requisitos de participación y mostrar la descripción del foro en los temas (3).
+- Permitir publicaciones anónimas: permite que los usuarios puedan publicar en forma anónima.
+- Un moderador debe aprobar las publicaciones individuales antes de que aparezcan en el foro: garantiza que un moderador apruebe las publicaciones antes de que se muestren en el foro.
+- Los usuarios deben iniciar un hilo antes de poder leer y responder a otros hilos en cada tema: garantiza la participación del usuario al obligarlos a crear un hilo.
+- Mostrar descripción del foro en los temas: ofrece a los profesores la opción de mostrar la descripción de un foro de debate en la descripción de un tema de debate.
+- Haga clic en la pestaña Restricciones y realice una o más de las siguientes acciones:
+- En Disponibilidad, defina el rango de fechas en que el debate estará disponible para los usuarios. (1). Las opciones de Disponibilidad especifican cuándo los pueden acceder a un foro (o verlo) según la fecha específica que haya establecido. Por ejemplo, puede establecer una fecha para que un foro de debate esté disponible para los después de la fecha final para finalizar un módulo de curso.
+- Las Opciones de bloqueo especifican si los pueden publicar o responder en un foro según una fecha específica establecida. Por ejemplo, puede establecer una fecha para bloquear un foro de debate después de que esté disponible, lo que les da a los tiempo para leer y comprender el foro de debate, pero no pueden publicar respuestas. También puede establecer una fecha para desbloquear el foro varios días después, lo que permite a los publicar sus respuestas bien pensadas.
+- Visible con acceso restringido antes del inicio/final. Los pueden ver el foro antes o después de la fecha de inicio o final, pero no pueden acceder a él.
+- Visible con envío restringido antes del inicio/final. Los pueden ver el foro antes o después de la fecha de inicio o final y pueden acceder a él, pero no pueden publicar nuevas cadenas ni respuestas. Esto hace que un debate sea de solo lectura.
+- Oculto antes del inicio/final. El foro está oculto para los hasta la fecha de inicio o final. Los eventos de calendario para el inicio y el fin de la disponibilidad se ocultarán hasta la fecha de inicio o final. Las notificaciones tampoco se envían hasta la fecha de inicio o final.
+- Agregar condiciones automatizadas para el acceso utilizando las Condiciones de publicación. (2)
+- Aplicar restricciones a grupos o secciones. (3)
+- Haga clic en Guardar y cerrar para crear el foro; o en Guardar y agregar tema para crear un tema de debate dentro de su nuevo foro.
+Ha creado un foro de debate con la herramienta Debates.
+Video: cómo crear un foro de debate desde la herramienta de debates
+Crear un tema de debate con la herramienta Debates
+También puede crear un foro de debate en la Nueva experiencia de contenido (clases). Esta adopta elementos de creación de Asignaciones y Cuestionarios, lo que permite que sea familiar y más fácil para crear un excelente contenido del curso.
+Para crear un tema de debate con la herramienta Debates
+- Vaya a Debates.
+- Haga clic en Nuevo > Nuevo tema.
+- En la página Tema nuevo, realice lo siguiente:
+- Introduzca un Título del tema.
+- Haga clic en Cambiar foro para cambiar el foro del tema.
+- Para agregar el tema a su cuaderno de calificaciones, ingrese un valor en el campo Calificación de.
+- Ingrese una Fecha de vencimiento.
+- Ingrese una Descripción para su tema con el Editor de Brightspace.
+- En el acordeón Fechas y condiciones de disponibilidad, ingrese lo siguiente:
+- Configure una Fecha de inicio y una Fecha de finalización.
+- Ajuste las restricciones Antes de finalizar y Después de finalizar según sus preferencias haciendo clic en cada opción.
+- Haga clic en Agregar condición de publicación para crear una nueva condición de publicación o agregar una existente.
+- En Restricciones de grupo y sección, puede establecer diferentes restricciones si tiene grupos o secciones configurados en su curso.
+- En el acordeón Publicación y finalización, seleccione una de las siguientes opciones para aplicarlas al tema de debate:
+- Participación predeterminada
+- Permitir que los estudiantes oculten su nombre de otros estudiantes
+- Los estudiantes deben iniciar un hilo de conversación antes de poder leer y responder a otros hilos de conversación:
+- Las publicaciones deben aprobarse antes de que se muestren en el tema
+- En el acordeón Evaluación y comentarios, haga lo siguiente:
+- Haga clic en Agregar rúbrica para adjuntar una rúbrica a su tema de debate.
+- Haga clic en Administrar objetivos de aprendizaje para asociar un objetivo de aprendizaje a su tema de debate.
+- Seleccione Permitir evaluación de publicaciones individuales para asignar puntuaciones a las publicaciones y seleccione su Método de cálculo. También puede elegir Incluir publicaciones sin evaluar en el cálculo de puntuación del tema como cero.
+- Seleccione Permitir que los estudiantes califiquen las publicaciones para permitir que los estudiantes califiquen las publicaciones de los demás. Luego, seleccione un tipo de calificación.
+- Cambie la Visibilidad para que esté Oculta o Visible.
+- Haga clic en Guardar y cerrar.
+Ha creado un tema con la herramienta Debates.
+Cambiar un foro de debate desde la herramienta de debates
+Puede cambiar el foro de un tema que haya creado anteriormente.
+Para cambiar el foro con la herramienta de debates
+- En la página de inicio del curso, vaya a Debates.
+- Haga clic en el menú Acciones de un tema de debate y seleccione Editar tema.
+- En la página de edición de temas, haga clic en Foro y seleccione el foro deseado en el menú desplegable.
+- Haga clic en Guardar o en Guardar y cerrar.
+Su nuevo foro de temas de debate se modificó.
+Edite un tema de debate con la herramienta Debates
+Puede editar un tema de debate con la herramienta de debates.
+Para editar un tema de debate con la herramienta de debates, realice lo siguiente:
+- En la página de inicio del curso, vaya a Debates.
+- Busque el tema de debate y haga clic en el menú desplegable (ícono de flecha) que está al lado del título del tema y seleccione Editar tema.
+- En la página del tema de debate, edite los campos Título , Foro , Clasificación fuera de, Fecha de vencimiento y Descripción.
+-
+- En el acordeón Fechas y condiciones de disponibilidad, edite la Fecha de inicio y la Fecha de finalización, las Condiciones de publicación y las Restricciones de grupo y sección.
+- En el menú Publicación y finalización, edite las opciones de participación y visualización de las publicaciones.
+- En el acordeón Evaluación y comentarios, adjunte una rúbrica, agregue objetivos de aprendizaje y cambie la configuración de evaluación de las publicaciones.
+- Cambie la Visibilidad para que esté Oculta o Visible.
+- Haga clic en Guardar y cerrar.
+Ha editado un tema de debate.
+Crear un tema de debate calificado con un elemento de calificación vinculado
+Puede vincular un elemento de calificación a su tema de debate para cambiarlo a un tema calificado.
+Para crear un tema de debate calificado
+- En la página Nuevo tema o Editar tema, haga clic en la pestaña Evaluación.
+- Realice una de las siguientes acciones para asociar el debate con un elemento de calificación que cuenta para el cálculo de calificación final:
+- Seleccione un elemento de calificación existente de la lista.
+- Haga clic en Nuevo elemento de calificación para crear y asociar un nuevo elemento de calificación con el tema de debate.
+- Aplique un valor de puntos en Puntuación de.
+Ha creado un tema de debate calificado con un elemento de calificación vinculado.
+Crear un tema de debate calificado con una rúbrica asociada
+Las opciones que le permiten asociar el tema de debate con una rúbrica se encuentran debajo de la información del elemento de calificación en la pestaña Evaluación.
+Para crear un tema de debate calificado con una rúbrica asociada
+- Realice una de las siguientes acciones:
+- Seleccione Agregar rúbrica para aplicar una rúbrica existente al tema de debate.
+- Elija Crear rúbrica en una ventana nueva para crear y asociar una rúbrica nueva.
+- Haga clic en Permitir evaluación de evaluaciones individuales, si corresponde, y establezca el método de cálculo.
+Puede agregar temas de debate existentes a una lección o módulo desde Contenido.
+Elimine foros, temas, hilos o publicaciones de debate en la herramienta Debates
+También puede eliminar foros, temas, hilos o publicaciones de debate.
+Para eliminar un foro, tema, hilo de conversación o publicación de la herramienta Debates
+- En la barra de navegación, haga clic en Debates.
+- En la página Lista de debates, haga clic en el menú contextual del foro, tema, hilo de conversación o publicación que desea eliminar y luego, haga clic en Eliminar, Eliminar hilo de conversación o Eliminar publicación.
+- Para confirmar la eliminación, haga clic en Sí.
+Ha eliminado un foro de debate, un tema, un hilo de conversación o una publicación.
+Restaurar debates eliminados de la Herramienta de debates
+Debe tener habilitado el permiso Eliminar y restaurar foros y temas para restaurar debates eliminados. Si el foro que restaura contiene temas, también tendrá la opción de restaurar los temas asociados del foro.
+Para restaurar debates eliminados
+- En la barra de navegación, haga clic en Debates.
+- Realice una de las siguientes acciones:
+- Para restaurar un foro o un tema eliminados, en la página Lista de debates, en el botón Más acciones, haga clic en Restaurar.
+- Haga clic en Restaurar junto al foro o al tema que desea restaurar.
+- Para restaurar un hilo de conversación o una publicación eliminados, haga clic en el enlace Restaurar <Hilo de conversación/Publicación> en el hilo de conversación o la publicación que desea restaurar.
+Ha restaurado un foro o un tema eliminado.
+Suscribirse a foros o temas de debate mediante la herramienta Debates
+Puede suscribirse a un foro de debate desde la herramienta Debates.
+Para suscribirse a un debate
+- En la barra de navegación, haga clic en Debates.
+- Realice una de las siguientes acciones:
+- En la página Lista de debates, en el menú de contexto del foro o el tema del que desea recibir notificaciones de nuevas publicaciones, haga clic en Suscribirse.
+- En la página Ver temas, haga clic en Subscribirse junto a la cadena de la cual desea recibir notificaciones.
+- En la ventana emergente Personalizar notificaciones, seleccione su Método de notificación. Si no tiene una dirección de correo electrónico configurada en su perfil de usuario para recibir notificaciones, en la ventana emergente Personalizar notificaciones, haga clic en el enlace Agregar una dirección de correo electrónico en una nueva ventana. Haga clic en el enlace Habilitar notificaciones de correo electrónico y luego defina las preferencias de correo electrónico en la ventana emergente Configuración de correo electrónico. Haga clic en Guardar.
+- Haga clic en Suscribirse.
+Se suscribió a un tema de debate mediante la herramienta Debates.
+Responder a un hilo de debate desde la Herramienta de debates
+Responda los hilos de conversación para interactuar con los estudiantes, fomentar el debate y apoyar su aprendizaje.
+Para responder a las cadenas de debate
+- Vaya a Debates.
+- Busque la cadena a la que desea responder y haga clic en esta.
+- Realice una de las siguientes acciones:
+- Para responder la publicación principal del hilo de conversación, haga clic en Responder a hilo de conversación.
+- Para responder a una publicación determinada en el hilo de conversación, haga clic en Responder.
+- Ingrese la respuesta en el editor de Brightspace. Para incluir el texto de la publicación original en su respuesta, haga clic en el enlace Agregar texto de la publicación original.
+- Establezca una de las siguientes opciones:
+- Para publicar de forma anónima, seleccione Publicar como anónima si está habilitado para la cadena.
+- Para recibir actualizaciones sobre la cadena con su método de notificación seleccionado, seleccione Subscribirse a esta cadena.
+- Para adjuntar un archivo, vaya al área Archivos adjuntos y haga clic en Examinar para localizar el archivo que desea adjuntar.
+- Para adjuntar una grabación de audio, vaya al área Archivos adjuntos y haga clic en Grabar audio > Grabar. Para hacer ajustes en el volumen y la selección del micrófono, haga clic en Configuración de Flash. Para escuchar la grabación, haga clic en Reproducir. Para borrar la grabación, haga clic en Borrar. Si tiene audio grabado previamente y está utilizando un explorador compatible, puede arrastrar los archivos de audio hacia el destino de carga de archivos adjuntos.
+- Para adjuntar una grabación de video, vaya al área Archivos adjuntos y haga clic en Grabar video > Permitir > Grabar. Cuando termine la grabación, haga clic en Detener. Haga clic en Borrar para eliminar la grabación o en Agregar para añadir la grabación. Si tiene un video grabado previamente y utiliza un navegador compatible, puede arrastrar los archivos de video hacia el destino de carga de archivos adjuntos.
+- Haga clic en Publicar.
+Ha respondido un hilo de conversación.
+Publicar en un tema de debate grupal desde la Herramienta de debates
+Publique en debates grupales para que los estudiantes puedan debatir sobre temas en grupos independientes y en un diario.
+Para publicar en un tema de debate grupal
+- Vaya a Debates.
+- En la página de Lista de debates, seleccione un tema de debate grupal.
+- Haga clic en Iniciar una nueva cadena.
+- En la lista desplegable Publicar cadena en, seleccione Todos los grupos, o uno en específico.
+- Proporcione un asunto y realice una publicación en el editor de Brightspace.
+- Establezca una de las siguientes opciones:
+- Para recibir actualizaciones sobre la cadena a través del método de notificación seleccionado, seleccione Subscribirse a esta cadena.
+- Para adjuntar un archivo, vaya al área Archivos adjuntos, haga clic en Agregar archivos adjuntos, haga clic en Cargar y ubique el archivo que desea adjuntar.
+- Para adjuntar una grabación de audio, vaya al área Archivos adjuntos y haga clic en Grabar audio > Grabar. Para hacer ajustes en el volumen y la selección del micrófono, haga clic en Configuración de Flash. Para escuchar la grabación, haga clic en Reproducir. Para borrar la grabación, haga clic en Borrar. Si tiene audio grabado previamente y está utilizando un explorador compatible, puede arrastrar los archivos de audio hacia el destino de carga de archivos adjuntos.
+- Para agregar una publicación a otros temas, haga clic en Publicar en otros temas y, luego, en Agregar temas. Seleccione el tema que desee y haga clic en Agregar temas.
+- Haga clic en Publicar.

@@ -1,0 +1,90 @@
+URL: https://community.d2l.com/brightspace-es-MX/kb/articles/15166-iniciar-el-termino
+TITLE: Iniciar el término - Brightspace
+HASH: 7c4f86d0e5369fe1f92aab84dc53e839cb7ef3dd4436422f5194924106bb5c79
+TYPE: web
+
+Esta página describe los pasos básicos que puede seguir para iniciar el término. Proporciona información sobre cómo configurar y administrar sus cursos.
+Acerca de la importación de contenido existente de otro curso
+Para iniciar su término, puede utilizar la Herramienta de contenido para importar el contenido del curso existente cuando cree una nueva oferta de cursos. Puede importar contenido copiando un curso existente o importando un paquete del curso.
+Video: Copiar contenido existente de otro curso
+Copiar curso existente
+Ahorre tiempo y esfuerzo copiando un curso existente, así como importando los componentes de un curso existente para usarlos en una nueva oferta de cursos. Esto le permite comenzar con un curso que ya está bien desarrollado y estructurado.
+Para copiar un curso existente
+- En la herramienta de contenido, haga clic en Tabla de contenido.
+- Haga clic en el menú desplegable Importar curso. Seleccione Copiar curso existente.
+Figura: haga clic en Importar curso en la Tabla de contenido para abrir el menú desplegable.
+- Haga clic en Copiar curso existente.
+Figura: haga clic en Copiar curso existente.
+- Haga clic en Copiar componentes desde otra unidad de organización.
+- Utilice Buscar oferta para buscar el curso que contiene los componentes del curso que desea copiar.
+Figura: haga clic en Buscar oferta.
+- Elija el curso.
+Figura: seleccione el curso deseado en Seleccionar oferta de cursos.
+- Haga clic en Agregar lo seleccionado.
+Figura: El botón Agregar lo seleccionado.
+- Seleccione Copiar todos los componentes o seleccione componentes individuales para indicar qué componentes copiar. Se le notifica cuando se completa la carga del curso.
+Figura: Los botones Copiar todos los componentes y Seleccionar componentes.
+- El menú Copiar historial de componentes del curso muestra las copias de su curso actual y de cualquier curso anterior. Desde esta página, puede copiar otro paquete, ver el contenido que acaba de importar o revisar y administrar fechas.
+Ha copiado un curso existente e importado el contenido a una nueva oferta de cursos.
+Importar paquete de curso
+Utilice la herramienta de contenido para importar un paquete del curso. Un paquete del curso se obtiene mediante el uso de la función de exportación o archivo en un curso desde otro sistema de gestión educativa. Esto crea un formato de archivo de almacenamiento (normalmente un archivo .zip) que contiene todos los componentes del curso. También lo distribuyen a menudo los editores de libros para compartir sus cursos con instituciones.
+Importar paquete de curso
+- Seleccione Importar paquete de curso para importar un archivo comprimido del curso.
+Figura: haga clic en Importar paquete de curso desde el menú Importar curso.
+- Realice una de las siguientes acciones:
+- Arrastre y suelte el archivo del paquete del curso en el cuadro de carga.
+- Seleccione Cargar para navegar hasta la ubicación del archivo del paquete del curso.
+- Haga clic en Importar todos los componentes.
+Figura: haga clic en Importar todos los componentes para importar el paquete del curso.
+Importó correctamente un paquete de curso. Una vez finalizada la importación, también puede Ver contenido, Importar otro paqueteo Revisar y administrar fechas del curso.
+Figura: cuando la ventana Importar paquete de curso muestre una importación correcta, seleccione una de las opciones disponibles.
+Establecer su zona horaria
+Seleccione la zona horaria preferida para administrar la fecha y hora de vencimiento de todas las actividades y eventos del curso.
+Establecer su zona horaria
+- Haga clic en su nombre de usuario y seleccione Configuración de la cuenta.
+Figura: Haga clic en Configuración de la cuenta.
+- En la página Configuración de la cuenta, en Zona horaria, seleccione un continente.
+Figura: seleccione el Tamaño de fuente deseado en el menú desplegable.
+- Seleccione su zona horaria preferida.
+Figura: seleccione la Zona Horaria deseada en el menú desplegable.
+- Haga clic en Guardar y, a continuación, en Guardar y cerrar para volver a la página de inicio de Brightspace.
+Crear una unidad nueva en Lecciones
+Utilice las unidades para organizar los materiales de aprendizaje de su curso. Las unidades generalmente contienen contenido relacionado con un tema o asignatura específicos dentro de su curso.
+Para crear una unidad nueva
+- Vaya a Contenido.
+- Haga clic en Nueva unidad.
+- Ingrese un Nombre para la unidad.
+- Si lo desea, ingrese una Fecha de entrega, Descripción, Fecha de inicio y Fecha final.
+- Use la alternancia de visibilidad para hacer que la unidad esté visible u oculta para los estudiantes durante la creación.
+- Haga clic en Guardar.
+Establezca las fechas de inicio y finalización de un tema o módulo
+Las fechas de inicio y final en la herramienta Contenido especifican cuándo los estudiantes pueden acceder a un tema o módulo. Si establece una fecha de inicio, final o de vencimiento para un tema o módulo, aparecerá en la página Próximos eventos y en la vista Agenda de la herramienta Calendario. Establecer una fecha final posterior a la fecha de vencimiento de un tema permite a los estudiantes acceder y completar el tema desde la pestaña Actividad atrasada en la página Cronograma del curso. Los temas que tienen una fecha de vencimiento, pero no una fecha final, también aparecen en la pestaña Actividad atrasada de la página Cronograma del curso.
+Establecer las fechas de inicio y finalización de un tema o módulo
+- Vaya aContenido.
+- En la página Tabla de contenidos, haga clic en Edición masiva.
+- Para cualquier tema o módulo al que desee agregar disponibilidad o fechas de vencimiento, haga clic en Agregar fechas y restricciones.
+- Realice cualquiera de las siguientes acciones:
+- Para agregar una fecha de inicio, haga clic en Agregar fecha de inicio. Ingrese los detalles de la fecha de inicio.
+- Para agregar una fecha de vencimiento, haga clic en Agregar fecha de vencimiento. Ingrese los detalles de la fecha de vencimiento.
+- Para agregar una fecha final, haga clic en Agregar fecha final. Ingrese los detalles de la fecha final.
+- Haga clic en Actualizar.
+- Haga clic en Edición lista.
+Hacer que su curso esté disponible y activo
+Después de crear su curso, asegúrese de saber si los estudiantes pueden acceder a él controlando su disponibilidad y su estado activo. Esto es de especial importancia si solo desea que su curso esté disponible para los estudiantes durante un período de tiempo o período académico específico.
+Activar su curso
+- En la página de inicio de su organización, utilice el selector de cursos para buscar y abrir el curso que desea activar.
+- Vaya a Administración del curso > Información de oferta de cursos.
+- Seleccione Curso activo.
+Figura: Casilla de selección Curso activo.
+- Haga clic en Guardar.
+Consideraciones sobre las fechas de inicio y final del curso
+Si no se establece la fecha de inicio y la fecha de finalización en Información de oferta de cursos, el curso estará disponible inmediatamente para que los estudiantes accedan en el componente Mi curso y en el menú Seleccionar un curso.
+Figura: opciones Fecha de inicio y Fecha final
+Tenga presente las siguientes consideraciones sobre las fechas de inicio y final:
+- Si un curso está activo, el curso aparecerá en el componente Mis cursos, pero los estudiantes no podrán acceder a él hasta que haya pasado la fecha de inicio.
+- Si un curso está activo y la fecha final ha pasado, el curso seguirá estando visible en el componente Mis cursos, pero no podrá abrirse.
+- Si se establece la fecha de inicio y la fecha de finalización, pero el instructor no selecciona El curso está activo, los estudiantes no pueden acceder en la fecha de inicio seleccionada. Para activar el curso, se debe seleccionar Curso activo.
+Variables de configuración que controlan la visibilidad de cursos futuros o pasados
+La visibilidad de los cursos antes de su fecha de inicio y después de su fecha de finalización es controlada por variables de configuración específicas. Comuníquese con su administrador para obtener más información sobre las variables de configuración necesarias.
+Video: Configurar su curso
+Video: Configurar el listado de alumnos, el progreso de la clase y las calificaciones

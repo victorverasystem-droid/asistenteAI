@@ -1,0 +1,20 @@
+URL: https://community.d2l.com/brightspace-es-MX/kb/articles/23484-habilitar-las-reflexiones-de-contenido-de-brightspace-eportfolio
+TITLE: Habilitar las reflexiones de Contenido de Brightspace ePortfolio - Brightspace
+HASH: 4ea74c9b978d4c03ec636ec8ca9a5a8d507f454ae53de806f01c31f5196ad194
+TYPE: web
+
+Los estudiantes pueden agregar reflexiones de Brightspace ePortfolio a Brightspace en cualquier página de Contenido en la que la opción esté activada.
+Cuando los estudiantes agregan una reflexión en Contenido, existen tres etiquetas predeterminadas que especifican el origen de la reflexión: la ID del curso, el nombre del módulo y el nombre del tema.
+Las reflexiones en Brightspace ePortfolio están activadas de forma predeterminada.
+Para habilitar reflexiones de Brightspace ePortfolio
+- En la barra de navegación, haga clic en Contenido.
+- Haga clic en el tema para el que desea activar las reflexiones.
+- En la pestaña Detalles de la actividad, haga clic en Reflexionar en ePortfolio está desactivado.
+- Marque la casilla de selección Activar reflexionar en ePortfolio.
+- Haga clic en Actualizar.
+Deshabilitar las reflexiones de Contenido de Brightspace ePortfolio
+- En la barra de navegación, haga clic en Contenido.
+- Haga clic en el tema para el que desea desactivar las reflexiones.
+- En la pestaña Detalles de la actividad, haga clic en Reflexionar en ePortfolio está activado.
+- Desmarque la casilla de selección Activar reflexionar en ePortfolio.
+- Haga clic en Actualizar.

@@ -1,0 +1,16 @@
+URL: https://community.d2l.com/brightspace-es-MX/kb/articles/10932-como-interactua-la-tecnologia-de-asistencia-con-la-experiencia-de-calificacion-en-linea
+TITLE: Cómo interactúa la tecnología de asistencia con la experiencia de calificación en línea - Brightspace
+HASH: 35660572ffae922f1f29c723a93cd9e9c980b64673305b5b96bdbe5cb7e11e0c
+TYPE: web
+
+Los lectores de pantalla y la navegación solo con teclado proporcionan la misma información que la navegación basada en puntero (como el uso de un mouse o una bola de seguimiento).
+La interacción de las teclas de flecha en el control deslizante de evaluación indica un estado de enfoque. Cuando el enfoque está en un nivel de criterio, la descripción aparece debajo del control deslizante.
+Imagen: Si el enfoque está en un nivel, el nombre, la descripción y la puntuación aparecen en el área de información del nivel debajo del control deslizante.
+Los niveles de evaluación de la navegación de teclado con control deslizante identifican el enfoque e indican el criterio que se ve. Cuando el enfoque del teclado está en un nivel, puede presionar las teclas de flecha al principio y al final del control deslizante o utilizar las teclas de flecha izquierda y derecha del teclado para mover el enfoque dentro de una escala. En el modo de calificación, al mover el enfoque a un nivel, este se selecciona directamente. También puede presionar Intro para seleccionar o anular la selección de un nivel. En el modo de vista previa, el nivel seleccionado no cambia cuando revisa la información de otros niveles.
+Imagen: El nivel enfocado resalta dentro del segmento del control deslizante.
+Los niveles de evaluación de la navegación de teclado con control deslizante identifican con más claridad el enfoque y el nivel que seleccionó en el modo de calificación. Puede utilizar la tecla de flecha derecha o izquierda del teclado para mover el enfoque dentro de una escala. Presione Intro o utilice las teclas de flecha izquierda y derecha del teclado para seleccionar y anular la selección del nivel.
+Figura: Cuando se selecciona el nivel, un cuadro más grande delinea el nivel del control deslizante y aparece una marca de verificación en el nivel.
+El nombre del nivel y la descripción de un nivel de evaluación aparecen debajo del control deslizante de evaluación en el estado seleccionado. El indicador de selección aparece en el control deslizante en el nivel elegido.
+Figura: Cuando se selecciona un nivel, aparecen el nombre y la descripción junto con el indicador de selección.
+Cuando se califica la rúbrica, en el área de información del nivel se muestra la información del nivel seleccionado de forma predeterminada, a menos que otros niveles estén en el estado de desplazamiento en el modo de calificación o en el estado de desplazamiento o enfoque en el modo de revisión.
+Figura: Cuando un nivel no seleccionado está en el estado de desplazamiento, el nombre, la descripción y la puntuación aparecen en el área de información de nivel debajo del control deslizante.

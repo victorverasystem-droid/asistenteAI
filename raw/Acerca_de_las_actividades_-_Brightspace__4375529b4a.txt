@@ -1,0 +1,30 @@
+URL: https://community.d2l.com/brightspace-es-MX/kb/articles/15188-acerca-de-las-actividades
+TITLE: Acerca de las actividades - Brightspace
+HASH: 4375529b4a727abf83cb48ce3e25a134be8559df3b047c4a98f007ce27c060c0
+TYPE: web
+
+Ver este video para aprender a crear una asignación mediante la nueva experiencia de creación de Asignaciones. Revise los pasos escritos a continuación.
+Puede utilizar la herramienta Asignaciones para crear y editar asignaciones, ver las horas de envío de los usuarios, ver el material enviado en la página Evaluar envío, asociar las asignaciones a rúbricas y competencias y devolver el material enviado con calificaciones y comentarios.
+Para asignaciones que incluyen envíos de archivos, puede descargar el material enviado a su computadora para revisarlo sin conexión.
+En el área Material enviado de envíos de archivos y texto, puede ver el material enviado por los usuarios y las fechas en que se realizaron los envíos, lo que elimina la necesidad de recopilar las asignaciones y simplifica el seguimiento para determinar cuándo se enviaron los archivos.
+Usted puede crear categorías para agrupar y organizar las asignaciones. También puede restringir el acceso a las asignaciones por fecha y hora, pertenencia a un grupo o permisos de acceso especial.
+Puede administrar exenciones iniciando la página Administrar las exenciones. Para obtener más información, consulte Acerca de las exenciones.
+Requisitos
+Para usar la herramienta Asignaciones, se requiere lo siguiente:
+- Para ver y usar la herramienta Asignaciones, debe tener los permisos de Asignaciones requeridos aplicados a su rol. Solo el administrador de su organización puede acceder a estos permisos.
+Recorrido visual de la herramienta Asignaciones
+Una vez que haya cumplido los requisitos de permiso y haya agregado la herramienta a la barra de navegación de su curso, seleccione Asignaciones.
+Figura: Descripción general de la interfaz de la herramienta Asignaciones.
+Cuando los instructores vayan a Asignaciones, verán todas las asignaciones creadas dentro de su curso con opciones para crear nuevas asignaciones y editar y evaluar las anteriores.
+- Nueva asignación: Cree una nueva asignación.
+- Editar categorías: Cree o administre categorías para sus asignaciones. Las categorías son personalizables y pueden organizarse para designar el trabajo que corresponde a módulos específicos de su curso.
+- Más acciones: Proporciona opciones adicionales para las asignaciones:
+- Vista previa: Permite ver una vista previa de cualquier asignación.
+- Reordenar: Permite cambiar el orden y la visualización de sus asignaciones.
+- Registro de eventos: Permite ver un registro de las asignaciones creadas, eliminadas y restauradas.
+- Hacer visible para los usuarios: Permita que los alumnos vean una asignación.
+- Ocultar de los usuarios: Permite que una tarea sea invisible para los alumnos.
+- Eliminar: Permite eliminar una asignación.
+- Edición masiva: Permite editar una o varias asignaciones a la vez.
+¿Qué tipos de archivo son compatibles en Asignaciones?
+Se admiten los siguientes formatos de archivo para el material enviado de asignaciones:

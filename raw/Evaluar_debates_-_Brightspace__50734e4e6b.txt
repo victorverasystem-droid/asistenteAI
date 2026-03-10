@@ -1,0 +1,156 @@
+URL: https://community.d2l.com/brightspace-es-MX/kb/articles/15185-evaluar-debates
+TITLE: Evaluar debates - Brightspace
+HASH: 50734e4e6b3e4b2ff071a8c3e50e06ec2a54c28992f695fee2b699d27e6427dc
+TYPE: web
+
+En la herramienta Debates, puede revisar y evaluar temas de debate, evaluar a participantes individuales y enviar comentarios masivos sin problemas, lo que garantiza la coherencia en la calificación y la distribución de comentarios.
+Hacer que un tema de debate se pueda calificar y vincular a un elemento de calificación
+Cuando agrega el puntaje de un tema de debate a un elemento de calificación en su cuaderno de calificaciones, los puntajes de los estudiantes se transfieren de manera automática al cuaderno de calificaciones. Esto le permite aplicar un factor a la puntuación del tema en las calificaciones finales para el curso.
+Para calificar un tema de debate y vincularlo a un elemento de calificación
+-
+Puede editar un tema existente o crear un nuevo tema de debate:
+- Vaya a Debates. En el menú Acciones para un tema de debate, haga clic en Editar tema.
+- Vaya a Contenido. En el módulo en el que desea crear el tema de debate, haga clic en Crear nuevo > Debate.
+- En la página de creación o edición de un tema, ingrese un valor numérico en el campo Calificar sobre.
+- En la sección Calificar sobre, haga clic en el menú desplegable y en Editar o vincular a existente.
+- En el cuadro de diálogo Editar o vincular a existente, seleccione una de las siguientes opciones:
+- Seleccione Crear y vincular a un nuevo elemento de calificación para crear un nuevo elemento de calificación asociado con su tema de debate. Elija el Esquema de calificaciones para su nuevo elemento de calificación.
+- Seleccione Vincular a un elemento de calificación existente para vincular su tema de debate a un elemento de calificación existente. Seleccione un elemento de calificación existente en la lista desplegable.
+- Haga clic en Aceptar.
+- Active o desactive la Visibilidad de su tema de debate para que quede Visible u Oculto.
+- Haga clic en Guardar y cerrar.
+El tema de debate ahora está vinculado a un elemento de calificación.
+Experiencia de evaluación coherente en Debates
+La evaluación coherente es una experiencia optimizada que se aplica a las herramientas evaluables de Brightspace, incluidos los Debates. Esta experiencia permite a los instructores revisar y evaluar mejor tanto los temas de debate como los participantes individuales, sin cambiar su flujo de trabajo.
+La evaluación coherente cuenta con las siguientes características:
+- El nombre de la actividad, las flechas de navegación y el nombre del estudiante y la tarjeta de perfil aparecen en el panel del encabezado en la parte superior.
+- El tema y las respuestas de los debates aparecen a la izquierda en el panel de envíos. El título del tema o la respuesta es un enlace que abrirá la publicación en una nueva ventana para que pueda tener una idea del contexto en el que se realizó la publicación.
+- Las herramientas de evaluación, como las calificaciones, las rúbricas, la rúbrica de calificación y los comentarios, aparecen a la derecha en el panel de evaluación. Cuando abre la rúbrica en línea, esta se expande dentro del panel o aparece en una nueva ventana para la calificación.
+- Puede arrastrar el divisor entre el panel de envío y el panel de evaluación para cambiar el tamaño con el fin de que se ajusten a sus preferencias y al tamaño de la pantalla. El divisor permanece en la misma posición mientras navega por el material enviado de sus estudiantes.
+- En la vista adaptable para móviles, las herramientas de evaluación están ocultas en un cajón en la parte inferior de la pantalla. Toque el cajón para mostrar las herramientas.
+Métodos de evaluación disponibles para un debate
+Si tiene seleccionada la opción Permitir evaluación de publicaciones individuales (en Evaluación de publicaciones), cualquier calificación que ingrese en el Cuaderno de calificaciones para los elementos de calificación de debate también se sincronizará con Debates. Esto asegura la coherencia de los datos entre Debates y Cuaderno de calificaciones. Además, los comentarios de los elementos de calificación de debate se sincronizan con el cuaderno de calificaciones cuando el evaluador hace clic en Actualizar. Esto garantiza que cualquier comentario guardado en borrador también se guarde automáticamente en el cuaderno de calificaciones.
+Los siguientes métodos de cálculo están disponibles para evaluar los debates.
+Evaluar un tema de debate
+El tema y las respuestas de los debates aparecen a la izquierda en el panel de envíos. El título del tema o la respuesta es un enlace que abre la publicación en una nueva ventana para que pueda entender el contexto en el que se realizó la publicación.
+Puede arrastrar el divisor entre los paneles de envío y evaluación para cambiar el tamaño. El divisor permanece en la misma posición a medida que navega por el material enviado de sus estudiantes.
+Puede evaluar las contribuciones individuales de los estudiantes a un tema de debate y proporcionar comentarios personalizados según sus publicaciones. Siga los pasos que se indican a continuación para evaluar a los estudiantes y enviar sus calificaciones y comentarios.
+Para evaluar un tema y proporcionar comentarios individuales
+-
+En la página de inicio del curso, vaya a Debates.
+-
+En la pestaña Lista de debates, haga clic en el menú desplegable junto al nombre de un tema y seleccione Evaluar tema.
+-
+Se carga una nueva página en la que se muestra a los estudiantes que han publicado un hilo de conversación en el tema elegido. Filtre usuarios por Secciones o Equipos de trabajo si es necesario. Haga clic en Puntuación del tema debajo del nombre del estudiante para evaluar un tema y proporcionar comentarios individuales.
+-
+Una vez que el hilo de conversación se haya cargado en una página nueva, ingrese lo siguiente:
+- En el campo Calificación general, agregue la calificación del estudiante.
+- En el campo Comentarios generales, agregue sus comentarios.
+- Utilice la sección Adjuntos para agregar archivos de texto y audio-video.
+-
+Realice una de las siguientes acciones:
+Puede ahorrar tiempo proporcionando comentarios masivos a varios estudiantes directamente desde la página Evaluar tema en Debates. Esta función le permite agregar comentarios a estudiantes seleccionados o a todos los estudiantes simultáneamente, lo que agiliza el proceso de evaluación.
+Para proporcionar comentarios a estudiantes seleccionados
+- Vaya a Debates.
+- En la pestaña Lista de debates, haga clic en el menú desplegable junto al nombre del tema relacionado y seleccione Evaluar tema.
+- Filtre usuarios por Secciones o Equipos de trabajo si es necesario, y seleccione los estudiantes a los que desea proporcionar comentarios, luego haga clic en Agregar comentarios.
+-
+Ingrese sus comentarios y haga clic en Guardar. Los comentarios se guardan como borrador.
+- Para publicar los comentarios, seleccione los usuarios a los que proporcionó los comentarios y haga clic en Publicar. El Estado de los comentarios de los estudiantes seleccionados cambiará a Publicados.
+Para proporcionar comentarios a todos los estudiantes
+- Vaya a Debates.
+- En la pestaña Lista de debates, haga clic en el menú desplegable junto al nombre del tema relacionado y seleccione Evaluar tema.
+- Haga clic en Agregar comentarios a todos.
+- Ingrese sus comentarios y haga clic en Guardar. Los comentarios se guardan como borrador.
+- Para publicar los comentarios masivos, haga clic en Publicar todos los comentarios. El estado de los comentarios de todos los estudiantes cambiará a Publicados.
+Evaluar las publicaciones de debate de un usuario específico
+También puede evaluar todas las publicaciones de debate de un estudiante específico.
+Para evaluar a un estudiante
+- En la página de inicio del curso, vaya a Debates.
+-
+En la página Lista de debates, haga clic en el tema que desea evaluar.
+-
+En la pestaña Ver tema, seleccione la opción Evaluar estudiante haciendo clic en el menú desplegable junto al nombre del hilo de conversación correspondiente.
+-
+Una vez que el hilo de conversación se haya cargado en una página nueva, complete los siguientes campos:
+- En el campo Calificación general, agregue la calificación del estudiante.
+- En el campo Comentarios generales, agregue sus comentarios.
+- Utilice la sección Adjuntos para agregar archivos de texto y audio-video.
+-
+Realice una de las siguientes acciones:
+- Haga clic en Publicar para que el estudiante reciba una notificación de la calificación de su actividad.
+- Haga clic en Guardar como borrador para publicar posteriormente la calificación y los comentarios.
+Su calificación se publicará en la página Evaluar tema.
+Visualizar el esquema de calificaciones que se aplicó al curso mientras evalúa un debate
+Si aplicó un esquema de calificaciones a su curso, puede ver ese esquema de calificaciones mientras ingresa la calificación de un tema de debate específico. Por ejemplo, si aplicó un esquema de calificaciones por Porcentaje al curso y vinculó un tema de debate a un elemento de calificación, puede ingresar una Calificación general y ver el esquema de calificaciones del estudiante en Vista de calificaciones del estudiante. Esta acción es útil para comprender cómo se verá la calificación que ingresó para el estudiante cuando vea su calificación final con el esquema de calificaciones aplicado.
+Para ver el esquema de calificaciones que se aplicó al curso mientras evalúa
+- Vaya a Debates.
+- En la pestaña Lista de debates, haga clic en Acciones para (ícono de flecha) junto a un tema de debate y seleccione Evaluar tema.
+- Desde la pestaña Usuarios de la página Evaluar tema, haga clic en una Puntuación del tema para abrir una publicación de debate y evaluarla.
+- Evalúe el tema e ingrese una Calificación general. La Vista de calificaciones del estudiante se actualiza de forma automática para representar el esquema de calificaciones aplicado.
+Retiro y republicación de las evaluaciones de los debates
+Puede ocultar del estudiante las evaluaciones publicadas si considera necesario volver a evaluar los mensajes de debate. Esta opción está disponible para usuarios individuales, o bien puede utilizar el retiro en lote y las funciones de publicación si se trata de una gran cantidad de usuarios o de una clase completa.
+- Vaya a Debates.
+- En el menú contextual del tema que desea evaluar, haga clic en Evaluar tema.
+- Marque la casilla de selección junto al nombre de un estudiante y haga clic en Publicar comentarios o en Retirar comentarios.
+Evaluar un tema de debate
+Utilice los debates para evaluar el conocimiento de los estudiantes y permitirles aplicar su aprendizaje del contenido del curso.
+- Vaya a Debates.
+- En la página Lista de debates, en el menú Acciones del tema que desea evaluar, haga clic en Evaluar tema.
+- Haga clic en el enlace Puntuación del tema debajo del nombre del usuario que desea evaluar. Esto mostrará todas sus publicaciones del tema, a las cuales les puede asignar después puntuaciones individuales o una puntuación del tema general.
+Calificó las publicaciones de debate de sus estudiantes.
+Evaluar publicaciones de temas de debate individuales
+- Vaya a Debates.
+- En el menú Acciones de su tema de debate, haga clic en Editar tema.
+- En la página Editar tema, expanda el acordeón Evaluación y comentarios.
+- Seleccione Permitir evaluación de publicaciones individuales. Seleccione el Método de cálculo.
+- Haga clic en Guardar y cerrar.
+Habilitó la evaluación de publicaciones individuales para su tema de debate.
+Evalúe los debates con la Experiencia de nuevo contenido
+En la herramienta de debates, puede revisar y evaluar temas de debate y participantes individuales sin cambiar su flujo de trabajo.
+Evalúe los temas de debate y las publicaciones individuales directamente en la herramienta Contenido para evitar pasar por las diferentes herramientas de Brightspace.
+Para evaluar un tema
+- En la página Contenido, realice una de las siguientes acciones:
+- Diríjase a la lección que contiene su debate y haga clic en Ir a debates.
+- Si está usando la vista de actividades evaluables, haga clic en Ir al tema.
+En la pestaña Lista de debates, haga clic en el menú desplegable junto al nombre del tema relacionado y seleccione Evaluar tema.
+Se carga una nueva página en la que se muestra a los estudiantes que han publicado un hilo de conversación en el tema elegido. Filtre usuarios por Secciones o Equipos de trabajo si es necesario. Haga clic en Puntuación del tema debajo del nombre de un estudiante.
+Una vez que el hilo de conversación se haya cargado en una página nueva, complete los siguientes campos:- En el campo Calificación general, agregue la calificación del estudiante.
+- En el campo Comentarios generales, agregue sus comentarios.
+- Utilice la sección Adjuntos para agregar archivos de texto y audio-video.
+Realice una de las siguientes acciones:- Haga clic en Publicar para que el estudiante reciba una notificación de la calificación de su actividad.
+- Haga clic en Guardar como borrador para publicar posteriormente la calificación y los comentarios.
+El tema y las respuestas de los debates aparecen a la izquierda en el panel de envíos. El título del tema o la respuesta es un enlace que abre la publicación en una nueva ventana para que pueda tener una idea del contexto en el que se realizó la publicación. Puede arrastrar el divisor entre el panel de material enviado y el panel de evaluación para cambiar el tamaño, a fin de que se ajusten a sus preferencias y el tamaño de la pantalla. El divisor permanece en la misma posición a medida que navega por el material enviado de sus estudiantes.
+Para evaluar a un estudiante, realice lo siguiente:
+- En la página Contenido, realice una de las siguientes acciones:
+- Diríjase a la lección que contiene su debate y haga clic en Ir a debates.
+- Si está usando la vista de actividades evaluables, haga clic en Ir a la evaluación en la sección Resumen de finalización del estudiante que desea evaluar.
+- En la página Lista de debates, haga clic en el tema que desea evaluar.
+- En la pestaña Ver tema, seleccione la opción Evaluar estudiante haciendo clic en el menú desplegable junto al nombre del hilo de conversación correspondiente.
+- Una vez que el hilo de conversación se haya cargado en una página nueva, complete los siguientes campos:
+- En el campo Calificación general, agregue la calificación del estudiante.
+- En el campo Comentarios generales, agregue sus comentarios.
+- Utilice la sección Adjuntos para agregar archivos de texto y audio-video.
+- Realice una de las siguientes acciones:
+Su calificación se publicará en la página Evaluar tema.
+Evalúe los debates con la Experiencia de contenido clásico
+En la herramienta de debates, puede revisar y evaluar temas de debate y participantes individuales sin cambiar su flujo de trabajo.
+Evalúe los temas de debate y las publicaciones individuales directamente en la herramienta Contenido para evitar pasar por las diferentes herramientas de Brightspace.
+Para evaluar un tema, realice lo siguiente:
+- En su página Contenido, vaya al módulo deseado al que corresponde su debate y haga clic en el título del tema que desea evaluar.
+- En la pestaña Lista de debates, seleccione la opción Evaluar tema haciendo clic en el menú desplegable junto al nombre del tema relacionado.
+- Una vez que se haya cargado la página nueva en la que se indica a los usuarios que han publicado un hilo de conversación en el tema elegido, haga clic en Puntuación del tema debajo del nombre del estudiante.
+Para evaluar a un estudiante, realice lo siguiente:
+- En su página Contenido, vaya al módulo deseado al que corresponde su debate y haga clic en el título del tema que desea evaluar.
+- En la página Lista de debates, haga clic en el tema que desea evaluar.
+- En la pestaña Ver tema, seleccione la opción Evaluar estudiante haciendo clic en el menú desplegable junto al nombre del hilo de conversación correspondiente.
+- Una vez que el hilo de conversación se haya cargado en una página nueva, complete los siguientes campos:
+- En el campo Calificación general, agregue la calificación del estudiante.
+- En el campo Comentarios generales, agregue sus comentarios. Utilice la sección Adjuntos para agregar archivos de texto y audio-video.
+-
+Realice una de las siguientes acciones:
+- Haga clic en Publicar para que el estudiante reciba una notificación de la calificación de su actividad.
+- Haga clic en Guardar como borrador para publicar posteriormente la calificación y los comentarios.
+El tema y las respuestas de los debates aparecen a la izquierda en el panel de envíos. El título del tema o la respuesta es un enlace que abre la publicación en una nueva ventana para que pueda tener una idea del contexto en el que se realizó la publicación. Puede arrastrar el divisor entre el panel de material enviado y el panel de evaluación para cambiar el tamaño, a fin de que se ajusten a sus preferencias y el tamaño de la pantalla. El divisor permanece en la misma posición a medida que navega por el material enviado de sus estudiantes.
+Como resultado, su calificación se publicará en la página Evaluar tema.
+Video: Evalúa debates

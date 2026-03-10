@@ -1,0 +1,11 @@
+URL: https://community.d2l.com/brightspace-es-MX/kb/articles/10898-previsualizar-asignaciones-en-modo-de-evaluacion
+TITLE: Previsualizar asignaciones en modo de Evaluación - Brightspace
+HASH: fe34265a743dd9f967c8cb57cc508a411154998a2ec0280f978bb27358e9be3c
+TYPE: web
+
+Para editar asignaciones, un usuario requiere permisos de edición específicos. Sin embargo, existen algunas instancias en las que los evaluadores sin esos permisos de edición deben poder ver la información de la asignación, como las instrucciones de asignación, las fechas de inicio y las fechas finales.
+Para prrevisualizar asignaciones en modo de Evaluación, realice lo siguiente:
+- En modo de Evaluación, haga clic en el menú Acciones de la asignación y haga clic en Vista previa de actividad. Los evaluadores con el permiso Puede ver y administrar asignaciones pueden utilizar la opción Vista previa de la actividad para ver la información de la asignación, pero no pueden editar las propiedades o fechas de la asignación.
+Figura: Haga clic en el menú Acciones de la asignación y, a continuación, haga clic en Vista previa de actividad.
+- Cuando selecciona la opción Vista previa de la actividad, aparece una versión de solo lectura de la Vista previa de asignación en una nueva pestaña.
+Figura: La Vista previa de la asignación permite a los usuarios ver la información de la asignación, pero no permite editarla.

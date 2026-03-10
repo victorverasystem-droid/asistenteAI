@@ -1,0 +1,102 @@
+URL: https://community.d2l.com/brightspace-es-MX/kb/articles/10930-acerca-de-las-exenciones
+TITLE: Acerca de las exenciones - Brightspace
+HASH: a6c65a3a1349983352787986328ec12756d5ac54c49011f0049ea217229900b6
+TYPE: web
+
+Video: Descripción general de las exenciones
+Con las exenciones, un instructor puede proporcionar un motivo implícito por el que un estudiante no tenga un puntaje en un elemento de calificación o una actividad. Una calificación en blanco o igual a cero (0) puede significar que el estudiante no ha enviado el elemento, que no se ha calificado el elemento o que el estudiante reprobó el elemento. Contar con una configuración de exenciones admite la diferenciación para una exención legítima.
+Los instructores pueden excluir enlaces de herramientas de aprendizaje externas, asignaciones, cuestionarios, temas de debate y elementos de calificación que son numéricos, de cuadro de selección, de aprobación/reprobación, calculados, de fórmula o de texto; los instructores no pueden excluir a un estudiante de una calificación final calculada o una calificación final rectificada.
+Cuando un instructor excluye a un estudiante de una actividad, las páginas que se indican a continuación se ven afectadas:
+- Página de tabla de contenido: tanto en la Experiencia de Contenido clásica como en la experiencia del estudiante, el título del tema exento aparece con un indicador de exención; la fecha de vencimiento no se muestra; el indicador de método de finalización se elimina, y en el recuento de los temas requeridos y el porcentaje de finalización del módulo se excluyen los temas exentos.
+- Página de detalles del tema: en el contenido clásico, cuando un estudiante hace clic en un tema del cual está exento, aparece un mensaje en el que se indica que el estudiante está exento del tema y que puede ver la actividad, pero no debe completarla. Ahora, en el recuento actualizado de temas obligatorios en la Tabla de contenidos se excluyen los elementos de calificación exentos. El método de finalización, que esencialmente no es obligatorio, se eliminó de la página Detalles.
+- Contenido del curso: en el contenido clásico, no existen fechas de vencimiento para las actividades exentas, por lo que no vencen ni aparecen en la lista de elementos atrasados. En las secciones del cronograma completo y las próximas actividades del cronograma del curso no se muestran los elementos exentos.
+- Calendario: en las páginas web y los componentes de calendario no se muestran los elementos exentos.
+- Componentes de actualizaciones: no es necesario enviar los cuestionarios exentos, los cuales se excluyen del recuento de cuestionarios sin responder que aparecen en el componente de Actualizaciones.
+- En el cuaderno de calificaciones, páginas de vista del instructor: Ingresar calificaciones, Calificar usuario, Categoría de calificación, Elementos de calificación, Importar revisión
+- Páginas de vista del estudiante: los elementos de calificación exentos aparecen con un indicador de exención en la página Mis calificaciones.
+- Páginas de progreso del usuario: en las pestañas Resumen, Calificaciones, Asignaciones, Debates y Cuestionarios, se muestran actividades exentas con un indicador de exención. Los elementos de calificación exentos no aparecen en el gráfico de barras de las calificaciones recibidas, que se muestra en la sección Calificaciones del Resumen y debajo de la pestaña Calificaciones.
+- Tareas pendientes: el componente Tareas pendientes no muestra elementos exentos.
+- Página Asignaciones: las asignaciones exentas aparecen con un indicador de exención.
+- Página Lista de debates: los temas de debate exentos aparecen con un indicador de exención en la lista de lectura de foros y temas.
+- Página Cuestionarios: los cuestionarios exentos aparecen con un indicador de exención.
+El proceso que exporta e importa los datos de calificaciones incluye las exenciones. El procesamiento posterior durante la importación de datos de calificación puede diferenciar entre un estudiante con calificación, sin calificación y con exención. Si cambia el valor que identifica una exención para el proceso de importación después de que los instructores hayan establecido los valores del archivo de exportación como dependientes de un valor determinado, como por ejemplo la palabra “Exento”, pueden producirse resultados inesperados en las exenciones de calificaciones importadas.
+(Undefined variable: Brightspace_Variables.note) Para ver y usar las Exenciones, debe tener los permisos requeridos que se aplican a su rol. Solo el administrador de su organización puede acceder a estos permisos.
+Establecer una exención para un estudiante
+Puede eximir a un estudiante de un elemento de contenido (un cuestionario, una actividad o un tema) en la herramienta Content o de un elemento de calificación.
+Importante: Para ver y usar las Exenciones, debe tener los permisos requeridos y la variable de configuración que se aplican a su rol. Solo el administrador de su organización puede acceder a estos permisos.
+Administrar la exención de un estudiante en la herramienta Contenido clásico
+Las exenciones solo pueden establecerse en los siguientes tipos de temas de contenido:
+- Enlaces de LTI
+- Asignaciones
+- Debates
+- Cuestionarios
+Para establecer una exención de un estudiante:
+- En Contenido clásico, en el menú contextual de la actividad de la cual desea eximir a un estudiante, seleccione Editar propiedades en el lugar.
+- Haga clic en Agregar fechas y restricciones…
+- En Exenciones, haga clic en Administrar exenciones.
+- Busque y seleccione los estudiantes que desea excluir de la actividad.
+- Haga clic en Excluir.
+- Haga clic en X para salir de la página Administrar exenciones.
+- Haga clic en Actualizar para guardar las restricciones.
+Nota: Cuando se eximen actividades, todas las condiciones de publicación de tales actividades deben cumplirse de todas formas.
+Para eliminar una exención de un estudiante, realice lo siguiente:
+- En Contenido clásico, en el menú contextual de la actividad de la cual desea eximir a un estudiante, seleccione Editar propiedades en el lugar.
+- Haga clic en Agregar fechas y restricciones…
+- En Exenciones, haga clic en Administrar exenciones.
+- Busque y seleccione los estudiantes para los que desea eliminar una exención.
+- Haga clic en No exento.
+- Haga clic en X para salir de la página Administrar exenciones.
+- Haga clic en Actualizar para guardar las restricciones.
+(Undefined variable: Brightspace_Variables.note) Cuando se eximen actividades, todas las condiciones de publicación de tales actividades deben cumplirse de todas formas.
+Administración de la exención de un estudiante en las herramientas Asignaciones, Debates y Cuestionarios
+Puede agregar y eliminar la exención de un estudiante de una asignación, un cuestionario o un tema de debate en la herramienta correspondiente.
+Puede iniciar la página Administrar exenciones en las siguientes páginas de herramientas:
+Asignaciones:
+- En la página Asignaciones, en el menú contextual de una asignación.
+- En la página Asignaciones, en un botón en la parte superior de la página.
+Debates:
+- En la página Lista de debates, en el menú contextual de un tema.
+- En la página Ver tema, en el menú contextual que aparece junto al nombre del tema.
+- En la página Evaluar tema, en el botón en la parte superior de la página.
+Cuestionarios:
+- En la página Administrar cuestionarios, en el menú contextual de un cuestionario.
+- En la página Calificar cuestionario, como un botón en la parte superior de la página.
+Para establecer una exención de un estudiante:
+- En la herramienta, según las ubicaciones indicadas anteriormente, haga clic en Administrar exenciones.
+- Busque y seleccione el estudiante que desea excluir de la actividad.
+- Haga clic en Excluir.
+- Haga clic en X para salir de la página Administrar exenciones.
+Para eliminar una exención de un estudiante, realice lo siguiente:
+- En la herramienta, según las ubicaciones indicadas anteriormente, haga clic en Administrar exenciones.
+- Busque y seleccione el estudiante para el que desea eliminar una exención.
+- Haga clic en No exento.
+- Haga clic en X para salir de la página Administrar exenciones.
+Importante: Cuando se eximen actividades, todas las condiciones de publicación de tales actividades deben cumplirse de todas formas.
+Video: Crear exenciones de calificación
+Establecer una exención para un estudiante desde el cuaderno de calificaciones
+- En la página Ingresar calificaciones del cuaderno de calificaciones, localice el elemento de calificación del que desea eximir a un estudiante.
+- En el menú contextual junto al nombre del elemento de calificación, seleccione Ingresar calificaciones.
+- Busque y marque la casilla de selección junto al nombre del estudiante.
+- Sobre o debajo de la tabla, haga clic en Exento para establecer una exención.
+- Busque y seleccione el estudiante que desea excluir de la actividad.
+- Haga clic en Excluir.
+- Haga clic en X para salir de la página Administrar exenciones.
+Eliminar una exención de un alumno
+- Desde la página de Elemento de calificación, marque la casilla de selección situada junto al nombre del estudiante.
+- Por encima o por debajo de la tabla, haga clic en No exento.
+- Haga clic en Guardar y cerrar.
+Configurar exenciones de varios elementos de calificación para un estudiante
+Puede establecer y eliminar exenciones de varios elementos de calificación de un estudiante en la página Editar exenciones de calificación en el cuaderno de calificaciones.
+Puede iniciar la página Editar exenciones de calificación en los siguientes lugares del cuaderno de calificaciones:
+- En la página Ingresar calificaciones, en el menú contextual de un estudiante, seleccione Exenciones de edición masiva.
+- En la página de calificación específica del estudiante, en el menú contextual junto al nombre del estudiante en la parte superior de la página, seleccione Exenciones de edición masiva.
+- En la página Elemento de calificación, en la que ingresa las calificaciones de un elemento de calificación individual, en el menú contextual de un estudiante, seleccione Exenciones de edición masiva.
+- En la página Categoría de calificación, en la que ingresa las calificaciones de varios elementos de calificación en una categoría, en el menú contextual de un estudiante, seleccione Exenciones de edición masiva.
+Para establecer varias exenciones de un estudiante, realice lo siguiente:
+- Vaya a la página Editar exenciones de calificación en una de las ubicaciones indicadas anteriormente.
+- Marque las casillas de selección de los elementos de calificación de los que desea eximir al estudiante.
+- Haga clic en Guardar y cerrar.
+Para eliminar varias exenciones de un estudiante, realice lo siguiente:
+- Vaya a la página Editar exenciones de calificación en una de las ubicaciones indicadas anteriormente.
+- Marque las casillas de selección de los elementos de calificación de los cuales desea eliminar la exención del estudiante.
+- Haga clic en Guardar y cerrar.

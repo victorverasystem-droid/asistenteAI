@@ -1,0 +1,17 @@
+URL: https://community.d2l.com/brightspace-es-MX/kb/articles/10941-cambiar-y-reordenar-los-indicadores-principales-en-progreso-de-la-clase
+TITLE: Cambiar y reordenar los Indicadores principales en Progreso de la clase - Brightspace
+HASH: 9c97d29b78969fed77e04acee129300d941665ee306fc3005b8e6509bc2a0acc
+TYPE: web
+
+Haga un seguimiento del progreso del estudiante e identifique las tendencias en su aprendizaje mediante los indicadores principales en la herramienta de progreso de la clase.
+Para modificar los indicadores principales en Progreso de la clase:
+- Vaya a Progreso de la clase.
+- En la página Progreso de la clase, haga clic en Configuración.
+Figura: La opción Configuración en la página Progreso de la clase.
+- En el menú desplegable del indicador que desea reemplazar, seleccione Reemplazar.
+Figura: La opción Reemplazar en el menú desplegable para un indicador.
+- En el cuadro de diálogo Seleccionar indicador de progreso, haga clic en el indicador que desea utilizar como remplazo. Para remplazar indicadores de progreso adicionales, repita los pasos anteriores.
+- En el menú desplegable de un indicador de progreso, seleccione Subir o Bajar para reorganizar el orden en que este aparece en Progreso de la clase.
+Figura: Las opciones Mover hacia arriba y Mover hacia abajo en el menú desplegable para un indicador.
+-
+Haga clic en Guardar y cerrar.

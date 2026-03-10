@@ -1,0 +1,42 @@
+URL: https://community.d2l.com/brightspace-es-MX/kb/articles/15169-agregar-actividades-existentes-con-onedrive
+TITLE: Agregar actividades existentes con OneDrive - Brightspace
+HASH: 0cbffb63e38c517c6de79d146a0e8812e9d45d65eade1932a704aa30d4e01d28
+TYPE: web
+
+Amplíe el contenido existente o cree contenido nuevo agregando archivos existentes de OneDrive a su curso Brightspace.
+Conecte su cuenta de OneDrive a Brightspace
+Vincular su cuenta de OneDrive a Brightspace le permite importar contenido de OneDrive a su curso Brightspace.
+Para conectar su cuenta de OneDrive a Brightspace
+- Desde la página de inicio de su curso, vaya a Contenido.
+Figura: Página de inicio del curso con la herramienta Contenido resaltada.
+- En la Tabla de contenidos, seleccione el módulo deseado y haga clic en Agregar existente.
+Figura: Haga clic en Agregar existente en el módulo donde desea insertar contenido.
+- En la página ¿Qué le gustaría agregar?, haga clic en OneDrive.
+Figura: La página ¿Qué le gustaría agregar? con OneDrive resaltado.
+- Aparece un cuadro de diálogo que le pide que inicie sesión en su cuenta de OneDrive. Haga clic en Continuar en OneDrive e ingrese la información de su cuenta para conectarla a Brightspace.
+Figura: El cuadro de diálogo Agregar materiales que pide a los usuarios que inicien sesión en OneDrive.
+Agregar una actividad existente a Contenido
+Agregue archivos existentes de OneDrive a Contenido para incluir recursos existentes en su curso.
+Para agregar un archivo OneDrive a Contenido
+- Desde la página de inicio de su curso, vaya a Contenido.
+Figura: Página de inicio del curso con la herramienta Contenido resaltada.
+- En la Tabla de contenidos, seleccione el módulo deseado y haga clic en Agregar existente.
+Figura: Haga clic en Agregar existente en el módulo donde desea insertar contenido.
+- En la página ¿Qué le gustaría agregar?, haga clic en OneDrive.
+Figura: La página ¿Qué le gustaría agregar? con OneDrive resaltado.
+- En el cuadro de diálogo Agregar materiales, seleccione el archivo que desea agregar y haga clic en Seleccionar.
+Agregar una actividad existente a una asignación
+Agregue archivos existentes de OneDrive a Asignaciones para incluir archivos adicionales como un esquema de asignación.
+Para agregar un archivo de OneDrive a Asignaciones
+- Desde la página de inicio de su curso, vaya a Contenido.
+Figura: Página de inicio del curso con la herramienta Contenido resaltada.
+- En la Tabla de contenidos, en cualquier módulo, haga clic en Crear nuevo.
+Figura: Haga clic en Crear nuevo en el módulo donde desea agregar contenido.
+- En la página ¿qué le gustaría crear?, haga clic en Asignación.
+Figura: La página ¿Qué le gustaría crear? con la opción Asignación resaltada.
+- En la página Nueva asignación, haga clic en el ícono Adjuntar desde OneDrive.
+Figura: La página Nueva asignación con el ícono Adjuntar desde OneDrive resaltado.
+- En el cuadro de diálogo Agregar materiales, haga clic en el archivo que desea agregar y, a continuación, haga clic en Seleccionar.
+- Cambie la Visibilidad de la asignación a Oculta o Visible.
+- Haga clic en Guardar y cerrar.
+Figura: Las opciones para Guardar y cerrar y Visibilidad.

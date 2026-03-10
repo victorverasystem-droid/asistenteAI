@@ -1,0 +1,30 @@
+URL: https://community.d2l.com/brightspace-es-MX/kb/articles/10866-importar-calificaciones
+TITLE: Importar calificaciones - Brightspace
+HASH: 165ab4dabe96c12df4ab6d25ee52a40b0eea3fce21087d04bdab53bcbbc97341
+TYPE: web
+
+Puede ingresar calificaciones en una aplicación externa e importarlas en Brightspace mediante un archivo CSV, TSV o TXT. También puede crear nuevos elementos de calificación mediante la adición de una columna para cada nuevo elemento a su archivo de importación. Cualquier calificación que importe para los elementos de calificación de debate y de asignaciones se vuelve a sincronizar con Debates y Asignaciones como comentarios publicados.
+El archivo de importación debe tener un formato estándar; utilice el archivo de importación de calificaciones de muestra como un punto de referencia. Incluso si prefiere ingresar las calificaciones con un archivo de importación, D2L recomienda que configure su cuaderno de calificaciones en Brightspace, incluso si desea ingresar las calificaciones en un archivo CVS o TXT.
+Para preparar su archivo de importación
+Puede descargar una muestra de un archivo .CSV como punto de partida para su importación.
+1. En la barra de navegación del curso, haga clic en Calificaciones.
+2. En la sección Ingresar calificaciones, haga clic en Importar.
+3. Haga clic en Grades_Sample_Import_File.csv y seleccione una ubicación para guardar el archivo si se le solicita.
+4. Actualice el archivo con su información de calificación, como se ve en la tabla de muestra.
+Para importar calificaciones a Brightspace
+- En la barra de navegación, haga clic en Calificaciones.
+- En la sección Ingresar calificaciones, haga clic en Importar.
+- En Importar archivo, haga clic en Elegir archivo y seleccione un archivo de importación.
+- Si desea crear un nuevo elemento de calificación cuando se encuentra un elemento no reconocido, seleccione Crear un nuevo elemento de calificación cuando se haga referencia a un elemento no reconocido.
+- Haga clic en Continuar.
+- Verifique la información de los elementos no reconocidos que se encontraron y haga clic en Continuar.
+- Establezca propiedades para los elementos de calificación importados:
+- Categoría: Asignaciones, cuestionarios, participación en debates, exámenes.
+- Máximo de puntos: valor de calificación máximo.
+- Puede exceder: permite que las calificaciones de los usuarios superen los puntos máximos especificados para el elemento de calificación.
+- Bonificación: permite agregar elementos adicionales a la calificación calculada.
+- Esquema de calificaciones: permite representar las calificaciones de los usuarios mediante símbolos o etiquetas.
+- Haga clic en Continuar.
+- Verifique los errores y las advertencias que se encontraron y haga clic en Continuar.
+- Revise la vista previa de los elementos que se importarán y haga clic en Importar.
+- Aparecerá el mensaje Importado correctamente y volverá a la pantalla Ingresar calificaciones.
