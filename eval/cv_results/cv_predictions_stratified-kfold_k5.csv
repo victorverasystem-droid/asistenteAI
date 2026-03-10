@@ -1,0 +1,401 @@
+fold_id,record_id,text,intent_true,intent_pred,sim,correct,actor,channel,split_orig
+fold_1,SYN-2025-000005,"Brightspace no me deja entrar, dice que mi usuario no existe.",auth_login_issue,auth_login_issue,0.8929,True,docente,chat,train
+fold_1,SYN-2025-000004,"Brightspace no me deja entrar, dice que mi usuario no existe.",auth_login_issue,auth_login_issue,0.8929,True,docente,correo,train
+fold_1,SYN-2025-000012,"No puedo iniciar sesión en Brightspace, me sale “credenciales inválidas”.",auth_login_issue,auth_login_issue,0.9193,True,estudiante,portal,train
+fold_1,SYN-2025-000019,"Hola, Olvidé mi contraseña, ¿cómo la restablezco para entrar a Brightspace?",auth_password_reset,auth_password_reset,0.9113,True,administrativo,correo,train
+fold_1,SYN-2025-000018,¿Dónde puedo recuperar mi clave institucional para acceder a Brightspace?,auth_password_reset,auth_password_reset,0.8863,True,estudiante,telefono,train
+fold_1,SYN-2025-000017,"Hola, Restablecí la contraseña pero Brightspace sigue sin dejarme entrar. Gracias.",auth_password_reset,auth_password_reset,0.9169,True,estudiante,chat,test
+fold_1,SYN-2025-000034,"Hola, Me dice que excedí intentos, ¿cómo recupero el acceso? Gracias.",auth_account_locked,auth_password_reset,0.8741,False,administrativo,telefono,train
+fold_1,SYN-2025-000029,"Hola, Me dice que excedí intentos, ¿cómo recupero el acceso?",auth_account_locked,quiz_reset_attempt,0.8694,False,docente,correo,train
+fold_1,SYN-2025-000036,"Creo que se bloqueó mi cuenta, ¿pueden habilitarla?",auth_account_locked,auth_account_locked,0.8785,True,estudiante,chat,train
+fold_1,SYN-2025-000038,No me llega el código de verificación (MFA) para ingresar. Gracias.,auth_mfa_issue,auth_mfa_issue,0.8965,True,administrativo,correo,test
+fold_1,SYN-2025-000037,El MFA me pide aprobación pero no aparece la notificación.,auth_mfa_issue,auth_mfa_issue,0.868,True,estudiante,telefono,train
+fold_1,SYN-2025-000047,La app autenticadora no genera códigos válidos para el acceso.,auth_mfa_issue,auth_mfa_issue,0.8736,True,administrativo,chat,train
+fold_1,SYN-2025-000052,Me falta un curso en Brightspace para el periodo 202620.,course_not_visible,course_not_visible,0.888,True,docente,telefono,test
+fold_1,SYN-2025-000059,Me falta un curso en Brightspace para el periodo 202520.,course_not_visible,course_not_visible,0.8887,True,docente,portal,train
+fold_1,SYN-2025-000058,Mis compañeros ya ven el curso DER-200 y yo no.,course_not_visible,course_not_visible,0.8373,True,docente,portal,train
+fold_1,SYN-2025-000061,No coincide el paralelo: tengo DER-200 pero debería ser otro.,course_wrong_assigned,grade_rubric_mismatch,0.8357,False,docente,portal,train
+fold_1,SYN-2025-000071,Me cargaron un curso que no corresponde a mi malla.,course_wrong_assigned,course_wrong_assigned,0.8443,True,docente,correo,val
+fold_1,SYN-2025-000064,Me falta el curso correcto y me aparece uno distinto.,course_wrong_assigned,course_wrong_assigned,0.8781,True,docente,chat,train
+fold_1,SYN-2025-000077,"No puedo ver cursos antiguos en Brightspace, ¿hay forma de recuperarlos?",course_access_previous_term,course_access_previous_term,0.9026,True,docente,portal,train
+fold_1,SYN-2025-000075,¿Cómo accedo a mis aulas virtuales de semestres pasados? Gracias.,course_access_previous_term,course_access_previous_term,0.8729,True,estudiante,telefono,train
+fold_1,SYN-2025-000094,Necesito que me agreguen como docente al curso ING-305.,course_manual_enrollment_request,course_manual_enrollment_request,0.8467,True,estudiante,chat,train
+fold_1,SYN-2025-000083,No se reflejó mi matrícula y necesito acceso al aula BIO-150.,course_manual_enrollment_request,course_manual_enrollment_request,0.8521,True,docente,correo,train
+fold_1,SYN-2025-000090,No se reflejó mi matrícula y necesito acceso al aula PSI-110.,course_manual_enrollment_request,grades_not_visible,0.8499,False,estudiante,telefono,train
+fold_1,SYN-2025-000103,"Me sale error al enviar la tarea, queda en ‘procesando’.",assignment_submit_issue,assignment_submit_issue,0.8854,True,estudiante,correo,val
+fold_1,SYN-2025-000105,"Hola, No se registra mi entrega de tarea, aunque dice enviado.",assignment_submit_issue,assignment_submit_issue,0.8924,True,estudiante,telefono,train
+fold_1,SYN-2025-000106,"Hola, Intento subir mi tarea y dice que la entrega está cerrada.",assignment_submit_issue,assignment_submit_issue,0.8868,True,estudiante,portal,train
+fold_1,SYN-2025-000108,"Con Chrome me falla subir archivos, ¿hay otro navegador recomendado?",assignment_upload_error,assignment_upload_error,0.8807,True,docente,portal,train
+fold_1,SYN-2025-000109,"Hola, Error al subir archivo en la tarea PROY-01: ‘upload failed’. Gracias.",assignment_upload_error,assignment_upload_error,0.905,True,estudiante,telefono,test
+fold_1,SYN-2025-000116,Me dice ‘archivo corrupto’ al intentar adjuntar la tarea.,assignment_upload_error,assignment_upload_error,0.8902,True,docente,portal,val
+fold_1,SYN-2025-000128,El sistema no me deja reingresar al intento del quiz.,quiz_attempt_locked,quiz_attempt_locked,0.8551,True,docente,portal,train
+fold_1,SYN-2025-000127,"Hola, Mi intento del cuestionario PARC-02 quedó bloqueado, no me deja continuar.",quiz_attempt_locked,quiz_attempt_locked,0.8936,True,estudiante,correo,train
+fold_1,SYN-2025-000125,"Hola, El sistema no me deja reingresar al intento del quiz.",quiz_attempt_locked,quiz_attempt_locked,0.8736,True,docente,correo,train
+fold_1,SYN-2025-000137,¿Cómo otorgo un intento extra en Brightspace para un cuestionario?,quiz_reset_attempt,quiz_reset_attempt,0.9083,True,docente,correo,train
+fold_1,SYN-2025-000138,"Hola, Solicito reiniciar el intento del quiz EXA-01 por caída de internet. Gracias.",quiz_reset_attempt,quiz_attempt_locked,0.8836,False,docente,chat,train
+fold_1,SYN-2025-000134,¿Cómo otorgo un intento extra en Brightspace para un cuestionario?,quiz_reset_attempt,quiz_reset_attempt,0.9083,True,soporte,telefono,train
+fold_1,SYN-2025-000151,Me sale que no hay ítems de calificación visibles. Gracias.,grades_not_visible,grades_not_visible,0.8991,True,estudiante,correo,train
+fold_1,SYN-2025-000154,"En ‘Calificaciones’ no aparece nada, ¿es configuración?",grades_not_visible,grades_not_visible,0.8769,True,docente,correo,train
+fold_1,SYN-2025-000143,¿Por qué no se muestran mis calificaciones todavía? Gracias.,grades_not_visible,grades_not_visible,0.8777,True,estudiante,chat,train
+fold_1,SYN-2025-000156,No aparecen las anotaciones del profesor en mi entrega.,feedback_view_issue,grades_not_visible,0.8694,False,estudiante,correo,train
+fold_1,SYN-2025-000163,¿Dónde puedo ver la retroalimentación de mi tarea TAR-02?,feedback_view_issue,feedback_view_issue,0.8702,True,docente,telefono,train
+fold_1,SYN-2025-000165,¿Cómo se calcula la nota final del curso PSI-110?,grade_calculation_explain,grade_calculation_explain,0.834,True,docente,chat,train
+fold_1,SYN-2025-000169,Necesito entender el cálculo de mi nota en ‘Calificaciones’.,grade_calculation_explain,grade_calculation_explain,0.8751,True,estudiante,chat,train
+fold_1,SYN-2025-000167,Necesito entender el cálculo de mi nota en ‘Calificaciones’. Gracias.,grade_calculation_explain,grade_calculation_explain,0.8771,True,docente,correo,train
+fold_1,SYN-2025-000178,Mi nota no coincide con la rúbrica de la tarea TAR-02. Gracias.,grade_rubric_mismatch,grade_rubric_mismatch,0.8692,True,estudiante,portal,train
+fold_1,SYN-2025-000182,"Hola, Según la rúbrica debería tener más puntos, ¿pueden revisar?",grade_rubric_mismatch,grade_rubric_mismatch,0.8799,True,estudiante,correo,train
+fold_1,SYN-2025-000187,Necesito una guía para exportar y luego importar notas.,grades_export,grades_export,0.8555,True,soporte,chat,train
+fold_1,SYN-2025-000195,Necesito descargar el libro de calificaciones en CSV.,grades_export,grades_export,0.8717,True,docente,chat,train
+fold_1,SYN-2025-000197,Desde el celular no me deja descargar los recursos.,content_download_issue,content_download_issue,0.841,True,estudiante,correo,train
+fold_1,SYN-2025-000201,Me da error al intentar bajar los materiales de la semana 2.,content_download_issue,assignment_submit_issue,0.8544,False,estudiante,correo,train
+fold_1,SYN-2025-000206,Me da error al intentar bajar los materiales de la semana 2.,content_download_issue,assignment_submit_issue,0.8544,False,docente,chat,train
+fold_1,SYN-2025-000210,"Hola, Hay un enlace roto en el contenido CONT-09 del curso DER-200.",content_broken_link,content_broken_link,0.8963,True,estudiante,telefono,test
+fold_1,SYN-2025-000209,"Hola, El link interno del módulo redirige a página inexistente.",content_broken_link,content_broken_link,0.8949,True,estudiante,chat,train
+fold_1,SYN-2025-000216,Hay un enlace roto en el contenido CONT-03 del curso MAT-101.,content_broken_link,content_broken_link,0.8926,True,estudiante,chat,train
+fold_1,SYN-2025-000226,El reproductor no carga en mi navegador Edge. Gracias.,content_video_playback_issue,content_video_playback_issue,0.864,True,docente,correo,train
+fold_1,SYN-2025-000223,Me sale pantalla negra al intentar ver el video del curso.,content_video_playback_issue,content_video_playback_issue,0.9011,True,docente,portal,train
+fold_1,SYN-2025-000232,¿Cómo creo un anuncio para mis estudiantes en el curso ADM-210?,instructor_create_announcement,instructor_create_announcement,0.8668,True,soporte,portal,train
+fold_1,SYN-2025-000237,¿Cómo creo un anuncio para mis estudiantes en el curso FIN-220?,instructor_create_announcement,instructor_create_announcement,0.8667,True,docente,portal,train
+fold_1,SYN-2025-000250,"Hola, ¿Cómo configuro el tiempo límite y los intentos del quiz?",instructor_create_quiz,instructor_create_quiz,0.8877,True,docente,telefono,test
+fold_1,SYN-2025-000243,¿Cómo configuro contraseña o restricciones para un quiz?,instructor_create_quiz,instructor_create_quiz,0.8743,True,docente,portal,train
+fold_1,SYN-2025-000258,¿Cómo creo una pregunta de respuesta corta en el quiz QUIZ-02? Gracias.,instructor_short_answer_question_setup,instructor_short_answer_question_setup,0.8847,True,soporte,telefono,test
+fold_1,SYN-2025-000252,¿Cómo defino respuestas correctas y mayúsculas/minúsculas en respuesta corta? Gracias.,instructor_short_answer_question_setup,instructor_short_answer_question_setup,0.884,True,soporte,telefono,train
+fold_1,SYN-2025-000266,Quiero copiar módulos desde DER-200 a mi curso nuevo.,instructor_copy_course_content,instructor_copy_content_to_new_term,0.877,False,soporte,portal,train
+fold_1,SYN-2025-000263,"Hola, ¿Cómo importo contenido de un curso anterior a ING-305?",instructor_copy_course_content,instructor_copy_course_content,0.881,True,soporte,portal,test
+fold_1,SYN-2025-000273,¿Cómo verificar que todo el contenido quedó bien tras replicar?,instructor_copy_content_to_new_term,instructor_copy_content_to_new_term,0.8395,True,docente,portal,val
+fold_1,SYN-2025-000274,¿Cómo verificar que todo el contenido quedó bien tras replicar?,instructor_copy_content_to_new_term,instructor_copy_content_to_new_term,0.8395,True,docente,chat,train
+fold_1,SYN-2025-000284,Quiero que el módulo 2 se abra solo si aprueban el quiz 1.,instructor_release_conditions_setup,quiz_attempt_locked,0.8435,False,docente,portal,test
+fold_1,SYN-2025-000283,Necesito aplicar release conditions a una tarea.,instructor_release_conditions_setup,instructor_release_conditions_setup,0.8661,True,soporte,telefono,val
+fold_1,SYN-2025-000297,"Quiero habilitar reporte de similitud en una tarea, ¿dónde está Turnitin? Gracias.",integration_turnitin_enable,integration_turnitin_enable,0.887,True,docente,chat,train
+fold_1,SYN-2025-000290,"Hola, ¿Cómo configuro exclusiones y el repositorio en Turnitin?",integration_turnitin_enable,integration_turnitin_enable,0.8971,True,soporte,chat,test
+fold_1,SYN-2025-000303,"Hola, Necesito guía para vincular Smowl con Brightspace en una evaluación. Gracias.",integration_smowl_setup,integration_smowl_setup,0.8692,True,soporte,correo,val
+fold_1,SYN-2025-000304,Necesito guía para vincular Smowl con Brightspace en una evaluación.,integration_smowl_setup,integration_smowl_setup,0.878,True,docente,portal,train
+fold_1,SYN-2025-000309,"Hola, Requiero un nuevo master course para la escuela Educación.",admin_create_master_course,admin_create_master_course,0.8802,True,administrativo,telefono,train
+fold_1,SYN-2025-000312,Solicitud: crear master course con ID MC-SAL-003.,admin_create_master_course,admin_create_master_course,0.86,True,soporte,correo,train
+fold_1,SYN-2025-000320,¿Se puede asignar varios docentes al master course?,admin_assign_instructor_master_course,admin_assign_instructor_master_course,0.889,True,soporte,chat,train
+fold_1,SYN-2025-000324,Solicitud: agregar docente en master course MC-NEG-014.,admin_assign_instructor_master_course,admin_assign_instructor_master_course,0.8668,True,soporte,chat,train
+fold_1,SYN-2025-000330,¿Hay procedimiento de excepción para cierre de actas fuera de fecha?,admin_grade_submission_closeout,admin_grade_submission_closeout,0.8685,True,administrativo,portal,train
+fold_1,SYN-2025-000329,"Hola, ¿Qué pasos debo seguir para finalizar el gradebook del curso?",admin_grade_submission_closeout,grades_not_visible,0.8599,False,docente,chat,train
+fold_1,SYN-2025-000349,En Chrome se ven botones cortados o páginas en blanco.,tech_browser_compatibility,tech_browser_compatibility,0.8543,True,administrativo,chat,train
+fold_1,SYN-2025-000339,"Brightspace no funciona bien en mi navegador Edge, ¿cuál recomiendan?",tech_browser_compatibility,tech_browser_compatibility,0.882,True,docente,telefono,test
+fold_1,SYN-2025-000350,El quiz no abre por compatibilidad del navegador.,tech_browser_compatibility,tech_browser_compatibility,0.8844,True,docente,correo,train
+fold_1,SYN-2025-000351,"La plataforma se queda en blanco, ¿sirve limpiar cookies?",tech_clear_cache_cookies,tech_clear_cache_cookies,0.9017,True,docente,chat,train
+fold_1,SYN-2025-000352,"Hola, La plataforma se queda en blanco, ¿sirve limpiar cookies?",tech_clear_cache_cookies,tech_clear_cache_cookies,0.91,True,docente,telefono,train
+fold_1,SYN-2025-000368,Tengo Android y no me llegan notificaciones de tareas.,tech_mobile_app_setup,assignment_submit_issue,0.8469,False,docente,telefono,train
+fold_1,SYN-2025-000362,"La app no muestra mis cursos, ¿qué debo revisar?",tech_mobile_app_setup,grades_not_visible,0.8585,False,estudiante,portal,train
+fold_1,SYN-2025-000371,Necesito guía para moderar respuestas en foros.,forum_use_guidance,forum_use_guidance,0.8671,True,docente,portal,val
+fold_1,SYN-2025-000373,"Hola, No puedo responder en un tema del foro, ¿por qué?",forum_use_guidance,forum_use_guidance,0.8605,True,docente,telefono,train
+fold_1,SYN-2025-000377,"Hola, Necesito inscribir estudiantes manualmente en grupos.",groups_create_manage,groups_create_manage,0.8621,True,soporte,telefono,val
+fold_1,SYN-2025-000383,Quiero que cada grupo tenga su espacio y discusión.,groups_create_manage,groups_create_manage,0.8254,True,docente,portal,train
+fold_1,SYN-2025-000389,¿Cómo creo una rúbrica y la asocio a la tarea TAR-01?,rubric_create_attach,rubric_create_attach,0.8686,True,soporte,correo,train
+fold_1,SYN-2025-000391,"Hola, Necesito una rúbrica analítica con niveles, ¿cómo se configura? Gracias.",rubric_create_attach,rubric_create_attach,0.878,True,docente,correo,train
+fold_1,SYN-2025-000395,"Hola, Mi curso está en puntos, ¿cómo lo cambio a ponderado?",weighted_grades_setup,weighted_grades_setup,0.884,True,docente,telefono,train
+fold_1,SYN-2025-000397,"Quiero que tareas valgan 40% y quizzes 60%, ¿cómo lo configuro?",weighted_grades_setup,weighted_grades_setup,0.9051,True,docente,chat,train
+fold_2,SYN-2025-000011,Al ingresar a Brightspace me aparece error de autenticación (SSO).,auth_login_issue,auth_login_issue,0.9046,True,estudiante,portal,train
+fold_2,SYN-2025-000003,"No puedo acceder a Brightspace desde hoy, ¿está caído el acceso?",auth_login_issue,auth_login_issue,0.8809,True,administrativo,correo,test
+fold_2,SYN-2025-000006,Intento entrar a Brightspace y se queda cargando o me devuelve a la pantalla de login. Gracias.,auth_login_issue,auth_login_issue,0.9117,True,administrativo,correo,val
+fold_2,SYN-2025-000021,El enlace de recuperación de contraseña no me llega al correo. Gracias.,auth_password_reset,auth_password_reset,0.9048,True,docente,chat,train
+fold_2,SYN-2025-000013,¿Dónde puedo recuperar mi clave institucional para acceder a Brightspace?,auth_password_reset,auth_password_reset,0.8863,True,administrativo,correo,train
+fold_2,SYN-2025-000014,"El sistema dice que mi token de recuperación expiró, ¿pueden reenviarlo?",auth_password_reset,auth_password_reset,0.8561,True,administrativo,telefono,train
+fold_2,SYN-2025-000027,No puedo entrar porque la cuenta está suspendida temporalmente.,auth_account_locked,auth_account_locked,0.8647,True,docente,correo,val
+fold_2,SYN-2025-000025,Mi usuario quedó bloqueado y tengo evaluación hoy. Gracias.,auth_account_locked,auth_account_locked,0.8848,True,estudiante,chat,train
+fold_2,SYN-2025-000028,"Me aparece que el usuario está bloqueado, necesito acceso urgente.",auth_account_locked,auth_account_locked,0.8786,True,estudiante,correo,train
+fold_2,SYN-2025-000043,Necesito desactivar temporalmente MFA para poder entrar.,auth_mfa_issue,auth_mfa_issue,0.8723,True,estudiante,telefono,train
+fold_2,SYN-2025-000041,Necesito desactivar temporalmente MFA para poder entrar.,auth_mfa_issue,auth_mfa_issue,0.8723,True,docente,chat,train
+fold_2,SYN-2025-000048,Necesito desactivar temporalmente MFA para poder entrar.,auth_mfa_issue,auth_mfa_issue,0.8723,True,administrativo,chat,train
+fold_2,SYN-2025-000057,"Solo veo algunos cursos, me falta BIO-150.",course_not_visible,course_not_visible,0.8472,True,docente,portal,train
+fold_2,SYN-2025-000056,"No encuentro mi curso en Brightspace, ¿está oculto o cerrado?",course_not_visible,course_not_visible,0.9124,True,estudiante,correo,train
+fold_2,SYN-2025-000053,"Hola, Me falta un curso en Brightspace para el periodo 202530.",course_not_visible,course_not_visible,0.8946,True,docente,correo,train
+fold_2,SYN-2025-000062,"Tengo acceso a un curso ajeno, ¿cómo se corrige?",course_wrong_assigned,course_wrong_assigned,0.8707,True,estudiante,telefono,train
+fold_2,SYN-2025-000068,"Hola, Me falta el curso correcto y me aparece uno distinto.",course_wrong_assigned,course_wrong_assigned,0.8846,True,estudiante,correo,train
+fold_2,SYN-2025-000065,Me cargaron un curso que no corresponde a mi malla.,course_wrong_assigned,course_wrong_assigned,0.8443,True,estudiante,chat,test
+fold_2,SYN-2025-000074,"Hola, Necesito consultar un foro de un curso ya finalizado.",course_access_previous_term,course_access_previous_term,0.8538,True,estudiante,correo,train
+fold_2,SYN-2025-000080,Requiero acceso temporal a un curso anterior para revisar evidencias.,course_access_previous_term,course_access_previous_term,0.8891,True,estudiante,correo,val
+fold_2,SYN-2025-000089,"Hola, Necesito que me agreguen como tutor al curso PSI-110. Gracias.",course_manual_enrollment_request,admin_assign_instructor_master_course,0.8427,False,docente,telefono,val
+fold_2,SYN-2025-000087,Solicito alta manual en Brightspace para FIN-220 del periodo 202610.,course_manual_enrollment_request,course_manual_enrollment_request,0.8597,True,administrativo,portal,train
+fold_2,SYN-2025-000085,"Soy docente nuevo, ¿pueden darme acceso al curso FIN-220?",course_manual_enrollment_request,admin_assign_instructor_master_course,0.8471,False,docente,correo,train
+fold_2,SYN-2025-000100,Me dice ‘no autorizado’ al intentar entregar la tarea.,assignment_submit_issue,assignment_submit_issue,0.8846,True,estudiante,chat,train
+fold_2,SYN-2025-000098,No puedo adjuntar y enviar la tarea del curso BIO-150.,assignment_submit_issue,assignment_submit_issue,0.8705,True,estudiante,correo,train
+fold_2,SYN-2025-000096,"Hola, La tarea no me deja confirmar el envío, ¿qué reviso? Gracias.",assignment_submit_issue,assignment_submit_issue,0.8823,True,estudiante,telefono,train
+fold_2,SYN-2025-000117,Mi archivo pesa 48 MB y no me deja cargarlo en Brightspace.,assignment_upload_error,content_download_issue,0.8729,False,estudiante,correo,train
+fold_2,SYN-2025-000112,Me dice ‘archivo corrupto’ al intentar adjuntar la tarea.,assignment_upload_error,assignment_upload_error,0.8902,True,estudiante,portal,train
+fold_2,SYN-2025-000113,"No acepta el formato jpg en la tarea, ¿cuáles son válidos?",assignment_upload_error,assignment_upload_error,0.8764,True,estudiante,portal,train
+fold_2,SYN-2025-000123,Me aparece ‘locked out’ en el intento del quiz EXA-01.,quiz_attempt_locked,quiz_attempt_locked,0.8671,True,estudiante,portal,train
+fold_2,SYN-2025-000124,No puedo entrar al cuestionario porque marca intento en progreso.,quiz_attempt_locked,quiz_attempt_locked,0.875,True,estudiante,correo,train
+fold_2,SYN-2025-000120,Cambié de navegador y el intento se bloqueó en el cuestionario.,quiz_attempt_locked,quiz_attempt_locked,0.916,True,docente,chat,train
+fold_2,SYN-2025-000135,"Un estudiante tuvo problemas técnicos, ¿puedo resetear su intento?",quiz_reset_attempt,quiz_reset_attempt,0.8984,True,docente,portal,train
+fold_2,SYN-2025-000142,¿Cómo otorgo un intento extra en Brightspace para un cuestionario? Gracias.,quiz_reset_attempt,quiz_reset_attempt,0.9088,True,soporte,correo,train
+fold_2,SYN-2025-000139,"Hola, ¿Cómo restablezco el intento del estudiante EST-998877 en el quiz QUIZ-02?",quiz_reset_attempt,quiz_reset_attempt,0.9019,True,soporte,telefono,val
+fold_2,SYN-2025-000147,"Mis calificaciones no aparecen, solo veo guiones.",grades_not_visible,grades_not_visible,0.8855,True,estudiante,chat,train
+fold_2,SYN-2025-000146,"En ‘Calificaciones’ no aparece nada, ¿es configuración?",grades_not_visible,grades_not_visible,0.8769,True,estudiante,telefono,train
+fold_2,SYN-2025-000152,"El docente dice que calificó, pero en Brightspace no veo la nota. Gracias.",grades_not_visible,grades_not_visible,0.8882,True,docente,telefono,val
+fold_2,SYN-2025-000160,¿Cómo reviso la rúbrica y el feedback de una tarea enviada? Gracias.,feedback_view_issue,feedback_view_issue,0.9155,True,docente,chat,train
+fold_2,SYN-2025-000155,"Hola, No sé cómo abrir la retroalimentación desde ‘Evaluaciones’.",feedback_view_issue,feedback_view_issue,0.8751,True,estudiante,correo,test
+fold_2,SYN-2025-000173,"No entiendo las ponderaciones del curso, ¿cómo se saca mi promedio?",grade_calculation_explain,grade_calculation_explain,0.8964,True,estudiante,telefono,train
+fold_2,SYN-2025-000175,¿Por qué mi nota final bajó si tengo buenas tareas?,grade_calculation_explain,grade_calculation_explain,0.8665,True,estudiante,correo,train
+fold_2,SYN-2025-000166,"No entiendo las ponderaciones del curso, ¿cómo se saca mi promedio? Gracias.",grade_calculation_explain,grade_calculation_explain,0.8902,True,docente,chat,train
+fold_2,SYN-2025-000180,"Según la rúbrica debería tener más puntos, ¿pueden revisar?",grade_rubric_mismatch,grade_rubric_mismatch,0.8695,True,estudiante,correo,train
+fold_2,SYN-2025-000183,"Veo la rúbrica, pero el puntaje no refleja los criterios. Gracias.",grade_rubric_mismatch,grade_rubric_mismatch,0.8827,True,docente,chat,test
+fold_2,SYN-2025-000192,¿Puedo exportar por grupo o por sección las calificaciones?,grades_export,grades_export,0.8794,True,docente,correo,train
+fold_2,SYN-2025-000191,¿Puedo exportar por grupo o por sección las calificaciones? Gracias.,grades_export,grades_export,0.8851,True,docente,chat,val
+fold_2,SYN-2025-000208,"Hola, La descarga se queda en 0% y no avanza.",content_download_issue,content_download_issue,0.8765,True,estudiante,portal,train
+fold_2,SYN-2025-000203,Me dice ‘access denied’ cuando descargo un PDF del curso.,content_download_issue,content_download_issue,0.8847,True,estudiante,portal,val
+fold_2,SYN-2025-000202,Me dice ‘access denied’ cuando descargo un PDF del curso.,content_download_issue,content_download_issue,0.8847,True,estudiante,correo,test
+fold_2,SYN-2025-000217,"Hola, En la unidad 3, el link a video/archivo no funciona. Gracias.",content_broken_link,content_video_playback_issue,0.8807,False,estudiante,chat,train
+fold_2,SYN-2025-000218,Hay un enlace roto en el contenido CONT-09 del curso ING-305.,content_broken_link,content_broken_link,0.892,True,docente,portal,train
+fold_2,SYN-2025-000211,"El recurso enlazado fue removido, ¿pueden actualizarlo?",content_broken_link,content_broken_link,0.8533,True,docente,chat,train
+fold_2,SYN-2025-000221,No puedo ver el video incrustado del módulo. Gracias.,content_video_playback_issue,content_video_playback_issue,0.8679,True,docente,telefono,train
+fold_2,SYN-2025-000228,No puedo ver el video incrustado del módulo. Gracias.,content_video_playback_issue,content_video_playback_issue,0.8679,True,docente,chat,train
+fold_2,SYN-2025-000239,"Hola, Quiero programar un anuncio para mañana, ¿cómo se hace? Gracias.",instructor_create_announcement,instructor_create_announcement,0.8558,True,soporte,correo,train
+fold_2,SYN-2025-000233,No encuentro la herramienta de ‘Anuncios’ en mi curso.,instructor_create_announcement,instructor_create_announcement,0.8655,True,soporte,correo,train
+fold_2,SYN-2025-000244,Necesito aleatorizar preguntas en un quiz.,instructor_create_quiz,instructor_create_quiz,0.8641,True,docente,portal,train
+fold_2,SYN-2025-000248,Quiero que el quiz esté disponible solo en una fecha específica.,instructor_create_quiz,instructor_release_conditions_setup,0.8407,False,docente,chat,train
+fold_2,SYN-2025-000260,"Hola, Quiero que acepte números con decimales en respuesta corta.",instructor_short_answer_question_setup,instructor_short_answer_question_setup,0.8488,True,docente,portal,train
+fold_2,SYN-2025-000253,"Hola, Quiero que acepte números con decimales en respuesta corta.",instructor_short_answer_question_setup,instructor_short_answer_question_setup,0.8488,True,soporte,telefono,val
+fold_2,SYN-2025-000269,"Copié contenido y se rompieron enlaces, ¿qué hago?",instructor_copy_course_content,instructor_copy_course_content,0.8575,True,soporte,portal,train
+fold_2,SYN-2025-000264,¿Cómo importo contenido de un curso anterior a FIN-220?,instructor_copy_course_content,instructor_copy_course_content,0.864,True,soporte,telefono,train
+fold_2,SYN-2025-000272,¿Cómo copio el contenido al curso del siguiente semestre?,instructor_copy_content_to_new_term,instructor_copy_content_to_new_term,0.8877,True,docente,correo,train
+fold_2,SYN-2025-000271,¿Cuál es la mejor práctica para copiar contenidos a un curso nuevo? Gracias.,instructor_copy_content_to_new_term,instructor_copy_content_to_new_term,0.908,True,soporte,chat,train
+fold_2,SYN-2025-000285,"Hola, Necesito aplicar release conditions a una tarea.",instructor_release_conditions_setup,instructor_release_conditions_setup,0.87,True,soporte,portal,train
+fold_2,SYN-2025-000287,¿Cómo hago que un estudiante vea contenido solo si completa otra actividad?,instructor_release_conditions_setup,quiz_reset_attempt,0.8392,False,soporte,correo,train
+fold_2,SYN-2025-000289,¿Cómo doy acceso a estudiantes para ver el reporte Turnitin?,integration_turnitin_enable,integration_turnitin_enable,0.8446,True,docente,chat,train
+fold_2,SYN-2025-000295,"Hola, Necesito que Turnitin no muestre el porcentaje hasta la fecha límite.",integration_turnitin_enable,integration_turnitin_enable,0.8824,True,docente,correo,train
+fold_2,SYN-2025-000305,"Hola, ¿Se puede hacer prueba de cámara/micrófono antes del examen con Smowl?",integration_smowl_setup,integration_smowl_setup,0.8766,True,administrativo,chat,train
+fold_2,SYN-2025-000301,"Smowl no inicia en el examen, ¿cómo se soluciona? Gracias.",integration_smowl_setup,integration_smowl_setup,0.9161,True,soporte,chat,train
+fold_2,SYN-2025-000316,"Necesito crear un master course para el periodo 202610, ¿qué datos debo enviar?",admin_create_master_course,admin_create_master_course,0.8845,True,soporte,correo,train
+fold_2,SYN-2025-000313,¿Cuál es el formato para solicitar creación de master course?,admin_create_master_course,admin_create_master_course,0.8922,True,soporte,portal,train
+fold_2,SYN-2025-000323,¿Cómo asigno un docente al master course MC-ING-001?,admin_assign_instructor_master_course,admin_assign_instructor_master_course,0.8865,True,administrativo,correo,train
+fold_2,SYN-2025-000326,Necesito actualizar la lista de docentes en el master course.,admin_assign_instructor_master_course,admin_assign_instructor_master_course,0.8893,True,soporte,telefono,train
+fold_2,SYN-2025-000337,¿Qué pasos debo seguir para finalizar el gradebook del curso?,admin_grade_submission_closeout,grades_not_visible,0.8535,False,administrativo,correo,val
+fold_2,SYN-2025-000335,"Hola, ¿Hay procedimiento de excepción para cierre de actas fuera de fecha?",admin_grade_submission_closeout,admin_grade_submission_closeout,0.8822,True,docente,portal,train
+fold_2,SYN-2025-000342,"Hola, El quiz no abre por compatibilidad del navegador. Gracias.",tech_browser_compatibility,tech_browser_compatibility,0.9088,True,docente,correo,train
+fold_2,SYN-2025-000344,¿Qué versión mínima de navegador soporta Brightspace?,tech_browser_compatibility,tech_browser_compatibility,0.8888,True,docente,telefono,train
+fold_2,SYN-2025-000345,"Brightspace no funciona bien en mi navegador Safari, ¿cuál recomiendan?",tech_browser_compatibility,tech_browser_compatibility,0.8932,True,docente,correo,val
+fold_2,SYN-2025-000357,¿Hay un paso a paso para limpiar caché en Windows/Mac?,tech_clear_cache_cookies,tech_clear_cache_cookies,0.8674,True,estudiante,correo,train
+fold_2,SYN-2025-000355,¿Cómo hago hard refresh y limpieza de datos del sitio?,tech_clear_cache_cookies,tech_clear_cache_cookies,0.868,True,administrativo,correo,test
+fold_2,SYN-2025-000365,¿Cuál app se usa para Brightspace y cómo se vincula con mi cuenta? Gracias.,tech_mobile_app_setup,auth_login_issue,0.8777,False,docente,correo,train
+fold_2,SYN-2025-000364,¿Cómo cambiar institución/tenant en la app de Brightspace?,tech_mobile_app_setup,tech_mobile_app_setup,0.8883,True,docente,correo,test
+fold_2,SYN-2025-000375,¿Cómo creo un tema nuevo en el foro (docente)?,forum_use_guidance,forum_use_guidance,0.8776,True,docente,correo,train
+fold_2,SYN-2025-000376,¿Cómo creo un tema nuevo en el foro (docente)?,forum_use_guidance,forum_use_guidance,0.8776,True,docente,chat,train
+fold_2,SYN-2025-000380,Quiero que cada grupo tenga su espacio y discusión. Gracias.,groups_create_manage,groups_create_manage,0.84,True,soporte,telefono,train
+fold_2,SYN-2025-000384,"Hola, ¿Puedo hacer grupos automáticos por cantidad?",groups_create_manage,groups_create_manage,0.8667,True,soporte,telefono,train
+fold_2,SYN-2025-000390,"Hola, ¿Se puede ocultar la rúbrica hasta publicar la nota? Gracias.",rubric_create_attach,rubric_create_attach,0.8743,True,soporte,chat,train
+fold_2,SYN-2025-000388,¿Se puede ocultar la rúbrica hasta publicar la nota?,rubric_create_attach,rubric_create_attach,0.8606,True,docente,telefono,train
+fold_2,SYN-2025-000399,"Mi curso está en puntos, ¿cómo lo cambio a ponderado?",weighted_grades_setup,weighted_grades_setup,0.8838,True,docente,correo,test
+fold_2,SYN-2025-000393,"Quiero que tareas valgan 40% y quizzes 60%, ¿cómo lo configuro?",weighted_grades_setup,weighted_grades_setup,0.9051,True,docente,telefono,val
+fold_3,SYN-2025-000007,"No puedo iniciar sesión en Brightspace, me sale “credenciales inválidas”.",auth_login_issue,auth_login_issue,0.9193,True,administrativo,telefono,train
+fold_3,SYN-2025-000008,"Hola, Brightspace no me deja entrar, dice que mi usuario no existe.",auth_login_issue,auth_login_issue,0.8978,True,estudiante,chat,train
+fold_3,SYN-2025-000020,"Hola, ¿Dónde puedo recuperar mi clave institucional para acceder a Brightspace?",auth_password_reset,auth_password_reset,0.8952,True,administrativo,portal,train
+fold_3,SYN-2025-000022,Restablecí la contraseña pero Brightspace sigue sin dejarme entrar.,auth_password_reset,auth_password_reset,0.9034,True,administrativo,correo,train
+fold_3,SYN-2025-000033,Después de varios intentos ya no me deja iniciar sesión.,auth_account_locked,auth_account_locked,0.875,True,estudiante,correo,train
+fold_3,SYN-2025-000026,"Hola, Creo que se bloqueó mi cuenta, ¿pueden habilitarla? Gracias.",auth_account_locked,auth_account_locked,0.893,True,administrativo,chat,train
+fold_3,SYN-2025-000039,El MFA me pide aprobación pero no aparece la notificación.,auth_mfa_issue,auth_mfa_issue,0.868,True,docente,telefono,train
+fold_3,SYN-2025-000046,El MFA me pide aprobación pero no aparece la notificación. Gracias.,auth_mfa_issue,auth_mfa_issue,0.8701,True,administrativo,telefono,train
+fold_3,SYN-2025-000049,"No encuentro mi curso en Brightspace, ¿está oculto o cerrado?",course_not_visible,course_not_visible,0.9124,True,docente,telefono,train
+fold_3,SYN-2025-000060,Me falta un curso en Brightspace para el periodo 202620. Gracias.,course_not_visible,course_not_visible,0.8891,True,estudiante,chat,train
+fold_3,SYN-2025-000067,"Tengo acceso a un curso ajeno, ¿cómo se corrige?",course_wrong_assigned,course_wrong_assigned,0.8707,True,estudiante,correo,train
+fold_3,SYN-2025-000069,Creo que hubo un error de asignación de aula virtual.,course_wrong_assigned,course_wrong_assigned,0.8721,True,docente,telefono,train
+fold_3,SYN-2025-000082,"Hola, ¿Pueden reabrir el curso FIN-220 del periodo 202530?",course_access_previous_term,content_video_playback_issue,0.8511,False,estudiante,chat,train
+fold_3,SYN-2025-000073,¿Pueden reabrir el curso BIO-150 del periodo 202520? Gracias.,course_access_previous_term,course_access_previous_term,0.8443,True,docente,telefono,test
+fold_3,SYN-2025-000093,"Soy docente nuevo, ¿pueden darme acceso al curso ADM-210?",course_manual_enrollment_request,admin_assign_instructor_master_course,0.8473,False,administrativo,chat,test
+fold_3,SYN-2025-000091,"Hola, Por favor agregarme al aula ADM-210, ya pagué la materia. Gracias.",course_manual_enrollment_request,content_broken_link,0.8581,False,administrativo,telefono,train
+fold_3,SYN-2025-000104,"No se registra mi entrega de tarea, aunque dice enviado.",assignment_submit_issue,assignment_submit_issue,0.8794,True,estudiante,telefono,train
+fold_3,SYN-2025-000095,"Hola, No puedo entregar la tarea ENS-02, no aparece el botón de enviar.",assignment_submit_issue,assignment_submit_issue,0.8926,True,estudiante,telefono,train
+fold_3,SYN-2025-000111,"Hola, La plataforma se queda cargando cuando subo el archivo.",assignment_upload_error,assignment_upload_error,0.8731,True,estudiante,chat,train
+fold_3,SYN-2025-000115,Mi archivo pesa 12 MB y no me deja cargarlo en Brightspace.,assignment_upload_error,content_download_issue,0.872,False,estudiante,correo,train
+fold_3,SYN-2025-000129,"Hola, Mi intento del cuestionario QUIZ-02 quedó bloqueado, no me deja continuar.",quiz_attempt_locked,quiz_attempt_locked,0.9037,True,docente,portal,test
+fold_3,SYN-2025-000130,Cambié de navegador y el intento se bloqueó en el cuestionario.,quiz_attempt_locked,quiz_attempt_locked,0.916,True,estudiante,correo,train
+fold_3,SYN-2025-000140,Requiero borrar el intento anterior y permitir que rinda de nuevo.,quiz_reset_attempt,quiz_reset_attempt,0.8515,True,soporte,portal,train
+fold_3,SYN-2025-000133,"Hola, ¿Dónde se restablece un intento bloqueado en ‘Calificar’ del quiz?",quiz_reset_attempt,quiz_reset_attempt,0.8999,True,soporte,chat,train
+fold_3,SYN-2025-000150,"El docente dice que calificó, pero en Brightspace no veo la nota.",grades_not_visible,grades_not_visible,0.8813,True,docente,telefono,train
+fold_3,SYN-2025-000149,"En ‘Calificaciones’ no aparece nada, ¿es configuración?",grades_not_visible,grades_not_visible,0.8769,True,docente,telefono,train
+fold_3,SYN-2025-000161,No sé cómo abrir la retroalimentación desde ‘Evaluaciones’. Gracias.,feedback_view_issue,feedback_view_issue,0.8733,True,docente,chat,train
+fold_3,SYN-2025-000162,No sé cómo abrir la retroalimentación desde ‘Evaluaciones’.,feedback_view_issue,feedback_view_issue,0.8675,True,docente,chat,train
+fold_3,SYN-2025-000172,¿Qué porcentaje vale cada actividad en el curso?,grade_calculation_explain,grade_calculation_explain,0.8331,True,estudiante,portal,train
+fold_3,SYN-2025-000176,¿La nota final es suma o promedio ponderado en Brightspace? Gracias.,grade_calculation_explain,grade_calculation_explain,0.8972,True,estudiante,portal,train
+fold_3,SYN-2025-000186,"Veo la rúbrica, pero el puntaje no refleja los criterios.",grade_rubric_mismatch,grade_rubric_mismatch,0.8804,True,docente,correo,train
+fold_3,SYN-2025-000177,La rúbrica marca 8.5 pero la nota final es diferente.,grade_rubric_mismatch,grade_rubric_mismatch,0.8651,True,estudiante,chat,train
+fold_3,SYN-2025-000193,¿Dónde está la opción de exportar notas en Brightspace? Gracias.,grades_export,grades_export,0.9005,True,soporte,correo,train
+fold_3,SYN-2025-000188,¿Puedo exportar por grupo o por sección las calificaciones?,grades_export,grades_export,0.8794,True,soporte,correo,test
+fold_3,SYN-2025-000207,El botón de descarga no funciona en Brightspace.,content_download_issue,content_download_issue,0.9027,True,estudiante,portal,train
+fold_3,SYN-2025-000200,No puedo abrir ni descargar los archivos del contenido.,content_download_issue,content_download_issue,0.863,True,docente,chat,train
+fold_3,SYN-2025-000212,"El recurso enlazado fue removido, ¿pueden actualizarlo?",content_broken_link,content_broken_link,0.8533,True,estudiante,chat,train
+fold_3,SYN-2025-000213,"El botón ‘Ir a recurso’ no hace nada, parece enlace dañado.",content_broken_link,content_video_playback_issue,0.8726,False,docente,correo,train
+fold_3,SYN-2025-000222,"En móvil el video no abre, ¿hay alternativa?",content_video_playback_issue,content_video_playback_issue,0.8659,True,estudiante,telefono,test
+fold_3,SYN-2025-000225,Me sale pantalla negra al intentar ver el video del curso. Gracias.,content_video_playback_issue,content_video_playback_issue,0.9142,True,docente,chat,train
+fold_3,SYN-2025-000231,"Hola, ¿Cómo agrego un archivo o link en un anuncio?",instructor_create_announcement,instructor_create_announcement,0.876,True,docente,chat,train
+fold_3,SYN-2025-000234,¿Puedo enviar el anuncio por correo desde Brightspace?,instructor_create_announcement,instructor_create_announcement,0.8895,True,soporte,portal,train
+fold_3,SYN-2025-000241,"Hola, ¿Cómo agrego preguntas al cuestionario PARC-02?",instructor_create_quiz,instructor_create_quiz,0.8454,True,soporte,portal,train
+fold_3,SYN-2025-000246,No entiendo la opción de ‘mostrar resultados’ en cuestionarios.,instructor_create_quiz,quiz_reset_attempt,0.8457,False,docente,correo,train
+fold_3,SYN-2025-000256,"Hola, ¿Se puede calificar automáticamente una respuesta corta?",instructor_short_answer_question_setup,instructor_short_answer_question_setup,0.8849,True,soporte,telefono,train
+fold_3,SYN-2025-000257,No encuentro el tipo de pregunta ‘short answer’ al crear preguntas.,instructor_short_answer_question_setup,instructor_short_answer_question_setup,0.8768,True,soporte,chat,train
+fold_3,SYN-2025-000270,"Hola, ¿Se copian foros y grupos al copiar contenido? Gracias.",instructor_copy_course_content,instructor_copy_content_to_new_term,0.855,False,docente,chat,train
+fold_3,SYN-2025-000265,Quiero copiar módulos desde MAT-101 a mi curso nuevo. Gracias.,instructor_copy_course_content,instructor_copy_course_content,0.87,True,docente,correo,train
+fold_3,SYN-2025-000277,"Hola, Copié el curso y ahora hay elementos duplicados, ¿cómo evitarlo?",instructor_copy_content_to_new_term,instructor_copy_content_to_new_term,0.8848,True,soporte,portal,train
+fold_3,SYN-2025-000278,¿Cuál es la mejor práctica para copiar contenidos a un curso nuevo?,instructor_copy_content_to_new_term,instructor_copy_content_to_new_term,0.9025,True,docente,telefono,test
+fold_3,SYN-2025-000281,¿Dónde se revisan las restricciones de disponibilidad? Gracias.,instructor_release_conditions_setup,feedback_view_issue,0.8293,False,docente,chat,train
+fold_3,SYN-2025-000282,¿Cómo hago que un estudiante vea contenido solo si completa otra actividad?,instructor_release_conditions_setup,quiz_reset_attempt,0.8392,False,docente,correo,train
+fold_3,SYN-2025-000293,"El reporte de similitud no se genera, ¿qué debo revisar? Gracias.",integration_turnitin_enable,grade_rubric_mismatch,0.8557,False,docente,correo,train
+fold_3,SYN-2025-000292,¿Cómo doy acceso a estudiantes para ver el reporte Turnitin?,integration_turnitin_enable,integration_turnitin_enable,0.8446,True,soporte,chat,train
+fold_3,SYN-2025-000300,¿Se puede hacer prueba de cámara/micrófono antes del examen con Smowl?,integration_smowl_setup,integration_smowl_setup,0.8685,True,soporte,portal,test
+fold_3,SYN-2025-000302,"Hola, ¿Se puede hacer prueba de cámara/micrófono antes del examen con Smowl? Gracias.",integration_smowl_setup,integration_smowl_setup,0.8741,True,administrativo,telefono,train
+fold_3,SYN-2025-000311,¿Qué plantilla se usa para crear master courses y quién aprueba?,admin_create_master_course,admin_create_master_course,0.8702,True,administrativo,chat,train
+fold_3,SYN-2025-000310,Solicitud: crear master course con ID MC-NEG-014.,admin_create_master_course,admin_create_master_course,0.8605,True,soporte,chat,train
+fold_3,SYN-2025-000325,"Hola, ¿Cómo validar que el docente ya tiene acceso al master course?",admin_assign_instructor_master_course,admin_assign_instructor_master_course,0.9025,True,administrativo,telefono,test
+fold_3,SYN-2025-000327,¿Qué rol debe tener el docente en el master course?,admin_assign_instructor_master_course,admin_assign_instructor_master_course,0.8817,True,administrativo,correo,val
+fold_3,SYN-2025-000332,"Hola, ¿Qué pasos debo seguir para finalizar el gradebook del curso?",admin_grade_submission_closeout,grades_not_visible,0.8599,False,administrativo,telefono,train
+fold_3,SYN-2025-000336,¿Cuáles son las fechas de cierre de actas para el periodo 202530? Gracias.,admin_grade_submission_closeout,admin_grade_submission_closeout,0.858,True,docente,telefono,train
+fold_3,SYN-2025-000341,"Hola, Brightspace no funciona bien en mi navegador Safari, ¿cuál recomiendan?",tech_browser_compatibility,tech_browser_compatibility,0.8986,True,administrativo,correo,train
+fold_3,SYN-2025-000348,El quiz no abre por compatibilidad del navegador.,tech_browser_compatibility,tech_browser_compatibility,0.8844,True,docente,portal,train
+fold_3,SYN-2025-000353,"Hola, Luego de limpiar caché se arregla el login, ¿cómo lo hago?",tech_clear_cache_cookies,tech_clear_cache_cookies,0.881,True,administrativo,chat,train
+fold_3,SYN-2025-000359,"Hola, Me recomendaron borrar caché, ¿me indican los pasos en Chrome? Gracias.",tech_clear_cache_cookies,tech_clear_cache_cookies,0.8697,True,estudiante,telefono,train
+fold_3,SYN-2025-000361,Quiero activar notificaciones en el celular para mis cursos.,tech_mobile_app_setup,tech_mobile_app_setup,0.8565,True,docente,telefono,train
+fold_3,SYN-2025-000367,"Hola, ¿Se puede usar Brightspace en móvil sin app, solo navegador?",tech_mobile_app_setup,tech_mobile_app_setup,0.8717,True,estudiante,correo,train
+fold_3,SYN-2025-000372,"No veo el foro en el menú del curso, ¿está oculto?",forum_use_guidance,forum_use_guidance,0.8877,True,estudiante,portal,train
+fold_3,SYN-2025-000374,¿Cómo suscribirme a un foro para recibir notificaciones?,forum_use_guidance,forum_use_guidance,0.8356,True,estudiante,chat,train
+fold_3,SYN-2025-000378,"Hola, No entiendo la diferencia entre grupos y secciones.",groups_create_manage,groups_create_manage,0.8508,True,docente,telefono,train
+fold_3,SYN-2025-000381,"Hola, ¿Cómo asigno actividades por grupo en Brightspace?",groups_create_manage,course_not_visible,0.8629,False,soporte,telefono,train
+fold_3,SYN-2025-000385,"Necesito una rúbrica analítica con niveles, ¿cómo se configura?",rubric_create_attach,rubric_create_attach,0.8734,True,docente,telefono,test
+fold_3,SYN-2025-000386,Quiero calificar con rúbrica desde la entrega del estudiante.,rubric_create_attach,rubric_create_attach,0.8658,True,soporte,correo,train
+fold_3,SYN-2025-000398,"Hola, ¿Cómo excluir un ítem de la nota final?",weighted_grades_setup,grade_calculation_explain,0.8464,False,soporte,portal,train
+fold_3,SYN-2025-000400,¿Cómo activo categorías ponderadas en Calificaciones del curso DER-200? Gracias.,weighted_grades_setup,weighted_grades_setup,0.868,True,soporte,chat,train
+fold_4,SYN-2025-000001,"Hola, Intento entrar a Brightspace y se queda cargando o me devuelve a la pantalla de login.",auth_login_issue,auth_login_issue,0.9084,True,administrativo,correo,train
+fold_4,SYN-2025-000002,"No me permite ingresar, aparece “access denied” al autenticar. Gracias.",auth_login_issue,auth_account_locked,0.8891,False,administrativo,portal,train
+fold_4,SYN-2025-000016,"Hola, El sistema dice que mi token de recuperación expiró, ¿pueden reenviarlo?",auth_password_reset,auth_password_reset,0.8632,True,administrativo,correo,train
+fold_4,SYN-2025-000023,Me sale “usuario no encontrado” cuando intento recuperar contraseña. Gracias.,auth_password_reset,auth_password_reset,0.8816,True,estudiante,telefono,train
+fold_4,SYN-2025-000030,Después de varios intentos ya no me deja iniciar sesión. Gracias.,auth_account_locked,auth_account_locked,0.8914,True,docente,correo,train
+fold_4,SYN-2025-000032,"Me aparece que el usuario está bloqueado, necesito acceso urgente.",auth_account_locked,auth_account_locked,0.8786,True,estudiante,telefono,train
+fold_4,SYN-2025-000040,Necesito desactivar temporalmente MFA para poder entrar.,auth_mfa_issue,auth_mfa_issue,0.8723,True,administrativo,correo,train
+fold_4,SYN-2025-000042,"Hola, La app autenticadora no genera códigos válidos para el acceso.",auth_mfa_issue,auth_mfa_issue,0.8839,True,administrativo,portal,train
+fold_4,SYN-2025-000050,No tengo acceso al curso del semestre 202530.,course_not_visible,course_not_visible,0.8626,True,estudiante,correo,train
+fold_4,SYN-2025-000055,"No veo la materia FIN-220 en Brightspace, pero sí estoy matriculado.",course_not_visible,course_not_visible,0.8702,True,estudiante,chat,val
+fold_4,SYN-2025-000066,"Tengo acceso a un curso ajeno, ¿cómo se corrige?",course_wrong_assigned,course_wrong_assigned,0.8707,True,estudiante,correo,train
+fold_4,SYN-2025-000072,En Brightspace me aparece una materia que no estoy tomando.,course_wrong_assigned,content_download_issue,0.8754,False,docente,chat,train
+fold_4,SYN-2025-000081,¿Pueden reabrir el curso DER-200 del periodo 202530?,course_access_previous_term,content_video_playback_issue,0.823,False,docente,correo,train
+fold_4,SYN-2025-000076,¿Cómo accedo a mis aulas virtuales de semestres pasados?,course_access_previous_term,course_access_previous_term,0.8746,True,docente,portal,train
+fold_4,SYN-2025-000088,"Hola, Aún no aparezco en el curso PSI-110, ¿pueden matricularme por excepción?",course_manual_enrollment_request,course_manual_enrollment_request,0.8719,True,administrativo,telefono,train
+fold_4,SYN-2025-000084,No se reflejó mi matrícula y necesito acceso al aula BIO-150. Gracias.,course_manual_enrollment_request,course_manual_enrollment_request,0.8547,True,docente,correo,train
+fold_4,SYN-2025-000102,"No se registra mi entrega de tarea, aunque dice enviado.",assignment_submit_issue,assignment_submit_issue,0.8794,True,estudiante,correo,train
+fold_4,SYN-2025-000099,"No puedo entregar la tarea TAR-02, no aparece el botón de enviar. Gracias.",assignment_submit_issue,assignment_submit_issue,0.8931,True,estudiante,telefono,train
+fold_4,SYN-2025-000107,Mi archivo pesa 12 MB y no me deja cargarlo en Brightspace.,assignment_upload_error,content_download_issue,0.872,False,estudiante,chat,train
+fold_4,SYN-2025-000110,"Hola, Me dice ‘archivo corrupto’ al intentar adjuntar la tarea.",assignment_upload_error,assignment_upload_error,0.896,True,estudiante,portal,train
+fold_4,SYN-2025-000121,"Mi intento del cuestionario QUIZ-01 quedó bloqueado, no me deja continuar.",quiz_attempt_locked,quiz_attempt_locked,0.8989,True,docente,correo,val
+fold_4,SYN-2025-000126,Me aparece ‘locked out’ en el intento del quiz EXA-01. Gracias.,quiz_attempt_locked,quiz_attempt_locked,0.8738,True,estudiante,telefono,train
+fold_4,SYN-2025-000136,"Hola, Necesito habilitar un nuevo intento para un estudiante en el cuestionario.",quiz_reset_attempt,quiz_reset_attempt,0.8986,True,docente,telefono,test
+fold_4,SYN-2025-000141,Requiero borrar el intento anterior y permitir que rinda de nuevo. Gracias.,quiz_reset_attempt,quiz_reset_attempt,0.8542,True,soporte,telefono,train
+fold_4,SYN-2025-000145,¿Por qué no se muestran mis calificaciones todavía? Gracias.,grades_not_visible,grades_not_visible,0.8777,True,estudiante,portal,test
+fold_4,SYN-2025-000153,"Mis calificaciones no aparecen, solo veo guiones.",grades_not_visible,grades_not_visible,0.8855,True,docente,telefono,train
+fold_4,SYN-2025-000159,Me notificó feedback pero no sé dónde verlo en la plataforma.,feedback_view_issue,feedback_view_issue,0.8638,True,docente,correo,train
+fold_4,SYN-2025-000158,Me notificó feedback pero no sé dónde verlo en la plataforma.,feedback_view_issue,feedback_view_issue,0.8638,True,docente,correo,val
+fold_4,SYN-2025-000174,Necesito entender el cálculo de mi nota en ‘Calificaciones’.,grade_calculation_explain,grade_calculation_explain,0.8751,True,docente,correo,test
+fold_4,SYN-2025-000168,"Hola, ¿La nota final es suma o promedio ponderado en Brightspace?",grade_calculation_explain,grade_calculation_explain,0.9051,True,estudiante,telefono,train
+fold_4,SYN-2025-000179,"Hola, Veo la rúbrica, pero el puntaje no refleja los criterios.",grade_rubric_mismatch,grade_rubric_mismatch,0.8947,True,docente,correo,train
+fold_4,SYN-2025-000185,Mi calificación no corresponde al feedback de la rúbrica.,grade_rubric_mismatch,grade_rubric_mismatch,0.8637,True,estudiante,chat,train
+fold_4,SYN-2025-000196,¿Puedo exportar por grupo o por sección las calificaciones?,grades_export,grades_export,0.8794,True,soporte,portal,train
+fold_4,SYN-2025-000190,"Hola, ¿Cómo descargo el Gradebook completo?",grades_export,grades_export,0.8639,True,soporte,portal,train
+fold_4,SYN-2025-000198,No puedo abrir ni descargar los archivos del contenido.,content_download_issue,content_download_issue,0.863,True,estudiante,portal,train
+fold_4,SYN-2025-000199,"Hola, No puedo descargar el archivo CONT-03 del curso DER-200. Gracias.",content_download_issue,content_download_issue,0.8765,True,docente,portal,train
+fold_4,SYN-2025-000215,"En la unidad 3, el link a video/archivo no funciona. Gracias.",content_broken_link,content_video_playback_issue,0.8758,False,estudiante,telefono,train
+fold_4,SYN-2025-000219,"El recurso enlazado fue removido, ¿pueden actualizarlo?",content_broken_link,content_broken_link,0.8533,True,estudiante,chat,train
+fold_4,SYN-2025-000227,"El video se corta cada pocos segundos, ¿qué config reviso?",content_video_playback_issue,content_video_playback_issue,0.868,True,docente,correo,val
+fold_4,SYN-2025-000229,"Hola, El reproductor no carga en mi navegador Firefox.",content_video_playback_issue,content_video_playback_issue,0.8556,True,docente,telefono,train
+fold_4,SYN-2025-000240,¿Puedo enviar el anuncio por correo desde Brightspace?,instructor_create_announcement,instructor_create_announcement,0.8895,True,soporte,telefono,test
+fold_4,SYN-2025-000238,"Hola, ¿Cómo agrego un archivo o link en un anuncio?",instructor_create_announcement,instructor_create_announcement,0.876,True,soporte,telefono,val
+fold_4,SYN-2025-000245,¿Cómo publico un cuestionario y lo asocio al gradebook? Gracias.,instructor_create_quiz,instructor_create_quiz,0.8935,True,docente,telefono,train
+fold_4,SYN-2025-000247,Necesito aleatorizar preguntas en un quiz.,instructor_create_quiz,instructor_create_quiz,0.8641,True,docente,portal,train
+fold_4,SYN-2025-000251,¿Cómo creo una pregunta de respuesta corta en el quiz QUIZ-01?,instructor_short_answer_question_setup,instructor_short_answer_question_setup,0.8842,True,docente,telefono,train
+fold_4,SYN-2025-000254,"Quiero que la respuesta acepte varias variantes, ¿se puede? Gracias.",instructor_short_answer_question_setup,instructor_short_answer_question_setup,0.8569,True,soporte,portal,train
+fold_4,SYN-2025-000268,"Hola, ¿Cómo importo contenido de un curso anterior a BIO-150?",instructor_copy_course_content,instructor_copy_course_content,0.8705,True,docente,portal,train
+fold_4,SYN-2025-000267,"Hola, ¿Se copian también las evaluaciones y el gradebook al importar?",instructor_copy_course_content,instructor_copy_course_content,0.8865,True,docente,telefono,val
+fold_4,SYN-2025-000279,Necesito una guía para preparar el curso para el nuevo semestre. Gracias.,instructor_copy_content_to_new_term,instructor_copy_content_to_new_term,0.8646,True,soporte,chat,train
+fold_4,SYN-2025-000280,¿Cómo verificar que todo el contenido quedó bien tras replicar?,instructor_copy_content_to_new_term,instructor_copy_content_to_new_term,0.8395,True,docente,chat,train
+fold_4,SYN-2025-000288,¿Dónde se revisan las restricciones de disponibilidad?,instructor_release_conditions_setup,instructor_release_conditions_setup,0.809,True,docente,chat,train
+fold_4,SYN-2025-000296,"Hola, El reporte de similitud no se genera, ¿qué debo revisar?",integration_turnitin_enable,rubric_create_attach,0.8545,False,soporte,chat,train
+fold_4,SYN-2025-000294,"Hola, ¿Se puede permitir reenvíos y ver Turnitin por cada entrega?",integration_turnitin_enable,integration_turnitin_enable,0.8546,True,docente,chat,train
+fold_4,SYN-2025-000299,"Necesito activar proctoring para una evaluación, ¿qué pasos sigo?",integration_smowl_setup,integration_smowl_setup,0.878,True,administrativo,telefono,train
+fold_4,SYN-2025-000308,"Hola, Necesito activar proctoring para una evaluación, ¿qué pasos sigo?",integration_smowl_setup,integration_smowl_setup,0.8797,True,soporte,telefono,train
+fold_4,SYN-2025-000318,Necesito duplicar un master course y crear uno nuevo.,admin_create_master_course,instructor_copy_content_to_new_term,0.8764,False,soporte,correo,val
+fold_4,SYN-2025-000317,¿Cuánto tiempo toma la creación de un master course? Gracias.,admin_create_master_course,admin_create_master_course,0.8739,True,soporte,telefono,test
+fold_4,SYN-2025-000322,"Hola, Necesito actualizar la lista de docentes en el master course.",admin_assign_instructor_master_course,admin_assign_instructor_master_course,0.8947,True,soporte,telefono,train
+fold_4,SYN-2025-000328,Agregar al profesor DOC-7781 al master course MC-ING-001.,admin_assign_instructor_master_course,admin_assign_instructor_master_course,0.848,True,soporte,chat,train
+fold_4,SYN-2025-000333,"Hola, Proceso para cierre de notas: ¿quién valida y dónde se reporta?",admin_grade_submission_closeout,admin_grade_submission_closeout,0.8748,True,administrativo,portal,train
+fold_4,SYN-2025-000334,"Hola, ¿Qué pasos debo seguir para finalizar el gradebook del curso? Gracias.",admin_grade_submission_closeout,admin_grade_submission_closeout,0.8648,True,administrativo,chat,train
+fold_4,SYN-2025-000346,"Tengo problemas de compatibilidad, ¿pueden indicarme requisitos?",tech_browser_compatibility,tech_browser_compatibility,0.8548,True,estudiante,chat,train
+fold_4,SYN-2025-000347,Me sale un mensaje de navegador no compatible al entrar.,tech_browser_compatibility,tech_browser_compatibility,0.8635,True,administrativo,chat,train
+fold_4,SYN-2025-000356,"Me recomendaron borrar caché, ¿me indican los pasos en Edge?",tech_clear_cache_cookies,tech_clear_cache_cookies,0.8574,True,estudiante,portal,train
+fold_4,SYN-2025-000358,¿Hay un paso a paso para limpiar caché en Windows/Mac?,tech_clear_cache_cookies,tech_clear_cache_cookies,0.8674,True,docente,correo,train
+fold_4,SYN-2025-000363,¿Cómo cambiar institución/tenant en la app de Brightspace?,tech_mobile_app_setup,tech_mobile_app_setup,0.8883,True,docente,chat,val
+fold_4,SYN-2025-000369,"No veo el foro en el menú del curso, ¿está oculto?",forum_use_guidance,forum_use_guidance,0.8877,True,estudiante,portal,test
+fold_4,SYN-2025-000382,Necesito inscribir estudiantes manualmente en grupos.,groups_create_manage,groups_create_manage,0.8614,True,soporte,chat,test
+fold_4,SYN-2025-000392,"Hola, ¿Cómo exporto o copio una rúbrica a otro curso?",rubric_create_attach,rubric_create_attach,0.8767,True,docente,chat,val
+fold_4,SYN-2025-000394,Necesito guía para configurar esquema de calificación ponderada.,weighted_grades_setup,weighted_grades_setup,0.8729,True,docente,telefono,train
+fold_5,SYN-2025-000010,"Hola, No puedo iniciar sesión en Brightspace, me sale “credenciales inválidas”.",auth_login_issue,auth_login_issue,0.9279,True,estudiante,correo,train
+fold_5,SYN-2025-000009,"No puedo acceder a Brightspace desde hoy, ¿está caído el acceso?",auth_login_issue,auth_login_issue,0.8809,True,docente,chat,train
+fold_5,SYN-2025-000015,¿Dónde puedo recuperar mi clave institucional para acceder a Brightspace?,auth_password_reset,auth_password_reset,0.8863,True,estudiante,chat,val
+fold_5,SYN-2025-000024,Restablecí la contraseña pero Brightspace sigue sin dejarme entrar.,auth_password_reset,auth_password_reset,0.9034,True,administrativo,correo,train
+fold_5,SYN-2025-000035,"Creo que se bloqueó mi cuenta, ¿pueden habilitarla? Gracias.",auth_account_locked,auth_account_locked,0.8811,True,docente,portal,test
+fold_5,SYN-2025-000031,"Hola, Creo que se bloqueó mi cuenta, ¿pueden habilitarla?",auth_account_locked,auth_account_locked,0.8872,True,administrativo,portal,train
+fold_5,SYN-2025-000045,El MFA me pide aprobación pero no aparece la notificación.,auth_mfa_issue,auth_mfa_issue,0.868,True,administrativo,telefono,val
+fold_5,SYN-2025-000044,"Hola, La app autenticadora no genera códigos válidos para el acceso.",auth_mfa_issue,auth_mfa_issue,0.8839,True,estudiante,telefono,train
+fold_5,SYN-2025-000051,"Hola, Mis compañeros ya ven el curso DER-200 y yo no.",course_not_visible,content_broken_link,0.8538,False,docente,telefono,train
+fold_5,SYN-2025-000054,"Solo veo algunos cursos, me falta BIO-150.",course_not_visible,course_not_visible,0.8472,True,estudiante,correo,train
+fold_5,SYN-2025-000070,"Me asignaron el curso equivocado, veo PSI-110 pero no es el mío.",course_wrong_assigned,course_wrong_assigned,0.8591,True,estudiante,portal,train
+fold_5,SYN-2025-000063,Creo que hubo un error de asignación de aula virtual.,course_wrong_assigned,course_wrong_assigned,0.8721,True,docente,portal,train
+fold_5,SYN-2025-000078,¿Cómo accedo a mis aulas virtuales de semestres pasados?,course_access_previous_term,course_access_previous_term,0.8746,True,docente,portal,train
+fold_5,SYN-2025-000079,¿Cómo accedo a mis aulas virtuales de semestres pasados?,course_access_previous_term,course_access_previous_term,0.8746,True,docente,chat,train
+fold_5,SYN-2025-000092,Necesito que me agreguen como docente al curso PSI-110.,course_manual_enrollment_request,admin_assign_instructor_master_course,0.8471,False,estudiante,portal,train
+fold_5,SYN-2025-000086,¿Me pueden inscribir manualmente al curso FIN-220?,course_manual_enrollment_request,course_manual_enrollment_request,0.859,True,administrativo,chat,train
+fold_5,SYN-2025-000097,Me dice ‘no autorizado’ al intentar entregar la tarea.,assignment_submit_issue,assignment_submit_issue,0.8846,True,estudiante,correo,train
+fold_5,SYN-2025-000101,"No se registra mi entrega de tarea, aunque dice enviado. Gracias.",assignment_submit_issue,assignment_submit_issue,0.8917,True,estudiante,chat,test
+fold_5,SYN-2025-000118,Se corta la carga del archivo y queda incompleta.,assignment_upload_error,assignment_upload_error,0.8554,True,estudiante,portal,train
+fold_5,SYN-2025-000114,Mi archivo pesa 48 MB y no me deja cargarlo en Brightspace.,assignment_upload_error,content_download_issue,0.8729,False,docente,chat,train
+fold_5,SYN-2025-000122,No puedo entrar al cuestionario porque marca intento en progreso.,quiz_attempt_locked,quiz_attempt_locked,0.875,True,estudiante,portal,train
+fold_5,SYN-2025-000119,Se me cerró el quiz y ahora dice que mi sesión está bloqueada.,quiz_attempt_locked,quiz_attempt_locked,0.8936,True,estudiante,correo,train
+fold_5,SYN-2025-000131,"Hola, ¿Dónde se restablece un intento bloqueado en ‘Calificar’ del quiz? Gracias.",quiz_reset_attempt,quiz_reset_attempt,0.9021,True,docente,telefono,train
+fold_5,SYN-2025-000132,¿Cómo otorgo un intento extra en Brightspace para un cuestionario? Gracias.,quiz_reset_attempt,quiz_reset_attempt,0.9088,True,soporte,portal,train
+fold_5,SYN-2025-000144,"Hola, El docente dice que calificó, pero en Brightspace no veo la nota.",grades_not_visible,grades_not_visible,0.8944,True,docente,portal,train
+fold_5,SYN-2025-000148,Me sale que no hay ítems de calificación visibles.,grades_not_visible,grades_not_visible,0.8869,True,estudiante,chat,train
+fold_5,SYN-2025-000164,¿Dónde se ven los comentarios del cuestionario una vez calificado?,feedback_view_issue,feedback_view_issue,0.8494,True,docente,chat,train
+fold_5,SYN-2025-000157,Me notificó feedback pero no sé dónde verlo en la plataforma.,feedback_view_issue,feedback_view_issue,0.8638,True,docente,portal,train
+fold_5,SYN-2025-000171,¿Se eliminan las notas más bajas o todas cuentan?,grade_calculation_explain,grade_calculation_explain,0.8361,True,estudiante,portal,train
+fold_5,SYN-2025-000170,"Hola, ¿Se eliminan las notas más bajas o todas cuentan?",grade_calculation_explain,grade_calculation_explain,0.8571,True,docente,correo,val
+fold_5,SYN-2025-000184,"Veo la rúbrica, pero el puntaje no refleja los criterios.",grade_rubric_mismatch,grade_rubric_mismatch,0.8804,True,estudiante,chat,val
+fold_5,SYN-2025-000181,Mi nota no coincide con la rúbrica de la tarea PROY-01.,grade_rubric_mismatch,grade_rubric_mismatch,0.831,True,docente,chat,train
+fold_5,SYN-2025-000189,"Hola, Necesito una guía para exportar y luego importar notas.",grades_export,grades_export,0.8593,True,soporte,correo,train
+fold_5,SYN-2025-000194,¿Dónde está la opción de exportar notas en Brightspace? Gracias.,grades_export,grades_export,0.9005,True,docente,chat,train
+fold_5,SYN-2025-000204,"Al descargar, el archivo sale vacío o incompleto. Gracias.",content_download_issue,content_download_issue,0.8707,True,docente,chat,train
+fold_5,SYN-2025-000205,La descarga se queda en 0% y no avanza.,content_download_issue,content_download_issue,0.851,True,docente,correo,train
+fold_5,SYN-2025-000214,"El link de la lectura no abre, sale 404. Gracias.",content_broken_link,content_broken_link,0.8782,True,estudiante,chat,val
+fold_5,SYN-2025-000220,"El botón ‘Ir a recurso’ no hace nada, parece enlace dañado. Gracias.",content_broken_link,content_video_playback_issue,0.8822,False,estudiante,chat,train
+fold_5,SYN-2025-000224,"Hola, No se escucha el audio del video en Brightspace.",content_video_playback_issue,content_video_playback_issue,0.8681,True,estudiante,correo,train
+fold_5,SYN-2025-000230,"Hola, No puedo ver el video incrustado del módulo.",content_video_playback_issue,content_video_playback_issue,0.8703,True,docente,chat,train
+fold_5,SYN-2025-000235,¿Puedo enviar el anuncio por correo desde Brightspace?,instructor_create_announcement,instructor_create_announcement,0.8895,True,docente,telefono,train
+fold_5,SYN-2025-000236,¿Cómo edito o elimino un anuncio ya publicado?,instructor_create_announcement,instructor_create_announcement,0.8611,True,soporte,telefono,train
+fold_5,SYN-2025-000242,¿Cómo publico un cuestionario y lo asocio al gradebook? Gracias.,instructor_create_quiz,instructor_create_quiz,0.8935,True,soporte,portal,val
+fold_5,SYN-2025-000249,"Hola, No entiendo la opción de ‘mostrar resultados’ en cuestionarios.",instructor_create_quiz,quiz_attempt_locked,0.8598,False,soporte,telefono,train
+fold_5,SYN-2025-000259,Necesito configurar tolerancia o sinónimos en respuesta corta.,instructor_short_answer_question_setup,instructor_short_answer_question_setup,0.8646,True,soporte,correo,train
+fold_5,SYN-2025-000255,No encuentro el tipo de pregunta ‘short answer’ al crear preguntas.,instructor_short_answer_question_setup,instructor_short_answer_question_setup,0.8768,True,soporte,portal,train
+fold_5,SYN-2025-000261,¿Cómo importo contenido de un curso anterior a ING-305?,instructor_copy_course_content,instructor_copy_course_content,0.876,True,soporte,correo,train
+fold_5,SYN-2025-000262,¿Se copian también las evaluaciones y el gradebook al importar?,instructor_copy_course_content,instructor_copy_course_content,0.8738,True,docente,portal,train
+fold_5,SYN-2025-000275,"Hola, ¿Cuál es la mejor práctica para copiar contenidos a un curso nuevo?",instructor_copy_content_to_new_term,instructor_copy_content_to_new_term,0.9081,True,soporte,portal,train
+fold_5,SYN-2025-000276,¿Cuándo se recomienda copiar: antes o después de crear evaluaciones?,instructor_copy_content_to_new_term,instructor_copy_content_to_new_term,0.8504,True,soporte,chat,train
+fold_5,SYN-2025-000286,¿Cómo configuro condiciones de liberación para un contenido?,instructor_release_conditions_setup,instructor_release_conditions_setup,0.892,True,docente,chat,train
+fold_5,SYN-2025-000298,¿Cómo configuro exclusiones y el repositorio en Turnitin?,integration_turnitin_enable,integration_turnitin_enable,0.8987,True,soporte,portal,val
+fold_5,SYN-2025-000291,"Hola, Necesito que Turnitin no muestre el porcentaje hasta la fecha límite.",integration_turnitin_enable,integration_turnitin_enable,0.8824,True,soporte,portal,train
+fold_5,SYN-2025-000306,"Hola, Necesito activar proctoring para una evaluación, ¿qué pasos sigo?",integration_smowl_setup,integration_smowl_setup,0.8797,True,administrativo,portal,train
+fold_5,SYN-2025-000307,"Necesito activar proctoring para una evaluación, ¿qué pasos sigo? Gracias.",integration_smowl_setup,integration_smowl_setup,0.8779,True,docente,correo,train
+fold_5,SYN-2025-000314,Necesito duplicar un master course y crear uno nuevo.,admin_create_master_course,instructor_copy_content_to_new_term,0.8764,False,soporte,correo,train
+fold_5,SYN-2025-000315,Requiero un nuevo master course para la escuela Derecho.,admin_create_master_course,admin_create_master_course,0.8661,True,soporte,chat,train
+fold_5,SYN-2025-000319,"Hola, ¿Se puede asignar varios docentes al master course? Gracias.",admin_assign_instructor_master_course,admin_assign_instructor_master_course,0.8981,True,administrativo,telefono,train
+fold_5,SYN-2025-000321,Agregar al profesor DOC-5520 al master course MC-NEG-014.,admin_assign_instructor_master_course,admin_assign_instructor_master_course,0.8576,True,soporte,portal,train
+fold_5,SYN-2025-000338,¿Qué pasa si no cierro actas a tiempo en el semestre?,admin_grade_submission_closeout,admin_grade_submission_closeout,0.8544,True,administrativo,telefono,train
+fold_5,SYN-2025-000331,"Hola, Necesito guía para la entrega final de calificaciones.",admin_grade_submission_closeout,admin_grade_submission_closeout,0.8803,True,administrativo,correo,test
+fold_5,SYN-2025-000343,"Tengo problemas de compatibilidad, ¿pueden indicarme requisitos?",tech_browser_compatibility,tech_browser_compatibility,0.8548,True,administrativo,chat,train
+fold_5,SYN-2025-000340,El quiz no abre por compatibilidad del navegador.,tech_browser_compatibility,tech_browser_compatibility,0.8844,True,administrativo,chat,train
+fold_5,SYN-2025-000360,"Hola, ¿Hay un paso a paso para limpiar caché en Windows/Mac?",tech_clear_cache_cookies,tech_clear_cache_cookies,0.8673,True,estudiante,correo,val
+fold_5,SYN-2025-000354,"Hola, Luego de limpiar caché se arregla el login, ¿cómo lo hago?",tech_clear_cache_cookies,tech_clear_cache_cookies,0.881,True,estudiante,correo,train
+fold_5,SYN-2025-000366,¿Cuál app se usa para Brightspace y cómo se vincula con mi cuenta?,tech_mobile_app_setup,auth_login_issue,0.8665,False,estudiante,chat,train
+fold_5,SYN-2025-000370,"Hola, ¿Dónde veo las calificaciones asociadas a foros?",forum_use_guidance,grades_not_visible,0.8562,False,estudiante,telefono,train
+fold_5,SYN-2025-000379,Necesito exportar la lista de grupos del curso.,groups_create_manage,grades_export,0.8456,False,docente,correo,train
+fold_5,SYN-2025-000387,¿Cómo reutilizo una rúbrica en varios cursos?,rubric_create_attach,rubric_create_attach,0.8742,True,soporte,portal,train
+fold_5,SYN-2025-000396,¿Dónde se define la ponderación de categorías en el gradebook?,weighted_grades_setup,weighted_grades_setup,0.8629,True,soporte,telefono,train

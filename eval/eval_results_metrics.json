@@ -1,0 +1,12 @@
+{
+  "intent_accuracy": 0.875,
+  "n_intent_labeled": 400,
+  "citation_rate": 0.0,
+  "citation_ok_rate": 1.0,
+  "routed_rate": 0.0,
+  "mean_confidence": 0.8611095722019673,
+  "p50_latency_s": 0.11500144004821777,
+  "p95_latency_s": 0.17536879777908326,
+  "recall_at_k": null,
+  "n_recall_labeled": 0
+}

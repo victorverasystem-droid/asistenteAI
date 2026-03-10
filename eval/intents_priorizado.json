@@ -1,0 +1,1249 @@
+{
+  "schema_version": "1.2",
+  "project": "asistente_virtual_brightspace",
+  "language": "es",
+  "categories": [
+    "acceso_autenticacion",
+    "cursos_matriculas",
+    "evaluaciones",
+    "calificaciones",
+    "contenidos",
+    "gestion_docente",
+    "procesos_administrativos",
+    "soporte_tecnico"
+  ],
+  "priorities": [
+    "high",
+    "medium",
+    "low"
+  ],
+  "actors": [
+    "estudiante",
+    "docente",
+    "administrativo",
+    "soporte"
+  ],
+  "intent_catalog": [
+    {
+      "intent_id": "auth_login_issue",
+      "display_name": "Problemas para iniciar sesión",
+      "category": "acceso_autenticacion",
+      "priority": "high",
+      "owner_area": "soporte_ti",
+      "description": "Errores o dificultades para iniciar sesión (SSO, credenciales inválidas, sesión expirada, error de autenticación).",
+      "allowed_actors": [
+        "estudiante",
+        "docente",
+        "administrativo"
+      ],
+      "suggested_kb_sources": [
+        "km_brightspace",
+        "faq_acceso",
+        "procedimiento_sso"
+      ],
+      "slot_schema": [
+        "platform",
+        "error_code"
+      ],
+      "utterances": [
+        "No puedo iniciar sesión en Brightspace",
+        "Me sale “credenciales inválidas” al entrar",
+        "Brightspace no me deja ingresar, error de autenticación",
+        "Al iniciar sesión me devuelve a la pantalla de login",
+        "Se queda cargando cuando intento entrar a Brightspace",
+        "Me aparece “access denied” al autenticar",
+        "Mi usuario no existe / no reconocido al ingresar",
+        "Me saca de la sesión apenas ingreso",
+        "Inicio sesión y aparece una página en blanco",
+        "Error SSO al ingresar a Brightspace",
+        "No puedo acceder desde hoy, ¿está caído el acceso?",
+        "El sistema dice sesión expirada y no me deja entrar",
+        "Buenas, No puedo iniciar sesión en Brightspace",
+        "Buenas, No puedo acceder desde hoy, ¿está caído el acceso? Gracias.",
+        "Por favor, Inicio sesión y aparece una página en blanco Gracias.",
+        "Buenas, Error SSO al ingresar a Brightspace",
+        "Al iniciar sesión me devuelve a la pantalla de login Urgente."
+      ]
+    },
+    {
+      "intent_id": "auth_password_reset",
+      "display_name": "Recuperar o restablecer contraseña",
+      "category": "acceso_autenticacion",
+      "priority": "high",
+      "owner_area": "soporte_ti",
+      "description": "Solicitud de recuperación/restablecimiento de contraseña o problemas con el flujo de reseteo.",
+      "allowed_actors": [
+        "estudiante",
+        "docente",
+        "administrativo"
+      ],
+      "suggested_kb_sources": [
+        "faq_acceso",
+        "procedimiento_recuperacion_clave"
+      ],
+      "slot_schema": [
+        "platform"
+      ],
+      "utterances": [
+        "Olvidé mi contraseña, ¿cómo la restablezco?",
+        "No me llega el correo para recuperar la clave",
+        "El enlace de recuperación expiró, necesito uno nuevo",
+        "No puedo cambiar la contraseña, no acepta la nueva clave",
+        "Me sale error al intentar resetear la contraseña",
+        "Restablecí la contraseña pero sigue sin dejarme entrar",
+        "Dice “usuario no encontrado” al recuperar contraseña",
+        "Necesito recuperar mi clave institucional para Brightspace",
+        "El formulario de recuperación da error",
+        "No puedo restablecer contraseña desde la página",
+        "Buenas, Necesito recuperar mi clave institucional para Brightspace",
+        "Olvidé mi contraseña, ¿cómo la restablezco? Gracias.",
+        "Por favor, No puedo cambiar la contraseña, no acepta la nueva clave",
+        "Por favor, Me sale error al intentar resetear la contraseña",
+        "Restablecí la contraseña pero sigue sin dejarme entrar Gracias."
+      ]
+    },
+    {
+      "intent_id": "auth_account_locked",
+      "display_name": "Usuario bloqueado o cuenta suspendida",
+      "category": "acceso_autenticacion",
+      "priority": "high",
+      "owner_area": "soporte_ti",
+      "description": "Cuenta bloqueada por intentos fallidos, políticas de seguridad o suspensión temporal.",
+      "allowed_actors": [
+        "estudiante",
+        "docente",
+        "administrativo"
+      ],
+      "suggested_kb_sources": [
+        "km_seguridad",
+        "procedimiento_desbloqueo_cuenta"
+      ],
+      "slot_schema": [
+        "platform",
+        "error_code"
+      ],
+      "utterances": [
+        "Mi cuenta se bloqueó por intentos fallidos",
+        "Me aparece “account locked” al iniciar sesión",
+        "No puedo entrar porque mi usuario está bloqueado",
+        "Excedí intentos y quedó suspendida la cuenta",
+        "Necesito desbloquear mi cuenta para rendir evaluación",
+        "¿Cuánto dura el bloqueo de cuenta?",
+        "Después de varios intentos ya no me deja ingresar",
+        "¿Pueden habilitar mi usuario? quedó bloqueado",
+        "Necesito desbloquear mi cuenta para rendir evaluación Urgente.",
+        "Mi cuenta se bloqueó por intentos fallidos Urgente.",
+        "Buenas, ¿Pueden habilitar mi usuario? quedó bloqueado",
+        "Buenas, Me aparece “account locked” al iniciar sesión"
+      ]
+    },
+    {
+      "intent_id": "auth_mfa_issue",
+      "display_name": "Problemas con MFA (doble factor)",
+      "category": "acceso_autenticacion",
+      "priority": "high",
+      "owner_area": "soporte_ti",
+      "description": "Fallas con el segundo factor, códigos, app autenticadora o cambio de dispositivo.",
+      "allowed_actors": [
+        "estudiante",
+        "docente",
+        "administrativo"
+      ],
+      "suggested_kb_sources": [
+        "km_seguridad",
+        "faq_mfa"
+      ],
+      "slot_schema": [
+        "platform",
+        "mfa_method"
+      ],
+      "utterances": [
+        "No me llega el código de verificación (MFA)",
+        "Cambié de celular y ya no puedo autenticar (doble factor)",
+        "La app autenticadora genera códigos inválidos",
+        "Perdí el dispositivo de MFA, ¿cómo registro uno nuevo?",
+        "El MFA se queda en bucle y no avanza",
+        "Mi código MFA sale incorrecto aunque lo copio bien",
+        "No llega la notificación de aprobación del segundo factor",
+        "Necesito desactivar temporalmente MFA para ingresar",
+        "Hola, No me llega el código de verificación (MFA) Urgente.",
+        "Hola, La app autenticadora genera códigos inválidos",
+        "Hola, Necesito desactivar temporalmente MFA para ingresar",
+        "Hola, El MFA se queda en bucle y no avanza Urgente."
+      ]
+    },
+    {
+      "intent_id": "course_not_visible",
+      "display_name": "No veo mi curso en Brightspace",
+      "category": "cursos_matriculas",
+      "priority": "high",
+      "owner_area": "registro_academico",
+      "description": "El usuario no visualiza un curso matriculado/esperado o aparece oculto/no disponible.",
+      "allowed_actors": [
+        "estudiante",
+        "docente"
+      ],
+      "suggested_kb_sources": [
+        "km_matriculas",
+        "faq_cursos",
+        "procedimiento_disponibilidad_curso"
+      ],
+      "slot_schema": [
+        "course_id",
+        "period"
+      ],
+      "utterances": [
+        "No veo mi materia en Brightspace, pero estoy matriculado",
+        "Me falta un curso en Brightspace para este periodo",
+        "Mis compañeros ven el curso y yo no",
+        "No aparece ninguna asignatura en mi Brightspace",
+        "Solo veo algunos cursos, me falta una materia",
+        "No encuentro el aula virtual del semestre actual",
+        "¿El curso está oculto o cerrado? no lo veo",
+        "No tengo acceso al curso que matriculé",
+        "Por favor, Me falta un curso en Brightspace para este periodo Gracias.",
+        "No veo mi materia en Brightspace, pero estoy matriculado Gracias.",
+        "Hola, No aparece ninguna asignatura en mi Brightspace"
+      ]
+    },
+    {
+      "intent_id": "course_wrong_assigned",
+      "display_name": "Curso incorrecto asignado",
+      "category": "cursos_matriculas",
+      "priority": "high",
+      "owner_area": "registro_academico",
+      "description": "El usuario tiene acceso a un curso que no corresponde o le falta el correcto.",
+      "allowed_actors": [
+        "estudiante",
+        "docente"
+      ],
+      "suggested_kb_sources": [
+        "km_matriculas",
+        "procedimiento_correccion_matricula"
+      ],
+      "slot_schema": [
+        "course_id",
+        "period"
+      ],
+      "utterances": [
+        "Me aparece un curso que no estoy tomando",
+        "Me asignaron el curso equivocado en Brightspace",
+        "Estoy en el aula incorrecta, necesito el paralelo correcto",
+        "Tengo acceso a un curso ajeno, ¿cómo se corrige?",
+        "Me falta el curso correcto y me aparece otro distinto",
+        "No coincide el paralelo/sección, aula incorrecta",
+        "Error de asignación de aula virtual",
+        "Me aparece un curso que no estoy tomando Gracias.",
+        "Estoy en el aula incorrecta, necesito el paralelo correcto Gracias.",
+        "Me falta el curso correcto y me aparece otro distinto Gracias.",
+        "Hola, No coincide el paralelo/sección, aula incorrecta"
+      ]
+    },
+    {
+      "intent_id": "course_access_previous_term",
+      "display_name": "Solicitar acceso a cursos de periodos anteriores",
+      "category": "cursos_matriculas",
+      "priority": "medium",
+      "owner_area": "educacion_en_linea",
+      "description": "Solicitud de acceso a aulas/cursos cerrados o de periodos anteriores (consulta de materiales, evidencias).",
+      "allowed_actors": [
+        "estudiante",
+        "docente"
+      ],
+      "suggested_kb_sources": [
+        "politica_retencion_cursos",
+        "procedimiento_reapertura_curso"
+      ],
+      "slot_schema": [
+        "course_id",
+        "period"
+      ],
+      "utterances": [
+        "Necesito acceder a un curso de un semestre anterior",
+        "¿Cómo veo mis aulas virtuales de periodos pasados?",
+        "Quiero descargar materiales de un curso ya cerrado",
+        "No puedo ver cursos antiguos en Brightspace",
+        "¿Pueden reabrir un curso anterior por un tiempo?",
+        "Necesito revisar evidencias de un curso ya finalizado",
+        "Hola, Quiero descargar materiales de un curso ya cerrado Gracias.",
+        "Necesito revisar evidencias de un curso ya finalizado Urgente.",
+        "Buenas, Necesito acceder a un curso de un semestre anterior"
+      ]
+    },
+    {
+      "intent_id": "course_manual_enrollment_request",
+      "display_name": "Inscripción manual a curso",
+      "category": "cursos_matriculas",
+      "priority": "high",
+      "owner_area": "registro_academico",
+      "description": "Solicitud de matrícula manual o alta en aula por excepción/proceso administrativo.",
+      "allowed_actors": [
+        "estudiante",
+        "administrativo",
+        "docente"
+      ],
+      "suggested_kb_sources": [
+        "km_matriculas",
+        "procedimiento_inscripcion_manual"
+      ],
+      "slot_schema": [
+        "course_id",
+        "user_role",
+        "period"
+      ],
+      "utterances": [
+        "¿Me pueden inscribir manualmente a un curso en Brightspace?",
+        "No se refleja mi matrícula, necesito acceso al aula",
+        "Solicito alta manual en el curso del periodo actual",
+        "Aún no aparezco en el curso, ¿pueden matricularme por excepción?",
+        "Necesito que me agreguen como docente/estudiante al curso",
+        "Soy docente nuevo, necesito acceso al curso asignado",
+        "Hola, Necesito que me agreguen como docente/estudiante al curso",
+        "No se refleja mi matrícula, necesito acceso al aula Urgente.",
+        "Hola, Solicito alta manual en el curso del periodo actual Gracias.",
+        "Por favor, ¿Me pueden inscribir manualmente a un curso en Brightspace?"
+      ]
+    },
+    {
+      "intent_id": "assignment_submit_issue",
+      "display_name": "No puedo enviar una tarea",
+      "category": "evaluaciones",
+      "priority": "high",
+      "owner_area": "soporte_ti",
+      "description": "Problemas para enviar/entregar una tarea (botón no habilitado, fecha límite, error de entrega).",
+      "allowed_actors": [
+        "estudiante"
+      ],
+      "suggested_kb_sources": [
+        "faq_tareas",
+        "km_brightspace_evaluaciones"
+      ],
+      "slot_schema": [
+        "course_id",
+        "assignment_id",
+        "error_code"
+      ],
+      "utterances": [
+        "No puedo entregar una tarea, no aparece el botón de enviar",
+        "La entrega de la tarea está cerrada y necesito enviar",
+        "Me sale error al enviar la tarea, queda en procesando",
+        "No se registra mi entrega aunque dice enviado",
+        "Me dice no autorizado al intentar entregar la tarea",
+        "La página se reinicia cuando intento enviar la tarea",
+        "Me sale error al enviar la tarea, queda en procesando Gracias.",
+        "Buenas, Me dice no autorizado al intentar entregar la tarea Urgente.",
+        "No se registra mi entrega aunque dice enviado Urgente.",
+        "La página se reinicia cuando intento enviar la tarea Urgente."
+      ]
+    },
+    {
+      "intent_id": "assignment_upload_error",
+      "display_name": "Error al subir archivo en tarea",
+      "category": "evaluaciones",
+      "priority": "high",
+      "owner_area": "soporte_ti",
+      "description": "Errores de carga de archivos (tamaño, formato, conexión, navegador) en tareas.",
+      "allowed_actors": [
+        "estudiante",
+        "docente"
+      ],
+      "suggested_kb_sources": [
+        "faq_tareas",
+        "faq_navegadores",
+        "km_limites_archivos"
+      ],
+      "slot_schema": [
+        "course_id",
+        "assignment_id",
+        "file_type",
+        "file_size_mb",
+        "browser"
+      ],
+      "utterances": [
+        "Error al subir archivo en la tarea (upload failed)",
+        "Mi archivo es muy pesado y no me deja cargarlo",
+        "No acepta el formato del archivo en la tarea",
+        "Se corta la carga del archivo y queda incompleta",
+        "Con Chrome me falla subir archivos, ¿qué navegador recomiendan?",
+        "Dice archivo corrupto al adjuntar la tarea",
+        "Mi archivo es muy pesado y no me deja cargarlo Urgente.",
+        "Hola, Error al subir archivo en la tarea (upload failed)",
+        "Por favor, Dice archivo corrupto al adjuntar la tarea"
+      ]
+    },
+    {
+      "intent_id": "quiz_attempt_locked",
+      "display_name": "Intento bloqueado en cuestionario",
+      "category": "evaluaciones",
+      "priority": "high",
+      "owner_area": "educacion_en_linea",
+      "description": "Intento queda bloqueado por sesión única, cambio de equipo/navegador, o desconexión.",
+      "allowed_actors": [
+        "estudiante",
+        "docente"
+      ],
+      "suggested_kb_sources": [
+        "km_cuestionarios",
+        "procedimiento_restaurar_sesion",
+        "politica_evaluaciones"
+      ],
+      "slot_schema": [
+        "course_id",
+        "quiz_id",
+        "attempt_id"
+      ],
+      "utterances": [
+        "Mi intento del cuestionario quedó bloqueado",
+        "Se me cerró el quiz y ahora el intento está bloqueado",
+        "Cambié de navegador y el intento se bloqueó en el cuestionario",
+        "Reinicié la PC y el cuestionario quedó bloqueado",
+        "No puedo reingresar al intento, marca en progreso",
+        "Estoy en evaluación y se bloqueó el intento, ayuda",
+        "Mi intento del cuestionario quedó bloqueado Gracias.",
+        "Reinicié la PC y el cuestionario quedó bloqueado Urgente.",
+        "Estoy en evaluación y se bloqueó el intento, ayuda Gracias."
+      ]
+    },
+    {
+      "intent_id": "quiz_reset_attempt",
+      "display_name": "Restablecer intento de evaluación",
+      "category": "evaluaciones",
+      "priority": "high",
+      "owner_area": "educacion_en_linea",
+      "description": "Solicitud/procedimiento para que el docente restablezca intento o habilite nuevo intento.",
+      "allowed_actors": [
+        "docente",
+        "soporte"
+      ],
+      "suggested_kb_sources": [
+        "km_cuestionarios",
+        "procedimiento_restablecer_intento"
+      ],
+      "slot_schema": [
+        "course_id",
+        "quiz_id",
+        "student_id",
+        "attempt_id"
+      ],
+      "utterances": [
+        "¿Cómo restablezco el intento de un estudiante en un quiz?",
+        "Necesito habilitar un nuevo intento en el cuestionario",
+        "¿Dónde se resetea un intento bloqueado en Calificar?",
+        "El estudiante tuvo problemas técnicos, ¿puedo resetear su intento?",
+        "¿Cómo otorgo un intento extra en Brightspace?",
+        "Requiero borrar el intento anterior y permitir que rinda de nuevo",
+        "Buenas, Necesito habilitar un nuevo intento en el cuestionario Urgente.",
+        "¿Dónde se resetea un intento bloqueado en Calificar? Urgente.",
+        "Buenas, El estudiante tuvo problemas técnicos, ¿puedo resetear su intento?",
+        "Hola, ¿Cómo otorgo un intento extra en Brightspace? Urgente.",
+        "Por favor, ¿Cómo restablezco el intento de un estudiante en un quiz?"
+      ]
+    },
+    {
+      "intent_id": "grades_not_visible",
+      "display_name": "No veo mi calificación",
+      "category": "calificaciones",
+      "priority": "high",
+      "owner_area": "educacion_en_linea",
+      "description": "Calificaciones no visibles por configuración, publicación pendiente o restricciones.",
+      "allowed_actors": [
+        "estudiante",
+        "docente"
+      ],
+      "suggested_kb_sources": [
+        "km_calificaciones",
+        "faq_calificaciones"
+      ],
+      "slot_schema": [
+        "course_id",
+        "grade_item"
+      ],
+      "utterances": [
+        "No veo mis calificaciones en el curso",
+        "El docente dice que calificó pero no veo la nota",
+        "En Calificaciones solo veo guiones",
+        "No aparece la nota de la tarea, ¿es configuración?",
+        "No veo el feedback ni la nota en el gradebook",
+        "Me sale que no hay ítems visibles en Calificaciones",
+        "Me sale que no hay ítems visibles en Calificaciones Gracias.",
+        "Hola, No veo el feedback ni la nota en el gradebook",
+        "Hola, No veo mis calificaciones en el curso Gracias."
+      ]
+    },
+    {
+      "intent_id": "feedback_view_issue",
+      "display_name": "Revisar retroalimentación (feedback)",
+      "category": "evaluaciones",
+      "priority": "medium",
+      "owner_area": "educacion_en_linea",
+      "description": "Cómo ver comentarios, rúbricas, anotaciones y retroalimentación en tareas/cuestionarios.",
+      "allowed_actors": [
+        "estudiante",
+        "docente"
+      ],
+      "suggested_kb_sources": [
+        "faq_feedback",
+        "km_rubricas"
+      ],
+      "slot_schema": [
+        "course_id",
+        "assignment_id",
+        "quiz_id"
+      ],
+      "utterances": [
+        "¿Dónde veo la retroalimentación de mi tarea?",
+        "No encuentro los comentarios del docente en Brightspace",
+        "¿Cómo reviso la rúbrica y el feedback de una tarea enviada?",
+        "Me notificó feedback pero no sé dónde verlo",
+        "No aparecen las anotaciones del profesor en mi entrega",
+        "Buenas, ¿Cómo reviso la rúbrica y el feedback de una tarea enviada?",
+        "Me notificó feedback pero no sé dónde verlo Gracias.",
+        "No encuentro los comentarios del docente en Brightspace Gracias."
+      ]
+    },
+    {
+      "intent_id": "grade_calculation_explain",
+      "display_name": "Cómo se calcula mi nota final",
+      "category": "calificaciones",
+      "priority": "high",
+      "owner_area": "educacion_en_linea",
+      "description": "Explicación del cálculo de nota final (ponderaciones, categorías, ítems excluidos).",
+      "allowed_actors": [
+        "estudiante",
+        "docente"
+      ],
+      "suggested_kb_sources": [
+        "km_calificaciones",
+        "faq_ponderaciones"
+      ],
+      "slot_schema": [
+        "course_id"
+      ],
+      "utterances": [
+        "¿Cómo se calcula la nota final del curso?",
+        "No entiendo las ponderaciones, ¿cómo se saca mi promedio?",
+        "¿La nota final es promedio ponderado en Brightspace?",
+        "¿Qué porcentaje vale cada actividad?",
+        "¿Por qué mi nota final bajó si tengo buenas tareas?",
+        "Hola, ¿La nota final es promedio ponderado en Brightspace?",
+        "Por favor, ¿Por qué mi nota final bajó si tengo buenas tareas?"
+      ]
+    },
+    {
+      "intent_id": "grade_rubric_mismatch",
+      "display_name": "Nota no coincide con rúbrica",
+      "category": "calificaciones",
+      "priority": "medium",
+      "owner_area": "educacion_en_linea",
+      "description": "Diferencias percibidas entre la rúbrica y la calificación registrada (revisión/criterios).",
+      "allowed_actors": [
+        "estudiante",
+        "docente"
+      ],
+      "suggested_kb_sources": [
+        "km_rubricas",
+        "procedimiento_revision_notas"
+      ],
+      "slot_schema": [
+        "course_id",
+        "assignment_id",
+        "rubric_id"
+      ],
+      "utterances": [
+        "Mi nota no coincide con la rúbrica",
+        "Según la rúbrica debería tener más puntos",
+        "La suma de criterios de la rúbrica no cuadra con la calificación",
+        "Veo la rúbrica pero el puntaje no refleja los criterios",
+        "Discrepancia entre rúbrica y nota final",
+        "Hola, Según la rúbrica debería tener más puntos Gracias.",
+        "Por favor, Mi nota no coincide con la rúbrica",
+        "Buenas, Discrepancia entre rúbrica y nota final Urgente."
+      ]
+    },
+    {
+      "intent_id": "grades_export",
+      "display_name": "Exportar calificaciones",
+      "category": "calificaciones",
+      "priority": "medium",
+      "owner_area": "educacion_en_linea",
+      "description": "Cómo exportar calificaciones desde el libro de calificaciones (CSV/Excel) y opciones.",
+      "allowed_actors": [
+        "docente",
+        "soporte"
+      ],
+      "suggested_kb_sources": [
+        "km_calificaciones",
+        "manual_docente"
+      ],
+      "slot_schema": [
+        "course_id"
+      ],
+      "utterances": [
+        "¿Cómo exporto las calificaciones a Excel/CSV?",
+        "Necesito descargar el libro de calificaciones en CSV",
+        "¿Dónde está la opción de exportar notas en Brightspace?",
+        "Quiero exportar el gradebook completo",
+        "Al exportar salen columnas de más, ¿cómo ajusto?",
+        "Buenas, ¿Dónde está la opción de exportar notas en Brightspace? Urgente.",
+        "Buenas, Quiero exportar el gradebook completo",
+        "Buenas, ¿Cómo exporto las calificaciones a Excel/CSV?"
+      ]
+    },
+    {
+      "intent_id": "content_download_issue",
+      "display_name": "No puedo descargar material",
+      "category": "contenidos",
+      "priority": "high",
+      "owner_area": "soporte_ti",
+      "description": "Problemas al descargar archivos del curso (permisos, navegador, dispositivo, bloqueo).",
+      "allowed_actors": [
+        "estudiante",
+        "docente"
+      ],
+      "suggested_kb_sources": [
+        "faq_contenidos",
+        "faq_navegadores"
+      ],
+      "slot_schema": [
+        "course_id",
+        "content_id",
+        "browser",
+        "device"
+      ],
+      "utterances": [
+        "No puedo descargar un archivo del contenido",
+        "El botón de descarga no funciona en Brightspace",
+        "Me dice access denied al descargar un PDF",
+        "La descarga se queda en 0% y no avanza",
+        "El archivo descargado sale vacío o incompleto",
+        "No puedo descargar un archivo del contenido Urgente.",
+        "Buenas, El botón de descarga no funciona en Brightspace",
+        "Buenas, Me dice access denied al descargar un PDF",
+        "El archivo descargado sale vacío o incompleto Urgente."
+      ]
+    },
+    {
+      "intent_id": "content_broken_link",
+      "display_name": "Enlace roto en contenido",
+      "category": "contenidos",
+      "priority": "high",
+      "owner_area": "educacion_en_linea",
+      "description": "Links internos/externos no funcionan dentro del contenido del curso.",
+      "allowed_actors": [
+        "estudiante",
+        "docente"
+      ],
+      "suggested_kb_sources": [
+        "km_contenidos",
+        "procedimiento_actualizar_enlaces"
+      ],
+      "slot_schema": [
+        "course_id",
+        "content_id",
+        "url"
+      ],
+      "utterances": [
+        "Hay un enlace roto en el contenido, sale 404",
+        "El link de la lectura no abre",
+        "El enlace a la actividad externa está caído",
+        "Un link del módulo redirige a página inexistente",
+        "El enlace pide permisos que no tengo",
+        "Buenas, Un link del módulo redirige a página inexistente",
+        "Por favor, El link de la lectura no abre Urgente.",
+        "Por favor, El enlace pide permisos que no tengo Gracias.",
+        "Buenas, El enlace a la actividad externa está caído"
+      ]
+    },
+    {
+      "intent_id": "content_video_playback_issue",
+      "display_name": "Video no reproduce",
+      "category": "contenidos",
+      "priority": "medium",
+      "owner_area": "soporte_ti",
+      "description": "Problemas de reproducción (buffer, permisos, navegador, bloqueo de terceros).",
+      "allowed_actors": [
+        "estudiante",
+        "docente"
+      ],
+      "suggested_kb_sources": [
+        "faq_contenidos",
+        "faq_multimedia"
+      ],
+      "slot_schema": [
+        "course_id",
+        "content_id",
+        "browser",
+        "device"
+      ],
+      "utterances": [
+        "El video del curso no reproduce, se queda cargando",
+        "Me sale pantalla negra al intentar ver el video",
+        "El video se corta a cada rato",
+        "No se escucha el audio del video",
+        "En móvil el video no abre, ¿hay alternativa?",
+        "Hola, Me sale pantalla negra al intentar ver el video Urgente.",
+        "Hola, En móvil el video no abre, ¿hay alternativa? Gracias.",
+        "Hola, No se escucha el audio del video Gracias."
+      ]
+    },
+    {
+      "intent_id": "instructor_create_announcement",
+      "display_name": "Crear anuncio en Brightspace",
+      "category": "gestion_docente",
+      "priority": "medium",
+      "owner_area": "educacion_en_linea",
+      "description": "Guía para crear/publicar anuncios, programarlos y enviarlos a email si aplica.",
+      "allowed_actors": [
+        "docente",
+        "soporte"
+      ],
+      "suggested_kb_sources": [
+        "manual_docente",
+        "km_anuncios"
+      ],
+      "slot_schema": [
+        "course_id"
+      ],
+      "utterances": [
+        "¿Cómo creo un anuncio en mi curso?",
+        "Quiero programar un anuncio, ¿cómo se hace?",
+        "No encuentro la herramienta de Anuncios",
+        "¿Cómo edito o elimino un anuncio publicado?",
+        "¿Puedo adjuntar un archivo o link en un anuncio?",
+        "Hola, ¿Cómo creo un anuncio en mi curso? Gracias.",
+        "Buenas, ¿Puedo adjuntar un archivo o link en un anuncio?"
+      ]
+    },
+    {
+      "intent_id": "instructor_create_quiz",
+      "display_name": "Configurar cuestionario",
+      "category": "gestion_docente",
+      "priority": "medium",
+      "owner_area": "educacion_en_linea",
+      "description": "Crear y configurar cuestionarios (tiempos, intentos, disponibilidad, seguridad).",
+      "allowed_actors": [
+        "docente",
+        "soporte"
+      ],
+      "suggested_kb_sources": [
+        "km_cuestionarios",
+        "manual_docente"
+      ],
+      "slot_schema": [
+        "course_id",
+        "quiz_id"
+      ],
+      "utterances": [
+        "Necesito crear un cuestionario, ¿por dónde empiezo?",
+        "¿Cómo configuro tiempo límite e intentos del quiz?",
+        "¿Cómo agrego preguntas a un cuestionario?",
+        "Quiero aleatorizar preguntas en un quiz",
+        "¿Cómo asocio el quiz al gradebook?",
+        "Buenas, ¿Cómo configuro tiempo límite e intentos del quiz? Urgente.",
+        "Buenas, ¿Cómo agrego preguntas a un cuestionario?",
+        "Hola, ¿Cómo asocio el quiz al gradebook?",
+        "Buenas, Quiero aleatorizar preguntas en un quiz Gracias.",
+        "Hola, Necesito crear un cuestionario, ¿por dónde empiezo?"
+      ]
+    },
+    {
+      "intent_id": "instructor_short_answer_question_setup",
+      "display_name": "Configurar pregunta de respuesta corta",
+      "category": "gestion_docente",
+      "priority": "medium",
+      "owner_area": "educacion_en_linea",
+      "description": "Cómo crear preguntas de respuesta corta y criterios de evaluación.",
+      "allowed_actors": [
+        "docente",
+        "soporte"
+      ],
+      "suggested_kb_sources": [
+        "km_cuestionarios",
+        "manual_preguntas"
+      ],
+      "slot_schema": [
+        "course_id",
+        "quiz_id"
+      ],
+      "utterances": [
+        "¿Cómo creo una pregunta de respuesta corta en un quiz?",
+        "Quiero aceptar varias variantes de respuesta, ¿se puede?",
+        "¿Cómo manejar mayúsculas/minúsculas en respuesta corta?",
+        "¿Se puede calificar automáticamente una respuesta corta?",
+        "No encuentro el tipo de pregunta Short Answer",
+        "Por favor, Quiero aceptar varias variantes de respuesta, ¿se puede?",
+        "Por favor, ¿Se puede calificar automáticamente una respuesta corta?"
+      ]
+    },
+    {
+      "intent_id": "instructor_copy_course_content",
+      "display_name": "Importar o copiar curso anterior",
+      "category": "gestion_docente",
+      "priority": "medium",
+      "owner_area": "educacion_en_linea",
+      "description": "Copiar contenido de un curso a otro (componentes, selección, buenas prácticas).",
+      "allowed_actors": [
+        "docente",
+        "soporte"
+      ],
+      "suggested_kb_sources": [
+        "km_copiar_contenido",
+        "manual_docente"
+      ],
+      "slot_schema": [
+        "source_course_id",
+        "target_course_id",
+        "period"
+      ],
+      "utterances": [
+        "¿Cómo importo contenido de un curso anterior a mi curso nuevo?",
+        "Quiero copiar módulos desde un curso pasado",
+        "¿Se copian evaluaciones y gradebook al importar?",
+        "¿Cómo selecciono solo algunos componentes al copiar?",
+        "Copié contenido y se rompieron enlaces, ¿qué hago?",
+        "Hola, Copié contenido y se rompieron enlaces, ¿qué hago? Urgente.",
+        "¿Cómo selecciono solo algunos componentes al copiar? Gracias.",
+        "¿Cómo importo contenido de un curso anterior a mi curso nuevo? Urgente."
+      ]
+    },
+    {
+      "intent_id": "instructor_copy_content_to_new_term",
+      "display_name": "Copiar contenido a nuevo período",
+      "category": "gestion_docente",
+      "priority": "medium",
+      "owner_area": "educacion_en_linea",
+      "description": "Proceso recomendado para replicar/actualizar contenidos para el siguiente semestre.",
+      "allowed_actors": [
+        "docente",
+        "soporte"
+      ],
+      "suggested_kb_sources": [
+        "km_master_courses",
+        "procedimiento_replica_semestre"
+      ],
+      "slot_schema": [
+        "source_course_id",
+        "target_course_id",
+        "period"
+      ],
+      "utterances": [
+        "Necesito replicar el master course al nuevo periodo",
+        "¿Cómo copio el contenido al curso del siguiente semestre?",
+        "Quiero actualizar el contenido antes de replicar",
+        "¿Cuál es la mejor práctica para copiar contenidos al nuevo curso?",
+        "Copié el curso y se duplicaron elementos, ¿cómo evitarlo?",
+        "Hola, Necesito replicar el master course al nuevo periodo",
+        "Por favor, ¿Cuál es la mejor práctica para copiar contenidos al nuevo curso?",
+        "Quiero actualizar el contenido antes de replicar Urgente.",
+        "Hola, ¿Cómo copio el contenido al curso del siguiente semestre? Urgente."
+      ]
+    },
+    {
+      "intent_id": "instructor_release_conditions_setup",
+      "display_name": "Configurar restricciones de acceso (release conditions)",
+      "category": "gestion_docente",
+      "priority": "low",
+      "owner_area": "educacion_en_linea",
+      "description": "Configurar condiciones de liberación, requisitos y fechas de disponibilidad.",
+      "allowed_actors": [
+        "docente",
+        "soporte"
+      ],
+      "suggested_kb_sources": [
+        "km_release_conditions",
+        "manual_docente"
+      ],
+      "slot_schema": [
+        "course_id"
+      ],
+      "utterances": [
+        "¿Cómo configuro condiciones de liberación (release conditions)?",
+        "Quiero que un módulo se abra solo si aprueban un quiz",
+        "¿Cómo restringo una actividad hasta cierta fecha?",
+        "No entiendo por qué el contenido sigue oculto aunque cumplí la condición",
+        "¿Puedo combinar varias condiciones de liberación?",
+        "Buenas, ¿Cómo configuro condiciones de liberación (release conditions)?",
+        "Por favor, ¿Puedo combinar varias condiciones de liberación? Urgente.",
+        "¿Cómo restringo una actividad hasta cierta fecha? Urgente.",
+        "Quiero que un módulo se abra solo si aprueban un quiz Urgente."
+      ]
+    },
+    {
+      "intent_id": "integration_turnitin_enable",
+      "display_name": "Activar Turnitin en tareas",
+      "category": "gestion_docente",
+      "priority": "medium",
+      "owner_area": "educacion_en_linea",
+      "description": "Configurar Turnitin/antiplagio para tareas, reportes y retroalimentación.",
+      "allowed_actors": [
+        "docente",
+        "soporte"
+      ],
+      "suggested_kb_sources": [
+        "km_turnitin",
+        "manual_turnitin"
+      ],
+      "slot_schema": [
+        "course_id",
+        "assignment_id"
+      ],
+      "utterances": [
+        "¿Cómo activo Turnitin en una tarea?",
+        "No aparece la opción de Turnitin al crear la tarea",
+        "El reporte de similitud no se genera, ¿qué reviso?",
+        "¿Cómo configuro exclusiones o repositorio en Turnitin?",
+        "Quiero ocultar el porcentaje hasta la fecha límite",
+        "El reporte de similitud no se genera, ¿qué reviso? Urgente.",
+        "¿Cómo activo Turnitin en una tarea? Gracias.",
+        "No aparece la opción de Turnitin al crear la tarea Gracias.",
+        "Hola, ¿Cómo configuro exclusiones o repositorio en Turnitin? Urgente.",
+        "Hola, Quiero ocultar el porcentaje hasta la fecha límite Urgente."
+      ]
+    },
+    {
+      "intent_id": "integration_smowl_setup",
+      "display_name": "Configurar Smowl (proctoring) en evaluaciones",
+      "category": "gestion_docente",
+      "priority": "medium",
+      "owner_area": "educacion_en_linea",
+      "description": "Activación/configuración de proctoring (Smowl) y requisitos para estudiantes.",
+      "allowed_actors": [
+        "docente",
+        "soporte",
+        "administrativo"
+      ],
+      "suggested_kb_sources": [
+        "km_smowl",
+        "faq_smowl",
+        "politica_evaluaciones"
+      ],
+      "slot_schema": [
+        "course_id",
+        "quiz_id"
+      ],
+      "utterances": [
+        "¿Cómo configuro Smowl para un quiz?",
+        "Necesito activar proctoring para una evaluación",
+        "Smowl no inicia en el examen, ¿cómo se soluciona?",
+        "¿Qué requisitos técnicos deben cumplir para Smowl?",
+        "¿Dónde reviso incidencias de Smowl durante el examen?",
+        "Buenas, ¿Cómo configuro Smowl para un quiz?",
+        "Por favor, Necesito activar proctoring para una evaluación Gracias.",
+        "Por favor, Smowl no inicia en el examen, ¿cómo se soluciona?"
+      ]
+    },
+    {
+      "intent_id": "admin_create_master_course",
+      "display_name": "Crear master course",
+      "category": "procesos_administrativos",
+      "priority": "medium",
+      "owner_area": "educacion_en_linea",
+      "description": "Solicitud/proceso para creación de master course y parámetros requeridos.",
+      "allowed_actors": [
+        "administrativo",
+        "soporte"
+      ],
+      "suggested_kb_sources": [
+        "km_master_courses",
+        "procedimiento_creacion_master_course"
+      ],
+      "slot_schema": [
+        "master_course_id",
+        "school",
+        "period"
+      ],
+      "utterances": [
+        "Necesito crear un master course, ¿qué datos debo enviar?",
+        "¿Cuál es el formato para solicitar creación de master course?",
+        "Requiero un nuevo master course para mi escuela",
+        "¿Qué plantilla se usa para crear master courses?",
+        "¿Cuánto tiempo toma crear un master course?",
+        "Por favor, Necesito crear un master course, ¿qué datos debo enviar?",
+        "¿Cuánto tiempo toma crear un master course? Urgente.",
+        "Por favor, Requiero un nuevo master course para mi escuela"
+      ]
+    },
+    {
+      "intent_id": "admin_assign_instructor_master_course",
+      "display_name": "Asignar docente a master course",
+      "category": "procesos_administrativos",
+      "priority": "medium",
+      "owner_area": "educacion_en_linea",
+      "description": "Gestión de asignación/remoción de docentes en master courses y controles de acceso.",
+      "allowed_actors": [
+        "administrativo",
+        "soporte"
+      ],
+      "suggested_kb_sources": [
+        "km_master_courses",
+        "procedimiento_asignacion_docentes"
+      ],
+      "slot_schema": [
+        "master_course_id",
+        "instructor_id",
+        "action"
+      ],
+      "utterances": [
+        "Necesito agregar un docente al master course",
+        "¿Cómo remover un docente del master course?",
+        "Actualizar lista de docentes en un master course",
+        "¿Qué rol debe tener el docente en el master course?",
+        "¿Cómo validar que el docente ya tiene acceso al master course?",
+        "Por favor, ¿Cómo validar que el docente ya tiene acceso al master course?",
+        "¿Qué rol debe tener el docente en el master course? Urgente.",
+        "Hola, Actualizar lista de docentes en un master course",
+        "Buenas, ¿Cómo remover un docente del master course?"
+      ]
+    },
+    {
+      "intent_id": "admin_grade_submission_closeout",
+      "display_name": "Cierre de actas / entrega de calificaciones",
+      "category": "procesos_administrativos",
+      "priority": "medium",
+      "owner_area": "registro_academico",
+      "description": "Proceso, fechas y consideraciones para cierre de actas o envío final de notas.",
+      "allowed_actors": [
+        "docente",
+        "administrativo"
+      ],
+      "suggested_kb_sources": [
+        "km_procesos_academicos",
+        "calendario_academico"
+      ],
+      "slot_schema": [
+        "period"
+      ],
+      "utterances": [
+        "¿Cuáles son las fechas de cierre de actas?",
+        "Necesito guía para entrega final de calificaciones",
+        "¿Qué pasa si no cierro actas a tiempo?",
+        "Proceso de cierre de notas, ¿quién valida?",
+        "¿Hay procedimiento de excepción fuera de fecha?",
+        "Buenas, Necesito guía para entrega final de calificaciones Urgente.",
+        "Por favor, ¿Hay procedimiento de excepción fuera de fecha?",
+        "Por favor, ¿Cuáles son las fechas de cierre de actas?"
+      ]
+    },
+    {
+      "intent_id": "tech_browser_compatibility",
+      "display_name": "Error por navegador no compatible",
+      "category": "soporte_tecnico",
+      "priority": "high",
+      "owner_area": "soporte_ti",
+      "description": "Recomendaciones de navegadores soportados, versiones y configuraciones.",
+      "allowed_actors": [
+        "estudiante",
+        "docente",
+        "administrativo"
+      ],
+      "suggested_kb_sources": [
+        "faq_navegadores",
+        "km_requisitos_tecnicos"
+      ],
+      "slot_schema": [
+        "browser",
+        "browser_version",
+        "os"
+      ],
+      "utterances": [
+        "Brightspace no funciona bien en mi navegador, ¿cuál recomiendan?",
+        "Me sale mensaje de navegador no compatible",
+        "En el navegador se ve la página en blanco o botones cortados",
+        "El quiz no abre por compatibilidad del navegador",
+        "¿Qué versión mínima de navegador soporta Brightspace?",
+        "Buenas, Brightspace no funciona bien en mi navegador, ¿cuál recomiendan?",
+        "Me sale mensaje de navegador no compatible Urgente.",
+        "Buenas, ¿Qué versión mínima de navegador soporta Brightspace? Gracias.",
+        "En el navegador se ve la página en blanco o botones cortados Urgente."
+      ]
+    },
+    {
+      "intent_id": "tech_clear_cache_cookies",
+      "display_name": "Limpiar caché/cookies (paso recomendado)",
+      "category": "soporte_tecnico",
+      "priority": "medium",
+      "owner_area": "soporte_ti",
+      "description": "Guía para limpiar caché/cookies y solucionar problemas comunes de sesión o carga.",
+      "allowed_actors": [
+        "estudiante",
+        "docente",
+        "administrativo"
+      ],
+      "suggested_kb_sources": [
+        "faq_navegadores",
+        "km_troubleshooting"
+      ],
+      "slot_schema": [
+        "browser",
+        "os"
+      ],
+      "utterances": [
+        "¿Cómo limpio caché y cookies para que Brightspace cargue bien?",
+        "Me recomendaron borrar caché, ¿me indican los pasos?",
+        "La plataforma se queda en blanco, ¿sirve limpiar cookies?",
+        "¿Cómo hago hard refresh y limpieza de datos del sitio?",
+        "Quiero borrar cookies solo de Brightspace",
+        "Por favor, La plataforma se queda en blanco, ¿sirve limpiar cookies? Urgente.",
+        "Buenas, Quiero borrar cookies solo de Brightspace"
+      ]
+    },
+    {
+      "intent_id": "tech_mobile_app_setup",
+      "display_name": "Configuración de app móvil Brightspace",
+      "category": "soporte_tecnico",
+      "priority": "low",
+      "owner_area": "soporte_ti",
+      "description": "Instalación y configuración básica de la app móvil, notificaciones y acceso.",
+      "allowed_actors": [
+        "estudiante",
+        "docente"
+      ],
+      "suggested_kb_sources": [
+        "faq_movil",
+        "km_requisitos_tecnicos"
+      ],
+      "slot_schema": [
+        "device",
+        "os"
+      ],
+      "utterances": [
+        "¿Cómo configuro la app móvil de Brightspace?",
+        "No puedo iniciar sesión en Brightspace Pulse",
+        "Quiero activar notificaciones en el celular",
+        "La app no muestra mis cursos, ¿qué reviso?",
+        "¿Cómo cambiar institución/tenant en la app?",
+        "Por favor, No puedo iniciar sesión en Brightspace Pulse Gracias.",
+        "¿Cómo configuro la app móvil de Brightspace? Gracias."
+      ]
+    },
+    {
+      "intent_id": "forum_use_guidance",
+      "display_name": "Uso de foros (participación y configuración)",
+      "category": "gestion_docente",
+      "priority": "low",
+      "owner_area": "educacion_en_linea",
+      "description": "Cómo participar en foros y, para docentes, cómo configurar foros y temas.",
+      "allowed_actors": [
+        "estudiante",
+        "docente"
+      ],
+      "suggested_kb_sources": [
+        "km_foros",
+        "manual_docente"
+      ],
+      "slot_schema": [
+        "course_id",
+        "forum_id"
+      ],
+      "utterances": [
+        "¿Cómo participo en el foro del curso?",
+        "No puedo responder en un tema del foro",
+        "¿Cómo creo un tema nuevo en el foro?",
+        "¿Se puede adjuntar un archivo en el foro?",
+        "No veo el foro en el menú del curso, ¿está oculto?",
+        "¿Se puede adjuntar un archivo en el foro? Gracias.",
+        "Hola, No veo el foro en el menú del curso, ¿está oculto?",
+        "¿Cómo creo un tema nuevo en el foro? Urgente."
+      ]
+    },
+    {
+      "intent_id": "groups_create_manage",
+      "display_name": "Crear o gestionar grupos de trabajo",
+      "category": "gestion_docente",
+      "priority": "low",
+      "owner_area": "educacion_en_linea",
+      "description": "Creación de grupos, inscripción automática/manual, y espacios de grupo.",
+      "allowed_actors": [
+        "docente",
+        "soporte"
+      ],
+      "suggested_kb_sources": [
+        "km_grupos",
+        "manual_docente"
+      ],
+      "slot_schema": [
+        "course_id",
+        "group_category_id"
+      ],
+      "utterances": [
+        "¿Cómo creo grupos de trabajo en el curso?",
+        "Necesito asignar estudiantes a grupos manualmente",
+        "¿Puedo crear grupos automáticos por cantidad?",
+        "¿Cómo edito una categoría de grupos ya creada?",
+        "No entiendo la diferencia entre grupos y secciones",
+        "¿Cómo creo grupos de trabajo en el curso? Gracias.",
+        "Buenas, Necesito asignar estudiantes a grupos manualmente Gracias."
+      ]
+    },
+    {
+      "intent_id": "rubric_create_attach",
+      "display_name": "Configurar rúbrica (crear, asociar, evaluar)",
+      "category": "gestion_docente",
+      "priority": "low",
+      "owner_area": "educacion_en_linea",
+      "description": "Crear rúbricas, asociarlas a tareas y calificar con criterios.",
+      "allowed_actors": [
+        "docente",
+        "soporte"
+      ],
+      "suggested_kb_sources": [
+        "km_rubricas",
+        "manual_docente"
+      ],
+      "slot_schema": [
+        "course_id",
+        "rubric_id",
+        "assignment_id"
+      ],
+      "utterances": [
+        "¿Cómo creo una rúbrica y la asocio a una tarea?",
+        "¿Cómo reutilizo una rúbrica en varios cursos?",
+        "La rúbrica no aparece al calificar, ¿qué reviso?",
+        "¿Se puede ocultar la rúbrica hasta publicar la nota?",
+        "Necesito ajustar puntajes de la rúbrica",
+        "Buenas, Necesito ajustar puntajes de la rúbrica",
+        "Hola, ¿Se puede ocultar la rúbrica hasta publicar la nota?",
+        "¿Cómo creo una rúbrica y la asocio a una tarea? Urgente.",
+        "¿Cómo reutilizo una rúbrica en varios cursos? Urgente.",
+        "Hola, La rúbrica no aparece al calificar, ¿qué reviso? Urgente."
+      ]
+    },
+    {
+      "intent_id": "weighted_grades_setup",
+      "display_name": "Activar o configurar calificación ponderada",
+      "category": "calificaciones",
+      "priority": "low",
+      "owner_area": "educacion_en_linea",
+      "description": "Configuración de categorías/ponderaciones en el libro de calificaciones.",
+      "allowed_actors": [
+        "docente",
+        "soporte"
+      ],
+      "suggested_kb_sources": [
+        "km_calificaciones",
+        "faq_ponderaciones"
+      ],
+      "slot_schema": [
+        "course_id"
+      ],
+      "utterances": [
+        "¿Cómo configuro calificaciones ponderadas?",
+        "Quiero que tareas valgan 40% y quizzes 60%",
+        "Mi curso está en puntos, ¿cómo lo cambio a ponderado?",
+        "La suma de ponderaciones no da 100%, ¿qué hago?",
+        "¿Cómo excluir un ítem de la nota final?",
+        "Buenas, La suma de ponderaciones no da 100%, ¿qué hago?",
+        "Buenas, Quiero que tareas valgan 40% y quizzes 60%",
+        "Hola, Mi curso está en puntos, ¿cómo lo cambio a ponderado? Urgente.",
+        "Buenas, ¿Cómo configuro calificaciones ponderadas?"
+      ]
+    }
+  ],
+  "utterances_added_at": "2026-02-26T05:20:44.062298+00:00",
+  "utterances_policy": {
+    "min_per_intent": 8,
+    "max_per_intent": 20,
+    "language": "es",
+    "notes": "Utterances sintéticas para mejorar baseline por similitud (embeddings)."
+  }
+}
