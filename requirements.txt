@@ -1,0 +1,13 @@
+numpy
+pandas
+openpyxl
+requests
+httpx
+tqdm
+beautifulsoup4
+lxml
+sentence-transformers
+faiss-cpu
+pypdf
+python-docx
+streamlit
