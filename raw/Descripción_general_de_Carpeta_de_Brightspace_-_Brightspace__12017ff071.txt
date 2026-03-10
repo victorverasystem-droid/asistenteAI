@@ -1,0 +1,22 @@
+URL: https://community.d2l.com/brightspace-es-MX/kb/articles/33915-descripcion-general-de-carpeta-de-brightspace
+TITLE: Descripción general de Carpeta de Brightspace - Brightspace
+HASH: 12017ff0718cb6885da322f130802507902b730bbe7156af12ccf2e00b34b57e
+TYPE: web
+
+El Portafolio de Brightspace es una herramienta que le permite capturar de forma independiente las pruebas del aprendizaje. Pueden mantener su portafolio digital año tras año, a medida que avanza en su proceso de aprendizaje.
+Con Brightspace Portfolio, puede realizar lo siguiente:
+- Crear portafolios digitales
+- Recopilar pruebas de aprendizaje con la aplicación móvil
+- Documentar el proceso y el crecimiento
+- Grabar observaciones en audio y video sobre su trabajo
+- Exhibir su trabajo y crecimiento año tras año
+Tipos de evidencia admitidos en Brightspace Portfolio
+Puede cargar o ver las pruebas que estén en PDF, o que se puedan convertir a ese formato, en la aplicación web de Brightspace Portfolio. Los tipos de archivos admitidos son los siguientes:
+- Asignaciones en la herramienta Asignaciones
+- Video: SWF, MPG, MPEG, RM, MP3, MP4, M4V, M4A, AVI, WAV, RAM, ASF, MOV, RA
+- Imágenes: JPG, JPEG, PNG, GIF, BMP, TIF, TIFF
+- Documentos de texto: RTF, PPT, PPS, PDF, DOC, DOCX, PPTX, XML, XLS, TXT, WPD, XLSX, XLS
+- Documentos Web: HTM, HTML, MHT, MHTML
+- Enlaces externos a Google Drive
+- Enlaces externos a Office 365
+Cuando se descarga una imagen para verla, se hace en el tipo de archivo y en la resolución originales. Por ejemplo, si carga un archivo JPEG con resolución completa, se puede ajustar su tamaño y resolución en el visor de Portfolio; sin embargo, si un instructor descarga la imagen, lo hará en archivo JPEG de resolución completa.

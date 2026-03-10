@@ -1,0 +1,37 @@
+URL: https://community.d2l.com/brightspace-es-MX/kb/articles/33931-administrar-varias-cuentas-de-brightspace-pulse
+TITLE: Administrar varias cuentas de Brightspace Pulse - Brightspace
+HASH: a89ece3a9df5e8c0f989660ecb9b49d9c8850e08ac4b0097e1334ef3fd11fad6
+TYPE: web
+
+Brightspace Pulse para iOS y Android es compatible con el inicio de sesión simultáneo en varias cuentas de Brightspace Pulse. Además, puede recibir notificaciones de todas sus cuentas en Brightspace Pulse.
+Esta función es útil si se presentan las siguientes condiciones:
+- Está completando más de un grado.
+- Está complementando un grado con una oferta de cursos de su preferencia en una institución asociada.
+- Busca simultáneamente obtener un grado y desarrollo profesional en el trabajo.
+Agregar otra cuenta de Brightspace Pulse
+Puede añadir varias cuentas de Brightspace Pulse mediante la aplicación Pulse.
+Para agregar otra cuenta de Pulse
+- En la barra de navegación, toque el ícono Menú o el logotipo de su organización.
+- Presione Agregar cuenta.
+- Ingrese la información de su cuenta.
+Alternar entre cuentas de Brightspace Pulse
+Puede alternar fácilmente entre varias instancias de Brightspace sin cerrar sesión en Brightspace Pulse.
+Para cambiar de cuentas
+- En la barra de navegación, toque el ícono Menú o el logotipo de su organización.
+Figura: La cuenta activa actual se indica con un ícono de Marca de selección.
+- En la lista, toque la cuenta a la que desea cambiar.
+Figura: El logotipo de la organización muestra un punto de notificación rojo cuando hay al menos una notificación pendiente para cualquier cuenta.
+Eliminar una cuenta de Brightspace Pulse
+Puede eliminar una cuenta de Pulse en la aplicación Pulse.
+Para eliminar una cuenta de Pulse
+- En la barra de navegación, toque el ícono Menú o el logotipo de su organización.
+- En la lista, mantenga presionada la cuenta que desea eliminar (excepto la activa, que se indica con un ícono de Marca de selección).
+- Toque Eliminar cuenta.
+La cuenta seleccionada se elimina de la aplicación Pulse.
+Cerrar sesión en todas las cuentas de Brightspace Pulse
+Puede desinstalar la aplicación Pulse de todos tus dispositivos y cuentas.
+Para cerrar sesión en todas las cuentas
+- En la barra de navegación, toque el ícono Menú o el logotipo de su organización.
+- Toque Configuración.
+- Toque Cerrar sesión en todas las cuentas.
+Se cerrará la sesión en todas las cuentas.

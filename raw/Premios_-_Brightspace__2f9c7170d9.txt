@@ -1,0 +1,35 @@
+URL: https://community.d2l.com/brightspace-es-MX/kb/articles/33878-premios
+TITLE: Premios - Brightspace
+HASH: 2f9c7170d92e3f3987f05a899bcd40ba5b1b0f48ddd778e3e09bcd297b72f5bc
+TYPE: web
+
+La herramienta Mis premios permite que los estudiantes vean los premios basados en el mérito entregados por los instructores de un curso.
+Qué puede hacer
+- Ver las insignias y los certificados que ha obtenido en un curso en Mis premios.
+- Ver los premios que aún puede obtener en Ver premios disponibles
+- (Si su organización lo ha habilitado) compartir un premio obtenido en su perfil, Brightspace ePortfolio, LinkedIn, un enlace público o exportarlo como credencial digital.
+Para obtener más información sobre los premios, consulte Ver y compartir premios obtenidos.
+Dónde encontrar premios
+- En la barra de navegación de un curso, seleccione Premios.
+- En Mis premios, se visualizan todos los premios obtenidos del curso actual.
+- Para ver los premios de otros cursos en los que está inscrito, seleccione Incluir premios de otros cursos. También puede ver sus premios en el componente Ranking de Premiaciones en la página de inicio del curso, si su organización lo utiliza.
+- Haga clic en Premios para acceder a la pestaña Mis premios.
+- La pestaña Mis premios incluye todas las insignias y certificados obtenidos anteriormente.
+- Vaya a la pestaña Ver premios disponibles para ver una lista completa de los premios que podría obtener.
+- Utilice la barra de búsqueda para encontrar el premio deseado.
+- Utilice el filtro para mostrar únicamente insignias, únicamente certificados o todos los tipos de premios.
+- Puede agregar sus premios de otros cursos a la página. Para ello solo debe seleccionar la opción “Incluir premios de otros cursos”.
+- Compruebe los premios obtenidos y utilice la opción Compartir si es necesario.
+Tipos de premios
+Insignias
+-
+Las insignias son marcadores digitales de logros definidos por su instructor. Reconocen los hitos alcanzados durante un curso o programa y no cuentan para su calificación. Algunos ejemplos son publicar 15 mensajes de debate durante el primer mes, mantener una asistencia perfecta o demostrar excelencia académica.
+Certificados
+-
+Los certificados son premios definidos por su instructor que incluyen un PDF descargable que puede imprimir. A menudo marcan un reconocimiento formal al final de un programa, pero también pueden emitirse durante un curso. Al igual que las insignias, los certificados no cuentan para su calificación. Algunos ejemplos son aprobar un examen práctico o completar las horas de capacitación requeridas.
+Notificaciones de premios
+- Cuando inicie sesión en la oferta de cursos en la que ha obtenido un premio nuevo, puede aparecer una ventana emergente para felicitarlo. Puede hacer clic en Ver premios para abrir la herramienta Mis Premios y ver todos sus premios.
+- Las Alertas de suscripciones en la minibarra pueden mostrar una notificación de premio.
+- Es posible que reciba un correo electrónico, según la configuración del curso y la organización.
+- Si ha obtenido varios premios a la vez, el botón Siguiente le permite desplazarse por ellos.
+Para obtener más información sobre los premios, consulte Ver y compartir premios obtenidos.

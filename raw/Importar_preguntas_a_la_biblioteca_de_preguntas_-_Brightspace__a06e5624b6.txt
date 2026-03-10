@@ -1,0 +1,214 @@
+URL: https://community.d2l.com/brightspace-es-MX/kb/articles/11070-importar-preguntas-a-la-biblioteca-de-preguntas
+TITLE: Importar preguntas a la biblioteca de preguntas - Brightspace
+HASH: a06e5624b6f123b9696e9b3ed195b63a15fe469400952c26002765f692fc08e2
+TYPE: web
+
+La Biblioteca de preguntas es un repositorio central que almacena y archiva preguntas que puede reutilizar dentro de un curso. Puede crear múltiples colecciones dentro de una biblioteca de preguntas para organizar sus preguntas por tipo o tema, lo que facilita la búsqueda de preguntas para sus cuestionarios, encuestas y autoevaluaciones.
+Como una mejor práctica de almacenamiento, organización y fácil acceso, es conveniente que cree todas sus preguntas a través de la biblioteca de preguntas. También puede consolidar preguntas creadas en herramientas de cuestionario, encuesta y autoevaluación mediante su importarción de vuelta a la Biblioteca de preguntas.
+Video: Beneficios de la biblioteca de preguntas
+Acerca de la importación de las preguntas en la biblioteca de preguntas
+La consolidación de preguntas dentro de la biblioteca de preguntas le permite transferir preguntas de manera eficiente a cursos nuevos mediante la función Copiar componentes del curso. También puede importar preguntas de un archivo CSV o un repositorio de recursos de aprendizaje.
+Video: Agregar preguntas de otros cursos
+Acceso a Biblioteca de preguntas
+Puede acceder a la Biblioteca de preguntas desde la Herramienta de cuestionarios, la Herramienta encuesta o la Herramienta autoevaluación.
+Para acceder a Biblioteca de preguntas
+- Vaya a Cuestionarios, Encuestas, o Autoevaluaciones.
+- En la navegación de la herramienta, haga clic en Biblioteca de preguntas.
+Preparar un archivo CSV para la importación de preguntas
+Antes de poder importar preguntas a la Biblioteca de preguntas, debe crear y configurar una plantilla de archivo CSV con la información requerida.
+Los siguientes tipos de preguntas se pueden importar usando un archivo CSV:
+- Respuesta escrita
+- Respuesta corta
+- De coincidencia
+- Opción múltiple
+- Verdadero o falso
+- Selección múltiple
+- Ordenar
+Los siguientes tipos de pregunta no se pueden importar usando un archivo .csv:
+- Para completar
+- Aritmética
+- Cifras significativas
+- Respuesta corta múltiple
+Localizar y descargar el archivo CSV de plantilla
+- Vaya a Cuestionarios, Encuestas, o Autoevaluaciones.
+- En la navegación de la herramienta, haga clic en Biblioteca de preguntas.
+- En el cuadro de diálogo Cargar un archivo, haga clic en Descargar plantilla CSV. Elija una ubicación de guardado para el archivo CSV de plantilla y haga clic en Guardar.
+Agregar una pregunta de respuesta escrita a su archivo CSV
+- Desde su archivo de plantilla CSV, desplácese hacia abajo hasta la fila que contiene //TIPO DE PREGUNTA DE RESPUESTA ESCRITA en la columna A. Este campo es opcional y se puede utilizar como comentario para describir el tipo de pregunta.
+-
+En la siguiente fila, ingrese la siguiente información obligatoria:
+-
+En la siguiente fila, ingrese la siguiente información obligatoria:
+-
+Columna A: ingrese QuestionText.
+-
+Columna B: ingrese el texto de la pregunta de respuesta escrita tal y como desee que aparezca en el cuestionario.
+Figura: Su archivo CSV debería verse algo como este ejemplo. Observe cómo se introduce la pregunta de respuesta escrita en la columna B junto a QuestionText.
+-
+Guarde su archivo CSV.
+Agregar una pregunta de respuesta corta a su archivo CSV
+- Desde su archivo de plantilla CSV, desplácese hacia abajo hasta la fila que contiene //TIPO DE PREGUNTA DE RESPUESTA CORTA en la columna A. Este campo es opcional y se puede utilizar como comentario para describir el tipo de pregunta.
+-
+En la siguiente fila, revise el comentario //Las respuestas deben incluir texto en la columna 3. Este es un recordatorio para colocar respuestas cortas en la columna C.
+-
+En la siguiente fila, ingrese la siguiente información obligatoria:
+-
+En la siguiente fila, ingrese la siguiente información obligatoria:
+-
+En la siguiente fila, ingrese la siguiente información obligatoria:
+-
+Repita el paso 5 para agregar tantas respuestas como necesite.
+Figura: Su archivo CSV debería verse algo como este ejemplo. En este caso, hay una respuesta correcta (Satélites) que vale 1 punto. Un usuario debe ingresar “Satélites” como respuesta para ganar 1 punto.
+- Guarde su archivo CSV.
+Agregar una pregunta de coincidencia a su archivo CSV
+- Desde su archivo de plantilla CSV, desplácese hacia abajo hasta la fila que contiene //TIPO DE PREGUNTA DE COINCIDENCIA en la columna A. Este campo es opcional y se puede utilizar como comentario para describir el tipo de pregunta.
+-
+En la siguiente fila, revise el comentario //Las opciones y las coincidencias deben incluir texto en la columna 3. Este es un recordatorio para colocar el texto de elección y el texto de coincidencia en la columna C.
+-
+En la siguiente fila, ingrese la siguiente información obligatoria:
+-
+En la siguiente fila, ingrese la siguiente información obligatoria:
+-
+En la siguiente fila, ingrese la siguiente información obligatoria:
+-
+Columna A: ingrese Choice.
+-
+Columna B: ingrese un valor numérico para representar el orden de cómo se muestran las opciones en la pregunta. Por ejemplo, un valor de 1 colocaría esta opción primero.
+-
+Columna C: ingrese el texto de la opción número 1.
+-
+Repita el paso 5 para agregar opciones adicionales.
+-
+En la siguiente fila, ingrese la siguiente información obligatoria:
+-
+Columna A: ingrese Match.
+-
+Columna B: ingrese un valor numérico para establecer con qué opción está asociada la coincidencia. Por ejemplo, un valor de 1 asociaría esta coincidencia con la opción 1.
+-
+Repita el paso 7 para agregar coincidencias adicionales.
+Figura: Su archivo CSV debería verse algo como este ejemplo. En este caso, una pregunta de coincidencia se configura con dos opciones y dos coincidencias correspondientes.
+-
+Guarde su archivo CSV.
+Agregar una pregunta de opción múltiple a su archivo CSV
+-
+Desde su archivo de plantilla CSV, desplácese hacia abajo hasta la fila que contiene //TIPO DE PREGUNTA DE OPCIÓN MÚLTIPLE en la columna A. Este campo es opcional y se puede utilizar como comentario para describir el tipo de pregunta.
+-
+En la siguiente fila, revise el comentario //Las opciones deben incluir texto en la columna 3. Este es un recordatorio para colocar el texto de opción múltiple en la columna C.
+-
+En la siguiente fila, ingrese la siguiente información obligatoria:
+-
+En la siguiente fila, ingrese la siguiente información obligatoria:
+-
+En la siguiente fila, ingrese la siguiente información obligatoria:
+-
+Columna A: ingrese Option.
+-
+Columna B: ingrese un valor numérico para indicar si la opción es correcta o incorrecta. Una respuesta correcta requiere un valor de 100. Una respuesta incorrecta requiere un valor de 0.
+-
+Columna C: ingrese el texto de la respuesta.
+Figura: Su archivo CSV debería verse algo como este ejemplo. En este caso, la primera opción de la opción múltiple se establece en un valor de 100 (correcto) y las otras dos se establecen en 0 (incorrecto).
+-
+Guarde su archivo CSV.
+Agregar una pregunta de verdadero o falso a su archivo CSV
+-
+Desde su archivo de plantilla CSV, desplácese hacia abajo hasta la fila que contiene //TIPO DE PREGUNTA DE VERDADERO O FALSO en la columna A. Este campo es opcional y se puede utilizar como comentario para describir el tipo de pregunta.
+-
+En la siguiente fila, ingrese la siguiente información obligatoria:
+-
+En la siguiente fila, ingrese la siguiente información obligatoria:
+-
+En la siguiente fila, ingrese la siguiente información obligatoria:
+-
+Columna A: ingrese VERDADERO.
+-
+Columna B: para establecer VERDADERO como la respuesta correcta, ingrese 100. Para establecer VERDADERO como la respuesta incorrecta, ingrese 0.
+-
+En la siguiente fila, ingrese la siguiente información obligatoria:
+-
+Columna A: ingrese FALSO.
+-
+Columna B: para establecer FALSO como la respuesta correcta, ingrese 100. Para establecer VERDADERO como la respuesta incorrecta, ingrese 0.
+Figura: Su archivo CSV debería verse algo como este ejemplo. En este caso, el valor de VERDADERO se establece como correcto y el valor de FALSO se establece como incorrecto.
+-
+Guarde su archivo CSV.
+Agregar una pregunta de selección múltiple a su archivo CSV
+- Desde su archivo de plantilla CSV, desplácese hacia abajo hasta la fila que contiene //TIPO DE PREGUNTA DE SELECCIÓN MÚLTIPLE en la columna A. Este campo es opcional y se puede utilizar como comentario para describir el tipo de pregunta.
+- En la siguiente fila, revise el comentario //Las opciones deben incluir texto en la columna 3. Este es un recordatorio para colocar el texto de opción múltiple en la columna C.
+- En la siguiente fila, ingrese la siguiente información obligatoria:
+- Columna A: ingrese NewQuestion.
+- Columna B: ingrese MS.
+- En la siguiente fila, ingrese la siguiente información obligatoria:
+- Columna A: ingrese QuestionText.
+- Columna B: ingrese el texto de la pregunta de selección múltiple tal y como desee que aparezca en el cuestionario.
+- En la siguiente fila, ingrese la siguiente información obligatoria:
+- Columna A: ingrese Option.
+- Columna B: ingrese un valor numérico para indicar si las opciones son correctas o incorrectas. Una respuesta correcta requiere un valor de 1. Una respuesta incorrecta requiere un valor de 0.
+- Columna C: ingrese el texto de la opción.
+-
+Repita el paso 5 para agregar opciones adicionales.
+Figura: Su archivo CSV debería verse algo así. Tenga en cuenta que en este ejemplo se establecen tres opciones como correctas (1). Una opción se establece como incorrecta (0).
+-
+Guarde su archivo CSV.
+Agregar una pregunta de ordenamiento a su archivo CSV
+- Desde su archivo de plantilla CSV, desplácese hacia abajo hasta la fila que contiene //TIPO DE PREGUNTA DE ORDENAMIENTO en la columna A. Este campo es opcional y se puede utilizar como comentario para describir el tipo de pregunta.
+- En la siguiente fila, revise el comentario //Las opciones deben incluir texto en la columna 2. Este es un recordatorio para colocar el texto de la pregunta de ordenamiento y los elementos en la columna B.
+- En la siguiente fila, ingrese la siguiente información obligatoria:
+- Columna A: ingrese NewQuestion.
+- Columna B: ingrese O.
+- En la siguiente fila, ingrese la siguiente información obligatoria:
+- Columna A: ingrese QuestionText.
+- Columna B: ingrese el texto de la pregunta de ordenamiento tal y como desee que aparezca en el cuestionario.
+- En la siguiente fila, ingrese la siguiente información obligatoria:
+- Columna A: ingrese Item.
+- Columna B: ingrese el texto del elemento tal y como desee que aparezca en el cuestionario.
+- Repita el paso 5 para agregar elementos adicionales.
+Figura: Su archivo CSV debería verse algo así. Tenga en cuenta que en este ejemplo hay cuatro elementos que un usuario debe colocar en orden alfabético.
+- Guarde su archivo CSV.
+Entradas opcionales para su plantilla CSV
+Hay entradas opcionales que puede usar en su archivo CSV para configurar preguntas de cuestionario. La siguiente tabla muestra las entradas que puede utilizar, además de las entradas mínimas requeridas mostradas anteriormente.
+Utilizar etiquetas HTML en su archivo de plantilla CSV
+También puede usar etiquetas HTML directamente en su archivo CSV para aplicar estilo HTML a los campos de texto de su cuestionario. Esto requiere que ingrese HTML en la columna C de su CSV. HTML se puede utilizar con las siguientes entradas:
+- QuestionText
+- Opción
+- Elemento
+- Opción
+- Coincidencia
+- Texto inicial
+- Clave de respuesta
+- Sugerencia
+- Comentarios
+Figura: En este ejemplo, se aplica una etiqueta HTML en negrita al texto de la pregunta en el archivo de plantilla CSV. Tenga en cuenta que la entrada de campo HTML se coloca en la columna C.
+Figura: Aquí está la misma pregunta tal y como aparece en Brightspace después de haber sido importada como pregunta de cuestionario con etiquetas HTML aplicadas. Observe que el texto Aurorae está en negrita.
+Importar preguntas a la Biblioteca de preguntas
+Puede utilizar la Biblioteca de preguntas para importar un archivo CSV preparado de preguntas.
+Para importar preguntas a la Biblioteca de preguntas a partir de un archivo
+- En la biblioteca de preguntas, haga clic en Importar.
+Figura: Haga clic en Importar en la página Biblioteca de preguntas.
+- Seleccione Cargar un archivo.
+Figura: Seleccione Cargar un archivo.
+- En el cuadro de diálogo Cargar un archivo, seleccione el origen en que las preguntas existentes están ubicadas tras hacer clic en Examinar archivos y seleccionar el archivo, o tras arrastrarlo y soltarlo en la ventana Cargar un archivo.
+Figura: Haga clic en Examinar archivos para seleccionar su archivo CSV preparado.
+- Una vez que el archivo termine la importación, vea las preguntas cargadas en el cuadro de diálogo Cargar un archivo.
+- Para importar todas las preguntas de la carga, haga clic en Importar todo. Para importar preguntas específicas desde la carga de archivos, seleccione las preguntas que desea cargar y haga clic en Importar.
+Importar preguntas a la biblioteca de preguntas a partir de una colección existente
+También puede utilizar una colección existente de preguntas para importarla a la Biblioteca de preguntas.
+Para importar desde una colección existente
+- En la biblioteca de preguntas, haga clic en Importar.
+- Seleccione Examinar preguntas existentes.
+Figura: Seleccione Examinar preguntas existentes.
+- En la lista desplegable Colección de origen, seleccione el origen en el que se encuentran las preguntas existentes.
+Figura: Revise la lista desplegable de Colección de origen para elegir una colección.
+- Seleccione las colección de preguntas que desea importar.
+- Haga clic en Importar.
+- Haga clic en Edición de preguntas lista.
+Video: Importar preguntas
+Importar preguntas a la biblioteca de preguntas a partir de un repositorio de recursos de aprendizaje
+También puede importar preguntas desde el repositorio de recursos de aprendizaje (RRA).
+Para importar preguntas desde RRA
+- En la biblioteca de preguntas, haga clic en Importar.
+- Seleccione Importar desde el Repositorio de aprendizaje.
+Figura: Seleccione Importar desde el repositorio de aprendizaje.
+- Ubique el objeto que desea importar mediante el campo de búsqueda o la búsqueda por categoría.
+Figura: Utilice el cuadro de diálogo Agregar objeto desde el RRA para seleccionar un recurso de aprendizaje.
+- Seleccione el recurso o archivo de aprendizaje y luego haga clic en Seleccionar.
+- Haga clic en Guardar.

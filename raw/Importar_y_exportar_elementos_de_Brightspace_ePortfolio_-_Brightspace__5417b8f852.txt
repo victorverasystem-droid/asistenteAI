@@ -1,0 +1,42 @@
+URL: https://community.d2l.com/brightspace-es-MX/kb/articles/33912-importar-y-exportar-elementos-de-brightspace-eportfolio
+TITLE: Importar y exportar elementos de Brightspace ePortfolio - Brightspace
+HASH: 5417b8f8529921deaa14fb1d8a3a1fdab77bc7be84018d7279a696de6b47bfbd
+TYPE: web
+
+Importar elementos de Brightspace ePortfolio
+Solo puede importar paquetes de Brightspace ePortfolio a su Brightspace ePortfolio. Si tiene otros elementos que desea agregar a su Brightspace ePortfolio, debe agregarlos de forma individual.
+- En la barra de navegación, haga clic en ePortfolio.
+- En la página Mis elementos, en el botón Más acciones, haga clic en la página Ir a Importar/Exportar.
+- Haga clic en Importar.
+- Haga clic en Examinar. Busque el paquete que desea importar. Haga clic en Abrir.
+- Haga clic en Siguiente > Importar.
+Acerca de la exportación de elementos de Brightspace ePortfolio
+Cuando exporta un elemento, también exporta la descripción, las etiquetas y la configuración del elemento. No exporta información sobre el usuario que creó el elemento, los usuarios que dejaron comentarios sobre el elemento o evaluaciones del elemento.
+A excepción de las Presentaciones HTML, no se pueden exportar elementos para visualizarlos sin conexión. Los elementos exportados solo se pueden importar a otro portafolio de Brightspace ePortfolio u otros sistemas que sean compatibles con el formato XML de Brightspace ePortfolio.
+Puede exportar todo el contenido de Brightspace ePortfolio o elementos específicos. Si un elemento tiene varias asociaciones, solo aparece una vez en el archivo zip exportado.
+Exportar elementos en Brightspace ePortfolio
+Para realizar una copia de seguridad de los elementos importantes en ePortfolio, expórtelos.
+- En la barra de navegación, haga clic en ePortfolio.
+Figura: La opción ePortfolio en la página de inicio del curso.
+- Vaya a Mis elementos. Haga clic en Más acciones y seleccione Ir a la página Importar/Exportar.
+Figura: La opción Ir a la página Importar/Exportar.
+- Haga clic en el botón Exportar.
+Figura: El botón Exportar.
+- Puede exportar cualquiera de las siguientes opciones:
+- Todos los elementos: Exportar todos los elementos de ePortfolio.
+- Elementos seleccionados: Seleccione solo elementos específicos de ePortfolio para exportar.
+Figura: La opción para seleccionar el tipo de elementos que desea exportar.
+Si selecciona la opción Todos los elementos, todos los elementos de ePortfolio se seleccionan automáticamente.
+Si selecciona la opción Elementos seleccionados, haga clic en el botón Agregar elementos para seleccionar elementos específicos de ePortfolio.
+Figura: El botón Agregar elementos.
+- Para incluir elementos relacionados o asociados con los elementos que va a exportar, seleccione la opción Incluir automáticamente elementos asociados.
+Figura: La opción Incluir automáticamente elementos asociados.
+Nota: Los elementos incluidos varias veces solo aparecerán una vez después de la exportación.
+- Haga clic en Exportar.
+Figura: El botón Exportar.
+- En la ventana Exportación en curso, haga clic en el enlace Ver el progreso del paquete de exportación para acceder al enlace de descarga del paquete exportado.
+Figura: El enlace Ver el progreso del paquete de exportación.
+- Haga clic en el enlace para descargar el paquete como un archivo en formato zip.
+Figura: El enlace de descarga.
+- Vaya a la carpeta Descargas y extraiga el archivo .zip para ver los elementos exportados de ePortfolio.
+¿Qué cambios se producen en las propiedades cuando se exportan elementos de Brightspace ePortfolio?

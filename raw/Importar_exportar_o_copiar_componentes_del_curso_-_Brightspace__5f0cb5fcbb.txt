@@ -1,0 +1,119 @@
+URL: https://community.d2l.com/brightspace-es-MX/kb/articles/16956-importar-exportar-o-copiar-componentes-del-curso
+TITLE: Importar, exportar o copiar componentes del curso - Brightspace
+HASH: 5f0cb5fcbb7cab677a1424e2fb4cad0bfd2f9ff06c941d63a2f58d6a690a4228
+TYPE: web
+
+Importar, exportar o copiar componentes del curso
+Utilice la herramienta Importar/exportar/copiar componentes del curso para llevar contenido a un curso, mover contenido entre cursos o crear un paquete de exportación conforme a los estándares. Los componentes incluyen asignaciones, debates, cuestionarios, bibliotecas de preguntas y más. Consulte Acerca de Importar/exportar/copiar componentes para conocer los tipos de paquetes compatibles.
+Antes de comenzar
+- Asegúrese de estar inscrito en los cursos de origen y destino, y de contar con los permisos necesarios.
+- Los trabajos de copia grandes se ejecutan de forma asíncrona; puede supervisar el progreso desde Ver historial en la página Importar/exportar/copiar componentes.
+- En la importación no se eliminan los nombres duplicados. Si un elemento de destino comparte un nombre con un elemento importado, se mantienen ambos elementos. Por ejemplo, si su curso contiene un tema de debate llamado Revisión de examen, y usted importa un paquete del curso que contiene un tema de debate llamado Revisión de examen, su curso tendrá dos temas llamados Revisión de examen.
+Importar componentes del curso
+Para importar componentes del curso
+- Abra el curso de destino.
+- En la barra de navegación, haga clic en Administración del curso > Importar/exportar/copiar componentes.
+- Seleccione Importar componentes.
+- Haga clic en Iniciar.
+- En el cuadro de diálogo Importar paquete del curso, seleccione Cargar y elija su archivo.
+- Elija una de las siguientes opciones:
+- Importar todos los componentes para importar el paquete completo.
+- Opciones avanzadas para elegir elementos específicos o ajustar la configuración antes de importar.
+- (Opcional) Una vez finalizada la importación, seleccione Revisar y administrar fechas para ajustar la disponibilidad y las fechas de inicio y finalización.
+Ver historial de importación del curso
+Los usuarios pueden ver el historial de intentos de importación de cursos en una unidad de organización específica. Desde la herramienta Importar, exportar o copiar en el administrador del curso, los usuarios pueden ver la página Historial de importación del curso, que incluye la siguiente información para cada intento de importación del curso:
+- el nombre del paquete original
+- estado de la importación
+- usuario que creó el trabajo de importación
+- la marca de tiempo del intento de importación
+Para ver el historial de importación del curso
+-
+En Administrador del curso, haga clic en Importar/exportar/copiar componentes.
+-
+En la sección Importación, haga clic en Ver historial de importación.
+-
+En la lista, haga clic en Ver registro de importación de un paquete para abrir los resultados detallados.
+-
+Para filtrar los resultados por tipo de mensaje, haga clic en el menú desplegable Tipo de mensaje y seleccione una de las siguientes opciones:
+- Error
+- Progreso
+- Sistema
+- Advertencia
+En el registro, se muestran los resultados de la importación en el orden de las operaciones. Después de revisar el registro, utilice las rutas de navegación para volver a la página Historial de importación del curso.
+Exportar componentes del curso
+También puede exportar los componentes de su curso como un paquete del curso.
+Para exportar componentes del curso
+- Abra el curso que contiene los componentes que desea exportar.
+- En la barra de navegación, seleccione Administración del curso > Importar/exportar/copiar componentes.
+- Seleccione una de las siguientes opciones:
+- Exportar como Paquete de Brightspace
+- Exportar como Common Cartridge
+- Exportar como Thin Common Cartridge
+- Haga clic en Iniciar.
+- En Seleccionar componentes para exportar, elija una de las siguientes opciones:
+- Seleccionar todos los componentes para exportar todo
+- Seleccionar las casillas de verificación de componentes específicos
+- Seleccione Seleccionar elementos individuales para exportar para elegir elementos detallados.
+- Haga clic en Continuar. El cuadro de diálogo Exportación iniciada confirma que se inició la exportación.
+- Haga clic en Listo.
+- Cuando esté listo, abra la campana de notificaciones en la barra de navegación, siga el enlace de regreso a la herramienta y seleccione Hacer clic aquí para descargar el paquete en formato ZIP de exportación.
+Video: exportación de componentes del curso
+Vea este video para aprender a exportar componentes del curso.
+Exportar e importar paquetes de cursos que contengan objetos SCORM entre organizaciones
+Puede exportar e importar paquetes de cursos que contengan objetos SCORM entre organizaciones. Por ejemplo, cuando exporta un curso que contiene objetos SCORM de la organización A, se agregan copias de los objetos SCORM al paquete del curso exportado. El resultado es un paquete del curso disponible para su importación y objetos SCORM con todas las referencias a los objetos SCORM almacenados en el curso original.
+Cuando importa el paquete del curso a la organización B, los objetos SCORM se agregan a la organización y se vuelven a enlazar al curso importado, de modo que las referencias no se pierden (la copia física de los objetos SCORM ahora existe en la organización B, separada de la organización A, de la cual se exportó el paquete del curso). Como resultado, cualquier instructor con el permiso Puede insertar objetos SCORM nuevos para un curso puede acceder a los objetos SCORM que se copiaron en el curso importado.
+Nota: Los
+- Si un curso contiene varios enlaces a un solo objeto SCORM, el objeto se exporta varias veces, una por cada enlace, y se incluye como una copia en el paquete del curso exportado. Cuando se importa el paquete del curso, este se importa varias veces, una por cada enlace.
+- La copia, la exportación y la creación masivas de cursos también son compatibles con esta funcionalidad.
+Copiar componentes del curso
+Su capacidad de copiar componentes del curso entre ofertas de cursos se determina por los permisos asignados y la inscripción en las ofertas de cursos y plantillas principales.
+Para copiar componentes del curso
+- Vaya a un curso en el que desea copiar los componentes del curso.
+- En la barra de navegación, haga clic en Administración del curso > Importar/exportar/copiar componentes.
+- Realice una de las siguientes acciones:
+- Seleccione Copiar componentes desde otra unidad de organización.
+- Haga clic en Buscar oferta y busque la oferta de cursos que contiene los componentes que desea copiar.
+- Haga clic en Agregar lo seleccionado.
+- Seleccione Copiar componentes de la plantilla principal para copiar los componentes desde la plantilla de curso a la que pertenece la oferta de cursos actual.
+- Realice una de las siguientes acciones:
+- Para copiar todos los componentes del curso, haga clic en Copiar todos los componentes. D2L le recomienda copiar todos los componentes entre cursos para asegurarse de mantener todas las asociaciones deseadas y luego borrar todo el material no deseado en el curso nuevo.
+- Para especificar los componentes que desea copiar, haga clic en Seleccionar componentes. Seleccione los componentes. Para ver detalles de los componentes del curso, haga clic en el enlace Mostrar los componentes del curso actual y luego haga clic en el ícono Ver detalles junto a un componente para ver los elementos existentes. Para aquellos componentes del curso que proporcionan la opción Incluir archivos asociados, D2L recomienda dejar la opción activada. Haga clic en Continuar.
+- Marque la casilla de selección Ajustar todas las fechas de componentes copiados, y especifique los días y las horas en que se deben ajustar las fechas, o calcule el rango entre dos fechas.
+- Haga clic en Finalizar.
+- Realice una de las siguientes acciones:
+- Para copiar otro paquete, haga clic en Copiar otro paquete.
+- Para ver los resultados de su copia, haga clic en Ver contenido.
+- Para revisar y administrar las fechas de los cursos, haga clic en Revisar y administrar fechas.
+Notas:
+- Si copió un curso con configuraciones de modelo S3, el curso se enumera en la página Administración de Student Success System (Herramientas de administración > Student Success System).
+- Ahora, cuando copie los grupos a los cursos, también se copiará la configuración del grupo (elemento de calificación, opción de evaluación, etc.).
+- Se incluye un paso lógico de validación en el proceso de copia. Para ayudar a reducir los objetos duplicados y la limpieza del proceso de copia, la lógica de validación le informa si ha copiado anteriormente desde el curso de origen.
+Para obtener información acerca de los permisos de Student Success System, consulte ¿Cómo funciona Brightspace Student Success System?
+Video: uso de la herramienta de copia de componentes del curso
+Vea el video para aprender a reutilizar componentes, agregar componentes creados por colegas o configurar componentes estándar en una plantilla y copiarlos en una nueva oferta de cursos.
+Agregar la imagen de un curso a una plantilla de curso existente
+Si bien no puede agregar directamente una imagen a una plantilla del curso, puede importar una imagen de un curso existente a la plantilla del curso. Después de haber creado un curso que incluya la imagen que desea utilizar, puede utilizar la función Copiar componentes para agregar la imagen a la plantilla del curso.
+Para agregar una imagen a una plantilla de curso
+- En la herramienta Administrar cursos, en la pestaña Plantillas, haga clic en la plantilla existente en la que desea agregar la imagen del componente Mis cursos.
+- Haga clic en Administrador del curso > Importar/exportar/copiar componentes.
+- Seleccione Copiar componentes de otra unidad de organización y haga clic en Buscar oferta.
+- Haga clic en Seleccionar componentes.
+- Seleccione Apariencia del curso > Seleccionar elementos individuales para copiar.
+Nota: Puede ver la imagen del banner del curso en Administrar archivos; sin embargo, no aparece de forma automática en los elementos del formulario después de copiarla.
+- Haga clic en Continuar.
+- Seleccione la imagen que desea copiar.
+- Haga clic en Finalizar.
+Crear paquetes de recursos de aprendizaje independientes de la plataforma (IMS Common Cartridge)
+El estándar Common Cartridge de IMS permite que los editores y proveedores de contenido creen paquetes de recursos que son independientes de plataformas (contenido, evaluaciones, bibliotecas de preguntas, debates, etc.) que se construyen sobre contenido de IMS existente y estándares de paquetes de cuestionarios QTI. Los creadores de los paquetes pueden, como opción, proteger el paquete, lo que exige que los usuarios deban autenticarlo con el creador mediante servicios Web, antes de importar o tener acceso a los recursos protegidos. Common Cartridge se diseñó para proporcionar un modo estándar de empaquetado y protección del contenido, en contraposición a la metodología de que cada editor o cada sistema de gestión educativa crease un método de propiedad privada de protección y cumplimiento.
+Para obtener información más detallada acerca del proyecto Common Cartridge y su rol en Digital Learning Connection, visite el sitio web de 1EdTech.
+Acerca de la importación de paquetes de Common Cartridge de IMS
+Puede importar paquetes de Common Cartridge de IMS y expandir las ofertas de cursos para incorporar una amplia variedad de contenido de cursos innovador, independiente de plataformas y diverso proveniente de editores y proveedores de contenido.
+La importación de un paquete de Common Cartridge de IMS utiliza el mismo proceso que la importación de otros archivos de formatos de importación admitidos. La importación de un paquete de Common Cartridge crea el contenido aplicable, los cuestionarios, las preguntas, etc. en Brightspace, y los pone a disponibilidad del usuario de manera inmediata. Los creadores de paquetes tienen la opción de proteger los paquetes de Common Cartridge durante la importación, u obligar al usuario a ingresar un código de acceso al comienzo del proceso de importación.
+Versiones de Cartucho común IMS
+Brightspace actualmente admite las siguientes versiones de Common Cartridge IMS:
+- Cartucho común IMS 1.0
+- Cartucho común IMS 1.1
+- Cartucho común IMS 1.2
+- Cartucho común IMS 1.3 y Cartucho común delgado IMS 1.3
+En la siguiente tabla, se proporciona una descripción general de cada versión, que incluye un resumen de las funciones y otros detalles técnicos que vale la pena observar.
+Para ver las especificaciones oficiales de IMS sobre cada versión de Common Cartridge consulte la Especificación de 1EdTech Common Cartridge®.

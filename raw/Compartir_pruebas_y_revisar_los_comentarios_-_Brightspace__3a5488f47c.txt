@@ -1,0 +1,27 @@
+URL: https://community.d2l.com/brightspace-es-MX/kb/articles/33919-compartir-pruebas-y-revisar-los-comentarios
+TITLE: Compartir pruebas y revisar los comentarios - Brightspace
+HASH: 3a5488f47cf4309761d8e1f9b78b83c825a46d49f28cb47b125a3f3302e4e395
+TYPE: web
+
+Si envió una tarea como parte de una asignación del curso desde la herramienta Asignaciones, el instructor puede agregar ese envío a su Portafolio como prueba que permanecerá en su Portafolio después de que finalice su curso. Los envíos de tareas que su instructor agrega al Portafolio no se actualizan automáticamente cuando el instructor agrega calificaciones o comentarios a su envío de tareas. Para que se incluyan calificaciones o comentarios actualizados con un envío agregado al Portafolio, debe solicitar al instructor que agregue el envío al Portafolio de nuevo para actualizarlo. La versión más reciente del material enviado se agrega como nuevo material independiente de la prueba del Portafolio y no sustituye al material enviado original.
+Compartir las pruebas con los instructores
+- En Brightspace, haga clic en su perfil de usuario en la barra de navegación.
+- Haga clic en Mi portafolio.
+- Haga clic en el mosaico de un curso.
+- Seleccione un mosaico de pruebas para ver los detalles.
+- Desde el ícono de alternancia de Uso compartido del instructor, haga clic para cambiar de la opción No compartidas a Compartidas. Esto autoriza al instructor a ver las pruebas, proporcione comentarios o adjunte las rúbricas o los resultados a las pruebas.
+- Vuelva a la página del curso en su portafolio. El mosaico de pruebas muestra un nuevo ícono Compartido con los instructores que indica que las pruebas ahora se comparten con ellos.
+Compartir las pruebas con los instructores de un curso
+- En la barra de navegación, haga clic en su nombre de usuario y seleccione Mi portafolio.
+- Haga clic en el mosaico de un curso.
+- Haga clic en el menú Opciones (…) en un mosaico de pruebas y seleccione Compartir con los instructores.
+El mosaico de pruebas muestra el ícono Compartido con los instructores, que indica que las pruebas ahora se comparten con ellos.
+Revisar comentarios sobre las pruebas
+Para revisar comentarios de las rúbricas sobre las pruebas
+- Desde un navegador, inicie sesión en Brightspace.
+- Haga clic en su perfil de usuario en la barra de navegación y, luego, en Mi portafolio.
+- Haga clic en el mosaico de portafolio del curso.
+- Haga clic en el mosaico de pruebas para el que desea revisar los comentarios.
+-
+Haga clic en la rúbrica con la que fue evaluado y revise la evaluación de la rúbrica.
+- Además, revise los comentarios del instructor y cualquier material adjunto.

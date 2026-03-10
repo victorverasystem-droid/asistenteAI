@@ -1,0 +1,36 @@
+URL: https://community.d2l.com/brightspace-es-MX/kb/articles/10957-realizar-un-seguimiento-de-la-actividad-y-del-progreso-del-usuario-sobre-los-objetos-scorm
+TITLE: Realizar un seguimiento de la actividad y del progreso del usuario sobre los objetos SCORM - Brightspace
+HASH: c3e9386b4a26ac201d1bb51821ed3a4fdddb385c2d7f42768fb40887b793c9aa
+TYPE: web
+
+Si su curso está basado en Modelo de referencia para recursos de software de cursos intercambiable, o utiliza SCO como parte del contenido del curso, tiene acceso a informes de actividad adicionales para cada usuario y objeto Modelo de referencia para recursos de software de cursos intercambiable. Los informes realizan un seguimiento de la actividad sobre un tema y el progreso de las personas con el cumplimiento de objetivos definidos, y en las interacciones definidas con el contenido del curso.
+Los datos en estos informes dependen de la información que sus SCO comunicaron a Brightside. Por ejemplo, si el SCO no configura valores para los objetivos, entonces no hay información sobre objetivos disponible en los informes de SCORM para ese SCO. Estos datos también dependen de la solución Modelo de referencia para recursos de software de cursos intercambiable que se esté utilizando. Si utiliza la nueva solución Modelo de referencia para recursos de software de cursos intercambiable, los datos disponibles son limitados en este momento. Tenga presente que puede exportar las estadísticas de SCORM; no obstante, a diferencia de los cursos que no se basan en SCORM, no puede restablecer las estadísticas.
+Informes de Brightspace para objetos SCORM
+Para cada objeto Modelo de referencia para recursos de software de cursos intercambiable, Brightspace registra:
+- La cantidad de intentos del usuario en el recurso.
+- El número de intentos realizados. Algunos intentos pueden aparecer como incompletos si el usuario finaliza el intento en un objeto.
+- La cantidad de intentos aprobados, la puntuación de aprobación y la puntuación promedio.
+- El tiempo promedio invertido en el objeto (para la solución SCORM heredada).
+También puede ver detalles sobre los intentos del usuario, los objetivos y las interacciones de cada elemento en la solución Modelo de referencia para recursos de software de cursos intercambiable, tanto la versión heredada como la nueva. Puede acceder a estos detalles si navega hasta Informes del Modelo de referencia para recursos de software de cursos intercambiable desde la página de informes de un curso (Contenido > Opciones de curso > Ver informes > Informes del Modelo de referencia para recursos de software de cursos intercambiable) y selecciona el botón Resumen, Interacciones u Objetivos.
+Hacer un seguimiento de la actividad y del progreso del usuario con la solución heredada del Modelo de referencia para recursos de software de cursos intercambiable
+- Vaya a Contenido.
+- Arriba de la Tabla de contenido, en el menú desplegable Opciones de curso, haga clic en Ver informes.
+Figura: El menú desplegable Opciones de curso que muestra la opción Ver informes.
+- En la página Informes, haga clic en Informes del Modelo de referencia para recursos de software de cursos intercambiable.
+Figura: La opción Informes del Modelo de referencia para recursos de software de cursos intercambiable en la página Informes.
+- En el área Informes antiguos de Modelo de referencia para recursos de software de cursos intercambiable, realice una de las siguientes acciones:
+- Para ver información acerca del progreso del usuario, si está completo o incompleto, el estado, la puntuación, la cantidad de intentos, el tiempo utilizado, el tiempo promedio dedicado y cuándo fue la última vez que tuvo acceso, en la pestaña Objetos Modelo de referencia para recursos de software de cursos intercambiable, haga clic en el ícono Resumen.
+- Para ver información acerca del progreso del usuario con los objetivos del curso, entre ellos, la puntuación, el estado, el progreso y la medición del progreso, en la pestaña Objetos Modelo de referencia para recursos de software de cursos intercambiable, haga clic en el ícono Detalles del objetivo.
+- Para ver información acerca de los intentos del usuario en las interacciones en un objetivo que abarca tipo de pregunta, respuesta correcta, respuesta del estudiante, resultado, ponderación y tiempo invertido, en la pestaña Objetos Modelo de referencia para recursos de software de cursos intercambiable, haga clic en el ícono Detalles de interacción.
+- Para ver la información sobre un usuario específico, en la pestaña Usuarios, haga clic en el nombre de un usuario. Para obtener más información sobre el progreso del usuario con un recurso específico, haga clic en el ícono Detalles.
+Hacer un seguimiento de la actividad y del progreso del usuario con la nueva solución del Modelo de referencia para recursos de software de cursos intercambiable
+- Vaya a Contenido.
+- Arriba de la Tabla de contenido, en el menú desplegable Opciones de curso, haga clic en Ver informes.
+Figura: El menú desplegable Opciones de curso que muestra la opción Ver informes.
+- En la página Informes, haga clic en Informes del Modelo de referencia para recursos de software de cursos intercambiable.
+Figura: La opción Informes del Modelo de referencia para recursos de software de cursos intercambiable en la página Informes.
+- En el área Informes del Modelo de referencia para recursos de software de cursos intercambiable, realice una de las siguientes acciones:
+- Haga clic en el ícono Resumen en la pestaña Objetos del Modelo de referencia para recursos de software de cursos intercambiable para ver la información sobre el progreso del usuario, si está completo o incompleto, el estado, la puntuación, la cantidad de intentos, el tiempo utilizado, el tiempo promedio dedicado y cuándo fue la última vez que tuvo acceso.
+- En la pestaña Objetos del Modelo de referencia para recursos de software de cursos intercambiable, haga clic en el ícono Objetivos para obtener información sobre el progreso del usuario con los objetivos del curso, incluido su puntaje, su estado, el progreso y la medición del progreso.
+- Para ver información sobre los intentos del usuario en las interacciones en un objetivo que abarca tipo de pregunta, respuesta correcta, respuesta del estudiante, resultado, ponderación y tiempo dedicado, en la pestaña Recursos Modelo de referencia para recursos de software de cursos intercambiable, haga clic en el ícono Interacciones.
+- Para ver la información sobre un usuario específico, en la pestaña Usuarios, haga clic en el nombre de un usuario. Para obtener más información sobre el progreso del usuario con un recurso específico, haga clic en el ícono Detalles.

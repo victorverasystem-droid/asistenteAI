@@ -1,0 +1,33 @@
+URL: https://community.d2l.com/brightspace-es-MX/kb/articles/33905-equipos-de-trabajo-que-comparten-en-brightspace-eportfolio
+TITLE: Equipos de trabajo que comparten en Brightspace ePortfolio - Brightspace
+HASH: 25f8597802f1fb7cd55bc011134de28aaab24502edbba67dd339afafcd006286
+TYPE: web
+
+Cree grupos que comparten para guardar los permisos que desea que tenga un usuario o un grupo de usuarios de manera que pueda reutilizar los permisos para otros elementos.
+Crear un grupo que comparte
+Puede crear grupos que comparten para usuarios individuales o para todos los usuarios en un curso o grupo específico. Puede tener múltiples grupos que comparten para los mismos usuarios que aplica en distintas situaciones. Por ejemplo, puede crear grupos que comparten denominados Comentario y Editar y revisar, y compartirlos con el mismo grupo de colegas. Puede usar el primer grupo que comparte para elementos sobre los que desea recopilar opiniones generales y el segundo grupo que comparte para elementos con los que desea que los demás colaboren o revisen en detalle.
+Una organización, departamento o curso también puede configurar grupos que comparten y compartirlos con usted. Compartir grupos que se comparten con usted es una acción opcional (puede optar por aplicarlos a elementos específicos) o automática (debe usarlos). Los grupos compartidos en forma automática son visibles (es decir, aparecen en el área Grupos que comparten) o están ocultos (la información sobre el grupo no está disponible para usted).
+- En la barra de navegación, haga clic en ePortfolio.
+- En la navegación de la herramienta, haga clic en Grupos que comparten > Nuevo grupo que comparte.
+- Ingrese un Nombre para su grupo que comparte.
+Figura: Ingrese el nombre y la descripción de su grupo que comparte y haga clic en Guardar y cerrar.
+- Haga clic en Agregar usuarios.
+- Realice una de las siguientes acciones:
+- Para agregar usuarios individuales al grupo que comparte, en la pestaña Usuarios, haga clic en los usuarios que desea agregar.
+- Para agregar ofertas de cursos al grupo que comparte, en la pestaña Cursos, haga clic en la ofertas de cursos que desea agregar.
+- En Asignar permisos, seleccione los permisos que desea que tenga el grupo que comparte.
+Figura: Compruebe los permisos que desea en la sección Asignar permisos.
+- Haga clic en Agregar > Guardar y cerrar.
+Se crea un nuevo grupo que comparte y puede compartir sus elementos de ePortfolio con ese grupo.
+Video: Crear un grupo que comparte
+Eliminar permisos de uso compartido en un grupo que comparte
+Puede quitar permisos de uso compartido de un grupo que comparte. Esto quita el usuario seleccionado o la oferta de cursos de su grupo que comparte.
+Nota: No puede modificar los grupos que comparten que su curso u organización compartan con usted.
+- En la barra de navegación, haga clic en ePortfolio.
+- En la página Grupos que comparten, haga clic en compartir el grupo que comparte al que desea quitarle permisos.
+- En el área Miembros del grupo que comparte, realice una de las siguientes acciones:
+- Para quitar a un usuario o una oferta de cursos del grupo que comparte, haga clic en el ícono Eliminar permisos.
+Figura: Haga clic en el ícono Quitar permisos para eliminar el permiso correspondiente.
+- Para modificar los permisos de un usuario en el grupo que comparte, haga clic en el ícono Editar permisos. Active o desactive los permisos del usuario.
+- Haga clic en Guardar y cerrar.
+El usuario seleccionado o la oferta de cursos ya no forman parte de su grupo que comparte.

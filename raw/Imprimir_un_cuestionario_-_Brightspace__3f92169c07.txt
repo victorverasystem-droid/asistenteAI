@@ -1,0 +1,36 @@
+URL: https://community.d2l.com/brightspace-es-MX/kb/articles/32983-imprimir-un-cuestionario
+TITLE: Imprimir un cuestionario - Brightspace
+HASH: 3f92169c07666fda6422843a4e0326c994bad74bc066e068990e00863fd5d85d
+TYPE: web
+
+Los cuestionarios impresos son compatibles con todos los tipos de preguntas de cuestionarios de Brightspace nativos, opciones de orden aleatorio y aleatorización, grupos de preguntas, varias versiones y una Clave de respuestas.
+Imprimir un cuestionario
+Para imprimir un cuestionario
+Puede imprimir cuestionarios para usarlos sin conexión.
+- En la página Administrar cuestionarios, haga clic en el menú desplegable junto al nombre del cuestionario y seleccione la opción Imprimir.
+- En la página Imprimir cuestionario, haga lo siguiente:
+- Seleccione la cantidad de versiones que desea generar.
+- Establezca sus preferencias de formato para incluir los campos Nombre, ID del estudiante y Fecha para que los estudiantes completen en el cuestionario impreso.
+- Seleccione una pestaña de versión. Haga clic en Nueva versión para regenerarlo tantas veces como sea necesario.
+Al aumentar la Cantidad de versiones, se generan diferentes conjuntos de preguntas seleccionadas aleatoriamente de los grupos para cada versión.
+- Imprima la versión seleccionada.
+Opciones de preguntas del cuestionario admitidas en cuestionarios impresos
+La funcionalidad Imprimir cuestionario admite una variedad de opciones de preguntas del cuestionario:
+- Se admiten todos los tipos de preguntas originales de Brightspace.
+- Se admiten grupos de preguntas.
+- Cuando selecciona Imprimir, las preguntas se extraen aleatoriamente de grupos de preguntas (similar a lo que sucede cuando se genera un intento de cuestionario).
+- Al aumentar la Cantidad de versiones, se generan diferentes conjuntos de preguntas seleccionadas aleatoriamente de los grupos para cada versión.
+- Al seleccionar una nueva aleatorización o una Nueva versión específica (por ejemplo, Versión A), se activa un nuevo conjunto aleatorio de preguntas de los grupos.
+- Las siguientes Opciones de mezcla son compatibles al imprimir un cuestionario o varias versiones de un cuestionario:
+- Al crear o editar un cuestionario, en la sección Sincronización y visualización de la configuración del cuestionario, seleccione Mezclar cuestionario para aleatorizar el orden de las preguntas y las secciones dentro del cuestionario.
+- Al crear o editar una sección de un cuestionario, seleccione Mezclar preguntas de esta sección para aleatorizar preguntas, secciones y grupos dentro de la sección.
+- Se puede aleatorizar el orden de las respuestas al imprimir un cuestionario o varias versiones de un cuestionario. Al crear una pregunta con varias opciones o de selección múltiple, seleccione Aleatorizar respuestas para presentar las opciones de respuesta en un orden diferente.
+Consulte Crear y configurar un cuestionario para obtener más información sobre estos ajustes.
+Utilizar una Clave de respuestas para calificar un cuestionario impreso
+Puede utilizar la Clave de respuestas proporcionada para cada versión del cuestionario para calificar de manera rápida y sencilla los cuestionarios impresos que se realizaron sin conexión. Esta Clave de respuestas incluye las respuestas correctas y, cuando corresponda, el método de calificación.
+Cómo usar una Clave de respuestas para calificar un cuestionario impreso
+- En la página Administrar cuestionarios, haga clic en el menú desplegable junto al nombre del cuestionario y seleccione la opción Imprimir.
+- En la página Imprimir cuestionario, en Clave de respuestas, seleccioneMostrar respuestas correctas.
+- Elija la pestaña de versión de la versión del cuestionario que desea calificar.
+- Haga clic enImprimir [versión].
+Video: Imprimir un cuestionario

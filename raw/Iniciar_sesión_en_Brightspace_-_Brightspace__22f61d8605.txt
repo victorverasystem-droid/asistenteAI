@@ -1,0 +1,39 @@
+URL: https://community.d2l.com/brightspace-es-MX/kb/articles/22518-iniciar-sesion-en-brightspace
+TITLE: Iniciar sesión en Brightspace - Brightspace
+HASH: 22f61d860508a096037fd4ae43d5c644bcd0090fc5178337bbc87df2029b6bea
+TYPE: web
+
+Su experiencia de inicio de sesión depende de cómo su organización tenga configurado el acceso:
+- Inicio de sesión único (SSO): utiliza el portal de SSO de su organización para acceder a Brightspace y otros sistemas.
+- Inicio de sesión local: utiliza la página de inicio de sesión de Brightspace con un nombre de usuario y una contraseña proporcionados por su administrador.
+- Autenticación de dos factores: agrega un paso adicional después del inicio de sesión local para evitar el acceso no autorizado, lo que requiere que los usuarios ingresen un código de verificación generado por una aplicación del autenticador o recibido por correo electrónico (si se configura).
+Si no está seguro de qué método utilizar, comuníquese con el soporte de TI de su organización.
+Buscar la página de inicio de sesión de Brightspace
+Si no conoce la página de inicio de sesión de Brightspace de su institución, puede utilizar el Buscador de inicio de sesión para ayudar a encontrarlo.
+Obtener sus credenciales de Brightspace
+Su experiencia de inicio de sesión varía según si su organización utiliza autenticación de SSO o un proceso de inicio de sesión local para proporcionar acceso a Brightspace. Por lo tanto, D2L recomienda encarecidamente que se comunique con el administrador del sistema o con el departamento de Soporte de TI si quiere verificar su método de inicio de sesión.
+Para restablecer su contraseña:.
+- En la página de inicio de sesión de Brightspace, haga clic en Restablecer su contraseña.
+- En el campo Dirección de correo electrónico, ingrese su dirección de correo electrónico.
+- Haga clic en Enviar código de verificación.
+- Revise su correo electrónico e ingrese el código de verificación en el campo Código de verificación.
+- Haga clic en Verificar código.
+- Haga clic en Continuar y siga las instrucciones en pantalla para crear una nueva contraseña.
+Configurar la autenticación de dos factores para su cuenta
+Si la autenticación de dos factores está configurada para su organización, la pantalla Habilitar autenticación de dos factores aparece cuando ingresa por primera vez sus detalles de inicio de sesión locales (nombre de usuario y contraseña). La autenticación de dos factores puede aplicarse o ser opcional para su cuenta.
+Puede elegir su método de autenticación de dos factores preferido de las siguientes opciones:
+- Recibir un código de inicio de sesión enviado a una dirección de correo electrónico externa si agregó una a su cuenta
+- Usar una aplicación de autenticación
+Es posible que pueda omitir la configuración de su método de autenticación preferido hasta 5 veces, según la configuración del administrador. También puede cambiar su método de autenticación de dos factores después de haberlo activado inicialmente en Configuración de la cuenta.
+Si la autenticación de dos factores es opcional para su cuenta, puede activar o desactivar estas opciones en su cuenta local en cualquier momento.
+Para configurar la autenticación de dos factores, siga estos pasos:
+- Haga clic en su nombre de usuario y seleccione Configuración de la cuenta.
+- En Configuración general, haga clic en Habilitar autenticación de dos factores en Aplicación de autenticación de dos factores o habilite la opción Autenticación de dos factores por correo electrónico.
+- Siguiendo las instrucciones en el cuadro de diálogo Habilitar autenticación de dos factores, realice una de las siguientes acciones:
+- Instale una aplicación de autenticación en su dispositivo móvil e ingrese su código personal.
+- Siga las instrucciones de la aplicación de autenticación para guardar su código de Brightspace para futuras consultas. Haga clic en Enviar código a correo electrónico e ingrese el código.
+Nota: Los códigos de inicio de sesión enviados por correo electrónico caducan después de 5 minutos.
+- Haga clic en Habilitar autenticación.
+- Cuando haya completado el proceso de configuración, cierre sesión en Brightspace e intente volver a iniciar sesión. Aparecerá un mensaje que le solicitará el código.
+- Ingrese el código y haga clic en Enviar.
+Inició sesión en Brightspace.

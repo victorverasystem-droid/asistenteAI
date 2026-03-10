@@ -1,0 +1,61 @@
+URL: https://community.d2l.com/brightspace-es-MX/kb/articles/22513-ver-y-compartir-premios-obtenidos
+TITLE: Ver y compartir premios obtenidos - Brightspace
+HASH: 4f2eb3fdd47ff0428a6d71fd0ad67f7955b73b7a396c0b8fb2d6567a2baa1512
+TYPE: web
+
+Puede revisar y compartir los premios otorgados por los instructores de un curso.
+Ver los premios
+Para ver los premios obtenidos
+- Vaya a Premios.
+- Para ver los premios que ya ha obtenido, haga clic en Mis premios.
+- Para filtrar los premios que se muestran, haga clic en Todos, Insignias o Certificados.
+- Para ver todos los premios que ha obtenido en los cursos en los que ha participado, seleccione Incluir premios de otros cursos.
+- Para ver los premios que aún no ha obtenido en el curso, haga clic en Ver premios disponibles.
+Compartir premios obtenidos
+Muchos usuarios consideran que ganar premios del curso es un gran logro. Para destacar estos logros, puede compartir sus premios con otras personas de forma interna (en Brightspace) o externa.
+Compartir premios
+Para compartir premios
+- En la barra de navegación, haga clic en Premios.
+- En la página Mis premios, encuentre los premios que desea compartir.
+- Si desea filtrar los premios específicamente para el curso que está viendo en este momento, desmarque Incluir premios de otros cursos.
+- Haga clic en el enlace Compartir en el premio que desea compartir.
+Figura: Haga clic en Compartir para compartir el premio deseado, ya sea de manera interna o externa.
+- Seleccione la ubicación donde desea compartir el premio.
+Compartir premios internamente en Brightspace
+Para compartir su premio internamente, haga clic en Compartir en perfil o en Enviar a ePortfolio.
+Figura: Haga clic en Compartir a perfil o Enviar a ePortfolio en el cuadro de diálogo Compartir mi premio para compartir su premio.
+Compartir premios mediante un enlace público
+Para compartir su premio externamente, haga clic en Crear enlace para generar un enlace público, que se puede copiar en la ubicación deseada para compartir. Luego, haga clic en Cerrar.
+Figura: haga clic en Crear enlace en el cuadro de diálogo Compartir mi premio para generar una dirección URL que puede usar para compartir su premio.
+Figura: Haga clic en Copiar enlace para copiar la URL en el portapapeles.
+Compartir premios en un perfil de LinkedIn
+Para compartir un premio en su perfil de LinkedIn
+- Haga clic en Compartir en LinkedIn.
+Figura: Haga clic en Compartir en LinkedIn en el cuadro de diálogo Compartir mi premio.
+- Revise la información que debe estar en la sección Licencias y certificaciones de su perfil de LinkedIn y seleccione Incluir enlace público al premio si desea agregar un enlace a su logro. La opción de incluir un enlace público solo está disponible si el administrador la ha activado. Haga clic en Compartir en LinkedIn.
+Figura: Revise la configuración de uso compartido y, a continuación, haga clic en Compartir en LinkedIn.
+Su perfil en LinkedIn se abre en una nueva ventana del navegador. La información sobre su premio, incluido su Nombre, Organización emisora, Fecha de emisión y vencimiento y URL pública (si corresponde), se completa automáticamente en la ventana modal Agregar licencia o certificación de LinkedIn.
+Haga clic en Guardar.
+El premio aparece en la sección Licencias y certificaciones de su perfil de LinkedIn. También puede compartir este logro en la sección de noticias de la página de inicio de LinkedIn.
+Exporte y comparta premios como credenciales digitales
+Puede descargar sus certificados o insignias ganadas como insignia estándar de la industria que cumple con Open Badges 2.0 para conservarlos o seguir compartiéndolos.
+Para descargar un premio:
+- En la barra de navegación, haga clic en Premios.
+- En la página Mis premios, encuentre los premios que desea compartir.
+- Si desea filtrar los premios específicamente para el curso que está viendo en este momento, desactive Incluir premios de otros cursos.
+- Haga clic en el enlace Compartir en el premio que desea descargar.
+- Haga clic en Exportar credencial digital.
+Figura: Haga clic en Exportar credencial digital.
+- En la ventana abierta, proporcione y confirme su dirección de correo electrónico.
+- Haga clic en Exportar.
+La exportación de una credencial digital descarga las insignias o certificados en formato .png con los datos del premio integrados en la imagen.
+Video: Compartir premios mediante un enlace público
+Preguntas frecuentes sobre premios
+¿Cuál es la diferencia entre una Insignia y un Certificado?
+Las insignias se otorgan de acuerdo con los criterios establecidos por su instructor. Su propósito es ofrecer marcadores digitales que representan logros alcanzados durante un curso o programa.
+Los certificados también se otorgan de acuerdo con los criterios establecidos por su instructor. Los certificados son similares a las insignias; sin embargo, incluyen un archivo PDF que usted puede imprimir.
+Para obtener más información, consulte Premios.
+¿Cómo puedo demostrar la singularidad y autenticidad de mi certificado?
+Si su certificado incluye un ID numérico generado automáticamente, estos 12 caracteres numéricos identifican de forma única el premio emitido.
+Acabo de recibir un premio, pero no hay una opción para compartirlo en forma externa. ¿Cómo puedo crear un enlace para compartirlo en forma externa cuando solo hay una opción para compartir de manera interna?
+Su institución determina la capacidad de compartir premios en forma externa. Póngase en contacto con su instructor o con su institución si desea compartir sus premios de manera externa.

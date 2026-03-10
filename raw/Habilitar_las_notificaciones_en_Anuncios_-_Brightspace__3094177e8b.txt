@@ -1,0 +1,23 @@
+URL: https://community.d2l.com/brightspace-es-MX/kb/articles/33890-habilitar-las-notificaciones-en-anuncios
+TITLE: Habilitar las notificaciones en Anuncios - Brightspace
+HASH: 3094177e8b211c113cd01d8340ae2091eba38dde7d04c7bd6c11cc3db4cef83f
+TYPE: web
+
+Reciba comunicaciones frecuentes y habituales de su instructor personalizando las preferencias de notificación para recibir actualizaciones importantes del curso.
+Habilitar las notificaciones en Anuncios
+-
+Vaya al curso para el que desea habilitar las notificaciones de anuncios.
+-
+En el componente Anuncios, haga clic en el menú desplegable y seleccione Notificaciones.
+Figura: Acceso a notificaciones a través del componente anuncios.
+Aviso: Si la herramienta Anuncios no está en la página de inicio de su curso, puede ubicarla en la barra de navegación o en el menú Herramientas del curso.
+-
+Se carga una nueva página en la que puede ingresar los métodos de contacto deseados:
+-
+Haga clic en las casillas de selección de los métodos de comunicación deseados cuando reciba notificaciones de Noticias.
+-
+Noticias/Noticia actualizado: le envía una notificación si una noticia existente publicada por su instructor se actualizó.
+-
+Noticias/Nueva noticia disponible: Le envía una notificación si se publicó una nueva noticia en su curso.
+Figura: Configure las notificaciones de correo electrónico de Noticias.
+Las notificaciones están habilitadas para las Noticias.

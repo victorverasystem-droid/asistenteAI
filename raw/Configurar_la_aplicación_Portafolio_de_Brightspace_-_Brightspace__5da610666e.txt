@@ -1,0 +1,48 @@
+URL: https://community.d2l.com/brightspace-es-MX/kb/articles/33916-configurar-la-aplicacion-portafolio-de-brightspace
+TITLE: Configurar la aplicación Portafolio de Brightspace - Brightspace
+HASH: 5da610666e5b7f4e9abac77cd1665d0f9c6de5f1a0896369029f76a2bb370d66
+TYPE: web
+
+Puede configurar Brightspace Portfolio en un dispositivo personal o en un dispositivo familiar compartido. El instructor puede configurar Brightspace Portfolio en un dispositivo de aula compartido.
+Según el dispositivo que elija, Brightspace Portfolio ofrece varios modos para diferentes tipos de estudiantes:
+- Los modos En el aula y En el hogar proporcionan un flujo de trabajo adaptado a estudiantes más avanzados con la posibilidad de incluir comentarios mediante audio o texto.
+Figura: Modo En el aula en la aplicación Brightspace Portfolio
+- Los modos En el aula con Funster y En el hogar con Funster proporcionan un flujo de trabajo con una divertida criatura para guiar a los nuevos estudiantes en el proceso. En el modo Funster, los instructores pueden decidir si quieren que los estudiantes registren sus observaciones sobre su trabajo.
+Figura: Modo Funster en la aplicación Brightspace Portfolio
+Configurar Brightspace Portfolio en un dispositivo personal
+- En su dispositivo, descargue Brightspace Portfolio en cualquier tienda Google Play™ o Apple App Store® a nivel mundial.
+- Toque el ícono Brightspace Portfolio.
+- Toque Mi dispositivo.
+- Realice una de las siguientes acciones:
+- Ingrese la dirección URL Brightspace Learning Environmenty, luego, toque Conectar.
+- Toque Escanear código y utilice la aplicación Brightspace Portfolio para escanear el código QR que proporcionó el instructor.
+- Ingrese las credenciales de Brightspace y luego toque Iniciar sesión.
+- Para comenzar a recopilar pruebas, consulte Recopilar pruebas.
+Configurar Brightspace Portfolio en un dispositivo familiar compartido
+- En su dispositivo familiar, descargue Brightspace Portfolio en cualquier tienda Google Play™ o Apple App Store® a nivel mundial.
+- Toque el ícono Brightspace Portfolio.
+- Toque Dispositivo familiar.
+- Toque una de las siguientes opciones:
+- En casa
+- En el hogar con Funster. Este modo proporciona orientación amigable a los estudiantes jóvenes.
+- Para comenzar a recopilar pruebas, consulte Recopilar pruebas.
+Usar la aplicación Brightspace Portfolio en el hogar
+El modo En el hogar de Brightspace Portfolio apoya a estudiantes jóvenes, sus padres y sus profesores mientras aprenden desde casa.
+El modo Funster se diseñó originalmente para que fuera muy fácil de usar para un estudiante joven, a la vez que requiere una ayuda mínima de un profesor en un entorno de aula. Supone que un profesor controla un dispositivo de aula compartido, como una tableta, y escanea la tarjeta de aula antes de que los estudiantes puedan utilizar el dispositivo para capturar fotos y reflexiones. Es una excelente herramienta para un aula y esta funcionalidad sigue disponible.
+Ahora que todos los niños están aprendiendo en casa, la dinámica ha cambiado. Puede haber varios niños en una familia, todos en diferentes niveles y con diferentes profesores, y sería difícil para un profesor enviar individualmente la tarjeta de clase y las tarjetas de estudiantes a todos los padres.
+Informe a sus estudiantes y padres sobre el modo En el hogar de Brightspace Portfolio dirigiéndolos a la publicación del blog Brightspace Portfolio en el hogar, para permitirles recibir las tarjetas de acceso de los estudiantes que contienen sus códigos QR individuales y acceder al modo En el hogar. Como opción, el modo En el hogar para los profesores ahora le permite descargar los códigos QR de su clase de forma individual para distribuirlos.
+Nota: en los códigos QR, se incluye información privada y se deben tratar como tal.
+A medida que los estudiantes recopilan pruebas en el modo En el hogar de Brightspace Portfolio, las pruebas aparecen en la página Aprobar pruebas de su clase en Brightspace.
+Imprima un pase de estudiante para el modo En el hogar de Brightspace Portfolio
+- Asegúrese de que su dispositivo (como un iPad, iPhone o dispositivo Android) tenga la versión más reciente de Brightspace Portfolio.
+- Para descargar Brightspace Portfolio por primera vez o para actualizarlo, en App Store (para iOS) y Google Play Store (para Android), busque Brightspace Portfolio y haga clic en Instalar o Actualizar.
+- En una computadora, como estudiante, inicie sesión en Brightspace.
+- En su menú personal, haga clic en Mi portafolio.
+- Haga clic en Imprimir pases de clase.
+- Utilice el enlace de descarga () para descargar su pase personal. Puede imprimir el pase o guardarlo a nivel local en su dispositivo para uso futuro.
+Nota: Su estudiante deberá utilizar estos pases cada vez que registre pruebas. Si está imprimiendo el código QR, imprímalo en alta calidad y a una escala del 100 %.
+Uso del modo En el hogar de Brightspace Portfolio para estudiantes y padres
+- En su dispositivo iOS o Android, inicie la aplicación Brightspace Portfolio.
+- Seleccione Dispositivo familiar.
+- Luego, seleccione En el hogar o En el hogar con Funster; si se selecciona, el Funster ofrecerá orientación amigable para el estudiante.
+- Escanee su pase personal y comience a obtener pruebas de su aprendizaje.

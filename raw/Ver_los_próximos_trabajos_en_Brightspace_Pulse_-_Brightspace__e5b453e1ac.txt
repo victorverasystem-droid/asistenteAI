@@ -1,0 +1,15 @@
+URL: https://community.d2l.com/brightspace-es-MX/kb/articles/33930-ver-los-proximos-trabajos-en-brightspace-pulse
+TITLE: Ver los próximos trabajos en Brightspace Pulse - Brightspace
+HASH: e5b453e1ac70d966cd2a058e044e04dcc5c1e75fab2b903624f187b06f630397
+TYPE: web
+
+En Brightspace Pulse, la pestaña Próximo muestra la próxima actividad para sus cursos. El gráfico muestra las próximas actividades de un vistazo, lo que indica qué días estarán más ocupados.
+Puede filtrar la lista de actividades tocando las pestañas secundarias Trabajo por hacer, Eventos o Todas.
+Para navegar por las semanas, deslícese, o bien utilice Apple VoiceOver. A medida que navega, la lista de actividades se actualiza y muestra un resumen de las actividades que se deben realizar durante el día. Tocar un día en el gráfico también actualiza la lista de actividades. En la lista de actividades se muestra un resumen de sus actividades; por ejemplo, lecturas, asignaciones y evaluaciones.
+Utilice la pestaña Próximo para realizar las siguientes acciones:
+- Para navegar por las actividades, deslícese hacia arriba o hacia abajo.
+- Deslícese hacia la izquierda o la derecha para pasar a la semana siguiente o anterior. Mientras navega, el gráfico se actualiza.
+- Presione una actividad para que se muestre la información detallada y las acciones que puede realizar.
+- Cuando se completa una actividad, aparece automáticamente un ícono de la marca de verificación.
+Fechas de inicio, fechas finales y fechas de vencimiento para las actividades
+Para ayudarlo a mantener el rumbo, Brightspace Pulse utiliza fechas de inicio, fechas finales y fechas de vencimiento para las actividades, lo que garantiza que las actividades aparezcan en la pestaña Próximo. Sin embargo, para algunas actividades, no se aplican las fechas de vencimiento. Específicamente, para los temas de debate y las encuestas agregadas desde la herramienta de contenido, estas actividades deben tener una fecha de inicio y una fecha final. Si estas actividades solo tienen una fecha de vencimiento y se agregan desde la herramienta de contenido, no aparecen en la pestaña Próximo.

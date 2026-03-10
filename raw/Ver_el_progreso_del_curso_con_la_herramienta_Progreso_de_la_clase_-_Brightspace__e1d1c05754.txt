@@ -1,0 +1,27 @@
+URL: https://community.d2l.com/brightspace-es-MX/kb/articles/22517-ver-el-progreso-del-curso-con-la-herramienta-progreso-de-la-clase
+TITLE: Ver el progreso del curso con la herramienta Progreso de la clase - Brightspace
+HASH: e1d1c057547c62404481221e2d7d54378e00435ed19ff4c32fbf12b8fc74c7ad
+TYPE: web
+
+La herramienta Progreso de la clase ayuda a hacer un seguimiento de su progreso en un curso; para ello, se mide el avance de distintos indicadores de progreso. También puede utilizar la herramienta Progreso de la clase para realizar un seguimiento de las asignaciones y los comentarios específicos de un curso. Los instructores pueden usar la herramienta de progreso de la clase para realizar un seguimiento de su progreso general en el curso y elaborar informes de progreso.
+Los informes de progreso se encuentran disponibles para los siguientes indicadores de progreso:
+Resumen
+Calificaciones
+Estándares
+Objetivos
+Herramienta de contenido
+Debates
+Asignaciones
+Cuestionarios
+Lista de control
+Encuestas
+Historial de inicios de sesión
+Historial de acceso al sistema
+Para ver el progreso del curso en la herramienta Progreso de la clase
+- En la barra de navegación, haga clic en Progreso de la clase. Aparece la pestaña Resumen. Figura: La pestaña Resumen en la herramienta Progreso de la clase.
+- Haga clic en el ícono Expandir para ver detalles acerca de su progreso en cada categoría. Por ejemplo, en el área Calificaciones se muestran todos los elementos calificados del curso y sus comentarios respectivos. También es posible que vea la distribución de las calificaciones para el resto de la clase. En este gráfico, el punto negro representa su calificación.
+- Para ver las rúbricas calificadas y los comentarios, haga clic en Comentarios
+Figura: Una vista detallada de las calificaciones en la pestaña Resumen de la herramienta Progreso de la clase.
+Otras pestañas de la herramienta Progreso de la clase muestran información más detallada sobre su progreso. Por ejemplo, en la pestaña Contenido se muestra su progreso en el contenido. Según la manera en que un instructor haya configurado el contenido de su curso, las páginas pueden marcarse como completas de forma automática cuando usted acceda a la página o, en algunos casos, deberá hacer clic en el botón Marcar como completo en la parte inferior de la página de contenido. La posibilidad de marcar un tema como completo de forma manual proporciona un seguimiento de avances más preciso.
+Cada módulo tiene una barra de progreso que muestra su nivel de avance. Puede expandir cada módulo para ver los temas que ya completó y los que faltan.
+Figura: La pestaña Contenido en la herramienta Progreso de la clase.

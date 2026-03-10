@@ -1,0 +1,17 @@
+URL: https://community.d2l.com/brightspace-es-MX/kb/articles/11092-instalacion-y-configuracion-de-la-vista-de-maestria-del-cuaderno-de-calificaciones
+TITLE: Instalación y configuración de la vista de maestría del cuaderno de calificaciones - Brightspace
+HASH: 90c1de2a881e2462c443c906bf86828c9dcc0f900bd0538a08c0275f74dfbb69
+TYPE: web
+
+Dependencias de la herramienta
+La vista de maestría depende de que se habiliten los resultados de aprendizaje a nivel de la organización principal y dentro de la oferta de cursos. Cuando está activada, aparece automáticamente en la herramienta de resultados de aprendizaje (estándares) en el nivel de la organización principal y dentro de la oferta de cursos. Además, asegúrese de que las calificaciones estén habilitadas a nivel de la organización principal y a nivel del curso.
+Para obtener más información sobre la configuración de la herramienta de resultados de aprendizaje (estándares), consulte:
+Variables de configuración
+Además de los ajustes de las variables de configuración necesarios para los resultados de aprendizaje, la variable de configuración d2l.Tools.LearningOutcomes.LoaSuggestions deberá estar habilitada en la organización u oferta de cursos donde desee utilizar la Visualización de Dominio de Aprendizaje del cuaderno de Calificaciones. Si esta variable no está habilitada, el sistema no puede realizar sugerencias automatizadas para el nivel de logro en las evaluaciones de las actividades individuales. El evaluador deberá completar manualmente dichas evaluaciones de nivel de logro para que el motor de cálculo de la vista de maestría proporcione un nivel sugerido de logro basándose en la valoración de las evaluaciones.
+Nota: La variable de configuración d2l.Languages.Terminology.LearningOutcomes le permite elegir el nombre o la etiqueta para la herramienta de resultados de aprendizaje. Hay cinco opciones disponibles (Estándares, Expectativas, ResultadosObjetivos, Competencias). En general, la documentación del usuario hace referencia a la herramienta como Resultados; sin embargo, puede haber algunos casos en los que se utilice un ejemplo diferente. Es posible que su caso no tenga la misma etiqueta que los ejemplos.
+Permisos
+Los siguientes son los permisos basados en roles que rigen el uso de la Vista de maestría:
+- Resultados > Administrar resultados
+- Calificaciones > Ver la herramienta Calificaciones, Ingresar calificaciones
+Se le debe asignar el permiso Administrar resultados a nivel de Organización o Curso para utilizar la herramienta Resultados de aprendizaje. Con este permiso, puede importar o crear resultados de aprendizaje en un curso y copiar los requisitos estándar entre cursos. Este permiso le permite configurar escalas de logros si se otorga a nivel de Organización.
+Para acceder a la vista de dominio, también debe tener los permisos Ver la herramienta Calificaciones e Ingresar calificaciones. Con estos permisos, puede seleccionar una intersección estudiante/resultado para ver la página Evaluación manual y utilizar la funcionalidad Anulación manual para realizar una anulación manual e ingresar comentarios.

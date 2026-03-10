@@ -1,0 +1,120 @@
+URL: https://community.d2l.com/brightspace-es-MX/kb/articles/15191-ingresar-calificaciones-en-la-herramienta-calificaciones
+TITLE: Ingresar calificaciones en la herramienta Calificaciones - Brightspace
+HASH: d418d8ee4d0297503f033cc03ded15098d275c5c1c90d1ea864833880609193c
+TYPE: web
+
+Utilice la pestaña Ingresar calificaciones para ver fácilmente todas las calificaciones de los estudiantes, las categorías de calificaciones y los elementos de calificación. Desde esta pestaña, los instructores pueden valorar y evaluar las calificaciones, así como importar y exportar cuadernos de calificaciones.
+Ir a la pestaña Ingresar calificaciones
+La pestaña Ingresar calificaciones de la herramienta Calificaciones proporciona una vista general de las calificaciones de los estudiantes, las categorías de calificación (como Pruebas, Asignaciones y Debates) y los elementos de calificación en esas categorías. Debe ir a la herramienta Calificaciones para acceder a la pestaña Ingresar calificaciones.
+Para Ir a la pestaña Ingresar calificaciones
+- Vaya a Calificaciones.
+- Haga clic en la pestaña Ingresar calificaciones.
+Descripción general de la pestaña Ingresar calificaciones
+En la pestaña Ingresar calificaciones, puede:
+- Importar y exportar su cuaderno de calificaciones.
+- Utilice el filtro para mostrar a todos los usuarios de una clase, equipo de trabajo o sección dentro del curso.
+Recorrido visual
+-
+Filtre estudiantes por Secciones o Equipos de trabajo.
+-
+Comuníquese con los estudiantes enviándoles un correo electrónico masivo haciendo clic en la casilla de selección situada junto a los nombres de determinados estudiantes o en la casilla del encabezado de una tabla para seleccionar a todos los estudiantes del intervalo filtrado.
+-
+Evalúe el material enviado de los estudiantes.
+-
+Revise y actualice todos los elementos de calificación del curso.
+-
+Consulte el registro de eventos para revisar los cambios históricos del elemento de calificación, como cambios de esquema, cambios de descripción o cambios de categoría.
+-
+Utilice el menú desplegable junto a un título de columna para ocultar o mostrar columnas. Haga clic en el encabezado de una columna para ordenar la tabla según esa columna.
+Ingresar calificaciones
+Para ingresar calificaciones
+- En la barra de navegación, haga clic en Calificaciones.
+- En la página Ingresar calificaciones, realice una de las siguientes acciones:
+- Para ingresar calificaciones manualmente de un usuario individual, haga clic sobre el nombre del usuario.
+- Para ingresar las calificaciones de un elemento de calificación de forma manual, en el menú contextual del elemento de calificación, haga clic en Ingresar calificaciones.
+- Para ingresar calificaciones de una categoría de forma manual, en el menú contextual del elemento de calificación, haga clic en Ingresar calificaciones.
+- Ingrese las calificaciones.
+- Haga clic en Guardar y cerrar.
+Video: Ingresar calificaciones con la herramienta Calificaciones
+Video: Calificación en Brightspace
+Importar el cuaderno de calificaciones
+Mediante la función Importar, los instructores pueden utilizar la herramienta Calificaciones para importar cuadernos de calificaciones existentes.
+Para importar el cuaderno de calificaciones
+- Vaya a Calificaciones.
+- En la pestaña Ingresar calificaciones, haga clic en Importar.
+- Haga clic en Elegir archivo para seleccionar un archivo de su dispositivo.
+- Para crear nuevos elementos de calificación que aún no existan en su cuaderno de calificaciones, seleccione Crear nuevo elemento de calificación cuando se haga referencia a un elemento no reconocido.
+- Haga clic en Continuar para iniciar la secuencia guiada del proceso de importación.
+Cuando finalice el proceso, recibirá un mensaje indicando que la importación se ha realizado correctamente.
+Exportar el libro de calificaciones
+Puede exportar su cuaderno de calificaciones desde Brightspace como archivo .CSV o Excel.
+Para exportar el cuaderno de calificaciones
+- Vaya a Calificaciones.
+- En la pestaña Ingresar calificaciones, haga clic en Exportar.
+- En Exportar elementos de calificación para, seleccione si desea exportar elementos de calificación para todos los usuarios o grupos o secciones específicos.
+- Haga clic en Aplicar.
+- En Campo clave, seleccione qué identificador de estudiante va a incluir en el archivo de exportación.
+- En Ordenar por, seleccione cómo se muestran los identificadores, de izquierda a derecha, en el archivo de exportación.
+- Utilice Valores de calificación para definir qué detalles de calificación se exportan. Elija una o más de las siguientes opciones: calificación por puntos, calificación ponderada, esquema de calificaciones.
+- Seleccione los Detalles del usuario que desea incluir en la exportación.
+- Seleccione las categorías de calificación y los elementos de calificación que desea incluir en la exportación.
+- Seleccione el tipo de archivo de exportación.
+- Seleccione una de las siguientes opciones:
+- Exportar a CSV
+- Exportar a Excel
+- Se abre la ventana Exportar calificaciones. Una vez finalizada la exportación, haga clic en Descargar.
+Las calificaciones se exportan y descargan como archivo .CSV o Excel.
+Para imprimir sus calificaciones, en el archivo exportado, haga clic en la opción Imprimir.
+Video: Evaluación del material enviado de los estudiantes
+Evalúe de manera individual el material enviado de los estudiantes.
+Existen varias formas de ingresar calificaciones para el material enviado de los alumnos y para editar calificaciones existentes. D2L recomienda utilizar Evaluación rápida para evaluar todos los materiales enviados de los alumnos. Sin embargo, también están disponibles los siguientes métodos opcionales para evaluar mediante evaluaciones, materiales enviados de los estudiantes y para ingresar manualmente elementos de calificación en cursos completos utilizando la pestaña Ingresar calificaciones.
+Para evaluar de manera individual el material enviado de los estudiantes
+- Vaya a Calificaciones.
+- En la pestaña Ingresar calificaciones, en el elemento de calificación, haga clic en el ícono correspondiente junto al material enviado del alumno.
+Evaluar con vista de hoja de cálculo
+Las calificaciones también pueden ingresarse manualmente utilizando Cambiar a vista de hoja de cálculo en la pestaña Ingresar calificaciones. La vista de hoja de cálculo le permite ingresar calificaciones numéricas para todos los elementos de calificación. La vista de hoja de cálculo también le permite anular calificaciones ingresadas anteriormente.
+Ingresar calificaciones en la vista de hoja de cálculo
+-
+Vaya a Calificaciones.
+-
+En la pestaña Ingresar calificaciones, haga clic en Cambiar a Vista de hoja de cálculo.
+-
+Localice el elemento que desea ingresar o sobrescribir.
+-
+Ingrese el valor nuevo.
+-
+Si desea volver a la vista estándar, haga clic en Cambiar a vista estándar.
+-
+Haga clic en Guardar.
+Las calificaciones se actualizan en el cuaderno de calificaciones.
+Publicar calificaciones finales
+Los instructores pueden publicar o dar a conocer las calificaciones finales a los estudiantes para revelar su evaluación general del curso. Los estudiantes solo pueden ver su Calificación calculada final o Calificación final rectificada una vez que se haya publicado.
+Para publicar (dar a conocer) calificaciones finales
+- Vaya a Calificaciones.
+- Seleccione la pestaña Ingresar calificaciones.
+- En la columna Calificación calculada final, haga clic en la calificación del estudiante que desea publicar.
+- En Calificación final, seleccione Publicar calificación calculada final.
+- Haga clic en Guardar y cerrar.
+La calificación final se publica para ese estudiante. Repita los pasos a fin de publicar las calificaciones finales para estudiantes adicionales.
+Video: Publicar calificaciones finales
+Borrar una calificación
+Puede eliminar una calificación de uno o más estudiantes con la opción Borrar calificaciones.
+Para borrar una calificación
+- En la barra de navegación, haga clic en Calificaciones.
+- En la pestaña Ingresar calificaciones, haga clic en la flecha hacia abajo junto a la calificación que desea borrar y seleccione Ingresar calificaciones en el menú contextual.
+- Marque la casilla de selección junto a los estudiantes cuyas calificaciones desea borrar.
+- Haga clic en Borrar calificaciones.
+- En el cuadro de diálogo de confirmación, haga clic en Sí.
+Calificaciones finales sin publicar
+Puede deshacer fácilmente la publicación de las calificaciones finales de los estudiantes en el curso mediante la opción Anular todas las publicaciones.
+- En la barra de navegación, haga clic en Calificaciones.
+- En la página Ingresar calificaciones del menú contextual Calificación calculada final o Calificación final rectificada, haga clic en Ingresar calificaciones.
+- En el menú desplegable Calificaciones finales, haga clic en Anular todas las publicaciones. Haga clic en Sí.
+- Haga clic en Guardar.
+Solución de problemas con calificaciones
+Las calificaciones de cuestionarios, asignaciones, debates y otro tipo de contenido se pueden hacer visibles y publicar para los estudiantes en la herramienta Calificaciones. La visibilidad de las calificaciones de las actividades se controla mediante los detalles que se establecen en la herramienta Calificaciones.
+Los estudiantes no pueden ver la calificación de su cuestionario
+La visibilidad de la calificación de un cuestionario se controla en el menú Evaluación y comentarios cuando se crea o edita un cuestionario. Puede hacer clic en la casilla de selección de Calificación del intento para permitir que los estudiantes vean la calificación de su cuestionario. También puede seleccionar la casilla de selección de los Resultados del intento de publicación automática inmediatamente después de la finalización, de modo que los estudiantes puedan ver su calificación tan pronto como finalicen un cuestionario.
+Además, vaya a la herramienta Calificaciones y seleccione el cuestionario que desea configurar. En la pestaña Propiedades, en la sección Opciones de visualización > Vista de estudiantes, haga clic en Anular las opciones de visualización de este elemento para modificar la forma en que se les muestra la calificación del cuestionario a los estudiantes.
+Los estudiantes no pueden ver la calificación de su asignación
+Las asignaciones y los comentarios de estas los publica manualmente el instructor. En la herramienta Asignaciones, cuando selecciona una asignación para calificar, aparece todo el material enviado para los estudiantes. Si hace clic en un usuario para ver y calificar su asignación, puede hacer clic en Publicar para publicar la calificación de la asignación y los comentarios o hacer clic en Guardar borrador para continuar trabajando más tarde en el material enviado. Los estudiantes no podrán ver la calificación de su asignación porque el material enviado de la asignación calificada aún se guarda como borrador. La calificación publicada aparece en la herramienta Calificaciones tanto para usted como para el estudiante.

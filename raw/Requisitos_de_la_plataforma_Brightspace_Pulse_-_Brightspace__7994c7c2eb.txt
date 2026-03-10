@@ -1,0 +1,38 @@
+URL: https://community.d2l.com/brightspace-es-MX/kb/articles/33926-requisitos-de-la-plataforma-brightspace-pulse
+TITLE: Requisitos de la plataforma Brightspace Pulse - Brightspace
+HASH: 7994c7c2ebdea2eaf9624ac5341b78fbfb8a7cf7b3b9be3bc2f0e0714e3c81ab
+TYPE: web
+
+Brightspace Pulse se puede descargar desde cualquier tienda Google Play™ o Apple App Store® a nivel mundial. Por lo general, la aplicación se lanza a principios de mes y, en ocasiones, a mediados de mes, si se encuentran problemas. Según cómo esté configurado su dispositivo, la aplicación se actualizará de forma automática o, posiblemente, tendrá que buscar versiones nuevas de manera manual.
+Soporte de la plataforma de Brightspace
+Brightspace Pulse es compatible con la plataforma de Brightspace 10.5.1 y superior. De manera predeterminada, Brightspace Pulse está activado para utilizarlo en su organización.
+Compatibilidad con regiones e idiomas
+Brightspace Pulse es compatible en las siguientes regiones geográficas:
+- EE. UU.
+- Canadá
+- Europa, Oriente Medio y África (EMEA)
+- Asia Pacífico (Singapur y Australia)
+Brightspace Pulse está disponible para su uso en los siguientes idiomas:
+- Árabe (Arabia Saudita)
+- Chino (simplificado)
+- Chino (tradicional)
+- Danés
+- Holandés
+- Inglés (EE. UU.)
+- Francés (Canadá)
+- Francés (Francia)
+- Alemán (Alemania)
+- Japonés
+- Coreano
+- Portugués (Brasil)
+- Español (América Latina)
+- Sueco
+- Turco
+Nota: La aplicación Brightspace Pulse refleja la preferencia de idioma seleccionada en el dispositivo del usuario, no lo que está configurado en Brightspace. Esto incluye soporte de idiomas que se leen de derecha a izquierda.
+Compatibilidad con sistemas operativos
+Brightspace Pulse está optimizado para dispositivos móviles con los siguientes sistemas operativos:
+Nota: Para una experiencia óptima, D2L recomienda usar Brightspace Pulse en un dispositivo móvil con la última versión de un sistema operativo compatible.
+- AndroidTM 6.0 (versión del 2015) o versiones posteriores en tabletas o teléfonos
+- IOS® 13.0 o posterior en iPhone®, iPad® y iPod® touch
+Soporte de accesibilidad
+Se puede acceder a Brightspace Pulse utilizando VoiceOver (iOS) y TalkBack (Android).

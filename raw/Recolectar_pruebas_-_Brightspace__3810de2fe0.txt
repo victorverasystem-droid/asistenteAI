@@ -1,0 +1,130 @@
+URL: https://community.d2l.com/brightspace-es-MX/kb/articles/33917-recolectar-pruebas
+TITLE: Recolectar pruebas - Brightspace
+HASH: 3810de2fe0f4961a770d3955578c0803047c855be99edd2278a86a94c18821b8
+TYPE: web
+
+Recopilación y carga de evidencia fotográfica y de video para un curso
+Utilice Brightspace Portfolio para recopilar evidencias fotográficas y de video de su aprendizaje en el aula, en casa o en excursiones. La forma en que recopila pruebas con Brightspace Portfolio depende del dispositivo que está utilizando (dispositivo de clase, personal o familiar) y el modo (Dispositivo de clase, Modo familiar, Mi dispositivo).
+Después de recopilar pruebas, las carga en su carpeta de clases mediante la aplicación Brightspace Portfolio o la herramienta Portfolio en Brightspace.
+Importante: Según cómo esté configurado su curso, es posible que su instructor deba aprobar cualquier prueba que envíe antes de que aparezca en su portafolio. Esto significa que puede haber un retraso entre la carga de las pruebas y el momento en que aparecen en su portafolio.
+Ver pruebas recientes
+Con el fin de proporcionar un flujo de trabajo intuitivo para cargar y aprobar pruebas, la aplicación Brightspace Portfolio en el modo En casa y Mi dispositivo incluye una lista de Pruebas recientes. Desde esta lista, puede ver las pruebas capturadas que está cargando, las que están en espera de aprobación por parte de su instructor y las que están aprobadas (agregadas a su portafolio).
+En la pantalla de captura de la aplicación Brightspace Portfolio, se muestra un ícono de Pruebas recientes. Al tocar el ícono, se muestra la lista de Pruebas recientes. Cada elemento incluye el título de la prueba, la fecha en que se cargó y el estado de la carga. Si toca Atrás, volverá a la pantalla de captura.
+Notas:
+- La lista de Pruebas recientes muestra las pruebas que envió en los últimos 30 días el usuario actual en el dispositivo actual.
+- Después de cargar las pruebas, el estado se actualiza después de 10 minutos.
+- Si Brightspace Portfolio no puede recuperar el estado de las pruebas (estas se eliminaron, no hay conexión a Internet), el estado se muestra como “No disponible”.
+Agregar evidencia de asignación
+Importe sin problemas las asignaciones enviadas al portafolio para mejorar su registro de aprendizaje.
+Para agregar evidencia de asignación
+- Vaya a Asignaciones.
+- En la página Asignaciones, haga clic en Ver historial.
+- En el menú desplegable Asignación, seleccione la asignación que desea agregar a la carpeta y haga clic en Aplicar.
+- Haga clic en + Agregar al Portafolio.
+Figura: Haga clic en + Agregar al Portafolio para agregar la asignación al portafolio.
+- En el cuadro de diálogo ¿Agregar esta asignación al Portafolio?, haga clic en Agregar.
+Figura: Haga clic en Agregar para agregar la asignación al portafolio.
+La asignación se agregó al portafolio. Los detalles de envío, la calificación y los comentarios generales de la asignación también aparecen aquí.
+Recopilar pruebas en un dispositivo de clase con el modo en el aula
+- Después de que el instructor escanee la tarjeta de clase con el dispositivo de la clase, toque Iniciar recopilación para su portafolio.
+- Escanee el código QR en la tarjeta de clase.
+- Con la función de la cámara o de video en Brightspace Portfolio, recopile fotos o videos como pruebas.
+- Realice cualquiera de las siguientes acciones:
+- En el campo Título de su trabajo, proporcione un título para las pruebas.
+- En el campo Decir algo al respecto, toque Iniciar grabación para proporcionar una reflexión en audio de las pruebas. Cuando termine, toque Detener grabación. Para reproducir la grabación, toque el ícono Reproducir. Para volver a grabar, toque Reemplazar grabación.
+- En el campo Escribir algunas ideas, proporcione una reflexión escrita de las pruebas.
+- Para agregar las pruebas a su portafolio, toque Listo.
+Recopilar pruebas en un dispositivo de clase con el modo en el aula con Funster
+- Después de que el instructor escanea la tarjeta de clase con el dispositivo de la clase, active Funster y comience a recopilar pruebas tocando ¡Hora de despertar!
+- Toque ¡Comencemos!
+- Escanee el código QR en la tarjeta de clase.
+- Para recopilar pruebas en fotos, presione ¡Es hora de las fotos! Mantenga la cámara inmóvil hacia un objeto mientras el temporizador realiza una cuenta regresiva.
+- Si le gusta la foto, presione Sí. Para descartar la foto y tomar una nueva, toque No.
+- Para proporcionar una reflexión en audio sobre las pruebas, toque ¡Es hora de hablar! Para terminar de grabar y cargar sus pruebas en su portafolio, toque Todo listo.
+Recopilar pruebas en un dispositivo personal
+- Con la función de la cámara o de video en Brightspace Portfolio, recopile fotos o videos como pruebas.
+- Toque la miniatura de la imagen o el video.
+- En la página de Pruebas recopiladas, toque el cuadro de prueba nueva para proporcionar información. De manera opcional, puede tocar el ícono de puntos suspensivos (…) en el cuadro de pruebas para cargar, editar o eliminar las pruebas.
+- En la página Detalles de la prueba, puede realizar cualquiera de las siguientes acciones:
+- En el campo Agregar un título…, proporcione un título a la prueba.
+- Toque el ícono Micrófono para proporcionar una reflexión en audio sobre las pruebas. Vuelva a tocar el ícono para reproducir la grabación. Mantenga presionado para volver a grabar.
+- En el campo Escribir algunas ideas..., proporcione una reflexión escrita de las pruebas.
+- Para cargar las pruebas, toque el ícono Cargar.
+- Toque una carpeta de clase para cargar las pruebas en ella.
+- Después de que las pruebas se cargan en la carpeta de la clase, vuelve a la página Pruebas recopiladas. De manera opcional, realice una de las siguientes acciones:
+- Para recopilar más pruebas para agregar a su portafolio, toque el ícono de cámara.
+Consejo: Para ver el estado de las pruebas cargadas, en la pantalla de captura, toque el ícono Prueba reciente. - Para ver las pruebas recopiladas en su carpeta, toque Mi portafolio.
+Para recopilar pruebas en un dispositivo familiar compartido con el modo en el hogar
+- Después de escanear el código QR de su pase de estudiante, utilice la función de cámara o video en Brightspace Portfolio para recopilar pruebas en fotos o video.
+- Realice cualquiera de las siguientes acciones:
+- En el campo Título de su trabajo, proporcione un título para las pruebas.
+- En el campo Decir algo al respecto, toque Iniciar grabación para proporcionar una reflexión en audio de las pruebas. Toque el ícono de reproducción nuevamente para reproducir la grabación. Para volver a grabar, toque Reemplazar grabación.
+- En el campo Escribir algunas ideas, proporcione una reflexión escrita de las pruebas.
+- Para agregar las pruebas a su portafolio, toque Listo.
+- Realice una de las siguientes acciones:
+- Para recopilar más pruebas, vuelva a escanear su código QR.
+Consejo: Para ver el estado de las pruebas cargadas, en la pantalla de captura, toque el ícono Prueba reciente. - Para terminar de recopilar pruebas, toque el ícono X.
+Para recopilar pruebas en un dispositivo familiar compartido con el modo en el hogar con Funster
+- Para activar Funster y comenzar a recopilar pruebas, toque ¡Hora de despertar!
+- Toque ¡Comencemos!
+- Escanee el código QR en la tarjeta de clase.
+- Para recopilar pruebas en fotos, presione ¡Es hora de las fotos! Mantenga la cámara inmóvil hacia un objeto mientras el temporizador realiza una cuenta regresiva.
+- Si le gusta la foto, presione Sí. Para descartar la foto y tomar una nueva, toque No.
+- Para proporcionar una reflexión en audio sobre las pruebas, toque ¡Es hora de hablar! Para terminar de grabar, toque Todo listo.
+- Funster carga las pruebas a su portafolio.
+Cargar evidencia desde la herramienta Portfolio en Brightspace
+Consejo: Si recopiló pruebas en un dispositivo sin la aplicación Portfolio de Brightspace o si tiene pruebas en una computadora, puede iniciar sesión en Brightspace en el dispositivo o en la computadora, acceder a su portafolio y, a continuación, cargar la prueba.
+- Desde un navegador, inicie sesión en Brightspace.
+- Haga clic en su perfil de usuario en la barra de navegación y, luego, en Mi portafolio.
+Consejo: Según cómo se configure Brightspace, también se puede mostrar un enlace de Portfolio en la barra de navegación.
+- Con la opción Ver por: cursos habilitada, haga clic en el mosaico de la carpeta del curso.
+- Haga clic en Agregar a Portfolio.
+- Realice una de las siguientes acciones:
+- Cómo cargar un archivo en su dispositivo o computadora arrastrándolo y soltándolo o navegando.
+- Guarde un enlace a un archivo desde su cuenta de Google Drive u Office 365.
+Recopilar y cargar pruebas no enlazadas a un curso
+Si bien la mayoría de los estudiantes captan pruebas de aprendizaje para los cursos en los que están inscritos, algunos aprendizajes pueden darse fuera de los cursos. En este caso, los estudiantes aún deben recopilar pruebas de aprendizaje en un lugar independiente donde no sea necesaria la evaluación por parte de un instructor. Por ejemplo, el aprendizaje de programas en educación superior, actividades extracurriculares, pasantías, o aprendizaje o investigación independiente. Para estos entornos de aprendizaje, el administrador puede habilitar un flujo de trabajo que le permite recopilar pruebas y elegir si enlazarlas a un curso o no. Las pruebas que no están enlazadas a un curso se conocen como pruebas no enlazadas.
+Tenga en cuenta lo siguiente:
+- Las pruebas que no están enlazadas a un curso están ocultas para los instructores. Esto significa que los instructores no pueden evaluar las pruebas, a menos que enlace las pruebas a un curso.
+- Si el uso compartido del instructor está habilitado, primero debe enlazar las pruebas a un curso y, luego, compartirlas con el instructor. El uso compartido del instructor no es automático cuando las pruebas están enlazadas a un curso y el uso compartido del instructor está habilitado.
+- Si quita o cambia un curso enlazado, todas las categorías de clase se eliminan de las pruebas enlazadas.
+- Si se comparte una evidencia con un instructor y contiene comentarios, rúbricas o resultados, no puede eliminar o cambiar el curso enlazado.
+- Si no tiene pruebas no enlazadas, la vista previa de la imagen para el mosaico de Pruebas no enlazadas se establece de forma predeterminada en el color del tema definido por la organización. Una vez que cargue pruebas no enlazadas, se selecciona la evidencia más reciente como la imagen de vista previa del mosaico.
+Recopilar pruebas no enlazadas a un curso con la aplicación Brightspace Portfolio
+- Con la función de la cámara o de video en Brightspace Portfolio, recopile fotos o videos como pruebas.
+- Toque la miniatura de la imagen o el video.
+- En la página de Pruebas recopiladas, toque el cuadro de prueba nueva para proporcionar información. De manera opcional, puede tocar el ícono de puntos suspensivos (…) en el cuadro de pruebas para cargar, editar o eliminar las pruebas.
+- En la página Detalles de la prueba, puede realizar cualquiera de las siguientes acciones:
+- En el campo Agregar un título…, proporcione un título a la prueba.
+- Toque el ícono Micrófono para proporcionar una reflexión en audio sobre las pruebas. Vuelva a tocar el ícono para reproducir la grabación. Mantenga presionado para volver a grabar.
+- En el campo Escribir algunas ideas..., proporcione una reflexión escrita de las pruebas.
+- Elija las categorías que lo ayudarán a encontrar esta prueba con mayor facilidad más adelante. Para obtener más información, consulte Asignar categorías para etiquetar pruebas.
+- Para cargar las pruebas, toque el ícono Cargar.
+- Toque la carpeta Pruebas no enlazadas para cargar las pruebas.
+- Después de que las pruebas se cargan en la carpeta de Pruebas no enlazadas, vuelve a la página Pruebas recopiladas. De manera opcional, realice una de las siguientes acciones:
+- Para recopilar más pruebas para agregar a su portafolio, toque el ícono de cámara.
+Consejo: para ver el estado de las pruebas cargadas, en la pantalla de captura, toque el ícono Prueba reciente. - Para ver las pruebas recopiladas en su carpeta, toque Mi portafolio.
+Recopilar pruebas no enlazadas a un curso con la aplicación web Portfolio
+- Desde un navegador, inicie sesión en Brightspace.
+- Haga clic en su perfil de usuario en la barra de navegación y, luego, en Mi portafolio.
+Consejo: Según cómo se configure Brightspace, también se puede mostrar un enlace de Portfolio en la barra de navegación.
+- Con la opción Ver por: evidencia o Ver por: cursos habilitada, haga clic en Agregar a carpeta.
+- Realice una de las siguientes acciones:
+- Cómo cargar un archivo en su dispositivo o computadora arrastrándolo y soltándolo o navegando.
+- Guarde un enlace a un archivo desde su cuenta de Google Drive u Office 365.
+- Será redirigido a la página Pruebas, que muestra una opción que le permite elegir si enlazar las pruebas a un curso o no. Con este flujo de trabajo, las pruebas cargadas se desenlazan de forma predeterminada, indicada por la etiqueta No enlazada. Para enlazar las pruebas a un curso, haga clic en el ícono de lápiz junto a No enlazada, seleccione un curso activo en el que esté inscrito y haga clic en Enlazar.
+- Agregue detalles al texto de la prueba.
+- Regrese a la página de inicio de Portfolio.
+Asigne categorías para etiquetar pruebas
+A medida que recopila más pruebas con la aplicación Brightspace Portfolio, las categorías pueden ayudarlo a encontrar fácilmente una prueba específica. Desde la herramienta Portfolio en Brightspace, puede asignar categorías para etiquetar las pruebas que recopila. Esto le permite elegir la forma de organizar las pruebas para su visualización. También puede ver categorías agregadas por el instructor, y filtrar pruebas por categorías en la página de Portfolio.
+Nota: Los estudiantes no pueden eliminar categorías agregadas por el instructor ni agregar categorías personalizadas.
+- Utilice la aplicación Brightspace Portfolio en su dispositivo para recopilar pruebas.
+- Desde un navegador, inicie sesión en Brightspace.
+- Haga clic en su perfil de usuario en la barra de navegación y, luego, en Mi portafolio.
+- Haga clic en el mosaico de portafolio del curso.
+- Haga clic en el mosaico de pruebas al que desea asignar categorías.
+- En Categorizar su trabajo, haga clic en Agregar categoría.
+- En las pestañas Categorías de escuela o Categorías de clases, haga clic en las categorías que se aplican a las pruebas, por ejemplo, ciencia y feria de ciencias.
+- Regrese a la página de inicio de Portfolio.
+- Para filtrar las pruebas en la página por categorías, toque Filtro.
+- En las pestañas Categorías de escuela o Categorías de clase, haga clic en categorías para filtrar las pruebas.

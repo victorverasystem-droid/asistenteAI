@@ -1,0 +1,12 @@
+URL: https://community.d2l.com/brightspace-es-MX/kb/articles/33874-uso-del-verificador-de-accesibilidad-en-el-contenido-creado-en-html
+TITLE: Uso del verificador de accesibilidad en el contenido creado en HTML - Brightspace
+HASH: 9d67da775494bf8053326e9037a2239eb1969c8fe9cbfac7cc0ed7ab9956a665
+TYPE: web
+
+El verificador de accesibilidad garantiza que el contenido que crea en el editor de Brightspace cumple con las normas de accesibilidad de WCAG y de la Sección 508. El verificador de accesibilidad está disponible en el Editor de Brightspace para usarlo en Contenido, Componentes, Cuestionarios, Asignaciones, Calendario, Debates y cualquier otro tipo de herramienta en la que el usuario pueda acceder al editor.
+Para utilizar el verificador de accesibilidad
+- Ingrese el contenido HTML en el Editor de Brightspace.
+- Haga clic en el ícono Verificador de accesibilidad en la barra de herramientas del editor de Brightspace para iniciar el verificador.
+- Si hay algún problema de cumplimiento, lea el informe para obtener sugerencias sobre cómo solucionar el problema.
+- Después de resolver los problemas de cumplimiento, haga clic en Reparar. Si no desea resolver los problemas de cumplimiento, haga clic en Ignorar.
+Su archivo HTML cumple con las normas de accesibilidad de WCAG y la sección 508.

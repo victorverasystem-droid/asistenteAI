@@ -1,0 +1,65 @@
+URL: https://community.d2l.com/brightspace-es-MX/kb/articles/33918-ver-y-organizar-las-pruebas
+TITLE: Ver y organizar las pruebas - Brightspace
+HASH: cc9443c09a5c3daca5ff194015daf4f98bc3e0dfc002bd4cd9f55ce2a62f4c89
+TYPE: web
+
+Acceda a sus portafolios de cursos desde la herramienta Portafolio
+En la herramienta Portafolio en Brightspace, puede acceder a todos sus portafolios actuales desde los cursos activos en los que está inscrito, ver los portafolios archivados de los cursos inactivos y administrar sus pruebas recopiladas.
+Consejo: Según cómo se configure Brightspace, también se puede mostrar un enlace de Portfolio en la barra de navegación.
+Acceder a los portafolios de su curso
+- En Brightspace, haga clic en su perfil de usuario en la barra de navegación.
+- Haga clic en Mi portafolio. Se muestra la página principal de Portafolio.
+Nota: De forma predeterminada, su portafolio muestra Pruebas activas en los cursos activos. En la lista, también puede elegir mostrar Portafolios archivados de cursos inactivos.
+- Elija una vista:
+- Ver por: cursos muestra todos los cursos en los que está inscrito.
+- Ver por: pruebas muestra todas las pruebas recopiladas de sus cursos activos.
+- Elija un formato:
+- Mosaicos: muestra la información en formato de mosaico.
+- Lista: muestra la información en formato de lista.
+- Cuando se ve por Cursos, se muestra la siguiente información:
+- Pruebas recopiladas
+- Evidencia destacada
+- Cuando se ve por Pruebas, se muestra la siguiente información:
+- Compartido con los padres o tutores (si Brightspace Parent & Guardian está habilitado)
+- Comentarios proporcionados
+- Categorizado
+- Evidencia destacada
+- Para ver más información sobre el portafolio del curso o una parte de la prueba, haga clic en el elemento de la lista o en el mosaico.
+Figura: Página principal de Portafolio que muestra todos los cursos en formato de mosaico
+Figura: Página principal de Portafolio que muestra todas las pruebas en formato de lista.
+Figura: Visualización de las pruebas en un portafolio del curso
+Filtrar todas las pruebas en sus portafolios de cursos
+Para permitirle encontrar más fácilmente los tipos específicos de pruebas para visualizar, Brightspace Portfolio incluye opciones de filtro cuando se ve por pruebas. Por ejemplo, puede filtrar las pruebas que contengan comentarios del instructor.
+Para filtrar la evidencia
+- Haga clic en su perfil de usuario en la barra de navegación.
+- Haga clic en Mi portafolio.
+Consejo: Según cómo se configure Brightspace, también se puede mostrar un enlace de Portfolio en la barra de navegación.
+- Haga clic en Visto por: pruebas.
+- Haga clic en Filtros y, luego, seleccione uno o más de los siguientes filtros de Pruebas. Por ejemplo, Filtrar > Pruebas > Con comentarios.
+Figura: Haga clic en Filtros y seleccione un filtro.
+- Para quitar un filtro activo, haga clic en X en el filtro aplicado o haga clic en Filtrar y seleccione el filtro activo.
+Ver pruebas no enlazadas a un curso
+Si tiene pruebas que no están enlazadas a un curso, puede verlas y administrarlas desde la herramienta Portfolio en Brightspace. Las pruebas que no están enlazadas a un curso pueden ser aprendizaje de programas, actividades extracurriculares, pasantías o aprendizaje o investigación independiente.
+Notas:
+-
+Su administrador habilita el flujo de trabajo que le permite elegir si puede enlazar pruebas a un curso o no.
+-
+Las pruebas que no están enlazadas a un curso están ocultas para los instructores. Esto significa que los instructores no pueden evaluar las pruebas, a menos que los estudiantes enlacen las pruebas a un curso.
+- En Brightspace, haga clic en su perfil de usuario en la barra de navegación.
+- Haga clic en Mi portafolio. Se muestra la página principal de Portafolio.
+- Realice una de las siguientes acciones:
+- Haga clic en Visto por: cursos. Se muestra un mosaico de Pruebas no enlazadas, junto con los mosaicos activos del curso.
+Haga clic en el mosaico Pruebas no enlazadas. Todas las pruebas no enlazadas se muestran en la página Ver por: evidencia. - Haga clic en Visto por: pruebas. Se muestran todas las pruebas activas enlazadas y no enlazadas.
+Desde esta página, puede filtrar las pruebas haciendo clic en Filtrar y eligiendo Enlazada al curso o No enlazada al curso.
+Ver las pruebas en las carpetas archivadas
+En la herramienta Portfolio, puede ver las pruebas en sus portafolios archivados, que se eliminan automáticamente de los portafolios de cursos y se archivan cuando los cursos relacionados se vuelven inactivos. Puede utilizar sus portafolios archivados para demostrar el crecimiento, reflexionar sobre el aprendizaje pasado y mostrar su mejor trabajo.
+Tenga en cuenta lo siguiente:
+- Cuando ve un portafolio archivado, los enlaces de la ruta de navegación aparecen en la parte superior de la página, lo que le permite volver a las páginas anteriores.
+- Cuando se visualizan portafolios archivados por años o cursos, se desactiva el filtrado.
+- Los botones de flecha Anterior y Siguiente saltan las pruebas archivadas y navegan hasta las pruebas activas más cercanas.
+Para ver las carpetas archivadas
+- En Brightspace, haga clic en su perfil de usuario en la barra de navegación.
+- Haga clic en Mi portafolio.
+Consejo: Según cómo se configure Brightspace, también se puede mostrar un enlace de Portfolio en la barra de navegación.
+- De forma predeterminada, su portafolio muestra Pruebas activas en los cursos activos. En la lista, seleccione Portafolios archivados.
+- Haga clic en el mosaico de un año y, a continuación, en el mosaico de un portafolio.

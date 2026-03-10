@@ -1,0 +1,13 @@
+URL: https://community.d2l.com/brightspace-es-MX/kb/articles/27551-repetir-las-preguntas-incorrectas-del-cuestionario-en-intentos-subsiguientes
+TITLE: Repetir las preguntas incorrectas del cuestionario en intentos subsiguientes - Brightspace
+HASH: d6629623e5ee111f2bf13e37e3919b9e146838d418f38dfca2cf22d5012cd406
+TYPE: web
+
+La opción Repetir solo las preguntas respondidas incorrectamente permite que los estudiantes solo retomen las preguntas que se respondieron de manera incorrecta en intentos anteriores de cuestionario. Cuando el estudiante vuelve a intentar su cuestionario, las preguntas que se respondieron de manera incorrecta en los intentos anteriores se indican con un símbolo de alerta. Cada intento de responder al cuestionario muestra las preguntas en el mismo orden que en el primer intento (incluidos cuestionarios con secciones aleatorias y preguntas al azar). Las preguntas correctas en los intentos anteriores siguen mostrando la “raíz de la pregunta”, pero omitirán las respuestas.
+Puede utilizar la Vista previa del cuestionario para responderlo y enviar un Intento de previsualización. Debe seleccionar Permitir que este intento de previsualización sea calificado en el área Calificar cuestionario, en la página de envío del intento de previsualización.
+Consideraciones de calificación
+- La puntuación de un estudiante para un intento de Repetir solo las preguntas respondidas incorrectamente se mantiene, por lo menos en la calificación que tenían en el intento anterior. Las preguntas que se respondan correctamente en el intento Repetir solo las preguntas respondidas incorrectamente se suman a la puntuación de los intentos del estudiante.
+- Cuando califica un intento de Repetir solo las preguntas respondidas incorrectamente, el instructor solo puede proporcionar una puntuación para las preguntas que se hayan respondido en ese intento. La puntuación general del cuestionario se calcula utilizando las funciones existentes de agregación Más alta/Más baja/Primera/Última/Promedio. La función de agregación Promedio se puede utilizar para asignar al estudiante una calificación parcial en preguntas que no se respondieron correctamente en el primer intento.
+- D2L no recomienda usar la opción Configurar automáticamente como calificado para cuestionarios con preguntas de respuesta escrita. Si utiliza la calificación automática, las preguntas de respuesta escrita se marcarán como 0 y se incluirán en futuros intentos hasta que se califiquen de manera manual.
+En el registro de intentos, los instructores y los administradores pueden identificar las repeticiones de intentos:
+Además, en la pestaña Usuarios, las repeticiones de intentos se incluyen de modo que se diferencien de los primeros intentos.

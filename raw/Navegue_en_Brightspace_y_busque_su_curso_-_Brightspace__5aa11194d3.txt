@@ -1,0 +1,31 @@
+URL: https://community.d2l.com/brightspace-es-MX/kb/articles/22089-navegue-en-brightspace-y-busque-su-curso
+TITLE: Navegue en Brightspace y busque su curso - Brightspace
+HASH: 5aa11194d35097a49a69c144bf56dd45385c7f7f3c97f686151f63d505c6fa8f
+TYPE: web
+
+Encuentre fácilmente sus cursos en línea después de iniciar sesión en Brightspace desde el selector de cursos o el componente Mis cursos.
+Encuentre sus cursos a través del selector de cursos
+Utilice el selector de cursos para localizar rápidamente los cursos en Brightspace.
+Para encontrar cursos mediante el selector de cursos
+- Haga clic en el ícono Selector de cursos (waffle) en la parte superior de la página.
+Figura: Página de inicio de la organización con el ícono Selector de cursos resaltado.
+- En la lista, seleccione los cursos a los que desea acceder.
+Figura: Página de inicio de la organización, con la lista de cursos del selector desplegada.
+Se carga la página de inicio del curso seleccionado.
+Busque su curso mediante el componente Mis cursos
+Utilice el componente Mis cursos para revisar todos sus cursos.
+Para encontrar cursos mediante el componente Mis cursos
+- Busque el componente Mis cursos en la página de inicio de su organización.
+- Busque miniaturas de los cursos en los que está inscrito y haga clic en el curso al que desea acceder.
+Figura: El componente Mis cursos.
+Se carga la página de inicio del curso seleccionado.
+Acceder a cursos antiguos de semestres anteriores y quitarlos
+Para que sea posible acceder a un curso antiguo, deben cumplirse los siguientes requisitos:
+- Usted está inscrito en el curso
+- El curso está configurado en Activo
+- El curso no tiene restricciones de fecha
+- La fecha actual está dentro del rango de fechas disponible del curso
+Esto significa que, si bien es posible que pueda ver sus cursos anteriores y próximos en la página de inicio o desde el selector de cursos, es probable que no pueda acceder a esos cursos. Para solicitar acceso a un curso antiguo, comuníquese con su instructor.
+Quitar cursos antiguos
+Los instructores deben quitar los cursos antiguos de su visualización antes del comienzo del nuevo semestre. Si todavía puede ver cursos de semestres anteriores, tendrá que ponerse en contacto con su instructor de dicho curso para eliminarlo de su página de inicio. Solicite a su instructor que desactive el curso. Si su instructor no está disponible, póngase en contacto con el Servicio de asistencia de la institución y explique el problema.
+Video: Cómo acceder a cursos antiguos y quitarlos

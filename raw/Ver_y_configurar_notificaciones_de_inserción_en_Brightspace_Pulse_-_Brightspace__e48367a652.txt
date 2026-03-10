@@ -1,0 +1,36 @@
+URL: https://community.d2l.com/brightspace-es-MX/kb/articles/33923-ver-y-configurar-notificaciones-de-insercion-en-brightspace-pulse
+TITLE: Ver y configurar notificaciones de inserción en Brightspace Pulse - Brightspace
+HASH: e48367a65220c59f8142a881c23f5a9603939d13f7fb198edaae8b908eedf497
+TYPE: web
+
+Para garantizar que reciba información actualizada, Brightspace Pulse envía notificaciones push para todas las notificaciones nuevas y actualizadas. Las notificaciones de inserción lo ayudan a mantenerse informado acerca de actualizaciones de Anuncios, Noticias de actividad, calificaciones, cuestionarios, asignaciones y contenido relacionados con los cursos en Brightspace.
+Después de iniciar sesión por primera vez, las notificaciones del curso no aparecen en Pulse hasta que se creen nuevas actualizaciones en Brightspace.
+Ver notificaciones de inserción
+Si hay notificaciones no leídas, aparece un punto rojo de notificación en la pestaña Notificaciones.
+- Toque la pestaña Notificaciones. En la pestaña secundaria Actualizaciones se muestran los siguientes tipos de notificación:
+- En la subpestaña Suscripciones, se muestran todas las respuestas a los debates a los que está suscrito y las menciones con @ en las cadenas de debate.
+- Contenido del curso actualizado o creado: Para mantenerlo informado acerca del contenido del curso, Brightspace Pulse envía notificaciones cuando se crea o actualiza contenido del curso en Brightspace. Para ver el contenido nuevo y actualizado asociado con una notificación, consulte el contenido directamente en Brightspace Pulse. Esto también se aplica al contenido en el que se ha asociado una fecha de vencimiento con un elemento. Para ver el contenido, presione la actualización y, a continuación, presione Abrir. Si no existe una dirección URL disponible del archivo, toque Abrir en el explorador para abrir el contenido en Brightspace.
+- Documentos creados o actualizados de la Descripción general del curso: Cuando un instructor agrega o actualiza el documento de Descripción general del curso en Brightspace, recibirá notificaciones en Brightspace Pulse y en Brightspace.
+En Brightspace, puede optar por recibir notificaciones instantáneas por correo electrónico o mensaje de texto cuando se actualiza el documento Descripción general del curso. - Noticias del curso: Cuando el instructor desea comunicar cambios en las actualizaciones, la información y los recordatorios del curso a través de los anuncios del curso, recibirá un anuncio del curso en Brightspace Pulse.
+- Noticias de Actividad: Cuando el instructor utiliza Noticias de actividad para publicar recordatorios sobre las próximas asignaciones y enlaces a los materiales del curso, usted recibirá notificaciones acerca de dichas publicaciones. Al tocar una notificación de Noticias de actividad, se muestra la publicación o el comentario asociados.
+- Nuevas calificaciones: Cuando el instructor ingresa o actualiza calificaciones en un cuaderno de calificaciones, recibirá notificaciones de las calificaciones en Brightspace Pulse. Para ver las calificaciones en Brightspace Pulse, toque la actualización y, a continuación, deslícese hacia la izquierda para mostrar la calificación.
+- Próximos cuestionarios y asignaciones: Recibirá notificaciones sobre los próximos cuestionarios y asignaciones con las siguientes condiciones:
+- Si la asignación o el cuestionario tienen una fecha de vencimiento, se le notificará dos días antes de esa fecha.
+- Si la asignación o el cuestionario no tienen una fecha de vencimiento, pero tienen una fecha final, se le notificará dos días antes de esa fecha.
+Configurar notificaciones de inserción
+Seleccione las notificaciones de inserción que pueda recibir sobre las actividades de los cursos en su dispositivo.
+Para configurar las notificaciones de inserción
+- En la parte superior izquierda de la página de inicio, toque el ícono de su organización y, a continuación, toque Configuración.
+- En Notificaciones, toque Notificaciones de inserción.
+Figura: toque Notificaciones emergentes para configurar las notificaciones emergentes.
+- Desplácese hacia abajo y toque para activar o desactivar una notificación de inserción.
+Configuró sus notificaciones emergentes.
+Personalizar las notificaciones instantáneas para el correo electrónico
+Puede elegir qué notificaciones por correo electrónico recibe si accede a la configuración directamente desde la aplicación Pulse.
+Para personalizar sus notificaciones instantáneas
+- En la parte superior izquierda de la página de inicio, toque el ícono de su organización y, a continuación, toque Configuración.
+- Toque Notificaciones por correo electrónico.
+- En Notificaciones instantáneas, toque para seleccionar cualquier notificación por correo electrónico que desee recibir.
+Imagen: Marque la casilla de selección Correo electrónico para recibir notificaciones sobre dicho elemento.
+- Toque Listo para guardar las notificaciones personalizadas.
+Personalizó sus notificaciones por correo electrónico.

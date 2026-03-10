@@ -1,0 +1,13 @@
+URL: https://community.d2l.com/brightspace-es-MX/kb/articles/33891-suscribirse-a-una-noticia-rss-de-anuncios
+TITLE: Suscribirse a una noticia RSS de Anuncios - Brightspace
+HASH: e9460fcf649eea1ac8f43cfccc5e707a98a2dcacff311c73fc61420ed64198be
+TYPE: web
+
+Puede suscribirse a un feed RSS de noticas y recibir actualizaciones diarias de todos los elementos de noticias en un lector de RSS. Esto le permite acceder a un conjunto de elementos de noticias sin iniciar sesión en Brightspace.
+Para suscribirse a una fuente de RSS de Noticias
+- En la barra de navegación de su curso haga clic en Noticias.
+- Haga clic en RSS. La dirección URL de la fuente de RSS se abre en una nueva pestaña en su navegador.
+Figura: Botón RSS en la página Noticias.
+- Copie la URL de la fuente de RSS y péguela en un lector de fuentes de RSS de su elección. Utilice el lector para suscribirse a la fuente.
+Nota: Debe agregar una extensión de lector de fuentes de RSS a su navegador para suscribirse a la fuente de RSS.
+Está suscrito a la fuente de RSS de Noticias de su curso.

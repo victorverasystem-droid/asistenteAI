@@ -1,0 +1,21 @@
+URL: https://community.d2l.com/brightspace-es-MX/kb/articles/33875-uso-de-anthology-ally-anteriormente-blackboard-ally-para-ver-formatos-de-contenido-accesibles-y-alternativos
+TITLE: Uso de Anthology Ally (anteriormente Blackboard Ally) para ver formatos de contenido accesibles y alternativos - Brightspace
+HASH: 55741e3d2ef721dd9c90f1bd5854bb39427ee9565a1c70364dc7ee489fd62a56
+TYPE: web
+
+Anthology Ally es un servicio de accesibilidad al contenido con licencia directa de Anthology. Genera formatos accesibles alternativos para archivos en el contenido del curso. Además del formato original, Anthology Ally ayuda a las instituciones a proporcionar a todos los estudiantes acceso al contenido con una amplia variedad de formatos alternativos, entre los que se incluyen:
+- HTML compatible con dispositivos móviles
+- Audio (mp3)
+- ePub
+- Braille electrónico
+- Beeline Reader
+- PDF con OCR
+- Microsoft Immersive Reader
+- Versiones traducidas
+Nota: En el caso de que existan metadatos o seguridad incorporada en un documento, no puede crear formatos accesibles alternativos.
+Para ver un formato accesible alternativo en un módulo del curso
+- Haga clic para seleccionar un documento de un módulo de curso.
+- Haga clic en Formatos alternativos.
+Figura: La lista de formatos de descarga alternativos en Anthology Ally.
+- Seleccione un formato alternativo de la lista disponible.
+Para obtener más información, consulte Ayuda sobre Anthology Ally.

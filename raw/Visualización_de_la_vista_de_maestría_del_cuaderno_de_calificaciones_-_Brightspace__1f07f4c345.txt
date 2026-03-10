@@ -1,0 +1,19 @@
+URL: https://community.d2l.com/brightspace-es-MX/kb/articles/10960-visualizacion-de-la-vista-de-maestria-del-cuaderno-de-calificaciones
+TITLE: Visualización de la vista de maestría del cuaderno de calificaciones - Brightspace
+HASH: 1f07f4c3454b373506109b323e2d445046a2e589c5780c628f0997ec29c7f62d
+TYPE: web
+
+La vista de maestría muestra los resultados evaluados como columnas de la tabla, y a los estudiantes inscritos en el curso como filas de la tabla. Busque estudiantes específicos usando el campo de búsqueda y organice la lista de estudiantes por orden alfabético ascendente y descendente, por nombre o apellido.
+El encabezado de la columna proporciona el código (notación) del resultado, si está disponible, y una declaración truncada de la descripción del resultado. Debajo de la descripción de los resultados en el encabezado de la columna, hay un histograma de las evaluaciones de los estudiantes relacionadas con este resultado, agrupado por los niveles de la escala de logros. Al desplazar el cursor sobre este histograma, puede ver información sobre las herramientas con detalles de las evaluaciones de los estudiantes.
+Figura: Utilice la información sobre herramientas para ver los detalles de las evaluaciones del estudiante para el histograma.
+Las celdas de la vista de tabla de esta página contienen información sobre los detalles de la evaluación de cada estudiante. El nivel de logro general sugerido que se muestra en la celda por nombre del nivel se determina mediante el método de cálculo seleccionado. La codificación de colores de cada celda se basa en el color asignado al nivel de la escala que corresponde al nivel general de logro sugerido.
+El contador de actividades alineado muestra la cantidad de evaluaciones evaluadas para cada estudiante sobre la cantidad total de evaluaciones alineadas con ese resultado en la esquina de cada celda de la tabla.
+Las celdas blancas indican resultados que tienen actividades de evaluación alineadas, pero para los cuales no se ha efectuado ninguna evaluación. Tan pronto como se realicen las primeras evaluaciones, esa celda mostrará el nivel de logro sugerido de acuerdo con los resultados de las evaluaciones.
+Dentro de cada celda de logro, hay varios indicadores del estado del progreso del estudiante hacia el logro, incluidos:
+- Un nivel general de logro (sugerido o anulado manualmente)
+- Un Contador de actividades que muestra la cantidad de evaluaciones evaluadas para cada estudiante en la cantidad total de evaluaciones alineadas con ese resultado
+- Un indicador de anulación manual en forma de asterisco junto a la etiqueta de logro general.
+- El ícono Desactualizado (si se realizaron evaluaciones más recientes desde el momento que se registró una anulación manual o se agregaron comentarios);
+- Los íconos de Publicado/No publicado para indicar el estado de visibilidad para el estudiante.
+Figura: Una descripción general de la celda de logro.
+Nota: el valor denominador del contador de actividades inicialmente muestra la cantidad de actividades de evaluación del curso que se han alineado para evaluarlas con el resultado individual. El contador de actividades alineado no incluye artefactos de pruebas de Brightspace Portfolio que el instructor asocia con los resultados del curso a medida que se evalúa el artefacto. Estos elementos se muestran en la vista detallada, se reflejan en la línea de tendencia de evaluación y se incluyen en el cálculo del logro general.

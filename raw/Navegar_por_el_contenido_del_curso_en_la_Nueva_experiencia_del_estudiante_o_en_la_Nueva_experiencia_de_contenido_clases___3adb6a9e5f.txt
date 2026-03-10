@@ -1,0 +1,54 @@
+URL: https://community.d2l.com/brightspace-es-MX/kb/articles/14448-navegar-por-el-contenido-del-curso-en-la-nueva-experiencia-del-estudiante-o-en-la-nueva-experiencia-de-contenido-clases
+TITLE: Navegar por el contenido del curso en la Nueva experiencia del estudiante o en la Nueva experiencia de contenido (clases) - Brightspace
+HASH: 3adb6a9e5fca3943a6bc35e566623fa389e014730879f3ff595341c6ace6ea69
+TYPE: web
+
+Como estudiante, puede acceder al contenido en diferentes vistas, según la organización o el curso:
+Si el contenido de su curso aparece como en la siguiente imagen, está utilizando la nueva experiencia del estudiante.
+En la Nueva experiencia del estudiante, la tabla de contenido permite explorar todo el contenido disponible (módulos, temas y actividades) del curso. En cualquier momento, puede elegir un módulo disponible para ver; no está obligado a ver módulos en una secuencia específica.
+Para iniciar y reanudar el curso
+Para utilizar la Tabla de contenido (TOC)
+- Acceder a la Tabla de contenido: seleccione contenido en la barra de navegación de su curso. La Tabla de contenido enumera todas las unidades, lecciones y actividades.
+- Ampliar módulos: haga clic en el nombre de una unidad o lección en la Tabla de contenido para ampliar o contraer su contenido (temas y actividades).
+- Cargar más: Si su curso tiene muchos módulos, haga clic en Cargar más en la parte inferior de la Tabla de contenido para mostrar el resto del contenido disponible.
+- Ver la descripción y los temas del módulo: haga clic en Iniciar unidad o Iniciar lección.
+Navegar por el contenido
+- Navegación secuencial: utilice los botones de flecha (Anterior/Siguiente) en la barra de título para desplazarse por los temas uno por uno.
+- Ir al tema: haga clic en el ícono del menú de navegación dentro del visor de pantalla completa para seleccionar un tema específico.
+- Volver a la Tabla de contenido: haga clic en Volver a contenido para salir del visor de pantalla completa y volver a la página principal de la Tabla de contenido.
+Supervisión del progreso y la finalización
+- Seguimiento del progreso: la Tabla de contenido muestra la cantidad de actividades requeridas que ha completado para cada módulo. Aparece una marca de verificación junto a los temas obligatorios completados.
+- Marcar como finalizado: puede hacer clic en Marcar como finalizado en la parte inferior de la página del tema si el instructor ha establecido que el tema requiere una finalización manual. La finalización manual está disponible para los siguientes tipos de temas:
+- Enlaces de LTI
+- Enlaces web
+- Archivos del curso
+- Enlaces del repositorio de recursos de aprendizaje, etc.
+- Haga clic en Marcar como finalizado para confirmar la finalización de forma manual.
+- Nota: Una vez que haya marcado un tema como completado, no podrá deshacer esta acción.
+- Finalización del módulo: cuando finaliza un módulo, una página de resumen confirma su estado de finalización y enumera los elementos incompletos que quedan por completar. Asegúrese de finalizar la sesión correctamente mediante la opción Cerrar sesión.
+Video: Nueva experiencia del estudiante
+La Experiencia de nuevo contenido utiliza un enfoque de pantalla dividida, que mantiene visible la Tabla de contenido mientras se visualiza el contenido.
+Si el contenido de su curso aparece como en la siguiente imagen, está utilizando la Experiencia de contenido nuevo (clases).
+Usar la Tabla de contenido (TOC)
+- Navegación: utilice la Tabla de contenido a la izquierda para seleccionar un módulo (unidad) o tema. El contenido correspondiente se cargará a la derecha.
+- Detalles del módulo: los submódulos y temas se muestran directamente debajo del módulo que seleccione.
+- Descripciones de los temas: pase el cursor por encima de un tema o una actividad para ver información adicional, como fechas de vencimiento o descripciones (si las ha proporcionado el instructor). Los siguientes tipos de temas pueden tener descripciones si las ha proporcionado el instructor
+- Enlaces de LTI
+- Enlaces web, incluidos Google Drive, Microsoft OneDrive y Capture
+- Archivos, incluidos los archivos multimedia, pero no los archivos HTML
+- SCORM, incluido el contenido importado y el contenido del repositorio de recursos de aprendizaje (RRA)
+- Elementos del RRA, como URL y archivos
+Supervisar el progreso
+- Progreso fraccionado: la Tabla de contenido muestra su progreso con indicadores numéricos y visuales, como una fracción que muestra los elementos finalizados por módulo.
+- Estado completo: si necesita un desglose detallado de todas las actividades del curso y el estado de finalización (incluidas las tareas y los cuestionarios), debe utilizar la herramienta de progreso de la clase, ya que la vista Lecciones solo muestra el progreso de los temas de contenido.
+Visualizar archivos (ver como texto o como página)
+Para documentos como PDF o PowerPoint, tiene varias opciones de visualización:
+- Vista predeterminada (vista de página): muestra el documento en su formato original, como una presentación de diapositivas o una vista previa del documento.
+- Cambiar a la vista de texto: si está disponible, haga clic en Ver como texto para mostrar solo el contenido de texto del documento. Esto puede ser útil para los lectores de pantalla o para una lectura simple.
+- Volver atrás: desplácese hasta la parte inferior y haga clic en Ver como página para volver a la vista con el formato original.
+- Cerrar sesión: cuando complete la sesión del curso, asegúrese de finalizarla correctamente con la opción Cerrar sesión.
+Video: Navegue por la vista Lecciones en Contenido
+Cuando complete su sesión del curso, asegúrese de finalizar la sesión correctamente utilizando la opción Cerrar sesión en el menú Estudiante:
+Solución de problemas de presentaciones en PowerPoint
+Puede cambiar o abrir involuntariamente una presentación de PowerPoint en una vista de texto. La vista de texto también puede hacer que las presentaciones de PowerPoint sean ilegibles si no tienen un formato que sea compatible con Brightspace. Para cambiar la vista de texto y ver la presentación de PowerPoint como una página o una presentación de diapositivas, haga clic en Ver como página.
+Después de hacer clic en Ver como página, su presentación aparece correctamente y en el formato original. Puede hacer clic en Ver como texto para volver a una vista de texto, si lo desea.

@@ -1,0 +1,10 @@
+URL: https://community.d2l.com/brightspace-es-MX/kb/articles/14457-reflexionar-sobre-su-aprendizaje-con-la-herramienta-autoevaluacion
+TITLE: Reflexionar sobre su aprendizaje con la herramienta Autoevaluación - Brightspace
+HASH: c8b7cb4f789569296d1c96f75fd012ae4330933da18ef32a45bcfac100be1268
+TYPE: web
+
+La autoevaluación consiste en una serie de preguntas, similares a las de los cuestionarios, que ofrecen la oportunidad de reflexionar sobre el aprendizaje y la comprensión del material del curso. Las respuestas a las autoevaluaciones no reciben una calificación.
+- Vaya a Autoevaluaciones.
+- En la página Lista de autoevaluaciones, haga clic en la autoevaluación que desea realizar.
+- Responda las preguntas.
+- Haga clic en Enviar.

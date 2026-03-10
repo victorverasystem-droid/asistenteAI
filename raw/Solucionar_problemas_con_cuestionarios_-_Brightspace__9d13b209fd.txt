@@ -1,0 +1,34 @@
+URL: https://community.d2l.com/brightspace-es-MX/kb/articles/33513-solucionar-problemas-con-cuestionarios
+TITLE: Solucionar problemas con cuestionarios - Brightspace
+HASH: 9d13b209fd2e0dd8d9cfee24004c7898c97e45d6361a83700a4f921736db4e04
+TYPE: web
+
+¿Dónde puedo encontrar mi cuestionario?
+Existen diferentes áreas en Brightspace donde puede encontrar los cuestionarios:
+- Contenido: Su instructor puede haber agregado cuestionarios del curso al Contenido donde se encuentran todos los demás materiales del curso.
+Figura: Haga clic en el cuestionario en el módulo del curso y luego, en Ir al cuestionario.
+- Cuestionarios: Si la herramienta Cuestionarios es visible en la barra de navegación de su curso, los cuestionarios se enumerarán en la Lista de cuestionarios.
+Figura: Seleccione un cuestionario de la Lista de cuestionarios.
+- Otras áreas donde puede encontrar cuestionarios incluyen la herramienta Noticias, el componente Tareas pendientes y el componente Calendario.
+No puedo acceder a un cuestionario o faltan cuestionarios
+Existen varias razones por las que es posible que no pueda encontrar o acceder a un cuestionario:
+- El cuestionario que busca está oculto.
+- Póngase en contacto con su instructor para verificar si estableció el cuestionario como visible.
+- El cuestionario que busca tiene condiciones de publicación que no se han cumplido.
+- Los instructores pueden establecer condiciones de publicación para que el contenido aparezca únicamente cuando se cumplen ciertos criterios. Por ejemplo, un estudiante debe revisar el “Tema de contenido A” antes de poder ver el “Cuestionario A”.
+- Consulte el plan de estudios del curso para averiguar si existe información relativa a las condiciones de publicación impuestas a los cuestionarios.
+- Comuníquese con su instructor para obtener más información de si existe una condición de publicación vinculada al cuestionario faltante.
+- El cuestionario que busca tiene configuraciones de acceso especial establecidas por su instructor.
+- Si cree que debe tener acceso a un cuestionario fuera de las fechas establecidas para el resto de la clase, comuníquese con su instructor.
+No puedo iniciar un intento de cuestionario
+Existen varias razones por las que es posible que no pueda iniciar un intento de cuestionario, incluso si el cuestionario es visible:
+Figura: la sección Intentos muestra cuántos intentos Permitidos tiene y cuántos intentos fueron Realizados. El botón Iniciar cuestionario no aparece si ya realizó la cantidad permitida de intentos.
+- Es posible que su instructor haya configurado su cuestionario para que esté disponible en una fecha y hora específicas. La disponibilidad del cuestionario aparece sobre del botón Iniciar cuestionario en la página Detalles del cuestionario. Si la disponibilidad se establece en una fecha y hora futuras, el botón Iniciar cuestionario aparecerá en gris. Si cree que la configuración de disponibilidad del cuestionario es incorrecta, comuníquese con su instructor.
+Figura: Revise la sección Disponibilidad para averiguar cuándo está disponible su cuestionario.
+- El cuestionario que intenta responder tiene una contraseña.
+- El instructor puede establecer una contraseña para acceder al cuestionario. Si no recuerda su contraseña o si la contraseña proporcionada no funciona, comuníquese con su profesor.
+Solucionar problemas con el explorador Respondus LockDown
+Si tiene problemas durante el uso del explorador Respondus LockDown en un cuestionario, siga estos pasos para detectar y resolver los problemas más frecuentes antes de comenzar el cuestionario o el examen.
+- Reinicie la computadora: cierre todas las aplicaciones, exploradores y ventanas emergentes innecesarias antes de iniciar el explorador LockDown para evitar interferencias.
+- Ejecute la comprobación del sistema: dentro del explorador LockDown, vaya al Centro de ayuda y seleccione la opción Ejecutar comprobación del sistema para diagnosticar posibles problemas con la red, el sistema operativo y otras aplicaciones.
+Si sigue teniendo problemas, visite la base de conocimientos de Asistencia de Respondus

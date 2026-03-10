@@ -1,0 +1,25 @@
+URL: https://community.d2l.com/brightspace-es-MX/kb/articles/10989-practicas-recomendadas-para-configurar-grupos
+TITLE: Prácticas recomendadas para configurar grupos - Brightspace
+HASH: 93b00380c168e8ef741bad198792c19ca52a02520d37a5ae5f6f8ef3f3cc96d2
+TYPE: web
+
+Puede crear áreas de trabajo para los usuarios de un equipo de trabajo mediante la herramienta Equipos de trabajo. Puede utilizar los grupos para organizar el trabajo de los usuarios en los proyectos y las asignaciones, o puede crear áreas de trabajo especiales para los usuarios con diferentes necesidades de aprendizaje.
+Los usuarios pueden pertenecer a varios grupos dentro del mismo curso. Por ejemplo, cada usuario puede pertenecer de manera simultánea a un grupo para proyectos de clase, uno de debates de intereses especiales y otro de usuarios avanzados. Cada grupo puede tener sus propios foros de debate, asignaciones y el área de casillero en los que puede trabajar. Puede calificar a los miembros de los grupos de manera individual o como equipo.
+Los usuarios inscritos en un equipo de trabajo pueden revisar todas las asignaciones enviadas previamente, publicaciones de debate y áreas de casilleros asociadas con ese equipo de trabajo, incluso si se inscribieron después de que se crearon esos elementos.
+Tenga en cuenta lo siguiente:
+- Si desea que los usuarios vean a todos los participantes y el contenido de un curso, cuando los esté asignando a un equipo de trabajo para un proyecto o una actividad específicos, use la herramienta Equipos de trabajo. Sin embargo, si desea que los usuarios accedan a materiales de aprendizaje e interactúen con los participantes solo en su propia sección, utilice la herramienta Secciones.
+- Los usuarios pueden pertenecer a varios grupos dentro del mismo curso, pero no pueden autoinscribirse en más de un grupo. Los instructores pueden agregar usuarios a otros grupos en cualquier momento.
+- Para crear un equipo de trabajo en el que los estudiantes puedan autoinscribirse, cree un equipo de trabajo de autoinscripción como se describe en Descripciones de las opciones de inscripción y asegúrese de que los estudiantes puedan acceder a la herramienta (deberían poder acceder a ella a través de la barra de navegación).
+- Para cada equipo de trabajo, cree distintos foros de debate, asignaciones y áreas de casillero a fin de trabajar en ellos.
+- Califique a los miembros de grupos de manera individual o como equipo.
+- Antes de configurar los equipos de trabajo, determine cómo desea organizarlos. Hay varios factores que pueden influir en la forma en que los usuarios se inscriben en equipos de trabajo, incluyendo:
+- Que se configuren los equipos de trabajo antes o después de inscribir a los usuarios.
+- Que se habilite la inscripción automática para los equipos de trabajo.
+- Que los usuarios se asignen de forma aleatoria a las asignaciones del equipo de trabajo.
+- Que se permita a los usuarios autoinscribirse en equipos de trabajo.
+- Según el Tipo de inscripción que elija.
+- Configure los equipos de trabajo después de que la mayoría de los usuarios se haya inscrito en el curso. Este método le proporciona un panorama más claro de la cantidad de usuarios que está organizando y cuántos equipos de trabajo necesitará. También ayuda a garantizar una distribución más equilibrada de los usuarios en todos los equipos de trabajo.
+- Para que los usuarios se inscriban automáticamente en equipos de trabajo, cuando esté creando o editando un equipo de trabajo, vaya a Propiedades avanzadas > Opciones de inscripción y seleccione Inscribir automáticamente a usuarios nuevos.
+Figura: Seleccione Inscribir automáticamente a usuarios nuevos.
+- Para obtener información sobre cómo copiar cualquier cantidad de equipos de trabajo, consulte Importar, exportar o copiar tema de componentes del curso. El proceso de creación asíncrona se ejecuta en segundo plano y no impide que se complete la copia de otros elementos del curso. Puede comprobar el estado de la creación de equipos de trabajo en la herramienta Equipos de trabajo. El registro del historial de copias indica cuándo comenzó el proceso de creación del equipo de trabajo y el estado de finalización se comunica a través de una alerta de actualización.
+- Cuando cree una nueva categoría de grupo a través de la interfaz de programación de aplicaciones, obtendrá un código de respuesta 202 Aceptado, que indica que su solicitud se envió y que actualmente se está procesando. Cualquier API que actúe en relación con la categoría de grupo mientras está en proceso, arrojará un estado 409 Conflicto para indicar que la acción no se puede completar porque la categoría de grupo no se ha terminado de procesar.

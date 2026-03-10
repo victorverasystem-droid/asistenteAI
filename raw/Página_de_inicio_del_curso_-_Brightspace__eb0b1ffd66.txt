@@ -1,0 +1,23 @@
+URL: https://community.d2l.com/brightspace-es-MX/kb/articles/22727-pagina-de-inicio-del-curso
+TITLE: Página de inicio del curso - Brightspace
+HASH: eb0b1ffd6690981cee06c2305e779f5c48a9ea7d747e5fdab1a9f67e518983f6
+TYPE: web
+
+Familiarícese con su curso a través de los elementos de la página de inicio disponibles para usted.
+Barra de navegación basada en texto
+La barra de navegación del curso basada en texto utiliza texto para describir las diversas herramientas de Brightspace disponibles para usted.
+Figura: Elementos de la página de inicio del curso con una barra de navegación basada en texto.
+Barra de navegación basada en íconos
+La barra de navegación del curso basada en íconos utiliza íconos y texto para describir las diversas herramientas de Brightspace disponibles para usted.
+Figura: Elementos de la página de inicio del curso con una barra de navegación basada en íconos.
+- Mi página de inicio: lo redirige a la página de inicio de su organización, en la que puede acceder a todos sus cursos.
+- Título del curso: el nombre del curso. Haga clic en el título del curso en cualquier momento para ir a la página de inicio del curso.
+- Selector de cursos: haga clic en esta opción para buscar otros cursos en los que está inscrito y acceder a ellos rápidamente.
+- Alertas de mensajes: muestra cualquier mensaje instantáneo o correo electrónico que haya recibido.
+- Alertas de suscripción: muestra las actualizaciones de las actividades a las que se haya suscrito. Por ejemplo, si se suscribe a una actividad de debate, recibirá una notificación cuando se realicen actualizaciones al hilo de conversación.
+- Alertas de actualización: le notifica cuando recibe comentarios o calificaciones para diferentes actividades del curso, como tareas y exámenes.
+- Perfil: le permite acceder a la configuración de su perfil y cuenta. También puede cerrar sesión en Brightspace.
+- Herramientas de administración: permite acceder a herramientas adicionales en Brightspace.
+- Barra de navegación: muestra todas las herramientas del curso. La apariencia del menú de navegación y las herramientas del curso pueden variar según la organización.
+- Componentes: proporcionan acceso más rápido a las actualizaciones y noticias del curso. Los componentes de la página de inicio del curso varían según la organización.
+Video: Navegar por Brightspace

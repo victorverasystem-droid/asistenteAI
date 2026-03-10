@@ -1,0 +1,68 @@
+URL: https://community.d2l.com/brightspace-es-MX/kb/articles/33921-ver-cursos-y-contenido-del-curso-en-brightspace-pulse
+TITLE: Ver cursos y contenido del curso en Brightspace Pulse - Brightspace
+HASH: 0f13923ff647cf561dc73db78c9569db6c15df0665e4af20e32b311fb63d3166
+TYPE: web
+
+En la pestaña Cursos de Brightspace Pulse, puede ver los cursos en los que está inscrito actualmente y acceder al contenido del curso. De forma predeterminada, esta pestaña aparece cuando inicia sesión en Brightspace Pulse. Además, puede ver las descripciones del módulo de contenido (si están disponibles) y acceder a la página de inicio del curso en Brightspace.
+Tipos de contenido compatibles
+Cuando vea el contenido del curso en Brightspace Pulse, entre los tipos de archivo compatibles se incluyen los siguientes:
+- HTML
+- PDF (no son compatibles algunas características especiales, como la protección con contraseña)
+- Video MP4 (H.264, AAC)
+- DOC, DOCX
+- XLS, XLSX
+- PPT, PPTX
+- Audio MP3
+- Contenido de audio y video de Brightspace Capture
+Mosaicos de cursos mejorados
+Si el administrador lo configura, puede ver los mosaicos mejorados del curso que proporcionan detalles sobre sus cursos asignados.
+Se muestran mosaicos mejorados del curso:
+- La fecha de vencimiento del curso
+- La fecha en que completó el curso
+- Un indicador de estado Completado cuando se hayan completado todos los elementos de un curso
+- Un indicador de estado Atrasado cuando no se hayan completado los elementos del curso antes de la fecha de vencimiento
+- Indicadores de actualización de curso con enlaces a asignaciones, debates y cuestionarios
+Ver detalles del Módulo de contenido
+Un Módulo de contenido es una unidad de instrucción independiente diseñada para satisfacer uno o varios objetivos de aprendizaje en un curso. Un módulo consta de uno o varios temas.
+Para ver los detalles del Módulo de contenido
+- Toque la pestaña Cursos. Esto muestra los cursos en que está inscrito actualmente y el botón para acceder a la página de inicio de la organización en Brightspace.
+- Toque un curso. Se muestra el contenido del curso y un botón para acceder a la página de inicio del curso en Brightspace.
+- En la Tabla de contenido del curso, toque un módulo.
+- Toque Ver descripción para ver los detalles del módulo.
+Los detalles del módulo de contenido se abren en una vista web en que se muestra contenido HTML enriquecido, incluidos enlaces funcionales e imágenes.
+Ver las fechas de programación del contenido
+Vea las fechas de programación en Pulse para planificar su tiempo de manera más eficaz con una vista coherente de los plazos clave.
+Para ver las fechas de programación clave
+- En la pestaña Contenido, cuando se configuran las fechas de vencimiento, de inicio y final, y los rangos de disponibilidad, aparecen debajo de cada elemento de contenido.
+- Para ver la fecha y hora de vencimiento completa, toque el elemento de contenido. Aparecerá el cuadro de diálogo Fecha de inicio y fecha final.
+- Para ver el rango completo de disponibilidad de un elemento de contenido, incluidas las horas de inicio y final, toque el menú de tres puntos. Aparecerá el cuadro de diálogo Fecha de vencimiento.
+Ver descripciones de temas
+Ver descripciones completas de temas HTML que contienen contenido enriquecido del curso.
+Para ver descripciones de temas
+- Toque la pestaña Cursos. Esto muestra los cursos en que está inscrito actualmente y el botón para acceder a la página de inicio de la organización en Brightspace.
+- Toque un curso. El contenido del curso y un botón para acceder a la página de inicio del curso en Brightspace.
+- Navegue a un tema del curso.
+- Haga clic en los tres puntos verticales junto a un tema y seleccione Ver descripción.
+Figura: haga clic en Ver descripción en un tema para ver el contenido en su totalidad.
+El tema se muestra en formato HTML completo con enlaces funcionales y contenido.
+Anclar y desanclar un curso
+Para ayudarlo a encontrar más fácilmente sus cursos actuales en Brightspace Pulse, puede anclar y desanclar los cursos desde las pantallas Cursos y Página de inicio del curso. Anclar un curso garantiza que permanezca en la parte superior de la pantalla para facilitar el acceso. Si ancla o desancla un curso en Brightspace Pulse, se muestra el mismo estado anclado o desanclado en Brightspace.
+Para anclar o desanclar un curso
+- Realice una de las siguientes acciones:
+- En la pantalla Cursos, toque el ícono de puntos suspensivos (…) en el mosaico de cursos.
+- En la pantalla Página de inicio del curso, toque el ícono de puntos suspensivos (…) en la parte superior de la pantalla.
+En la lista de acciones, toque Anclar o Desanclar. Un curso anclado se indica con un ícono Anclar. Desanclar un curso elimina el ícono de anclar.
+Usted ha anclado o desanclado un curso.
+Hacer que los archivos que no sean HTML estén disponibles para verlos sin conexión
+Para completar las actividades de aprendizaje sin conexión a Internet, puede hacer que los archivos de temas que no sean HTML (como archivos PDF y MP4) estén disponibles para verlos sin conexión a Internet en Brightspace Pulse.
+Para hacer que los archivos de contenido estén disponibles para verlos sin conexión
+- En Brightspace Pulse, abra un archivo de tema que contenga un archivo PDF o MP4.
+- En el menú (...) ubicado en la parte superior de la página, seleccione Disponible sin conexión.
+- Si no tiene conexión a Internet, diríjase a Brightspace Pulse y vuelva a la tabla de contenidos para tocar los archivos, indicados por el ícono Archivo descargado.
+Para eliminar un archivo de tema de la visualización sin conexión
+En el menú (...) ubicado en la parte superior de la página, seleccione Eliminar del dispositivo. El archivo ya no estará disponible para ver sin conexión.
+Para eliminar todo el contenido sin conexión
+- Vaya a la parte superior del curso.
+- Toque el menú de puntos suspensivos (…).
+- Toque Eliminar todo el contenido sin conexión.
+Se elimina todo el contenido que anteriormente se configuró para ver sin conexión.

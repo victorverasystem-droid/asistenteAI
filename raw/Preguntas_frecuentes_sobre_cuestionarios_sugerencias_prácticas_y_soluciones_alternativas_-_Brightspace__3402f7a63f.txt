@@ -1,0 +1,76 @@
+URL: https://community.d2l.com/brightspace-es-MX/kb/articles/22052-preguntas-frecuentes-sobre-cuestionarios-sugerencias-practicas-y-soluciones-alternativas
+TITLE: Preguntas frecuentes sobre cuestionarios: sugerencias prácticas y soluciones alternativas - Brightspace
+HASH: 3402f7a63fe43b2ed7de0a39383dacae994bc91a419751aefd9d55fd6904a444
+TYPE: web
+
+Si bien la herramienta de cuestionarios ofrece varias maneras de crear y editar cuestionarios, existen ciertas limitaciones de la plataforma que se deben tener en cuenta. A continuación, se presentan las preguntas frecuentes que abordan estas limitaciones y brindan consejos sobre cómo usar efectivamente la herramienta de cuestionarios para aprovechar al máximo sus beneficios.
+¿Puedo cambiar la cantidad de puntos del cuestionario para corregir las calificaciones?
+No, no puede cambiar el máximo de puntos en los intentos de cuestionario completados. Si necesita cambiar los puntos máximos de un cuestionario que los estudiantes ya han realizado, como editar o eliminar una pregunta del cuestionario, estos cambios solo se pueden hacer en el cuaderno de calificaciones. Si edita o elimina cualquier pregunta, las calificaciones generales en Cuestionarios se actualizan para que coincidan con lo que hay en el cuaderno de calificaciones y se marcan con la etiqueta sobrescrita manualmente.
+¿Cómo puedo cambiar la cantidad máxima de puntos de un cuestionario?
+La cantidad máxima de puntos no se puede cambiar para los intentos finalizados, por lo que deberá cambiar puntos máximos en el cuaderno de calificaciones. Sin embargo, esto solo se puede hacer después de borrar las calificaciones de los alumnos en el elemento de calificación mediante Retraer comentarios en el cuestionario. Las calificaciones de los estudiantes no se modifican, ya que los puntos que obtuvieron en relación con el total de puntos siguen siendo los mismos. Los puntos del cuaderno de calificaciones son iguales a los puntos obtenidos en el intento, multiplicados por la proporción de los nuevos puntos máximos/previos puntos máximos. Este es el único caso en el que los puntos de la calificación general en el cuestionario y del cuaderno de calificaciones no coinciden, pero los porcentajes sí.
+Para cambiar la cantidad máxima de puntos de un cuestionario
+- Vaya a Cuestionarios.
+- Haga clic en el menú desplegable que desea editar y seleccione Calificación.
+Figura: Seleccione Calificaciones en el menú desplegable.
+- Seleccione todos los intentos de cuestionario y haga clic en Retirar comentarios para borrar las calificaciones de cuestionario de su cuaderno de calificaciones.
+- Vaya a Calificaciones.
+- Cambie el máximo de puntos en el elemento de calificación asociado.
+- Cuando aparezca el cuadro de diálogo emergente, haga clic en Sí.
+- Navegue nuevamente a Cuestionarios.
+- Haga clic en el menú desplegable del cuestionario y seleccione Calificación.
+- Seleccione todos los intentos y haga clic en Publicar para enviar las calificaciones actualizadas al cuaderno de calificaciones.
+¿Cómo cambio una pregunta del cuestionario a una pregunta con puntos extra?
+Si cambia una pregunta del cuestionario a una pregunta con puntos extra, la pregunta solo cambia para los intentos futuros y no para los ya completados. Sin embargo, esto se resuelve disminuyendo el máximo de puntos para el elemento de calificación.
+Para cambiar una pregunta del cuestionario a una pregunta con puntos extra
+- Vaya a Cuestionarios.
+- Haga clic en el nombre del cuestionario que desea editar.
+- Haga clic en la casilla de selección junto a la pregunta del cuestionario que desea convertir en una pregunta con puntos extra.
+- Haga clic en Más acciones > Activar/Desactivar puntos extra.
+- Haga clic en Guardar y cerrar.
+- Vaya a Calificaciones.
+- Cambie el máximo de puntos en el elemento de calificación asociado a la nueva cantidad de puntos máximos, lo que da un crédito adicional.
+- Marque la casilla Puede exceder si desea que los estudiantes puedan recibir más del 100 % para el elemento de calificación. Marque la casilla Puede exceder en la categoría y la Calificación calculada final si desea que los estudiantes puedan recibir más del 100 % para la categoría y la calificación final.
+¿Cómo puedo cambiar los puntos de una pregunta de un cuestionario en curso?
+Cambiar los puntos que vale una pregunta afecta solo a los intentos futuros, no a los finalizados. Para ajustar las calificaciones de los intentos finalizados, actualice los puntos máximos en el elemento de calificación del cuaderno de calificaciones y actualice todos los intentos.
+Para cambiar los puntos de una pregunta de un cuestionario en curso
+- Vaya a Calificaciones.
+- Seleccione Puede exceder en el elemento de calificación para que los puntos ganados de los estudiantes se transfieran correctamente al cuaderno de calificaciones.
+- Vaya a Cuestionarios.
+- Haga clic en el nombre del cuestionario que desea editar.
+- Marque la casilla de selección junto a la pregunta que desea cambiar. A continuación, haga clic en Más acciones > Configurar puntos.
+- Ingrese el nuevo número de puntos y haga clic en Guardar.
+- Haga clic en Guardar y cerrar.
+- Haga clic en el menú desplegable del cuestionario y seleccione Calificación.
+- En la pestaña Preguntas, haga clic en Actualizar todos los intentos y haga clic en la pregunta para la cual desea cambiar los puntos.
+- Haga clic en Dar a los intentos con respuesta, elija o ingrese la respuesta correcta e ingrese los nuevos puntos. Haga clic en Guardar.
+- Regrese al menú Calificaciones.
+- Cambie el máximo de puntos en el elemento de calificación asociado.
+¿Cómo puedo eliminar una pregunta de un cuestionario en curso?
+Si elimina una pregunta de un cuestionario, solo se eliminará de los intentos futuros. La pregunta seguirá apareciendo en los intentos completados. Puede cambiar a cero la cantidad de puntos que los estudiantes recibieron por la pregunta en los intentos finalizados, pero los puntos máximos del cuestionario no se modifican. Esto significa que las calificaciones de los estudiantes estarán temporalmente incorrectas en el cuestionario después de que actualice todos los intentos con un valor cero para la pregunta eliminada.
+Para eliminar una pregunta de un cuestionario en curso
+- Vaya a Cuestionarios.
+- Haga clic en el nombre del cuestionario que desea editar.
+- Haga clic en la casilla de selección junto a la pregunta que desea eliminar. A continuación, haga clic en Más acciones > Eliminar.
+- Vuelva a hacer clic en Eliminar en el cuadro de diálogo emergente.
+- Haga clic en Guardar y cerrar.
+- Haga clic en el menú desplegable del cuestionario y seleccione Calificación.
+- Haga clic en la pestaña Preguntas.
+- Seleccione Actualizar todos los intentos. Haga clic en la pregunta que eliminó en Preguntas que ya no están en el cuestionario.
+- Seleccione Dar a todos los intentos, en puntos ingrese cero y haga clic en Guardar.
+- Vaya a Calificaciones.
+- Cambie el máximo de puntos en el elemento de calificación asociado.
+¿Cómo descarto una pregunta del cuestionario sin eliminarla?
+Si prefiere no eliminar una pregunta no deseada de un cuestionario, hay otras opciones dependiendo de cómo quiere que las calificaciones de los alumnos resulten afectadas.
+Otorgue a los estudiantes créditos adicionales
+Convierta la pregunta no deseada en una pregunta con puntos extra y disminuya el máximo de puntos en el cuaderno de calificaciones. Esta opción aumenta la calificación de todos los alumnos.
+Otorgue a los estudiantes el crédito total
+Otorgue a los alumnos todos los puntos de la pregunta no deseada con la opción Actualizar todos los intentos. El máximo de puntos del cuestionario sigue siendo el mismo. Esta opción aumenta las calificaciones de los alumnos que obtuvieron la pregunta equivocada, pero las calificaciones de los alumnos que la respondieron correctamente no cambian.
+No dé a los estudiantes ningún crédito
+Cambie la pregunta no deseada a una pregunta de bonificación que valga 0,00001 puntos (no se puede elegir una pregunta valga cero puntos), dé a todos los alumnos cero puntos utilizando Actualizar todos los intentos y disminuya los puntos máximos en el cuaderno de calificaciones. Esta opción aumenta las calificaciones de los alumnos que respondieron la pregunta incorrectamente y disminuye las calificaciones de los alumnos que la respondieron correctamente (a menos que su puntuación sea del 100 %).
+¿Cómo informar a alumnos sobre los próximos cuestionarios sincrónicos?
+Para asegurarse de que los alumnos conozcan los próximos cuestionarios sincrónicos, debe crear soluciones instructivas o manuales:
+- Hacer visible un cuestionario sincrónico en el Calendario:
+- Seleccione Agregar fechas de disponibilidad al calendario o configure un evento que muestre todo el tiempo.
+- Utilice el parámetro Fecha de inicio cuando configure un cuestionario sincrónico y deje vacío el campo Fecha final.
+- Cree un anuncio con información sobre el cuestionario sincrónico.
+- Configure un evento y asigne un enlace al cuestionario para proporcionar más contexto.

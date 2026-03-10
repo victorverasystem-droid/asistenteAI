@@ -1,0 +1,56 @@
+URL: https://community.d2l.com/brightspace-es-MX/kb/articles/15644-revisar-los-comentarios-y-las-rubricas
+TITLE: Revisar los comentarios y las rúbricas - Brightspace
+HASH: 016e68cfb57db3f634a2932e305fd9bd0ee610e462186a376030d12a27f67a6e
+TYPE: web
+
+Verifique con su instructor que los comentarios estén disponibles para su visualización.
+Si su instructor le informa que están disponibles los comentarios de la actividad, usted puede ver los comentarios en la herramienta correspondiente. Dependiendo de cómo Brightspace está configurado para su institución, existen varias maneras en las que puede ver comentarios: Debates, Asignaciones, Cuestionarios y Calificaciones.
+Cómo se relacionan las rúbricas con su calificación
+Las rúbricas se utilizan para evaluar el logro de las actividades del curso (asignaciones, debates y preguntas del cuestionario de respuesta por escrito), de acuerdo con los niveles de logro y criterios de evaluación predefinidos. Ayudan a garantizar que las actividades se evalúen de manera justa y coherente y pueden permitirle ver los criterios de calificación antes de enviar las actividades.
+Las rúbricas se asocian directamente con las actividades del curso, por lo que puede tener la opción de ver los criterios utilizados para evaluar la actividad antes de enviar su trabajo. Puede verificar los rangos de nivel de rúbrica, lo que garantiza una comprensión clara de las distribuciones de puntos.
+Sin embargo, en algunos casos, el instructor puede optar por ocultar una rúbrica de una actividad hasta calificarla y publicar sus comentarios. Esto se puede hacer para impedir que los estudiantes utilicen las rúbricas como claves de respuesta para las actividades. Por ejemplo, el instructor puede describir las expectativas de evaluación en las instrucciones de la asignación y ocultar la vista previa de la rúbrica asociada. Luego de calificar la asignación, el instructor publica la rúbrica calificada como parte de los detalles de su evaluación. Las rúbricas también pueden ocultarse después de que se califique una evaluación y se publiquen los comentarios.
+La rúbrica calificada de la actividad incluye criterios obtenidos, retroalimentación personalizada y puntuación. En algunos casos, la actividad incluye un enlace a la rúbrica calificada. Por ejemplo, un debate muestra los comentarios del instructor, el puntaje y un enlace a la rúbrica calificada.
+Cuando se le notifique que se publicó o actualizó la nota de la actividad, podrá ver los comentarios en la herramienta correspondiente.
+Ver los comentarios en Debates
+Utilice el botón Ver rúbrica calificada en Debates para ver cómo el instructor evaluó sus respuestas y revisó su calificación.
+Ver los comentarios en Debates
+- En la página de inicio del curso, vaya a Debates.
+- Seleccione el tema de debate para el cual desea revisar los comentarios.
+- Puede leer los comentarios de su instructor en la sección Comentarios debajo de la descripción del debate.
+- Debajo de la descripción del debate, haga clic en el enlace Ver rúbrica calificada para abrir la rúbrica en una ventana emergente.
+- Haga clic en el botón Cerrar una vez que haya terminado de revisar sus comentarios.
+Ver los comentarios en Asignaciones
+Acceda a la página Ver comentarios desde Asignaciones para revisar la calificación de asignación y los comentarios de su instructor.
+Ver los comentarios en Asignaciones
+- En la página de inicio del curso, vaya a Asignaciones.
+- En la página Asignaciones, haga clic en No leído en la columna Estado de evaluación de su asignación.
+- En la página Ver comentarios, puede visualizar sus comentarios del material enviado, la evaluación de rúbrica y las calificaciones.
+- Si el instructor anotó comentarios en las asignaciones, haga clic en Ver comentarios en línea. La vista de anotaciones se abre en una nueva pestaña, en la que se muestran los comentarios anotados mediante resaltado, dibujo a mano alzada, formas y comentarios asociados.
+- Para descargar las asignaciones anotadas en formato PDF, haga clic en Descargar.
+- Una vez que haya terminado de ver los comentarios, regrese a la página Ver comentarios y haga clic en Listo.
+Ver los comentarios en Cuestionarios
+Si hace clic en No leído en la columna Estado de evaluación, puede ver sus respuestas correctas e incorrectas de los cuestionarios.
+Ver los comentarios en Cuestionarios
+- En la página de inicio del curso, vaya a Cuestionarios.
+- Puede revisar los comentarios de dos maneras. Seleccione una de las siguientes opciones:
+- Haga clic en el menú desplegable al lado del cuestionario y seleccione Material enviado.
+- Haga clic en el enlace No leído en la columna Estado de evaluación.
+- Si hace clic en cualquiera de sus intentos de cuestionario, verá un informe basado en la forma en que su instructor ha configurado el proceso de revisión.
+Ver comentarios y rúbricas en Calificaciones
+Ver los comentarios y rúbricas para Debates
+- Vaya a Calificaciones.
+- Haga clic en Ver rúbrica calificada.
+- Lea su calificación y cualquier comentario en la columna Comentarios y evaluaciones.
+Ver los comentarios y rúbricas para Asignaciones
+Debajo del puntaje y los comentarios de una asignación, haga clic en lo siguiente:
+- Comentarios en línea: Vea los comentarios de las anotaciones que dejó el instructor para la asignación.
+- Rúbrica calificada: Abre la rúbrica en una ventana emergente, en la que puede leer los comentarios y ver los criterios de la rúbrica.
+Imprimir una vista previa de una rúbrica adjunta a una asignación o debate
+Las rúbricas impresas incluyen el logotipo de la organización que emitió la rúbrica; específicamente, la imagen del logotipo que se muestra en la barra de navegación del curso.
+Para imprimir una vista previa de una rúbrica
+- En la página de inicio del curso, vaya a Asignaciones o Debates.
+- Realice una de las siguientes acciones:
+- En una asignación, aparece la vista previa de la rúbrica y el botón de imprimir se muestra en la parte superior derecha de la rúbrica.
+- En un tema de debate, haga clic en el enlace a la rúbrica. Una ventana emergente muestra la rúbrica con el botón de imprimir en la esquina superior derecha.
+- Haga clic en Imprimir rúbrica.
+- Seleccione la impresora o el controlador de PDF que desea utilizar y haga clic en Imprimir.

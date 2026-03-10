@@ -1,0 +1,19 @@
+URL: https://community.d2l.com/brightspace-es-MX/kb/articles/23235-uso-de-rubricas
+TITLE: Uso de rúbricas - Brightspace
+HASH: 67a406495bb967df01d4c71f54cc854cbb7b114bb12640564c32e19726421158
+TYPE: web
+
+Descripción general de la herramienta Rúbricas
+Utilice las rúbricas como guía para completar las actividades del curso, como Asignaciones y Debates. Las rúbricas le brindan expectativas claras sobre cómo debe completar las actividades del curso y cómo se lo evaluará en actividades específicas, y le proporcionarán los próximos pasos para mejorar su aprendizaje en el futuro.
+Recorrido visual: Rúbricas
+Las rúbricas se organizan en varias secciones, que se describen a continuación:
+-
+Criterios: normas específicas en relación con las cuales su instructor calificará su tarea.
+-
+Niveles: diferentes niveles de desempeño que su instructor describió para cada uno de los criterios elegidos. Su instructor también puede agregar rangos de nivel de rúbrica para una comprensión más clara de las distribuciones de puntos.
+-
+Puntaje del criterio: puntaje de un criterio que le dio su instructor en función del trabajo que está evaluando.
+-
+Total: El valor total de su trabajo, que se calcula a partir de la sumatoria de las puntuaciones de los criterios.
+-
+Puntuación general: La puntuación general bajo la que se encuentra su trabajo según los puntos.

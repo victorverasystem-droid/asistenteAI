@@ -1,0 +1,52 @@
+URL: https://community.d2l.com/brightspace-es-MX/kb/articles/33876-subtitulado-automatico-de-video-note
+TITLE: Subtitulado automático de Video Note - Brightspace
+HASH: 62c1e88d0507c97052c4d9c23a925a840ce63a9ef63055ff3007ecae36a82e19
+TYPE: web
+
+En Brightspace Core, puede utilizar Video Note para transcribir automáticamente grabaciones de video note a medida que se cargan, además de agregar subtítulos a los videos sin necesidad de crear y cargar un archivo .vvt de forma manual. Las actualizaciones de la interfaz de usuario le permiten modificar la transcripción generada de forma automática, a fin de corregir cualquier inexactitud y aumentar la accesibilidad a video notes.
+Es posible generar subtítulos en los siguientes idiomas:
+- Inglés de EE. UU. (en-US)
+- Inglés británico (en-GB)
+- Francés canadiense (fr-CA)
+- Alemán (de-DE)
+- Portugués brasileño (pt-BR)
+- Coreano (ko-KR)
+- Italiano (it-IT)
+- Español (es-MX): si no está disponible, se utiliza el español de EE. UU. (es-US)
+- Árabe moderno estándar (ar-SA)
+- Chino mandarín: continental (zh-CN)
+- Ruso (ru-RU)
+- Japonés (ja-JP)
+- Turco (tr-TR)
+- Neerlandés (nl-NL)
+Cómo agregar subtítulos a una video note
+Agregue manualmente los subtítulos a una video note mediante un archivo .vtt configurado.
+Para agregar manualmente subtítulos a una video note
+- Cree una video note en el editor de Brightspace con Insertar objetos.
+-
+Utilice un programa de edición de texto, como el Bloc de notas (PC) o TextEdit (Mac) para crear un archivo .vtt con el siguiente formato:
+WEBVTT [Necesario en la primera línea para indicar el tipo de archivo]
+00:01.000 --> 00:03.000 [marca horaria de inicio y fin en minutos:segundos.milisegundos]
+Ingrese el texto de los subtítulos aquí [Escriba los subtítulos que desea que se muestren durante esta parte del video]
+00:04.000 --> 00:08.000
+Ingrese el texto de los subtítulos aquí.
+00:09:000 --> 00:14.000
+Ingrese el texto de los subtítulos aquí.
+-
+Guarde el archivo de texto como un archivo .vtt incluyendo la extensión .vtt al final del nombre y seleccionando el tipo de archivo como Todos los archivos.
+-
+Regresar aBrightspace Learning Environment.
+- En Herramientas de administración, seleccione Subtítulos de video note.
+-
+Busque la video note creada en el paso anterior y haga clic en ella.
+-
+Haga clic en Seleccionar archivo, localice el archivo .vtt creado en los pasos anteriores y haga clic en Abrir.
+-
+Haga clic en Guardar subtítulos.
+-
+Haga clic en Vista previa de video y seleccione el menú de opciones (…).
+-
+Haga clic en Subtítulos para pasar de Subtítulos desactivados a Subtítulos predeterminados.
+-
+Reproduzca el video y confirme que los subtítulos se muestren de manera sincronizada con la imagen.
+Nota: Para obtener más información sobre la creación de archivos .vtt, consulte Cómo crear un archivo WebVTT. El archivo debe tener exactamente el mismo formato o los subtítulos no se mostrarán. Puede utilizar cualquier método de subtítulos de terceros compatible para completar este proceso.

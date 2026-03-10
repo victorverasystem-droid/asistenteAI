@@ -1,0 +1,30 @@
+URL: https://community.d2l.com/brightspace-es-MX/kb/articles/33898-cargue-almacene-y-comparta-archivos-con-la-herramienta-casillero
+TITLE: Cargue, almacene y comparta archivos con la herramienta Casillero - Brightspace
+HASH: 333e8a5118c127376391971f5819f21d7dc18ab63f9d76e4b88b922ecacbd29a
+TYPE: web
+
+La herramienta Casillero le permite almacenar sus archivos de forma remota y acceder a ellos en cualquier momento y lugar. Solo usted tiene acceso a su casillero.
+El área de su casillero personal no es específica de un curso. Puede acceder a su casillero desde cualquier lugar de Brightspace y almacenar todos sus archivos juntos. Los casilleros grupales son áreas de casillero restringidas donde los miembros de un grupo pueden compartir archivos. Cualquier miembro del grupo puede modificar los archivos publicados en áreas del casillero grupal. Los casilleros grupales tienen las mismas opciones que los casilleros normales con las siguientes excepciones:
+-
+La opción de convertir los archivos del casillero en públicos no está disponible.
+-
+Existe una opción de Enviar un correo electrónico a los miembros del grupo.
+-
+Existe una columna Modificado por que muestra la última persona que trabajó en un archivo.
+Cargue, cree y almacene archivos con la herramienta Casillero
+-
+En la barra de navegación de su curso o unidad de organización, haga clic en Casillero.
+-
+Realice una de las siguientes acciones:
+-
+Haga clic en Cargar archivos para agregar archivos desde su dispositivo local a su Casillero de Brightspace.
+-
+Haga clic en Nuevo archivo para crear un nuevo archivo directamente en Brightspace.
+-
+Haga clic en Nueva carpeta para crear una nueva carpeta dentro de su casillero. Para organizar los archivos que subió a su casillero, puede moverlos o crear carpetas nuevas.
+Nota: La descripción del archivo de un archivo no puede tener más de 4,000 caracteres.
+Figura: Puede cargar archivos desde su computadora, crear un archivo nuevo o crear una carpeta nueva.
+Busque archivos de casillero compartidos de otros estudiantes
+- En la barra de navegación de un curso, haga clic en Listado de alumnos.
+- En el menú contextual del usuario cuyos archivos de casillero compartidos desea ver, haga clic en Ver archivos de casillero compartidos.
+- Haga clic en el nombre del archivo que desea abrir o especifique un tipo de archivo en la lista desplegable Archivos tipo.

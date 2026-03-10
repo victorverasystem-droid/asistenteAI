@@ -1,0 +1,58 @@
+URL: https://community.d2l.com/brightspace-es-MX/kb/articles/22516-ver-sus-calificaciones
+TITLE: Ver sus calificaciones - Brightspace
+HASH: 11d8bbf70a18cde0aff0b83ce1386ff2b0e6a80ca8afac72b438635e0f2ff8c2
+TYPE: web
+
+Utilice la herramienta Calificaciones en la barra de navegación para ver las calificaciones de las asignaciones y cuestionarios. Es posible ver las calificaciones individuales y la fórmula de calificación utilizada para la evaluación. En función de cómo estén configuradas las calificaciones, quizá pueda ver comentarios y estadísticas de desempeño de clases generales.
+También puede ver los comentarios del instructor sobre los intentos de cuestionario en la página Calificaciones.
+Acceder a Calificaciones
+- Acceda al curso donde desea ver sus calificaciones.
+- En la barra de navegación, haga clic en Calificaciones.
+¿Cómo puedo saber si mis calificaciones son visibles?
+A medida que complete las actividades durante todo el curso, recibirá notificaciones que indican que sus calificaciones en cuestionarios, asignaciones o debates están disponibles para que las vea. Sabrá si hay nuevas notificaciones del curso para usted si hay un punto naranja en el ícono de Notificaciones en su barra de navegación superior.
+Acceda a sus calificaciones a través de notificaciones
+- Haga clic en el ícono Notificaciones en la barra de navegación superior.
+- Vea las notificaciones recientes del curso.
+- Haga clic en la notificación que desea ver para obtener más información sobre las calificaciones de la actividad de su curso.
+Si no ha recibido una notificación para una calificación que está esperando, comuníquese directamente con su instructor.
+Ver sus calificaciones
+En la página Calificaciones, se muestran las asignaciones del curso, los cuestionarios y las evaluaciones de los debates.
+En la página Calificaciones, se proporcionan los siguientes detalles sobre la asignación calificada:
+- Elemento de calificación: el nombre de la asignación calificada.
+- Puntos: su puntuación en la asignación calificada de los puntos totales posibles.
+- Peso logrado: determinado por los puntos ganados y cuánto vale la asignación calificada con respecto a la categoría de calificación o calificación final.
+- Calificación: la calificación obtenida en la asignación se muestra como un porcentaje.
+- Comentarios y evaluaciones: los comentarios del instructor sobre las rúbricas, las asignaciones y los cuestionarios.
+Su Calificación calculada final es un promedio de todas sus asignaciones calificadas actuales. Su calificación final calculada puede permanecer oculta hasta el final del trimestre, ya que el determina su visibilidad.
+En el caso de los cuestionarios, puede encontrar los Comentarios generales del en la columna Comentarios y evaluaciones. Abra el enlace Ver intentos de cuestionario para verificar los comentarios detallados.
+Ver exenciones de calificación
+Puede ver las exenciones de los elementos de calificación en varias ubicaciones de Brightspace. En la página Mis calificaciones, las exenciones aparecen en la columna Calificación. Los instructores controlan los puntos y las ponderaciones que aparecen en la página Calificaciones; sin embargo, la columna Calificación siempre muestra los elementos de calificación exentos.
+Visualizar las calificaciones cero automáticas
+Si el curso tiene una calificación de cero automática configurada para envíos de asignaciones atrasadas, es posible que aparezca automáticamente una calificación de cero (0) si no cumple con una fecha y hora de envío de material para un elemento de calificación. Solo puede ver el mensaje hasta la fecha final de la actividad, momento en el cual desaparece este comentario (aunque la calificación permanecerá si no realiza ninguna acción). Si aún está disponible, puede enviar su asignación después de recibir un cero automático, momento en el que el instructor deberá puntuar manualmente y anular la calificación cero.
+Figura: Si no cumple con un plazo de envío, es posible que aparezca una calificación cero (0%) automática, junto con un estado de finalización Atrasada y un comentario predeterminado que indica: Esta actividad está atrasada y no la ha completado. Complétela ahora para actualizar su calificación.
+Video: Explicación de las calificaciones
+Libro de calificaciones
+Revise su cuaderno de calificaciones para realizar un seguimiento de su progreso de aprendizaje. Puede ver sus calificaciones individuales de actividades del curso que su instructor ha marcado para usted, así como la fórmula de calificación utilizada para la evaluación. En función de cómo estén configuradas las calificaciones, quizá pueda ver comentarios y estadísticas de desempeño de clases generales.
+Acceder al cuaderno de calificaciones
+- Navegue hacia el curso.
+- Haga clic en la herramienta Calificaciones en la barra de navegación.
+- Vea las calificaciones de las actividades del curso que completó y que fueron calificadas por su instructor.
+Recorrido visual: Cuaderno de calificaciones
+Figura: vista del cuaderno de calificaciones para estudiantes.
+- Categoría de calificación: Cree categorías de calificaciones para organizar y agrupar los elementos de calificación relacionados en secciones de su cuaderno de calificaciones. Por ejemplo, una categoría de calificación de cuestionarios se utilizará para agrupar todos los elementos de calificación para cuestionarios que completará.
+- Elementos de calificación: Los elementos de calificación representan todo el trabajo por el que lo evaluarán en su curso. Los elementos de calificación pueden existir de manera independiente en su cuaderno de calificaciones, o pueden ser debates, cuestionarios y asignaciones asociados. Cada elemento de calificación tiene una entrada en el cuaderno de calificaciones, que mostrará la calificación que obtuvo para cada actividad individual del curso.
+- Calificación obtenida: la calificación que su instructor le asignó para un elemento de calificación en particular.
+- Comentarios y retroalimentación: la retroalimentación general del instructor sobre las rúbricas, las asignaciones y los cuestionarios.
+¿Cómo puedo ver las calificaciones de los cursos antiguos?
+Si su escuela le ha otorgado acceso continuo a los cursos incluso después de completarlos, puede revisar las calificaciones pasadas que se lograron después de completar cuestionarios y asignaciones anteriores.
+Acceda a las calificaciones de cursos antiguos a través del selector de cursos
+- Haga clic en el ícono Selector de cursos (waffle) en la parte superior de la página.
+- Encontrará una lista de los cursos a los que tiene acceso. Haga clic en el curso al que desea acceder.
+- Navegue a la herramienta Calificaciones.
+- Revise las calificaciones obtenidas del curso que ya ha completado.
+Acceder a las calificaciones de cursos antiguos a través del componente Mis cursos
+- Busque el componente Mis cursos en la página de inicio de su organización.
+- Navegue a la herramienta Calificaciones.
+- Revise las calificaciones obtenidas del curso que ya completó.
+Si no tiene acceso a cursos pasados o no puede encontrar las calificaciones que está buscando, comuníquese con su instructor para obtener más ayuda.
+Video: Cómo acceder a un curso antiguo y quitarlo

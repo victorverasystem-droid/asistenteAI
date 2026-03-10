@@ -1,0 +1,29 @@
+URL: https://community.d2l.com/brightspace-es-MX/kb/articles/33886-progreso-de-la-clase
+TITLE: Progreso de la clase - Brightspace
+HASH: c0a4005b863938de7336053f8ecc9df9ab72dfabc7182c97f572d10798e6a89f
+TYPE: web
+
+La herramienta Progreso de la clase ayuda a hacer un seguimiento de su progreso en un curso; para ello, se mide el avance de distintos indicadores de progreso. Puede utilizar la herramienta Progreso de la clase para realizar un seguimiento de las asignaciones y los comentarios específicos de un curso.
+Los informes de progreso están disponibles para los siguientes indicadores de progreso: Resumen, Calificaciones, Estándares, Objetivos, Contenido, Debates, Asignaciones, Cuestionarios, Lista de control, Encuestas, Historial de inicio de sesión e Historial de acceso al sistema.
+Nota: Según la configuración de su organización, es posible que la pestaña Estándares tenga una etiqueta diferente, como Resultados de aprendizaje. Además, es posible que algunas de las pestañas no aparezcan.
+Para ver el progreso del curso en la herramienta Progreso de la clase
+- Navegue hacia el curso.
+- Abra Progreso de la clase. Esto puede estar en la barra de navegación, en el menú desplegable más o en el menú Herramientas del curso.
+Recorrido visual: progreso de la clase
+Figura: Descripción general de la herramienta de progreso de la clase.
+Nota: Según su organización, las siguientes pestañas pueden o no estar disponibles para que usted acceda.
+- Haga clic en un elemento del menú para revisar los siguientes elementos:
+- Calificaciones: Muestra todos sus elementos calificados en el curso con comentarios.
+- Contenido: Muestra todo el contenido disponible para el curso. Esta pestaña también muestra sus Temas visitados, Total de visitas, Tiempo dedicadoy Temas finalizados . Cada módulo tiene una barra de progreso que muestra su nivel de avance. Puede expandir cada módulo para ver los temas que ya completó y los que faltan.
+- Debates: Muestra todos los debates del curso y sus Publicaciones de lectura, Cadenas creadasy Respuestas publicadas.
+- Asignaciones: Muestra todas sus asignaciones. Puede ver los detalles de sus envíos y los comentarios de su instructor en cada asignación que ha enviado.
+- Cuestionarios: Muestra todos los cuestionarios disponibles para el curso. Puede ver sus intentos y comentarios sobre ellos en esta pestaña.
+- Lista de verificación: Muestra todas las listas de verificación de actividades del curso. Esto le permite ver las Listas de control completadas y los Elementos de la lista de control completados.
+- Encuesta: Muestra todas las encuestas creadas en Brightspace.
+- Nota: Si la encuesta se creó con una plataforma diferente, no se mostrará aquí.
+- Historial de acceso al sistema: muestra el número de accesos al sistema (últimos 30 días) y el último día en que se accedió al sistema del curso.
+- Historial de acceso al curso/de inicios de sesión: muestra el número de accesos al sistema (últimos 30 días) y el último día en que se accedió al sistema del curso.
+Nota: El puede configurar la herramienta de progreso de la clase para que muestre un historial de acceso al sistema, acceso al curso e inicio de sesión, o el conjunto completo.
+- Ver la calificación calculada final actual de todos los elementos calificados en el curso.
+- Haga clic en el ícono Expandir para ver los detalles de su progreso dentro de cada categoría. También puede hacer clic en las pestañas de cada categoría debajo de la pestaña Resumen.
+Video: Descripción general de Progreso de la clase

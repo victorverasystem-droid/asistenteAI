@@ -1,0 +1,44 @@
+URL: https://community.d2l.com/brightspace-es-MX/kb/articles/23240-solucionar-problemas-de-falta-de-contenido-del-curso
+TITLE: Solucionar problemas de falta de contenido del curso - Brightspace
+HASH: aa0afdea053b123b2e85d4bfa0f722aedf53535deff1a89f5b999eca90242855
+TYPE: web
+
+No hay contenido en mi curso/faltan módulos o temas
+Existen varias razones por las cuales pueden faltar materiales del curso en Contenido:
+No se puede hacer clic en módulos o temas de contenido
+Figura: Temas de contenido con fechas de inicio futuras no disponibles.
+Mensajes de error al acceder a enlaces de contenido
+Mensaje de Error interno: Recibirá este mensaje cuando el sitio web se tenga problemas de flujo de trabajo interno.
+-
+Si hace clic en un enlace que conduce a un elemento en una herramienta de Brightspace (como Asignaciones, Debates, otras áreas de contenido, etc.), diríjase a la herramienta y compruebe si se puede acceder al elemento allí.
+-
+Si puede, comuníquese con el instructor e infórmele sobre el enlace de contenido roto.
+-
+En caso de lo contrario, póngase en contacto con el Servicio de asistencia de D2L a fin de obtener ayuda adicional para diagnosticar y resolver el problema.
+Figura: Si recibe un mensaje de error interno, comuníquese con el instructor, o bien con la mesa de ayuda de D2L para obtener más ayuda.
+Mensaje No autorizado: recibirá este mensaje cuando no tenga acceso a la página dentro de Brightspace.
+-
+Si hace lcic en un enlace de contenido que conduce a un elemento en una herramienta de Brightspace (como Asignaciones, Debates, otras áreas de contenido, etc.), diríjase a la herramienta y compruebe si se puede acceder al elemento allí.
+-
+Si puede, comuníquese con el instructor e infórmele el problema que detectó.
+-
+Si no puede hacerlo, comuníquese con su instructor para obtener orientación sobre los próximos pasos.
+Figura: Si recibe un mensaje no autorizado, comuníquese con el instructor
+Enlaces a contenido rotos: si recibe un mensaje de error cuando hace clic en un enlace externo a través del contenido, y no puede llegar a la página, comuníquese con su instructor para informarle sobre el enlace roto que agregó al curso.
+Página no encontrada o Error 404: Este error se produce cuando un enlace conduce a una página que no existe. Si no puede encontrar la página vinculada, comuníquese con el instructor del curso.
+Los archivos de audio y video no se reproducen
+Si no puede reproducir archivos de audio o video en Contenido, lo más probable es que esto sea porque le falta un complemento necesario para reproducir el archivo.
+-
+Para comprobar si este es el problema, realice el control del sistema que se encuentra en la página de inicio de sesión de Brightspace.
+-
+Asegúrese de que todos los complementos estén activados y actualice programas si es necesario (por ejemplo, Java, Adobe, etc.).
+-
+También puede reiniciar el navegador y borrar la caché antes de intentar reproducir el archivo de audio o video nuevamente.
+-
+Comuníquese con su instructor si ya probó todo lo anterior y el problema persiste.
+Los videos de YouTube y otros medios integrados no funcionan
+Cuando los medios externos (como videos de YouTube) están integrados en la herramienta de Contenido, es posible que su navegador los bloquee si sospecha que puede no ser seguros. Si esto sucede, el contenido no se reproducirá.
+Expectativas e instrucciones de la actividad del curso: para recibir aclaraciones sobre las expectativas o instrucciones de la asignación, comuníquese directamente con el instructor para que responda sus preguntas.
+Descarga de contenido
+Haga clic en la página de contenido que desea descargar. En la parte inferior de la página, haga clic en Descargar.
+Nota: Solo puede descargar contenido del curso si tiene los permisos correspondientes asignados. Si no tiene los permisos para descargar el contenido, no se mostrará el botón Descargar.

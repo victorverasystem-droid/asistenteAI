@@ -1,0 +1,23 @@
+URL: https://community.d2l.com/brightspace-es-MX/kb/articles/23204-iconos-y-notificaciones-del-cuaderno-de-calificaciones
+TITLE: Íconos y notificaciones del cuaderno de calificaciones - Brightspace
+HASH: 2ae7b0e5b792c29c9fa926ae4ac1bc06450ed9ea3c214741f9f1972b171e0c8b
+TYPE: web
+
+Un indicador de punto de advertencia naranja en su cuaderno de calificaciones indica que una actividad (como un debate, un cuestionario o una asignación) requiere la atención del instructor. Según el tipo de actividad que se revisa, el indicador aparece en función de sus interacciones con el envío del estudiante.
+Asignaciones
+Figura: El ícono Asignaciones y el ícono Asignaciones con el punto de advertencia naranja indica que se requiere una acción por parte del instructor.
+Aparece un indicador en el cuaderno de calificaciones cuando un estudiante envió una asignación que no ha sido vista por el instructor.
+Nota: Si hay más de un instructor en el curso, la visualización de la asignación por parte de un instructor elimina el indicador de todos los demás instructores. Si el envío lo configura posteriormente un instructor como Marcado como no leído, el indicador vuelve a aparecer para todos los instructores.
+La publicación de la asignación no afecta su estado de lectura.
+Debates
+Figura: El ícono Debates y el ícono Debates con el punto de advertencia naranja indica que se requiere una acción por parte del instructor.
+Aparece un indicador en el cuaderno de calificaciones cuando un estudiante publicó en un tema de debate no ha sido visto por el instructor.
+Nota: Si hay más de un instructor en el curso, la visualización del debate por parte de un instructor elimina el indicador de todos los demás instructores. Si el envío lo configura posteriormente un instructor como Marcado como no leído, el indicador vuelve a aparecer para todos los instructores. La selección de Evaluar tema marca automáticamente la publicación como leída durante el flujo de trabajo de calificación de ese estudiante.
+Cuestionarios
+Figura: El ícono Cuestionarios y el ícono Cuestionarios con el punto de advertencia naranja indica que se requiere una acción por parte del instructor.
+Aparece un indicador en el cuaderno de calificaciones cuando un estudiante envió un intento de cuestionario que requiere revisión por parte del instructor. Por lo general, este indicador aparece en cuestionarios con preguntas de respuesta escrita.
+Nota:
+- Los cuestionarios calificados automáticamente no tienen un indicador.
+- Abrir un intento no marca el intento como leído y no quita el indicador.
+- La publicación de la calificación de un intento elimina el indicador.
+- Si se retira la calificación de un intento, el indicador vuelve a aparecer.

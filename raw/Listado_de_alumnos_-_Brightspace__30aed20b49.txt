@@ -1,0 +1,15 @@
+URL: https://community.d2l.com/brightspace-es-MX/kb/articles/33887-listado-de-alumnos
+TITLE: Listado de alumnos - Brightspace
+HASH: 30aed20b49b26dd74946e6c9bc8b311986fe4f6f1a82343d2030ce2b4ab45049
+TYPE: web
+
+Utilice la herramienta Listado de alumnos para ver quiénes se inscribieron en el curso, enviar mensajes de correo electrónico o mensajes instantáneos, ver archivos de casillero compartidos y leer los blogs de los compañeros si tienen uno.
+Vaya al listado de alumnos haciendo clic en la herramienta Listado de alumnos en la barra de navegación o en Herramientas del curso > Listado de alumnos.
+Para aprender a enviar correos electrónicos y mensajes instantáneos mediante la herramienta Listado de alumnos, consulte Buscar y contactar a otros estudiantes de su curso con Listado de alumnos.
+Recorrido visual: Listado de alumnos
+Figura: La página Listado de alumnos con elementos numerados.
+- Correo electrónico del Listado de alumnos: Enviar un correo electrónico a todos los usuarios de su curso.
+- Correo electrónico: Cree un correo electrónico en la ventana Redactar nuevo mensaje.
+- Mensaje instantáneo: Envíe un mensaje instantáneo a uno o más usuarios.
+- Imprimir: Imprima la información de diferentes usuarios en su listado de alumnos.
+Nota: Antes de usar las opciones Correo electrónico, Mensaje instantáneo e Imprimir, seleccione la casilla de verificación de los usuarios a los que les está enviando mensajes o imprimiendo.

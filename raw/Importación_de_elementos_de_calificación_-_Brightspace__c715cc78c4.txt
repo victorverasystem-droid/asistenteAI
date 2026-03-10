@@ -1,0 +1,37 @@
+URL: https://community.d2l.com/brightspace-es-MX/kb/articles/10795-importacion-de-elementos-de-calificacion
+TITLE: Importación de elementos de calificación - Brightspace
+HASH: c715cc78c497d924df72492a1cab4a7151ddb3c890f663d3ef6f19877318740c
+TYPE: web
+
+Utilice un archivo CSV para agregar o actualizar rápidamente los elementos de calificación en Calificaciones.
+Antes de comenzar
+- Asegúrese de que el archivo CSV coincida con el formato en Grades_Sample_Import_File.csv (disponible en la pantalla Importar calificaciones).
+- Necesita permiso para importar las calificaciones de su curso.
+Cómo importar elementos de calificación (CSV):
+- En la barra de navegación, haga clic en Calificaciones.
+- En la página Ingresar calificaciones, haga clic en Importar.
+- (Opcional) Para descargar un archivo CSV de muestra, haga clic en Grades_Sample_Import_File.csv.
+- En Importar archivo, haga clic en Elegir archivo, busque el archivo CSV y haga clic en Abrir.
+- Para crear nuevos elementos de forma automática cuando el archivo contiene nombres que no están en el cuadernos de calificaciones, seleccione Crear nuevo elemento de calificación cuando se haga referencia a un elemento no reconocido.
+- Haga clic en Continuar.
+- Si está creando nuevos elementos de calificación:
+- Marque la casilla de selección Crear nuevo elemento de calificación junto a cada uno de los elementos que desea crear.
+- Seleccione un Tipo de elemento de calificación.
+- Haga clic en Continuar.
+- Complete las propiedades de los elementos de calificación.
+- Haga clic en Continuar.
+-
+En la página Vista previa de importación, haga clic en Importar.
+- Visualice los mensajes de error y advertencia asociados con la importación y haga clic en Continuar.
+Solución de problemas de importación
+Errores de formato CSV
+- Columnas clave faltantes o mal formadas: el archivo CSV debe incluir Nombre de usuario u OrgDefinedID (o ambos), además de cualquier columna de elemento de calificación que termine con Calificación por puntos, Símbolo de calificación o Calificación por texto, y una columna final de indicador de fin de línea con un número en cada fila.
+- Encabezados incorrectos: los encabezados de columna mal escritos o mal formados, especialmente si faltan los sufijos requeridos o el indicador de fin de línea, harán que la importación falle.
+- Columnas en blanco o con comas al final: las columnas adicionales ocultas después del indicador de fin de línea pueden interrumpir la importación. Si el archivo termina con una coma, ábralo en un editor de texto sin formato (como el Bloc de notas) y elimine todas las columnas adicionales.
+Usuarios no reconocidos o elementos de calificación faltantes
+- Usuarios no reconocidos: si Brightspace no puede hacer coincidir una fila con un Nombre de usuario u OrgDefinedID válidos, esa fila se omitirá. Verifique que los identificadores coincidan con la lista de su curso.
+- Elementos de calificación nuevos e inesperados: si los nombres de las columnas no se alinean con los elementos de calificación existentes, Brightspace los marcará como nuevos. Puede crear los nuevos elementos durante la importación o corregir el archivo mediante la plantilla de muestra.
+Consejos para la solución de problemas
+- Comience desde una plantilla exportada: la exportación de calificaciones desde Brightspace garantiza que el archivo CSV tenga la estructura y los encabezados adecuados.
+- Limite los tamaños de los lotes: los archivos grandes aumentan la posibilidad de errores.
+- Resuelva los errores antes de continuar: Brightspace no importará las filas con errores. Revise el resumen de errores, solucione los problemas y, a continuación, vuelva a importar.

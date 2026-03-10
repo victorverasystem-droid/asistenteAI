@@ -1,0 +1,115 @@
+URL: https://community.d2l.com/brightspace-es-MX/kb/articles/10977-revisar-y-evaluar-las-pruebas-del-portafolio-enviadas
+TITLE: Revisar y evaluar las pruebas del portafolio enviadas - Brightspace
+HASH: 4c071bdcaf83cd8159cdef26ab01f0485a35ab7f1726c7ef094eb6ed1bfaafed
+TYPE: web
+
+Desde la página principal de la herramienta Portfolio, la navegación centralizada le permite cambiar fácilmente entre ver todos los portafolios de los estudiantes de un curso o todas las pruebas de un curso. La página principal de Portfolio también incluye la opción de ver la información en formato de mosaico o lista, indicadores visuales que permiten identificar con claridad las pruebas recién enviadas para su revisión, íconos para indicar si hay cierta información presente y herramientas de navegación para ayudarlo a refinar su vista mediante búsqueda, filtros y clasificación.
+Abrir la herramienta Portfolio en Brightspace
+La herramienta Portfolio aparece en la barra de navegación en Brightspace. Si utiliza el modo En clase o En casa en la aplicación Brightspace Portfolio, la primera vez que use la herramienta Portfolio, imprimirá pases de clase que permitirán a los estudiantes capturar pruebas con la aplicación. Luego, podrá ver los portafolios de los estudiantes y aprobar las pruebas que sus estudiantes hayan capturado con la aplicación Brightspace Portfolio.
+Abrir la herramienta Carpeta
+- Navegue hacia el curso.
+- En la página de inicio del curso, vaya a Carpetas.
+Ver los portafolios de los cursos
+- Navegue hacia el curso.
+- En la página de inicio del curso, vaya a Carpetas.
+- Elija una vista:
+- Visto por: estudiantes (estudiantes): muestra los portafolios de todos los estudiantes del curso.
+Cuando se ve por Estudiantes, se puede mostrar la siguiente información:- Un valor numérico y una Prueba nueva indican el número de pruebas recientemente enviadas.
+- Pruebas recopiladas
+- Pruebas compartidas con los padres o tutores (si Brightspace Parent & Guardian está habilitado)
+- Pruebas no aprobadas
+- Visto por: pruebas: muestra todas las pruebas del curso.
+Cuando se ve por Pruebas, se puede mostrar la siguiente información:- Un ícono Nuevo indica las pruebas recién enviadas.
+- Compartido con los padres o tutores (si Brightspace Parent & Guardian está habilitado)
+- Comentarios proporcionados
+- Categorizado
+- Evidencia destacada
+- Elija un formato:
+- Mosaicos: muestra la información en formato de mosaico.
+- Lista: muestra la información en formato de lista.
+- Para ver más información sobre el portafolio del curso de un estudiante o una parte de la prueba, haga clic en el elemento de la lista o el mosaico.
+- Si está viendo el portafolio de un estudiante, se muestran todos los portafolios de cursos para ese estudiante. Después de revisar el portafolio del estudiante, puede elegir otro estudiante en el selector de estudiantes o alternar entre los estudiantes al hacer clic en los botones de flecha Anterior y Siguiente.
+Si está viendo todas las pruebas en un curso, se muestran todas las pruebas del curso, organizadas por estudiante. Puede filtrar las pruebas por categoría. Haga clic en Filtro, seleccione Categorías escolares o Categorías de clase y, luego, seleccione una o más categorías.
+Filtrar todas las evidencias
+Para ayudarlo a encontrar los tipos nuevos o específicos de pruebas para revisar, Brightspace Portfolio incluye opciones de filtro cuando se ve por pruebas. Por ejemplo, puede filtrar por pruebas nuevas o pruebas que contengan comentarios.
+Para filtrar todas las pruebas
+- Navegue hacia el curso.
+- En la página de inicio del curso, vaya a Carpetas.
+- Haga clic en Visto por: pruebas.
+- Haga clic en Filtrar y, luego, seleccione uno o más de los siguientes filtros de Pruebas. Por ejemplo, para encontrar fácilmente evidencias en una categoría específica, haga clic en Con categorías y, luego, haga clic en el filtro Categorías escolares y elija una categoría escolar específica.
+- Para quitar un filtro activo, haga clic en X en el filtro junto a Filtros aplicados o haga clic en Filtrar y seleccione el filtro activo.
+Revisar envíos de asignaciones presentados como prueba del Portafolio
+Puede agregar envíos de asignaciones a Brightspace Portfolio como prueba directamente desde la herramienta de Asignaciones. Después de agregar un envío de asignaciones al Portafolio, puede revisarlo como prueba y evaluarlo.
+¿En qué se diferencia una prueba de envío de asignaciones de una prueba habitual?
+La prueba del Portafolio que originalmente constó de envíos de asignaciones se diferencia de una prueba habitual agregada al Portafolio en que:
+- Los estudiantespueden presentar varios envíos a la misma asignación: esto significa que cuando está revisando esto como prueba en Portafolio, puede ver varios envíos adjuntos a una prueba del Portafolio.
+- Es posible que ya haya evaluado el envío de asignaciones antes de agregarlo al Portafolio: la prueba muestra una sección de acordeón adicional denominada Evaluación de la asignación que, a su vez, muestra una Calificación y Comentarios asociados.
+Para revisar envíos de asignaciones presentados como prueba del Portafolio
+- Después de agregar un envío de asignaciones como prueba, vaya a Portafolio.
+- Al lado de Ver por: haga clic en Pruebas.
+- Haga clic en una prueba que desee revisar.
+Descargar evidencia de un portafolio
+Puede descargar pruebas para la evaluación sin conexión.
+Cuando se descarga la evidencia de imágenes para verla, se realiza en el tipo de archivo y la resolución originales. Por ejemplo, si un estudiante carga un archivo JPEG con resolución completa, la imagen puede ajustar su tamaño y resolución en el visor del Portafolio; sin embargo, un instructor que descargue la imagen lo hace en archivo JPEG de resolución completa.
+Para descargar la prueba de una carpeta
+- Navegue hacia el curso.
+- En la página de inicio del curso, vaya a Carpetas.
+- Navegue hasta un mosaico de pruebas.
+- Haga clic en el mosaico de pruebas.
+- En el mosaico de pruebas, haga clic en (…) Menú de Opciones y seleccione Descargar.
+Eliminar las pruebas de un portafolio
+En algunos casos, es posible que deba eliminar las pruebas del portafolio de un estudiante; por ejemplo, el estudiante tomó una imagen de mala calidad o agregó pruebas inadecuadas a su portafolio.
+Para eliminar la prueba de una carpeta
+- Navegue hacia el curso.
+- En la página de inicio del curso, vaya a Carpetas.
+- Navegue hasta un mosaico de pruebas.
+- En el mosaico de pruebas, haga clic en (…) Menú de Opciones y seleccione Editar.
+- Haga clic en Aceptar.
+Agregar resultados del curso relacionados con pruebas
+En Administración del curso, puede asignar materiales del curso a los resultados de aprendizaje importando resultados de aprendizaje desde la Red de estándares de logros o creando manualmente de resultados adecuados. Cuando se asignan los resultados de aprendizaje a un curso, puede asignar los resultados de aprendizaje que agregó a un curso a prueba específica de Brightspace Portfolio. Esto le permite comunicarse mejor con los padres y tutores (mediante Brightspace Parent & Guardian) y los estudiantes (mediante Brightspace Portfolio) acerca de cómo las pruebas sustentan el aprendizaje. Por ejemplo, uno de los resultados del curso de un proyecto de clase de arte puede ser: aplicar el proceso creativo a fin de producir una variedad de obras de arte bidimensionales y tridimensionales mediante elementos, principios y técnicas de las artes visuales para comunicar sentimientos e ideas.
+Para agregar los resultados del curso a la prueba, su administrador debe habilitar la herramienta de Resultados de aprendizaje del curso.
+Para agregar resultados del curso a las pruebas
+- Navegue hacia el curso.
+- En la página de inicio del curso, vaya a Carpetas.
+- Realice una de las siguientes acciones:
+- Si las pruebas se aprobaron, en la pestaña Portafolios de clase, examine el portafolio del estudiante.
+- Si las pruebas no se han aprobado, diríjase el examine al estudiante en la pestaña Aprobar las pruebas.
+- En el menú del mosaico de pruebas, haga clic en la prueba a la que desea agregar los resultados del curso.
+- En la lista Estudiante y padre, en Resultados, haga clic en Agregar resultados.
+- En la lista, seleccione los resultados del curso relacionados con el trabajo del estudiante.
+- Haga clic en Agregar.
+Agregar rúbricas a las pruebas
+Los instructores pueden agregar una o varias rúbricas a las pruebas de un estudiante, y hacerlas visibles para él. Puede realizar evaluaciones en función de la rúbrica, que se guarda de manera automática y se publica. Los estudiantes y los padres (si se comparten con los padres) pueden ver sus comentarios, incluidos los criterios, el nivel de logro y los comentarios asociados a los criterios específicos.
+Cuando se agrega una rúbrica a las pruebas, el botón Agregar rúbrica solo se muestra si hay una rúbrica disponible para esa unidad de organización que se puede agregar.
+Para agregar una rúbrica a las pruebas
+- Asegúrese de que la rúbrica que desea agregar se encuentre en la herramienta Rúbricas y que sea visible para los estudiantes.
+- Navegue hacia el curso.
+- En la página de inicio del curso, vaya a Carpetas.
+- Navegue hasta un mosaico de pruebas.
+- En el mosaico de pruebas al que desea adjuntar una rúbrica, haga clic en (…) Menú Opciones y seleccione Agregar comentarios.
+- En el área de Rúbricas, haga clic en Agregar rúbrica.
+- Seleccione una o más rúbricas desde la lista disponible.
+- Haga clic en Agregar lo seleccionado.
+Después de que se adjunta la rúbrica, esta se muestra en el área de rúbricas de la evidencia.
+Evaluar las pruebas mediante una rúbrica
+Puede evaluar las pruebas mediante una rúbrica en Portfolio.
+Evaluar las pruebas mediante una rúbrica
+- Navegue hacia el curso.
+- En la página de inicio del curso, vaya a Carpetas.
+- Navegue hasta un mosaico de pruebas.
+- En el mosaico de pruebas que desea evaluar, haga clic en (…) Menú Opciones y seleccione Agregar comentarios.
+- En el área de Rúbricas, haga clic en la rúbrica adjunta a las pruebas.
+- Seleccione los niveles de logro que el estudiante ha alcanzado.
+- Complete cualquier comentario adicional que desee agregar.
+Agregar comentarios a las pruebas
+Los comentarios que los instructores proporcionan son visibles para los estudiantes. Si las pruebas se comparten con los padres usando Brightspace Parent & Guardian, ellos también pueden ver los comentarios del instructor.
+Para agregar comentarios a las pruebas
+- Navegue hacia el curso.
+- En la página de inicio del curso, vaya a Carpetas.
+- Navegue hasta un mosaico de pruebas.
+- En el mosaico de pruebas, haga clic en (…) Menú Opciones y seleccione Agregar comentarios.
+- En Comentarios de profesores, agregue comentarios acerca de las pruebas de los estudiantes. Puede incluir formato de texto enriquecido (por ejemplo, negrita, cursiva, subrayado) y utilizar las siguientes opciones:
+- Insertar enlace rápido
+- Insertar imagen
+- Insertar objetos
+- Haga clic en Agregar.

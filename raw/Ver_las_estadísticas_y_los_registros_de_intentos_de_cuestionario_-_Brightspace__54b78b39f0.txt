@@ -1,0 +1,46 @@
+URL: https://community.d2l.com/brightspace-es-MX/kb/articles/10926-ver-las-estadisticas-y-los-registros-de-intentos-de-cuestionario
+TITLE: Ver las estadísticas y los registros de intentos de cuestionario - Brightspace
+HASH: 54b78b39f0605e378fa62717574004f5351edfd7a20f2da1e31fde86ae8ae458
+TYPE: web
+
+Puede revisar las estadísticas relacionadas con los intentos y la finalización de los cuestionarios en Brightspace.
+Ver y filtrar estadísticas de cuestionario
+Puede ver y exportar estadísticas e informes de cuestionario a un archivo CSV o Excel para llevar a cabo un análisis de datos. En las exportaciones de estadísticas de cuestionarios, se incluye toda la información pertinente del cuestionario, de manera que pueda consultar, ordenar y evaluar los datos sin estar conectado a Brightspace. En esta vista, se puede ver una lista de los cuestionarios del curso. La calificación promedio de cada cuestionario aparece al lado del nombre del cuestionario.
+Para ver y filtrar las estadísticas de cuestionario
+- En la página Administrar cuestionarios, abra el menú desplegable Acciones para el cuestionario que desea ver y haga clic en Estadísticas.
+- En la página Ver estadísticas, haga clic en las pestañas Estadísticas de usuarios, Estadísticas de preguntas y Detalles de preguntas para ver las estadísticas organizadas por usuario y por pregunta.
+- Si necesita centrar su análisis en secciones o equipos de trabajo específicos, puede usar filtros por Equipos de trabajo y Secciones. Los filtros se aplican a las pestañas Estadísticas de usuarios, Estadísticas de preguntas y Detalles de preguntas.
+Las Estadísticas de preguntas muestran valores actualizados que reflejan las deducciones de puntos, incluida una puntuación promedio por debajo de cero.
+Además, en las pestañas Estadísticas de cuestionarios y Detalles de preguntas, puede ver todos los intentos o filtros para mostrar solo los primeros intentos.
+- Haga clic en Exportar a archivo CSV o Exportar a archivo Excel si desea guardar las estadísticas del cuestionario en su computadora.
+Comprender las Estadísticas de usuarios
+Los archivos CSV o Excel de Estadísticas de usuarios contienen datos de desempeño por usuario, incluidos la ID del usuario definida por la organización, el nombre de usuario, el nombre, el apellido, la puntuación del cuestionario, el valor de la calificación que se aplicó al cuestionario, la puntuación del usuario en valor porcentual y el promedio de clase.
+Comprender las Estadísticas de preguntas
+Los archivos CSV o Excel de Estadísticas de preguntas contienen datos sobre la puntuación promedio de las preguntas por puntos y por porcentaje.
+El título de la pregunta, el texto, el estado de los puntos extras y el nivel de dificultad están incluidos en los archivos para que se puedan analizar los datos sin hacer referencia al sistema de gestión educativa.
+Comprender los Detalles de preguntas
+Los archivos CSV y Excel de Detalles de preguntas contienen información detallada sobre cada pregunta del cuestionario, incluida una lista de todas las respuestas proporcionadas en cada intento de cuestionario; cuántos usuarios eligieron todas las respuestas posibles; la cantidad total de respuestas y la puntuación promedio de la pregunta. Los informes de Detalles de preguntas pueden ser útiles para evaluar las tendencias en las respuestas y para buscar las preguntas que no fueron claras o resultaron difíciles a varios usuarios.
+El título de la pregunta, el texto, el estado de los puntos extras y el nivel de dificultad están incluidos en el archivo CSV para que se puedan analizar los datos sin hacer referencia al sistema de gestión educativa.
+Datos exportados para los detalles de preguntas
+Ver registros de intentos de cuestionarios
+Los registros de intentos realizan un seguimiento detallado de los eventos de intento de cuestionario por usuario. En la pestaña Descripción general, puede ver los intentos de cuestionario según el tiempo de ingreso al cuestionario, el tiempo de finalización del cuestionario, el intento de cuestionario eliminado y el intento de cuestionario restaurado.
+En la pestaña Detalles, puede ver los siguientes eventos de intento de cuestionario: Tiempos de entrada y reingreso al cuestionario, Tiempo de guardado de la respuesta, Tiempo de movimiento de página, Pantalla de confirmación del cuestionario y tiempo de finalización, envío automático para cuestionarios enviados automáticamente y Dirección IP cuando se produce cada evento.
+Para ver los registros de intentos para cuestionarios
+- Vaya a Cuestionarios.
+- En la página Administrar cuestionarios, en el menú desplegable Acciones, haga clic en Registros de intentos.
+- En la página Registros de intentos, de la pestaña Descripción general, para filtrar la vista de los intentos con las siguientes opciones:
+- Entrada de cuestionario: vea los intentos de cuestionario que han iniciado los estudiantes.
+- Finalización de cuestionario: vea los intentos de cuestionario que se han completado.
+- Intento de cuestionario eliminado: vea los intentos de cuestionario que se han eliminado.
+- Intento de cuestionario restaurado: vea los intentos de cuestionario eliminados anteriormente que se han restaurado.
+Todos los filtros seleccionados muestran sus resultados asociados. Para anular la selección de un filtro, haga clic en la etiqueta del filtro nuevamente.
+- Haga clic en la pestaña Información detallada para ver todos los eventos de intentos del cuestionario.
+Cada intento tiene el nombre del usuario que realizó el Evento. En cada intento, se describe el evento; Modificado por registra quién realizó el evento y Fecha indica cuándo se produjo el Evento.
+Utilice la columna Id. de sesión para identificar cuándo los estudiantes han utilizado varias sesiones en un intento de cuestionario, junto con la columna Dirección IP para identificar cuándo los estudiantes han cambiado las direcciones IP durante un intento de cuestionario.
+Restaurar intentos de cuestionario eliminados en los registros de intentos
+Puede restaurar los intentos de cuestionario eliminados para los estudiantes en la pestaña Descripción general de registros de intentos del cuestionario.
+Para restaurar un intento de cuestionario eliminado
+- Vaya a Cuestionarios.
+- En la página Administrar cuestionarios, en el menú contextual del cuestionario con intentos que desea restablecer, haga clic en Registros de intentos.
+- En la pestaña Descripción general, haga clic en Intento de cuestionario eliminado. Haga clic en Restaurar en el intento de cuestionario que desea restaurar.
+Video: Restaurar un intento de cuestionario

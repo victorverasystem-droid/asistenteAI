@@ -1,0 +1,19 @@
+URL: https://community.d2l.com/brightspace-es-MX/kb/articles/33922-ver-calificaciones-de-un-curso-en-brightspace-pulse
+TITLE: Ver calificaciones de un curso en Brightspace Pulse - Brightspace
+HASH: 4c4e663bdeae58a359b16b1846f2c9776ff4faf111721ed42a546f6c4b4d72a7
+TYPE: web
+
+Ahora puede ver todas las calificaciones recibidas de un curso en la pestaña Calificaciones del curso.
+Importante: Las calificaciones del curso deben estar habilitadas y visibles para los alumnos. Si las calificaciones del curso no están habilitadas ni visibles para los estudiantes de un curso específico, la pestaña Calificaciones no se muestra para ese curso en Brightspace Pulse.
+Esta funcionalidad no incluye:
+- Una vista consolidada de todas las calificaciones recibidas de todos los cursos. Solo puede ver calificaciones que ha recibido. Las calificaciones que aún no tienen un valor no aparecen en Brightspace Pulse, pero son visibles en Brightspace.
+- Rúbricas asociadas a una calificación. Para ver las rúbricas asociadas, vaya a la herramienta Calificaciones en Brightspace.
+- Calificaciones no recibidas. Solo las calificaciones recibidas se muestran en la pestaña Calificaciones.
+- Calificaciones finales o notificación de calificaciones finales. Para ver las calificaciones finales, vaya a la herramienta Calificaciones en Brightspace.
+Figura: La pestaña Calificaciones de un curso en Brightspace Pulse
+- Toque la pestaña Cursos.
+- Toque un curso.
+- Toque la pestaña Calificaciones. Se muestran todas las calificaciones recibidas para el curso, indicando si hay comentarios disponibles.
+Sugerencia: Para abrir la herramienta Calificaciones en un navegador y ver desgloses y cálculos completos de calificaciones, toque Ver calificaciones en el navegador.
+- Para ver los comentarios, toque una calificación. Se muestran los comentarios de calificación y texto.
+- Para ver detalles sobre la actividad asociada en Brightspace, toque Ver actividad.

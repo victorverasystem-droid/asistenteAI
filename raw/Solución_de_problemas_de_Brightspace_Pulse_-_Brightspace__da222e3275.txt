@@ -1,0 +1,56 @@
+URL: https://community.d2l.com/brightspace-es-MX/kb/articles/33924-solucion-de-problemas-de-brightspace-pulse
+TITLE: Solución de problemas de Brightspace Pulse - Brightspace
+HASH: da222e3275a577dad94106d2c109c8120ad8bcb0a388a94977c4c1fe6a3b543c
+TYPE: web
+
+Inicio de sesión
+¿Por qué no puedo iniciar sesión?
+Si no puede conectarse a su escuela u organización, el problema podría ser el siguiente:
+- Su escuela u organización desactivaron el acceso a Brightspace Pulse.
+- Ingresó su ID o contraseña incorrectamente o están activadas las mayúsculas (las credenciales de inicio de sesión distinguen entre mayúsculas y minúsculas). Use las mismas credenciales que utiliza para iniciar sesión en el Brightspace de su organización o escuela.
+Si aún no puede iniciar sesión, comuníquese con el servicio de asistencia de su escuela u organización. Ellos pueden solucionar problemas específicos que pudieran existir al iniciar sesión en Brightspace Pulse.
+¿Por qué no encuentro mi escuela u organización cuando realizo una búsqueda?
+Si la organización o escuela no se muestran en la lista cuando realiza una búsqueda, puede agregarla de forma manual si escribe la dirección URL del Brightspace de la escuela u organización. Este campo está disponible cuando no se encuentran resultados de búsqueda o si decide desactivar el servicio de geolocalización de su dispositivo móvil.
+Calendario
+¿Dónde están mis fechas?
+Brightspace Pulse muestra las fechas agregadas a un curso por su instructor. Si su instructor no ha agregado fechas, estas no aparecerán en la aplicación. Revise el programa de estudios del curso en el caso de las fechas de vencimiento que podrían no mostrarse en la aplicación.
+¿Dónde están mis fechas?
+Si sus fechas desaparecieron o no se muestran, revise la conexión a Internet y actualice la página.
+¿Qué indica el gráfico?
+¿Cómo puedo activar o desactivar el gráfico?
+Puede alternar el lugar en el que aparece el gráfico tocando el ícono Menú y, luego, Configuración del gráfico. Ahí, puede elegir las pestañas en las que desea que aparezca el gráfico. Cuando el gráfico se desactiva, los elementos de fecha aparecen en formato de lista.
+Notificaciones
+No tengo ninguna notificación.
+Si recibe notificaciones en Brightspace (desde un navegador), pero no en la pestaña Notificaciones de Brightspace Pulse, podría haber un problema con la forma en que su escuela configuró la aplicación.
+¿Puedo eliminar las notificaciones antiguas?
+Actualmente, no puede eliminar las notificaciones antiguas en la pestaña Notificaciones.
+Cursos
+¿Por qué no puedo ver los cursos en los que estoy inscrito?
+Es posible que los cursos en los que está inscrito no hayan iniciado aún o no tengan fechas asociadas con ellos.
+¿Dónde están mis calificaciones?
+En Brightspace Pulse, recibe notificaciones de las calificaciones en la pestaña Notificaciones que puede abrir y revisar cuando lo desee. Para obtener una vista centralizada de sus calificaciones, toque la pestaña Cursos, abra la página de inicio del curso y diríjase a la sección de calificaciones de su curso.
+¿Cómo puedo enviar una asignación o realizar un cuestionario?
+Puede enviar una asignación o responder un cuestionario desde la pestaña Próximo o la pestaña Cursos. Desde la pestaña Próximo, si hay una fecha de vencimiento asociada a una asignación o a un cuestionario, abra los detalles de la actividad correspondiente y haga clic en el botón en la parte inferior de la página para iniciar la actividad en su navegador móvil. En la pestaña Cursos, puede abrir la página de inicio del curso mediante la selección de un curso y el término de la actividad asociada en el navegador.
+Herramienta de contenido
+¿Por qué no puedo ver el contenido de mi curso?
+Si no puede ver el contenido de su curso, es muy probable que se deba a la forma en que su escuela u organización ha configurado el contenido, por lo que Brightspace Pulse no puede acceder a este. Comuníquese con el servicio de asistencia de su escuela u organización.
+Abro un archivo, pero está en blanco.
+Es posible que el contenido al que está intentando acceder se encuentre en un tipo de archivo que no es compatible con su dispositivo.
+No puedo ver el contenido del curso actualizado en la pestaña Notificaciones
+Las actualizaciones del contenido del curso solo aparecen en la pestaña Notificaciones si el instructor selecciona la opción Notificar a los estudiantes que el contenido cambió para el contenido actualizado en Brightspace. Esto se aplica solo a la experiencia clásica de contenido; las actualizaciones no aparecen para la nueva experiencia de contenido (Lecciones). Comuníquese con el instructor para obtener más información.
+No veo ninguna actualización en la pestaña Notificaciones o no puedo acceder a los documentos, los anuncios, las calificaciones, etc. de mi curso.
+Cuando inicia sesión por primera vez en Brightspace Pulse, las actualizaciones de contenido del curso no se muestran hasta que se obtienen actualizaciones nuevas de Brightspace; sin embargo, se muestran actualizaciones introductorias. La aplicación Brightspace Pulse le ofrece actualizaciones cuando se crean anuncios en sus cursos y cuando recibe calificaciones nuevas de sus instructores.
+Contenido sin conexión
+¿Qué archivos puedo ver sin conexión en Brightspace Pulse para iOS?
+Brightspace Pulse le permite guardar archivos para su visualización sin conexión; sin embargo, primero debe abrir el archivo en Brightspace Pulse mientras está conectado a Internet y marcarlo como Disponible sin conexión. En dispositivos iOS, puede ver los siguientes archivos sin conexión:
+- Imágenes (BMP, GIF, PNG, JPEG, JPG, SVG)
+- Documentos de oficina (DOC, DOCX, PPT, PPTX, RTF, XLS, XLSX, TXT)
+- Documentos de oficina de Mac (tecla, números, páginas)
+- Archivos PDF
+- Archivos multimedia seleccionados (MP3, MP4, M4A, MAV, MOV)
+¿Qué archivos puedo ver sin conexión en Brightspace Pulse para Android?
+Brightspace Pulse le permite guardar archivos para su visualización sin conexión; sin embargo, primero debe abrir el archivo en Brightspace Pulse mientras está conectado a Internet y marcarlo como Disponible sin conexión. En dispositivos Android, puede ver los siguientes archivos sin conexión:
+- Documentos de oficina (DOC, DOCX, PPT, PPTX, RTF, XLS, XLSX, TXT)
+- Documentos de oficina de Mac (tecla, números, páginas)
+- Archivos PDF
+- Archivos multimedia seleccionados (MP3, MP4)

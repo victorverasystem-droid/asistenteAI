@@ -1,0 +1,44 @@
+URL: https://community.d2l.com/brightspace-es-MX/kb/articles/33914-desarrollar-contenido-de-audio-y-video-con-la-biblioteca-multimedia
+TITLE: Desarrollar contenido de audio y video con la Biblioteca multimedia - Brightspace
+HASH: 2bf91c3be39fc0568ea64a85015e242677f4e1c7c54c560b67caa51471d467b7
+TYPE: web
+
+Grabe con su cámara web
+Grabe y cree contenido rápidamente en la Biblioteca multimedia con la cámara web. Puede grabar video o audio dentro de la Biblioteca multimedia y crear temas de audio y video o insertarlos en línea.
+Para grabar con su cámara web
+- En la página de inicio de su curso, vaya a Biblioteca multimedia.
+- Haga clic en Agregar activos y, a continuación, en Grabar video.
+- Si su navegador le solicita que permita el acceso al micrófono y a la cámara, haga clic en Permitir.
+- Configure la opción Cámara en Encendido y haga clic en Iniciar grabación para comenzar la grabación de la cámara web. Si solo desea grabar audio, configure la opción Cámara en Apagado.
+- Cuando termine la grabación, haga clic en Finalizar grabación.
+- Ingrese un título y una descripción, y continúe con Configuración de subtítulos. Seleccione Generar subtítulos si desea subtítulos generados automáticamente.
+- Haga clic en Guardar y cerrar.
+Eliminar varios elementos de contenido audiovisual en la Biblioteca multimedia
+Puede seleccionar varios elementos audiovisuales en la Biblioteca multimedia y eliminarlos.
+Para seleccionar varios elementos audiovisuales y eliminarlos
+- Vaya a la Biblioteca multimedia.
+- Marque las casillas de selección que están junto al contenido de audio y video al que desea aplicar acciones por lote. O bien haga clic en la casilla de selección superior para seleccionar todo el contenido para las acciones por lote.
+-
+Haga clic en Acciones masivas > Eliminar.
+El contenido seleccionado se mueve a la Papelera de reciclaje.
+Insertar recursos de la biblioteca multimedia con el editor de Brightspace
+Puede utilizar el ícono Insertar recursos en el editor de Brightspace para agregar contenido de audio y video desde la Biblioteca multimedia.
+Para insertar elementos desde la Biblioteca multimedia
+- En el editor de Brightspace, haga clic en Insertar objetos.
+- Seleccione Biblioteca multimedia.
+- Para localizar contenido de audio-video, ingrese un término de búsqueda y haga clic en Buscar. Para una búsqueda más refinada, haga clic en Buscar opciones para filtrar su búsqueda.
+- Seleccione el contenido que desea agregar y haga clic en Siguiente.
+- En Propiedades, personalice la relación de aspecto y el tamaño máximo del reproductor de video.
+- Haga clic en Insertar.
+Busque e inserte enlaces rápidos de la biblioteca multimedia con opciones de filtro mejoradas
+Puede utilizar el ícono Insertar enlace rápido en el Editor de Brightspace para agregar enlaces rápidos de la biblioteca multimedia a su contenido.
+Para insertar enlaces rápidos de la Biblioteca multimedia
+- En el Editor de Brightspace, haga clic en Insertar enlace rápido.
+- Seleccione Biblioteca multimedia.
+- Haga clic para expandir los Filtros. Puede filtrar el contenido de la biblioteca multimedia de la siguiente manera:
+- Tipo de contenido: Filtre por tipo de contenido de audio o video.
+- Fecha de modificación: Filtre por fecha de modificación.
+- Fecha de creación.
+- Seleccione el contenido que desea agregar y haga clic en Siguiente.
+- Haga clic en Insertar.
+El contenido de audio y video se agrega como un enlace rápido.

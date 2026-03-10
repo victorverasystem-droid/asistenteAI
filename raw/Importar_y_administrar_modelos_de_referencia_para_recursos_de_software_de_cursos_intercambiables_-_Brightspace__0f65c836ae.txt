@@ -1,0 +1,164 @@
+URL: https://community.d2l.com/brightspace-es-MX/kb/articles/10841-importar-y-administrar-modelos-de-referencia-para-recursos-de-software-de-cursos-intercambiables
+TITLE: Importar y administrar modelos de referencia para recursos de software de cursos intercambiables - Brightspace
+HASH: 0f65c836ae34717b7ca79d3414341a337694a9dd27c807f37da3ac7d97918f01
+TYPE: web
+
+Importar y administrar modelos de referencia para recursos de software de cursos intercambiables
+SCORM (Modelo de referencia para recursos de software de cursos intercambiable) es un conjunto de estándares para crear y entregar contenido de aprendizaje en línea en Brightspace que permite a los instructores cargar y administrar cursos de aprendizaje compatibles con SCORM.
+Agregar un paquete SCORM o xAPI a la herramienta de contenido
+Si utiliza la nueva solución SCORM, puede cargar paquetes de SCORM o xAPI directamente en la herramienta de contenido.
+Para agregar un paquete SCORM o xAPI a la herramienta de contenido
+- En Contenido, cree o seleccione un módulo para incluir su paquete SCORM o xAPI ahí.
+- En el módulo seleccionado, desde el botón Cargar/Crear, seleccione Nuevo objeto SCORM/xAPI.
+- En la ventana de diálogo Agregar paquete de curso: SCORM, realice una de las siguientes acciones:
+- Si desea cargar un nuevo paquete SCORM o xAPI, haga clic en Cargar. Luego examine uno o más archivos o arrástrelos y suéltelos en el área designada.
+- Si desea agregar un paquete SCORM o xAPI previamente cargado, selecciónelo de la lista.
+- Haga clic en Guardar.
+- En la pantalla Agregar paquete de curso: SCORM, realice alguna de las siguientes acciones:
+- Haga clic en Guardar.
+Administrar versiones de paquetes SCORM o xAPI en la herramienta Contenido
+Mantener los paquetes SCORM actualizados garantiza que los estudiantes siempre accedan a la versión más precisa de su contenido. La función de administración de versiones le permite cargar nuevas versiones, obtener una vista previa de las existentes, descargar iteraciones anteriores o volver a una versión anterior cuando sea necesario.
+Cargar una nueva versión del paquete SCORM/xAPI
+Utilice este flujo de trabajo para reemplazar un paquete SCORM o xAPI existente por una versión actualizada.
+-
+Diríjase al módulo del curso donde se implementa el paquete SCORM/xAPI existente.
+- Haga clic en Agregar material existente.
+- En la página ¿Qué le gustaría añadir? Seleccione el objeto SCORM/xAPI .
+- En la ventana de diálogo Agregar paquete de curso: SCORM/xAPI, localice el paquete SCORM/xAPI que desea reemplazar y haga clic en el menú desplegable Acción.
+- Seleccione Administrar versiones.
+- En la sección Cargar nueva versión, arrastre y suelte el paquete SCORM/xAPI actualizado o navegue para cargarlo.
+- Cuando la carga esté completa, haga clic en Publicar.
+- Haga clic en Publicar nuevamente en el mensaje de confirmación para reemplazar SCORM donde aparezca.
+- El paquete SCORM/xAPI actualizado ahora aparece en la lista con una fecha actualizada y el indicador Publicado.
+- Haga clic en Atrás para volver a la ventana de diálogo Agregar paquete de curso: SCORM/xAPI.
+- Haga clic en Cancelar para cerrar la ventana.
+Ahora ha reemplazado el paquete SCORM/xAPI en el contenido de su curso con una versión actualizada.
+Vista previa de una versión del paquete SCORM/xAPI existente
+Utilice esta opción para ver rápidamente el contenido de un paquete SCORM/xAPI antes de decidir si desea actualizarlo o reutilizarlo.
+- Diríjase al módulo del curso donde se implementa el paquete SCORM/xAPI.
+- Haga clic en Agregar material existente.
+- En la página ¿Qué le gustaría agregar?, seleccione Objeto SCORM/xAPI.
+- En la ventana de diálogo Agregar paquete de curso: SCORM/xAPI, localice el paquete SCORM que desea previsualizar y haga clic en el menú desplegable Acción.
+-
+Seleccione Vista previa.
+Se abre una vista previa del paquete SCORM/xAPI.
+Descargar una versión anterior de SCORM/xAPI
+Utilice esta opción si necesita una copia local de una versión anterior para realizar una copia de seguridad, revisarla o editarla.
+- Diríjase al módulo del curso donde se implementa el paquete SCORM/xAPI existente.
+- Haga clic en Agregar material existente.
+- En la página ¿Qué le gustaría agregar?, seleccione Objeto SCORM/xAPI.
+- En la ventana de diálogo Agregar paquete de curso: SCORM/xAPI, localice el paquete SCORM que desea descargar y haga clic en el menú desplegable Acción.
+- Seleccione Administrar versiones.
+- En el cuadro de diálogo Administrar versiones, haga clic en el menú Abrir y seleccione Descargar.
+La versión del paquete SCORM/xAPI ya se ha descargado.
+Volver a una versión anterior del paquete SCORM/xAPI
+Utilice este flujo de trabajo para reemplazar un paquete SCORM/xAPI actual por una versión anterior.
+- Diríjase al módulo del curso donde se implementa el paquete SCORM/xAPI existente.
+- Haga clic en Agregar material existente.
+- En la página ¿Qué le gustaría agregar?, seleccione Objeto SCORM/xAPI.
+- En la ventana de diálogo Agregar paquete de curso: SCORM/xAPI, localice el paquete SCORM que desea descargar y haga clic en el menú desplegable Acción.
+- Seleccione Administrar versiones.
+- En el cuadro de diálogo Administrar versiones, haga clic en el menú Abrir y seleccione Revertir.
+- Haga clic en Publicar en el mensaje de confirmación para reemplazar SCORM en todos los lugares donde se utiliza.
+El paquete SCORM/xAPI se ha revertido a la versión anterior seleccionada.
+Importar un paquete de SCORM heredado
+Si está utilizando la solución heredada del Modelo de referencia para recursos de software de cursos intercambiable, los paquetes de este Modelo de referencia deben importarse a la herramienta de contenido. La función de importación identifica el contenido como SCORM y permite la inicialización correcta de las llamadas LMS de SCORM.
+Para importar un paquete del Modelo de referencia para recursos de software de cursos intercambiable
+- En Editar curso, haga clic en Importar/exportar/copiar componentes > Importar componentes.
+- Realice la selección de un paquete de curso.
+- Haga clic en Iniciar.
+- Arrastre y suelte el paquete SCORM en el destino de carga.
+- Haga clic en Importar todos los componentes.
+- Realice una de las siguientes acciones:
+- Para ver el paquete SCORM dentro de Contenido, haga clic en Ver contenido.
+- Para importar otro paquete SCORM, haga clic en Importar otro paquete.
+Configurar la funcionalidad revisión/repetición de SCORM cuando se importa un objeto SCORM/xAPI
+La funcionalidad de revisión/repetición integrada de SCORM se puede activar o desactivar. Cuando está deshabilitado, le permite utilizar cualquier funcionalidad de revisión/repetición nativa y evita conflictos con dichas funciones.
+Habilitar y deshabilitar la funcionalidad revisión/repetición del Modelo de referencia para recursos de software de cursos intercambiable en la Experiencia de contenido nuevo
+- Vaya a Agregar existente > SCORM/xAPI.
+Figura: La opción de objeto SCROM/xAPI en ¿Qué le gustaría agregar? página.
+- Seleccione un objeto del Modelo de referencia para recursos de software de cursos intercambiable para cargar.
+- Haga clic en el menú desplegable Acción y haga clic en Editar propiedades.
+Figura: El menú desplegable Acciónen el que se muestra la opción Editar propiedades.
+- En el cuadro de diálogo Editar propiedades, en Opciones del paquete del curso de revisión/repetición, seleccione una de las siguientes opciones:
+- Agregar opciones de revisión/repetición. Mi paquete no tiene la funcionalidad de revisión/repetición incorporada.
+- No agregar opciones de revisión/repetición. Mi paquete tiene la funcionalidad de revisión/repetición incorporada. (Predeterminada)
+Figura: La sección Opciones del paquete del curso de revisión/repetición.
+- Haga clic en Guardar.
+Habilitar y deshabilitar la funcionalidad revisión/repetición del Modelo de referencia para recursos de software de cursos intercambiable en Contenido clásico.
+- Vaya a Cargar o crear > Nuevo objeto SCORM/xAPI.
+- En el flujo de trabajo de publicación, cuadro de diálogo Editar propiedades, expanda el área de Configuración avanzada. En el nuevo subencabezado Opciones del paquete del curso de revisión/repetición, seleccione una de las siguientes opciones:
+- Agregar opciones de revisión/repetición. Mi paquete no tiene la funcionalidad de revisión/repetición incorporada.
+- No agregar opciones de revisión/repetición. Mi paquete tiene la funcionalidad de revisión/repetición incorporada. (Predeterminada)
+Video: Agregar un paquete del Modelo de referencia para recursos de software de cursos intercambiable a la herramienta de contenido
+Cómo editar temas de SCORM en la nueva experiencia de contenido
+Con la nueva experiencia de creación y edición activada, la página de edición de temas de SCORM permite editar la siguiente información en los paquetes de SCORM:
+- Paquetes de SCORM del servicio de contenido: títulos de los temas, fechas y elementos de calificación asociados.
+- Paquetes de SCORM importados: títulos de los temas, fechas y elementos de calificación asociados.
+- Paquetes de SCORM basados en el LOR: títulos de los temas, fechas y elementos de calificación asociados.
+Figura: La página editar SCORM en la Experiencia de contenido nuevo.
+Cómo editar un paquete de SCORM en la nueva experiencia de contenido
+- Seleccione una unidad, una lección o un material desde la tabla de contenido.
+- Haga clic en el (…) menú de Opciones y seleccione Editar.
+- Actualice el elemento.
+- Haga clic en Guardar.
+Agregar objetos SCORM individuales a Lecciones
+Después cargar los nuevos objetos de la solución SCORM en Contenido, puede agregar dichos objetos a Lecciones.
+- En Lecciones, haga clic en Agregar existente.
+- Haga clic en Objeto SCORM.
+- Seleccione el SCORM que desea agregar a la Lección.
+- Haga clic en los puntos suspensivos (…) junto al nombre del objeto SCORM para obtener las siguientes opciones adicionales:
+- Vista previa
+- Editar propiedades:
+- Cambiar el título
+- Cambiar la descripción
+- Compartir el objeto con otros instructores (según los permisos de usuario)
+- Indique si desea utilizar la navegación externa.
+- Cargar nueva versión
+- Eliminar
+- Haga clic en Siguiente para agregar el objeto SCORM seleccionado y realice cualquiera de las siguientes acciones:
+- Agregar un elemento de calificación a un objeto.
+- Elija el método de cálculo de calificaciones.
+- Indique si desea vincular el objeto con un enlace estático (siempre se usa la versión actual del objeto) o un enlace dinámico (siempre se usa la última versión actualizada del objeto).
+- Elija las opciones de reproductor (use un reproductor incorporado o abra en una nueva ventana del navegador).
+- Haga clic en Agregar.
+Carga masiva de objetos SCORM a Lecciones
+- En Lecciones, haga clic en Agregar existente.
+- Haga clic en Objeto SCORM.
+- Haga clic en Carga masiva.
+- Arrastre y suelte archivos o seleccione Hacer clic para cargar.
+- Haga clic en Cargar.
+- Una vez finalizada la carga, haga clic en Mantener propiedades predeterminadas para todos los archivos o Editar propiedades para todos los archivos.
+- Si se selecciona Editar propiedades para todos los archivos, haga lo siguiente para cada objeto SCORM cargado:
+- Cambiar el título.
+- Cambiar la descripción.
+Compartir el objeto con otros instructores (según los permisos de usuario).
+- Indicar si desea utilizar la navegación externa.
+- Haga clic en Siguiente para pasar al siguiente objeto SCORM.
+Editar las propiedades de nuevos objetos SCORM
+Al cargar un nuevo objeto SCORM en el servicio de contenido, puede conservar sus propiedades actuales o modificarlas. Después de la carga, haga clic en Propiedades y realice cualquiera de las siguientes acciones:
+Después de cargar un objeto, haga clic en las propiedades y realice una de las siguientes acciones:
+- Cambiar el nombre del objeto SCORM: cambie su nombre según sea necesario.
+- Compartir el archivo: haga clic en Sí, compartir este archivo con > en el menú desplegable, seleccione el departamento (para los roles de instructor y administrador) o la organización (solo para el rol de administrador) con los que desea compartir el objeto.
+- Restringir la acción de compartir: si prefiere no compartir con otros cursos, haga clic en No, conservar este archivo solo para mí.
+- Agregar navegación externa: para utilizar una barra de navegación opcional, haga clic en Agregar navegación externa. Mi archivo no tiene la opción de navegación integrada.
+Eliminar un elemento de calificación de un objeto SCORM después de que se importa el paquete
+Para eliminar un elemento de calificación que originalmente se creó como parte de un paquete SCORM, primero debe romper la asociación entre el elemento del cuaderno de calificaciones y el elemento de contenido.
+Para eliminar un elemento de calificación de un objeto del Modelo de referencia para recursos de software de cursos intercambiable después de que se importa el paquete
+- En la herramienta Contenido, vaya al objeto SCORM para el que desea cancelar la asociación del elemento de calificación.
+- Haga clic en el tema de contenido.
+- En la pestaña Detalles de la actividad, en el área Evaluación, haga clic en el título del tema.
+- En el menú de contexto, haga clic en Ninguna calificación.
+- Haga clic en Guardar.
+Mover el contenido SCORM importado a un módulo diferente
+Si está utilizando la solución SCORM heredada e importa un paquete de SCORM, se crea un módulo y tema únicos como parte del proceso. Después de que finalice la importación, puede utilizar la función Mover en la herramienta contenido para reubicar el tema en el módulo deseado y, a continuación, eliminar el módulo innecesario que se creó automáticamente durante la importación.
+Ajustar el tamaño de visualización del objeto SCORM
+Si está utilizando la solución Modelo de referencia para recursos de software de cursos intercambiable heredada, en muchos casos, los problemas de presentación son el resultado de la configuración seleccionada al crear un paquete Modelo de referencia para recursos de software de cursos intercambiable. Si los objetos SCORM se ven demasiado pequeños o grandes cuando se visualizan en Contenido, puede reemplazar los valores absolutos establecidos para las dimensiones en el archivo HTML con valores relativos para mejorar la visualización.
+Para ajustar el tamaño de visualización
+- En Administrar archivos, haga clic en el menú de acción del archivo que desea editar.
+- Seleccione Editar archivo > Editor de fuente de HTML.
+- Reemplace los valores absolutos del ancho y el alto en el archivo HTML con los valores relativos.
+- Haga clic en Guardar.
+Actualizar los elementos de calificación asociados y las calificaciones de transferencia automática
+Cuando se actualiza el elemento de calificación asociado a un paquete de SCORM en la nueva experiencia de contenido (Lecciones), las actualizaciones existentes se copian en el elemento de calificación asociado recientemente. Esto está disponible para los paquetes de SCORM agregados a través del servicio de contenido, SCORM importado y SCORM basado en LOR.
+Como SCORM se autocalifica a través del paquete de SCORM, se copia automáticamente una versión escalada del puntaje del usuario. Por ejemplo, si un estudiante obtiene un puntaje de 50/100 (50 %) en un tema SCORM y el instructor luego cambia el elemento de calificación asociado y lo establece en 150 puntos, el puntaje del estudiante se vuelve a calcular para quedar en 75/150 (50 %) en el nuevo elemento de calificación. Este nuevo cálculo se produce cada vez que se modifica el elemento de calificación asociado a través de la página Editar en la nueva Experiencia de contenido.

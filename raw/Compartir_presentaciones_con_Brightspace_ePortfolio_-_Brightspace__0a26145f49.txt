@@ -1,0 +1,21 @@
+URL: https://community.d2l.com/brightspace-es-MX/kb/articles/33906-compartir-presentaciones-con-brightspace-eportfolio
+TITLE: Compartir presentaciones con Brightspace ePortfolio - Brightspace
+HASH: 0a26145f491816c61ef858b25dc7d713f64c1276b1727580408b423ab106a5b4
+TYPE: web
+
+Compartir una presentación con todos los usuarios externos
+Puede hacer una presentación pública a través de una URL.
+- En la barra de navegación, haga clic en ePortfolio.
+- En la página Mis elementos, en el menú de contexto del elemento que desea compartir, haga clic en Compartir.
+- Marque la casilla de selección Permitir vista pública de presentación.
+- Comparta la dirección URL proporcionada con usuarios externos.
+- Haga clic en Cerrar.
+Compartir una presentación con usuarios externos específicos
+Cuando agrega un usuario externo a su presentación a través de su dirección de correo electrónico, el usuario recibe un correo electrónico con un enlace que lo invita a establecer un nombre de usuario y la contraseña para ver la presentación. La invitación caduca en un plazo de tres días (u otro plazo que defina su organización).
+- En la barra de navegación, haga clic en ePortfolio.
+- En la página Mis elementos, en el menú de contexto del elemento que desea compartir, haga clic en Compartir.
+- Haga clic en Agregar usuarios y grupos.
+- En el área Agregar usuario externo por dirección de correo electrónico, introduzca la dirección de correo electrónico del usuario que desea agregar. Haga clic en Agregar.
+- En el área Asignar permisos, seleccione los permisos que desea que tengan los usuarios.
+- Haga clic en Compartir > Cerrar.
+Su presentación se comparte con la dirección de correo electrónico del usuario externo.

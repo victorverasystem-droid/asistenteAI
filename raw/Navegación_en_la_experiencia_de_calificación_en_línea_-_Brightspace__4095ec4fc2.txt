@@ -1,0 +1,32 @@
+URL: https://community.d2l.com/brightspace-es-MX/kb/articles/10928-navegacion-en-la-experiencia-de-calificacion-en-linea
+TITLE: Navegación en la experiencia de calificación en línea - Brightspace
+HASH: 4095ec4fc213376b9b2b4cfc3ae3f0f9de24ee73ed7448f72cd2732882d8c4b8
+TYPE: web
+
+Los elementos de calificación que se asocian con rúbricas en el cuaderno de calificaciones utilizan la experiencia de evaluación coherente para evaluar asignaciones o debates enviados para su evaluación, lo que es coherente con la forma en que estos elementos de calificación se evalúan en otras áreas de Brightspace.
+Para evaluar los elementos de calificación en la herramienta de calificación, realice lo siguiente:
+- En la barra de navegación de la página de inicio del curso, haga clic en Calificaciones.
+- Desplácese por su cuaderno de calificaciones hasta el elemento de calificación que desea evaluar.
+Figura: Los elementos de calificación recién enviados y sin marcar, como los envíos de debates resaltados, tienen un punto de notificación en el ícono que también se lee como una alerta de tecnología de asistencia.
+- Para marcar todos los envíos del elemento de calificación, haga clic en el menú desplegable en el encabezado de la columna junto al título del elemento de calificación.
+- Realice una de las siguientes acciones:
+- Si un estudiante envió un elemento de calificación para su evaluación, haga clic en el ícono en la columna Envío para abrir el envío.
+- Si desea evaluar una asignación no enviada (por ejemplo, para proporcionar una marca incompleta), haga clic en el ícono en la columna Evaluación.
+Figura: El evaluador puede hacer clic en un ícono en la columna Envío para abrir el elemento de calificación que se envió.
+- Con el elemento de calificación abierto, la interfaz de evaluación coherente muestra las rúbricas asociadas con la asignación, el debate o el cuestionario.
+Figura: El elemento de calificación (en este ejemplo, un envío de debate) aparece con la rúbrica contraída a la derecha. Haga clic en la flecha junto al nombre de la rúbrica para expandir el área de evaluación de la rúbrica.
+Puede ver rápidamente si una rúbrica se calificó con la información del mosaico de rúbricas contraído. Si la rúbrica está completa, la rúbrica contraída muestra el nivel general de la rúbrica y, si no está completa, la cantidad de criterios sin puntuación aparece en el mosaico.
+Nueva experiencia de mosaico contraído para rúbrica basada en puntos parcialmente puntuada
+Nueva experiencia de mosaico contraído para rúbricas completas (basadas en puntos)
+Para navegar de manera más eficiente por las rúbricas en la experiencia de calificación en línea, también es importante comprender el comportamiento esperado de la experiencia de calificación en estado de desplazamiento (cuando el puntero se desplaza sobre un nivel, pero no se seleccionó ningún nivel) en comparación con el estado de enfoque (cuando se seleccionó un nivel y el puntero se sitúa encima de un nivel seleccionado o de un nivel no seleccionado diferente). Si no hay ningún nivel debajo del puntero de desplazamiento y no se seleccionó ningún nivel, el área del nivel está vacía.
+La interacción de los botones de flecha al final del control deslizante de evaluación ahora indica un estado de desplazamiento en comparación con un estado de enfoque.
+Figura: Si el puntero del mouse está en un nivel, el nombre, la descripción y la puntuación aparecen en el área de información de nivel debajo del control deslizante.
+Cuando se mueve el enfoque a un nivel, se selecciona directamente el nivel. También puede presionar Intro para seleccionar o anular la selección de un nivel. En el modo de vista previa, el nivel seleccionado no cambia cuando revisa la información de otros niveles.
+Imagen: El nivel enfocado resalta dentro del segmento del control deslizante.
+Imagen: Cuando se selecciona el nivel, un cuadro más grande delinea el nivel del control deslizante y aparece una marca de verificación en el nivel.
+El nombre del nivel y la descripción de un nivel de evaluación aparecen debajo del control deslizante de evaluación en el estado seleccionado. El indicador de selección aparece en el control deslizante en el nivel elegido.
+Imagen: Cuando se selecciona un nivel, aparecen el nombre y la descripción del nivel junto con el indicador de selección.
+Cuando se calificó la rúbrica, el área de información del nivel muestra la información del nivel seleccionado de forma predeterminada, a menos que otros niveles estén en el estado de desplazamiento en el modo de calificación o en el estado de desplazamiento o de enfoque en el modo de revisión.
+En el modo de calificación, cuando selecciona un nivel, cualquier comentario predeterminado proporcionado en la rúbrica también se muestra en el cuadro de texto Comentarios de criterio. También es posible editar los comentarios si es necesario.
+Figura: Los instructores pueden editar los comentarios en Comentarios de criterio con el editor de Brightspace.
+Figura: Cuando un nivel no seleccionado está en el estado de desplazamiento, el nombre, la descripción y la puntuación aparecen en el área de información de nivel debajo del control deslizante.

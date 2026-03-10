@@ -1,0 +1,27 @@
+URL: https://community.d2l.com/brightspace-es-MX/kb/articles/14420-grabar-contenido-de-audio-y-video-con-la-biblioteca-multimedia
+TITLE: Grabar contenido de audio y video con la biblioteca multimedia - Brightspace
+HASH: a9d09c5d2e9f8264211fb18b5da6ebd303678d8d88d5aae3d0a8cf0b43e2cd1a
+TYPE: web
+
+La biblioteca multimedia ofrece una opción de procesamiento, almacenamiento y transmisión de medios para todos los materiales de audio y video. Cualquier archivo de medios que cree se almacena en el repositorio de la biblioteca de medios. Utilice la biblioteca multimedia Media Player y la opción Grabar cámara web para crear contenido para debates o asignaciones en Brightspace.
+Nota: Sus capacidades en la biblioteca de medios variarán dependiendo de su institución. Si no está disponible una funcionalidad que usted necesita, comuníquese con su profesor o institución.
+-
+En la página de inicio de su curso, vaya a Biblioteca multimedia.
+Aviso: la herramienta Biblioteca multimedia se puede encontrar en la barra de navegación, en Herramientas del curso > Biblioteca multimedia , o Más > Biblioteca multimedia.
+-
+Haga clic en Agregar > Grabar cámara web.
+Figura: El menú desplegable Agregar con la opción Grabar cámara web resaltada.
+-
+En el cuadro de diálogo Grabar cámara web, haga clic en Nueva grabación para comenzar la grabación de audio y video. Si solo desea grabar audio, ACTIVE la opción Solo audio,
+Figura: cuadro de diálogo de la Cámara web de grabación con las Nuevas opciones de grabación y Solo audio.
+-
+Cuando termine la grabación, haga clic en Detener.
+-
+Haga clic en Siguiente.
+Figura: cuadro de diálogo de la Cámara web de grabación con contenido de audio y video grabado y la opción Siguiente.
+-
+Ingrese un Título, Descripción y elija un Idioma de audio para su grabación. Seleccione la casilla de selección de Generación automática de subtítulos desde audio para generar subtítulos para su grabación.
+Aviso: debe seleccionar un Idioma de audio para generar los subtítulos.
+-
+Haga clic en Finalizar para cargar la grabación en la biblioteca multimedia.
+Figura: detalles de una grabación con los campos Título, Descripción e Idioma de audio.

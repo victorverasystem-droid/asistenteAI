@@ -1,0 +1,20 @@
+URL: https://community.d2l.com/brightspace-es-MX/kb/articles/33928-iniciar-y-cerrar-sesion-en-brightspace-pulse
+TITLE: Iniciar y cerrar sesión en Brightspace Pulse - Brightspace
+HASH: f4a7def7b73f9ed1e9ec9cff74b84845834a42955affe8942664d2b817d05439
+TYPE: web
+
+Cuando inicie sesión en Brightspace Pulse por primera vez, puede buscar su escuela, institución u organización por su nombre. Si no se obtienen resultados de búsqueda, escriba la dirección URL del Sistema de gestión educativa (LMS) de su organización.
+Después de iniciar sesión, para cargar sus datos de los cursos, Brightspace Pulse recupera los eventos del calendario desde el calendario. En estos eventos se pueden incluir fechas de contenido, lista de control, debates, asignaciones y cuestionarios en Brightspace si los instructores establecen fechas de vencimiento para estas herramientas.
+Iniciar sesión en Brightspace Pulse
+Puede iniciar sesión en la aplicación Brightspace Pulse desde su dispositivo.
+Para iniciar sesión
+- En el dispositivo, toque el ícono de Brightspace Pulse.
+- Para obtener más información acerca de Brightspace Pulse, deslícese hacia la izquierda o la derecha, o presione Siguiente para proceder al paso siguiente.
+- Presione Elija su escuela.
+- Ingrese las credenciales de Brightspace y, luego, toque Iniciar sesión.
+Cerrar sesión en Brightspace Pulse
+También puede cerrar sesión en cualquier momento.
+Para cerrar sesión
+- En la barra de navegación, toque el ícono de Menú.
+- Toque Configuración.
+- Toque Cerrar sesión en todas las cuentas.

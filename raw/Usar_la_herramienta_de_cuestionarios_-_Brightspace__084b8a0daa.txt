@@ -1,0 +1,83 @@
+URL: https://community.d2l.com/brightspace-es-MX/kb/articles/22103-usar-la-herramienta-de-cuestionarios
+TITLE: Usar la herramienta de cuestionarios - Brightspace
+HASH: 084b8a0daa39e522f042186a314a85188a639ef54327e6f1edfabf4755e46669
+TYPE: web
+
+Utilice la herramienta de cuestionarios para realizar un cuestionario (iniciar un cuestionario), revisar sus resultados y ver las estadísticas de la clase para un cuestionario.
+Acceder a los cuestionarios mediante la Nueva experiencia de contenido (Lecciones)
+Los cuestionarios se pueden utilizar como punto de referencia para hacer un seguimiento de su progreso de aprendizaje. Su profesor puede proporcionarle varias evaluaciones para que usted acceda y las complete durante el curso.
+Acceder a los cuestionarios mediante la Nueva Experiencia de Contenido
+- En la página de inicio del curso, vaya a Contenido.
+- Vaya al módulo donde se encuentra el cuestionario.
+- Haga clic en el nombre del cuestionario que desea realizar.
+Acceder a los cuestionarios mediante la Experiencia de Contenido Clásica
+También puede acceder a cuestionarios mediante la Experiencia de Contenido Clásica.
+Acceder a los cuestionarios mediante la Experiencia de Contenido Clásica
+- Vaya a Contenido dentro de su curso.
+- Vaya al módulo donde se encuentra el cuestionario.
+- Haga clic en el nombre del cuestionario que desea realizar.
+Acceder a los cuestionarios con la herramienta de Cuestionarios
+Utilice la herramienta de Cuestionarios para ver la lista de cuestionarios disponibles para usted.
+Acceder a los cuestionarios desde la herramienta de Cuestionarios
+- Vaya a la herramienta de Cuestionarios en la barra de navegación.
+- Consulte la lista de cuestionarios disponibles en la Lista de cuestionarios.
+- Haga clic en el cuestionario que desea realizar.
+Recorrido visual: Página Detalles del cuestionario
+- Hora actual: Muestra la hora actual en su ubicación.
+- Usuario actual: Muestra su nombre y nombre de usuario de Brightspace.
+- Período del cuestionario: La fecha de inicio y la fecha final del cuestionario.
+- Tiempo permitido: El tiempo disponible para completar el cuestionario.
+- Intentos: La cantidad de veces que puede responder el cuestionario.
+- Instrucciones: Explica cómo funciona el cuestionario.
+- Comenzar el cuestionario: Haga clic en esta opción cuando esté listo para comenzar su cuestionario.
+Notas:
+- La institución puede exigir que utilice el navegador Respondus LockDown Browser® para realizar los cuestionarios. Puede hacer clic en el enlace Respondus LockDown Browser en la sección Requisitos de cuestionario para descargarlo e instalarlo de forma gratuita. A continuación, puede iniciar el cuestionario. Si ya tiene instalado el Respondus LockDown Browser, la página Iniciar cuestionario se abrirá automáticamente dentro de este.
+- El instructor puede establecer una contraseña para acceder al cuestionario. Si no recuerda su contraseña o si la contraseña proporcionada no funciona, comuníquese con su profesor.
+- Es posible que el botón Comenzar el cuestionario no esté visible en las siguientes situaciones:
+- El cuestionario aún no ha comenzado.
+- El cuestionario ya se ha completado.
+- Se han agotado los intentos permitidos.
+- El cuestionario ha finalizado.
+Cuestionarios asíncronos y síncronos
+Brightspace ofrece actualmente los siguientes tipos de cuestionarios:
+- Cuestionarios asíncronos: puede iniciar cuestionarios asíncronos en cualquier momento dentro de las fechas de disponibilidad especificadas haciendo clic en el botón ¡Comenzar el cuestionario!.
+- Cuestionarios síncronos: si su profesor configura un cuestionario síncrono, el temporizador del cuestionario comienza en la Fecha de inicio y finaliza cuando el límite de tiempo haya expirado, independientemente de cualquier acción realizada por el alumno. Por ejemplo, si hace clic en ¡Comenzar el cuestionario! 15 minutos después de la fecha de inicio en un cuestionario de 1 hora, solo tendrá 45 minutos para completarlo. Para indicar cuándo está disponible un cuestionario, puede utilizar un temporizador de cuenta atrás en las páginas Información del cuestionario y Comenzar el cuestionario. El botón ¡Comenzar el cuestionario! estará disponible cuando se alcancen la fecha y la hora de inicio.
+Vista de Lista de cuestionarios
+Revise los comentarios y resultados de su cuestionario directamente en la vista de Lista de cuestionarios en la herramienta de Cuestionarios.
+- Cuestionarios actuales: Muestra los cuestionarios actuales que están disponibles para responder según las fechas y horas de disponibilidad establecidas por el instructor.
+- Cuestionarios futuros: Enumera los próximos cuestionarios que su profesor creó para que los complete en el futuro.
+- Estado de evaluación: Indica si puede acceder a los resultados y comentarios de sus cuestionarios completados. Si hace clic en Intento, se lo llevará a la vista de envíos de cuestionario para que pueda revisar cómo hizo en su evaluación.
+- Intentos: Muestra la cantidad de intentos que ha realizado en un cuestionario y la cantidad total de intentos disponibles.
+Realizar un cuestionario
+Durante la realización del cuestionario, están disponibles las siguientes opciones:
+- Opción de mostrar u ocultar el temporizador para reducir la ansiedad. Una vez que haya establecido su preferencia, su última elección se recordará para el siguiente cuestionario que realice.
+Las advertencias especiales lo ayudan a saber el tiempo que queda en momentos determinados:
+- 1 minuto restante en el cuestionario.
+- Quedan 5 minutos (solo disponible para cuestionarios con un límite de tiempo de 10 minutos o más)
+- Ha transcurrido la mitad del tiempo (solo disponible para cuestionarios con un límite de tiempo de 20 minutos o más)
+Haga clic en la opción Información del cuestionario en la página del cuestionario para ver las instrucciones y otra información sin salir del cuestionario.
+- Puede revisar que su intento se envió en la página Resultados del cuestionario cuando completa un cuestionario o vuelve más tarde para ver los resultados.
+Realice un cuestionario con la Experiencia de nuevo contenido
+Puede acceder y completar cuestionarios desde módulos en la herramienta Contenido. Si su cuestionario incluye preguntas de respuesta por escrito, el evaluador puede incluir una rúbrica para esas preguntas. Puede ver la rúbrica de la pregunta dentro del cuestionario. Después de completar y calificar el cuestionario, puede revisar la rúbrica en el cuestionario calificado para cualquier comentario que el instructor proporcione durante la evaluación.
+Cómo realizar un cuestionario desde la Experiencia de nuevo contenido
+- Vaya a Contenido.
+- Haga clic en el módulo que contiene su cuestionario y luego, en su cuestionario.
+- En la sección Mi trabajo, haga clic en Iniciar cuestionario.
+- En la página Resumen del cuestionario, haga clic en ¡Iniciar cuestionario!.
+- Después de completar su cuestionario, haga clic en Enviar cuestionario. Para confirmar el envío, haga clic en Enviar cuestionario de nuevo.
+- Haga clic en Listo.
+Ha completado un cuestionario con la Experiencia de nuevo contenido. Para revisar su cuestionario y los resultados, regrese a Contenido y haga clic en el módulo de su cuestionario.
+Realice un cuestionario con la deducción de puntos habilitada
+Su profesor puede tener habilitada la deducción de puntos para un cuestionario. El objetivo de esto es evitar que adivine las preguntas del cuestionario mediante la deducción de un porcentaje del valor de puntos de una pregunta del cuestionario si responde de manera incorrecta. Por ejemplo, si una pregunta del cuestionario se califica con 1 punto, su profesor puede establecer que esa pregunta reduzca el 25 %, o 0,25 puntos, de esa pregunta del cuestionario si se responde incorrectamente. Si está a punto de iniciar un cuestionario con deducción de puntos habilitada, la página Resumen del cuestionario ofrece instrucciones para notificarle.
+Una vez que seleccione Iniciar cuestionario, y comience a responder las preguntas, puede seleccionar Borrar selección para borrar cualquier pregunta de selección múltiple o de verdadero o falso que haya respondido y de las que no esté seguro. Si borra su respuesta, se garantiza que se le asigne una calificación de 0 para la pregunta cuando la envía, en lugar de que se le deduzca un valor porcentual por una posible respuesta incorrecta.
+Realizar un cuestionario con el Apoyo de Estudio de D2L Lumi
+El instructor puede configurar el cuestionario a fin de utilizar D2L Lumi para generar automáticamente recomendaciones de contenido y comentarios generales según los resultados de los intentos de cuestionario. Esto le proporciona comentarios instantáneos y materiales de estudio para ayudarlo a mejorar sus conocimientos en función de los resultados del cuestionario. Si está a punto de iniciar un cuestionario con el Apoyo de Estudio habilitado, la página Resumen del cuestionario ofrece instrucciones para avisarle que está activado.
+Una vez que haya completado el intento de cuestionario, la página de resultados del cuestionario mostrará un breve resumen de lo que hizo bien y las áreas en las que sería beneficioso una revisión más detallada. El Apoyo de Estudio también le proporciona enlaces directos al contenido recomendado del curso para su revisión.
+Volver a realizar un cuestionario
+Puede volver a realizar un cuestionario en cualquier momento si sigue los pasos que se describen en esta página. Sin embargo, la capacidad de acceder a un cuestionario depende de la forma en que su profesor haya configurado el cuestionario. Su profesorinstructor puede haber aplicado condiciones al cuestionario que impidan realizarlo nuevamente.
+Es posible que no pueda acceder a un cuestionario para realizarlo nuevamente si:
+- Ya pasó el límite de tiempo permitido para el cuestionario.
+- Ya pasó la fecha de vencimiento o el rango de fechas de disponibilidad del cuestionario.
+- Ya excedió la cantidad permitida de intentos para el cuestionario.
+Si desea volver a responder un cuestionario que ya no está disponible, debe comunicarse con su profesorinstructor para que vuelva a poner el cuestionario a su disposición.
+Video: Cómo realizar un cuestionario

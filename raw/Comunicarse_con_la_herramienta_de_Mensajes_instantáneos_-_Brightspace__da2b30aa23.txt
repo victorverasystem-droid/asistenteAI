@@ -1,0 +1,61 @@
+URL: https://community.d2l.com/brightspace-es-MX/kb/articles/33896-comunicarse-con-la-herramienta-de-mensajes-instantaneos
+TITLE: Comunicarse con la herramienta de Mensajes instantáneos - Brightspace
+HASH: da2b30aa2393937b07087b33888efebea3035e22254d4e96e02726ddde6b0a5c
+TYPE: web
+
+Utilice la herramienta Mensajes instantáneos para comunicarse rápidamente con otros estudiantes o con el instructor del curso.
+Acceder a la herramienta Mensajes instantáneos
+- En la página de inicio de su curso, haga clic en el ícono (sobre) de Alertas de mensajes.
+- Haga clic en Mensajes instantáneos.
+Figura: Haga clic en Alertas de mensajes y, luego, en Mensajes instantáneos para abrir un cuadro de diálogo separado que muestra su Bandeja de entrada y Amigos.
+Recorrido visual de la herramienta Mensajes instantáneos
+Pestaña Bandeja de entrada
+Su Bandeja de entrada muestra todos los mensajes recibidos y los muestra como leídos o no leídos.
+Figura: Revise la pestaña Bandeja de entrada de la herramienta Mensajes instantáneos.
+- Ver: Seleccione entre mostrar Todos los mensajes, los Leídos o los No leídos.
+- Establecer como Leído: Seleccione los mensajes y haga clic en Establecer como Leído para establecer todos los mensajes como leídos.
+- Establecer como No leído: Seleccione mensajes y haga clic en Establecer como No leído para cambiar todos los mensajes a no leídos.
+- Eliminar: Seleccione mensajes y haga clic en Eliminar para eliminar todos sus mensajes.
+Pestaña Amigos
+La pestaña Amigos muestra a todas las personas que ha agregado como amigos.
+Figura: Revise la pestaña Amigos en la herramienta Mensajes instantáneos.
+- Ver: elija entre mostrar Todos los usuarios o los usuarios que estén En línea o Sin conexión.
+- Mensaje: Seleccione un usuario o usuarios para enviar un mensaje. Haga clic en Mensaje para escribir y enviar un mensaje.
+- Eliminar: seleccione un usuario o usuarios. Haga clic en Eliminar para quitarlos de su lista Amigos.
+- Agregar Amigos: Haga clic para agregar usuarios mediante la búsqueda o adición de su nombre de usuario.
+Pestaña Listado de alumnos
+La pestaña Listado de alumnos muestra a todos los estudiantes e instructores de su curso con su estado de actividad actual.
+Figura: Revise la pestaña Listado de alumnos en la herramienta Mensajes instantáneos.
+- Ver: Elija entre mostrar usuarios de diferentes cursos en los que está inscrito.
+- Mensaje: Seleccione un usuario o usuarios para enviar un mensaje. Haga clic en Mensaje para escribir y enviar un mensaje.
+- Agregar: Seleccione un usuario o usuarios. Haga clic en Agregar para agregarlos a la lista Amigos.
+Enviar un mensaje
+Utilice la herramienta Mensajes instantáneos para enviar un mensaje a sus amigos u otros usuarios en su curso.
+Para enviar un mensaje
+- En la página de inicio del curso, en la minibarra, haga clic en Alertas de mensajes > Mensajes instantáneos.
+- Vaya a la pestaña Amigos o Listado de alumnos.
+- Seleccione los usuarios a quienes desea enviar mensajes y haga clic en Mensaje.
+Figura: Los usuarios seleccionados en la pestaña Amigos con el botón Mensaje resaltado.
+- En la página Enviar mensaje, escriba su mensaje en el cuadro de texto.
+- Haga clic en Enviar.
+Figura: La página Enviar mensaje que muestra el cuadro de texto y el botón Enviar.
+Envió un mensaje a otros usuarios. Recibirán el mensaje en su bandeja de entrada de Brightspace.
+Agregue a sus amigos
+Agregue amigos de los cursos de Brightspace a su lista amigos para facilitar el acceso cuando desee enviarles un mensaje.
+Para agregar amigos mediante la pestaña Amigos
+- En la página de inicio del curso, haga clic en Alertas de mensajes > Mensajes instantáneos.
+- Desplácese hasta la pestaña Amigos.
+- Haga clic Agregar amigos y realice una de las siguientes acciones:
+Figura: Haga clic en Agregar amigos y seleccione las opciones Agregar por nombre de usuario o Buscar usuarios.
+- Haga clic en Agregar por nombre de usuario. En el cuadro de diálogo Agregar amigo, ingrese el nombre de usuario de su amigo y haga clic en Agregar.
+Figura: Ingrese un nombre de usuario y haga clic en Agregar.
+- Haga clic en Buscar usuarios. En el campo Buscar..., introduzca el nombre de un usuario. Seleccione los usuarios a quienes desea agregar y haga clic en Agregar como amigo.
+Figura: Buscar… un usuario y haga clic en Agregar como amigo.
+Agregó un usuario a su lista Amigos.
+Para agregar amigos mediante la pestaña Listado de alumnos
+- En la página de inicio del curso, haga clic en Alertas de mensajes > Mensajes instantáneos.
+- Desplácese hasta la pestaña Listado de alumnos.
+- Seleccione a los usuarios que desea agregar a su lista Amigos.
+- Haga clic en Agregar.
+Figura: En la pestaña Listado de alumnos, seleccione usuarios y haga clic en Agregar.
+Agregó amigos a su lista Amigos.

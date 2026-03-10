@@ -1,0 +1,12 @@
+URL: https://community.d2l.com/brightspace-es-MX/kb/articles/14454-ver-y-descargar-transcripciones-de-audio-y-video
+TITLE: Ver y descargar transcripciones de audio y video - Brightspace
+HASH: b076a1f330a70aff9ab0dc47d1265a1349691e1d1ba0c65b542db1a28775d89d
+TYPE: web
+
+Utilice la Vista de transcripción para reproducir un video con subtítulos desplazables y descargar una transcripción para leer sin conexión o revisar la accesibilidad. Puede descargar un archivo de transcripción (.txt) o de subtítulos (.vtt); el archivo .vtt incluye códigos de tiempo con el texto de transcripción.
+Para ver y descargar una transcripción
+-
+1. Desde la página de inicio del curso, vaya a cualquier lugar en el que aparezca el reproductor multimedia (por ejemplo, un módulo en Contenido) y abra el video.
+- En la pantalla de video, haga clic en Configuración (ícono de engranaje) y, luego, haga clic en Ver transcripción.
+- La transcripción aparece con el video reproducible en la esquina superior izquierda. Haga clic en Descargar y, luego, seleccione una de las opciones:
+Descargó una transcripción o un subtítulo de su video.

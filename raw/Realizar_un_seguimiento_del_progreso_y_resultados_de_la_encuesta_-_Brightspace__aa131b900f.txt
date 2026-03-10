@@ -1,0 +1,57 @@
+URL: https://community.d2l.com/brightspace-es-MX/kb/articles/10993-realizar-un-seguimiento-del-progreso-y-resultados-de-la-encuesta
+TITLE: Realizar un seguimiento del progreso y resultados de la encuesta - Brightspace
+HASH: aa131b900fd5d3017802cf9f5f7515b9f33faca73c4651a113a222f5a809f24c
+TYPE: web
+
+Según cómo haya configurado las propiedades de la encuesta, podrá ver una lista de todos los usuarios o los resultados de la encuesta en general con respuestas anónimas.
+Para realizar un seguimiento del progreso y resultados de la encuesta
+- Vaya a Encuestas.
+- En la pestaña Administrar encuestas, en el menú Acciones de la encuesta, haga clic en Estadísticas.
+- En la pestaña Usuarios, busque los usuarios y la lista de sus tipos de intento. Puede restringir su búsqueda de resultados de la encuesta por intento en la pestaña Intentos.
+- Para comprobar los resultados de un usuario específico, haga clic en un intento individual. Para comprobar la cantidad de intentos por pregunta en una encuesta, haga clic en Ver resultados generales en la parte inferior de la página. También puede filtrar por Equipos de trabajo y Secciones.
+Vio las estadísticas de su encuesta.
+Configurar informes de encuesta
+Los informes de encuesta recopilan información sobre los datos de la encuesta. Los informes de encuesta difieren de los resultados de encuesta; estos recopilan y presentan más tipos de información que los disponibles a través de los resultados. Seleccione un tipo de informe que muestre las estadísticas de preguntas, los detalles de preguntas, las estadísticas de usuarios, los detalles de intentos o los intentos del usuario. Puede seleccionar también una fecha de publicación y elegir qué roles tienen permiso para revisar cada informe.
+Para configurar informes de encuesta
+- Vaya a Encuestas.
+- En la pestaña Administrar encuestas, haga clic en el nombre de la encuesta.
+- En la pestaña Configuración de informes, haga clic en Agregar informe.
+- Ingrese un Nombre de informe.
+- Elija un Tipo de informe:
+- Informe de resumen: Puede visualizar el total de los datos de los tipos de preguntas de elección múltiple, verdadero o falso, de escala Likert, de selección múltiple y de coincidencia. También se pueden visualizar las respuestas textuales de los tipos de preguntas de respuesta escrita, de respuesta corta y para completar.
+- Intentos individuales: Este informe muestra cada intento por separado. Puede seleccionar ocultar el nombre y apellido del usuario cuando se mira el informe de Intentos individuales.
+- Puede seleccionar la opción de publicar el informe inmediatamente después del envío de una encuesta, o ingresar una fecha y hora alternativas.
+- En la sección Publicar informe en, marque las casillas de selección ubicadas junto a los roles en los que desea publicar el informe.
+- Haga clic en Guardar.
+Creó un informe de encuesta.
+Ver un informe de encuesta
+Puede exportar estadísticas e informes de encuestas a un archivo para llevar a cabo un análisis de datos. El archivo contiene toda la información pertinente de la encuesta, de manera que puede consultar, ordenar y evaluar los datos sin estar conectado al sistema de gestión educativa. En la pestaña Configuración de informes, debe preparar los informes de encuesta para la encuesta correspondiente para poder revisar o exportar informes.
+Para revisar un informe de encuesta
+- Vaya a Encuestas.
+- En la página Administrar encuestas, en el menú Acciones de la encuesta que desea comprobar, haga clic en Informes.
+- Haga clic en el nombre del informe.
+- Si desea restringir su informe a un período específico, marque las casillas de selección Desde y Hasta e ingrese las restricciones de fechas.
+- Haga clic en Generar HTML para ver el informe en su navegador, o haga clic en Generar CSV o Generar Excel, para guardar el informe en su computadora.
+Vio un informe de encuesta.
+Participación anónima en una encuesta
+Si una encuesta es anónima, los datos del usuario se ocultan en los resultados de la encuesta. Las respuestas a las preguntas de la encuesta están disponibles para todos los usuarios, pero el sistema no informa quién respondió.
+Mientras los estudiantes están contestando una encuesta anónima, aparece una alerta en la parte superior de la encuesta que indica que la encuesta es anónima y su información del usuario no está vinculada a sus respuestas.
+Para garantizar la participación anónima en la encuesta, realice lo siguiente:
+- Vaya a Encuestas.
+- En la página Administrar encuestas, haga clic en el nombre de la encuesta.
+- En el área General, marque la casilla de selección Hacer que los resultados sean anónimos.
+Establecer la visualización instantánea del texto de los comentarios
+Puede quitar la opción Enviar de una encuesta que no se puede editar. Todos los comentarios ingresados para una pregunta estarán disponibles instantáneamente para un usuario que realice la encuesta.
+Para establecer la visualización instantánea del texto de los comentarios, realice lo siguiente:
+- Vaya a Encuestas.
+- En la página Administrar encuestas, haga clic en el nombre de la encuesta.
+- En el área General, marque la casilla de selección Proporcionar comentarios instantáneos.
+Compartir los resultados de una encuesta con los participantes
+Puede compartir los resultados de una encuesta con los estudiantes. Para hacerlo, debe hacer un cambio en la pestaña Configuración de informes de la encuesta y proporcionarles a los estudiantes instrucciones para llegar a los resultados de la encuesta después de que la completen o la actualicen.
+Para compartir los resultados, realice lo siguiente:
+- Vaya a Encuestas.
+- En la pestaña Administrar encuestas, haga clic en el nombre de la encuesta.
+- En la pestaña Configuración de informes de la encuesta, haga clic en Agregar informe.
+- Rellene los campos como se describe en la sección Configurar informes de encuesta anterior:
+- En el campo Publicar, seleccione inmediatamente.
+- En la lista Publicar informe en, seleccione los roles en los que publicará el informe.

@@ -1,0 +1,8 @@
+URL: https://community.d2l.com/brightspace-es-MX/kb/articles/33920-gestionar-la-carga-de-trabajo-del-curso-con-brightspace-pulse
+TITLE: Gestionar la carga de trabajo del curso con Brightspace Pulse - Brightspace
+HASH: 380efffc76242320e1ed8424869f6611e0a427a8f83cf51d571c42df00c94c29
+TYPE: web
+
+Brightspace Pulse es una aplicación móvil que puede ayudar a los estudiantes a permanecer conectados y seguir sus cursos en Brightspace. Proporciona una visualización simple de los calendarios, las lecturas, las asignaciones, las evaluaciones, las calificaciones y las noticias del curso. La aplicación puede ayudar a los estudiantes a tomar mejores decisiones acerca de cómo administrar la carga de trabajo, cuándo enviar las asignaciones, y cuándo prepararse para los exámenes. Las alertas en tiempo real avisan a los estudiantes cuando se cancelan las clases, se cambian las salas o se encuentran disponibles las calificaciones y los contenidos nuevos o actualizados del curso. La vista de cronograma y la visualización semanal ofrecen a los alumnos una visualización rápida y simple de lo que está previsto para hoy, esta semana, y para momentos posteriores del período en todos sus cursos.
+Vea este video para conocer la manera en que Pulse lo ayuda a mantenerse al tanto de las fechas clave para el contenido de su curso. Revise los pasos escritos a continuación para explorar estos flujos de trabajo con más detalle.
+Vea este video para conocer la manera en que Pulse lo ayuda a mantenerse al tanto de las fechas clave para el contenido de su curso. Revise los pasos escritos a continuación para explorar estos flujos de trabajo con más detalle.

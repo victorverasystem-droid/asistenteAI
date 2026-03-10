@@ -1,0 +1,6 @@
+URL: https://community.d2l.com/brightspace-es-MX/kb/articles/33932-ver-y-editar-actividades-en-brightspace-pulse
+TITLE: Ver y editar actividades en Brightspace Pulse - Brightspace
+HASH: f6be2174636cc46f16d979b54192437984810c3eae1438f475ab8e7d13b8db5a
+TYPE: web
+
+Brightspace Pulse muestra las actividades asignadas a partir de los datos correspondientes en Brightspace. Estas actividades pueden incluir asignaciones (asignadas a partir de una asignación, un tema/foro de debate, una lista de control o encuesta), evaluaciones (asignadas a partir de un cuestionario o elemento de calificación) y lecturas (asignadas a partir de un tema de contenido).

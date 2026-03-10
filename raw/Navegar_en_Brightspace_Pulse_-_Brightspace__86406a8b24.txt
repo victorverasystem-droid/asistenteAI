@@ -1,0 +1,29 @@
+URL: https://community.d2l.com/brightspace-es-MX/kb/articles/33929-navegar-en-brightspace-pulse
+TITLE: Navegar en Brightspace Pulse - Brightspace
+HASH: 86406a8b249fe4b49ec08a56c92cd59e29c1ae7fb409bde499f29c5b9367e376
+TYPE: web
+
+Brightspace Pulse cuenta con una interfaz intuitiva para dispositivos iOS y Android.
+Descripción general de la interfaz de Brightspace Pulse para iOS
+Figura: Revise la interfaz de la aplicación Pulse en iOS.
+- El componente Tareas pendientes muestra sus actividades de aprendizaje asignadas de todos los cursos que tienen una fecha de vencimiento o una fecha final.
+- En la pestaña Eventos, se muestran los eventos del curso.
+- La pestaña Todos es una lista combinada de todo en las pestañas Tareas pendientes y Eventos.
+- En la pestaña Próximo se muestra el próximo trabajo (actividades) para sus cursos. Puede filtrar la lista de actividades tocando las pestañas secundarias Trabajo por hacer, Eventos o Todas. En la pestaña Próximo, el gráfico muestra las próximas actividades de un vistazo, lo que indica qué días estarán más ocupados:
+- Para navegar por las semanas, deslícese hacia la izquierda o hacia la derecha. A medida que navega, la lista de actividades se actualiza.
+- Cuando presiona un día, se actualiza la lista de actividades de dicho día.
+- Para optimizar su vista, cambie a la vista horizontal del dispositivo y oculte la lista de actividades.
+- La pestaña Cursos muestra los cursos en los que está inscrito actualmente y un botón para acceder a la página de inicio de la organización en Brightspace. De forma predeterminada, esta pestaña aparece cuando inicia sesión en Brightspace Pulse.
+- En la pestaña Notificaciones, se muestran las notificaciones acerca de los anuncios, actualizaciones y calificaciones relacionadas con los cursos provenientes de Anuncios, Noticias de actividad, Calificaciones y Contenido en Brightspace.
+Descripción general de la interfaz de Brightspace Pulse para Android
+Figura: Revise la interfaz de la aplicación Pulse en Android.
+- El componente Tareas pendientes muestra sus actividades de aprendizaje asignadas de todos los cursos que tienen una fecha de vencimiento o una fecha final.
+- En la pestaña Eventos, se muestran los eventos del curso.
+- La pestaña Todos es una lista combinada de todo en las pestañas Tareas pendientes y Eventos.
+- En la pestaña Próximo se muestra el próximo trabajo (actividades) para sus cursos. Puede filtrar la lista de actividades tocando las pestañas secundarias Trabajo por hacer, Eventos o Todas. En la pestaña Próximo, el gráfico muestra las próximas actividades de un vistazo, lo que indica qué días estarán más ocupados:
+- Para navegar por las semanas, deslícese hacia la izquierda o hacia la derecha. A medida que navega, la lista de actividades se actualiza.
+- Cuando presiona un día, se actualiza la lista de actividades de dicho día.
+- Para optimizar su vista, cambie a la vista horizontal del dispositivo y oculte la lista de actividades.
+- La pestaña Cursos muestra los cursos en los que está inscrito actualmente y un botón para acceder a la página de inicio de la organización en Brightspace. De forma predeterminada, esta pestaña aparece cuando inicia sesión en Brightspace Pulse.
+- En la pestaña Notificaciones, se muestran las notificaciones acerca de los anuncios, actualizaciones y calificaciones relacionadas con los cursos provenientes de Anuncios, Noticias de actividad, Calificaciones y Contenido en Brightspace.
+Video: Navegar por Brightspace Pulse

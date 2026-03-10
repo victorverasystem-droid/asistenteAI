@@ -1,0 +1,14 @@
+URL: https://community.d2l.com/brightspace-es-MX/kb/articles/17167-inscripciones-del-curso
+TITLE: Inscripciones del curso - Brightspace
+HASH: 9ac402e523378a30aa2c2b877db360505fb094f748f65f2ccc648798daa5ae81
+TYPE: web
+
+Inscripciones del curso
+Revise los siguientes encabezados para aprender a inscribirse, anular la inscripción y registrarse en un curso. Además, obtenga más información acerca de los cursos faltantes en la página de inicio de la organización de Brightspace.
+Inscribirse o registrarse en un curso
+Puede inscribirse o registrarse en cursos a través del sitio web o la página de registro del curso de su institución. No puede inscribirse directamente en los cursos de Brightspace. Consulte a su institución para obtener más información sobre este proceso.
+Anular la inscripción en un curso
+Puede anular la inscripción en los cursos a través del sitio web o la página de registro del curso de su institución. No puede anular la inscripción directamente en los cursos de Brightspace. Consulte a su institución para obtener más información sobre este proceso.
+Cursos faltantes
+Si falta su curso, es posible que no esté inscrito correctamente en el curso. Para analizar su situación de inscripción, comuníquese con el instructor del curso o con el servicio de asistencia de la institución. También puede ver su estado de inscripción en la página de inscripción del curso de su institución.
+Otra razón por la que puede faltar su curso es porque su curso no está visible hasta una fecha específica. Si la fecha de inicio de su curso ya pasó o no está seguro de la fecha de inicio y las restricciones de visibilidad de su curso, comuníquese con el instructor del curso.
