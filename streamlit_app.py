@@ -262,7 +262,7 @@ with st.sidebar:
             icon = "✅" if d.exists() else "❌"
             st.markdown(f"{icon} `{label}` — {_dir_count(d)} archivos")
         st.caption(f"Raíz: `{PROJECT_ROOT}`")
-        if st.button("🏗️ Crear carpetas faltantes", use_container_width=True):
+        if st.button("🏗️ Crear carpetas faltantes", width='stretch'):
             for d in [RAW_DIR, INDEX_DIR, LOG_DIR, EVAL_DIR, SCRIPT_DIR]:
                 d.mkdir(parents=True, exist_ok=True)
             st.success("Carpetas creadas.")
@@ -289,7 +289,7 @@ with st.sidebar:
         type=["pdf","docx","txt","html","htm","xlsx","xls","csv","json"],
         key="up_raw",
     )
-    if st.button("💾 Guardar en raw/", use_container_width=True) and up_raw:
+    if st.button("💾 Guardar en raw/", width='stretch') and up_raw:
         RAW_DIR.mkdir(parents=True, exist_ok=True)
         for f in up_raw:
             (RAW_DIR / f.name).write_bytes(f.read())
@@ -302,7 +302,7 @@ with st.sidebar:
         type=["json","jsonl","xlsx","xls","csv"],
         key="up_eval",
     )
-    if st.button("💾 Guardar en eval/", use_container_width=True) and up_eval:
+    if st.button("💾 Guardar en eval/", width='stretch') and up_eval:
         EVAL_DIR.mkdir(parents=True, exist_ok=True)
         for f in up_eval:
             (EVAL_DIR / f.name).write_bytes(f.read())
@@ -310,8 +310,8 @@ with st.sidebar:
 
     st.divider()
     c1, c2 = st.columns(2)
-    btn_build = c1.button("🔨 Indexar", use_container_width=True)
-    btn_load  = c2.button("⚡ Cargar",  use_container_width=True)
+    btn_build = c1.button("🔨 Indexar", width='stretch')
+    btn_load  = c2.button("⚡ Cargar",  width='stretch')
 
     if btn_build:
         rag = import_rag()
@@ -342,7 +342,7 @@ with st.sidebar:
                 st.error(f"Error: {e}")
 
     st.divider()
-    if st.button("🗑️ Limpiar chat", use_container_width=True):
+    if st.button("🗑️ Limpiar chat", width='stretch'):
         st.session_state.messages = []
         st.rerun()
 
@@ -469,7 +469,7 @@ with tab_eval:
                               help="Desactiva para evaluar solo retrieval+intents (más rápido, sin costo)")
     max_rows_ev = ec3.number_input("Max filas (0=todas)", value=0, min_value=0, step=50)
 
-    if st.button("▶️ Ejecutar evaluación", use_container_width=True,
+    if st.button("▶️ Ejecutar evaluación", width='stretch',
                  disabled=not (eval_path.exists() or custom_ds)):
         rag = import_rag()
         cfg = _make_settings(rag, use_llm=use_llm_ev)
@@ -524,7 +524,7 @@ with tab_eval:
             try:
                 import pandas as pd
                 df = pd.read_csv(out_csv)
-                st.dataframe(df, use_container_width=True)
+                st.dataframe(df, width='stretch')
                 st.download_button("⬇️ Descargar CSV",
                                    df.to_csv(index=False).encode("utf-8"),
                                    "eval_results.csv", "text/csv")
@@ -590,7 +590,7 @@ with tab_crawl:
     min_chars = wc1.number_input("Mínimo de chars por página", value=80, min_value=50, step=50)
     wc2.info("💡 Instala `trafilatura` para mejor extracción de contenido principal.")
 
-    if st.button("▶️ Iniciar crawl", use_container_width=True, disabled=not excel_path.exists()):
+    if st.button('▶️ Iniciar crawl', width='stretch', disabled=not excel_path.exists()):
         rag = import_rag()
         cfg = _make_settings(rag, min_chars=int(min_chars))
         with st.spinner("Crawleando…"):
