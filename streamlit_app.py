@@ -1,21 +1,27 @@
 """
 streamlit_app.py  —  Asistente Virtual RAG · Brightspace
-Estructura de carpetas (espejo del notebook Colab):
 
-  RAG_Brightspace/
-  ├── raw/          ← documentos de conocimiento
+Estructura de carpetas compatible con el notebook Colab Y con Streamlit Cloud:
+
+  Repositorio GitHub (raíz = PROJECT_ROOT)
+  ├── asistente_rag_project_v3.py   ← módulo RAG principal  ← DEBE ESTAR AQUÍ
+  ├── streamlit_app.py              ← esta interfaz
+  ├── requirements.txt
+  ├── raw/          ← documentos de conocimiento (subidos desde la UI)
   ├── index/        ← índice FAISS persistente
   ├── logs/         ← events.jsonl
-  ├── eval/         ← intents_priorizado.json · dataset · urls_master.xlsx · resultados
-  └── scripts/      ← asistente_rag_project_v3.py · streamlit_app.py (este archivo)
+  └── eval/         ← intents_priorizado.json · dataset · urls_master.xlsx
 
-Ejecutar (desde scripts/ o desde la raíz):
-  streamlit run streamlit_app.py
-  streamlit run streamlit_app.py -- --project-root /ruta/a/RAG_Brightspace
+  Uso local (equivalente al notebook Colab):
+    streamlit run streamlit_app.py
 
-Variables de entorno reconocidas:
+  Streamlit Cloud:
+    - Sube todos los archivos a la raíz del repo en GitHub
+    - Añade OPENAI_API_KEY en Settings → Secrets
+
+Variables de entorno:
   OPENAI_API_KEY       API Key del LLM
-  RAG_PROJECT_ROOT     Raíz del proyecto (override)
+  RAG_PROJECT_ROOT     Override de la raíz (opcional, avanzado)
 """
 
 from __future__ import annotations
@@ -29,37 +35,54 @@ from pathlib import Path
 import streamlit as st
 
 # ══════════════════════════════════════════════════════════════════════
-# Resolución de rutas — misma lógica que el notebook Colab
+# Resolución de rutas
+# Funciona en: Streamlit Cloud, local, Colab-like con scripts/
 # ══════════════════════════════════════════════════════════════════════
+
+RAG_MODULE_NAME = "asistente_rag_project_v3.py"
 
 def _resolve_project_root() -> Path:
     """
-    Orden de resolución:
-    1. CLI --project-root
-    2. Env var RAG_PROJECT_ROOT
-    3. Si este script está en <root>/scripts/ → sube un nivel
-    4. cwd/RAG_Brightspace si existe
-    5. cwd como fallback
+    Busca la carpeta que CONTIENE asistente_rag_project_v3.py en este orden:
+    1. Env var RAG_PROJECT_ROOT  (override explícito)
+    2. CLI --project-root
+    3. Directorio del propio streamlit_app.py  (Streamlit Cloud: repo raíz)
+    4. Directorio padre si streamlit_app.py está en scripts/
+    5. cwd
+    6. cwd/RAG_Brightspace
+    La carpeta que realmente contiene el módulo RAG gana siempre.
     """
-    parser = argparse.ArgumentParser(add_help=False)
-    parser.add_argument("--project-root", default=None)
-    known, _ = parser.parse_known_args()
-    if known.project_root:
-        return Path(known.project_root).expanduser().resolve()
+    # Candidatos base (orden de preferencia)
+    candidates: list[Path] = []
 
     env = os.getenv("RAG_PROJECT_ROOT", "").strip()
     if env:
-        return Path(env).expanduser().resolve()
+        candidates.append(Path(env).expanduser().resolve())
+
+    try:
+        parser = argparse.ArgumentParser(add_help=False)
+        parser.add_argument("--project-root", default=None)
+        known, _ = parser.parse_known_args()
+        if known.project_root:
+            candidates.append(Path(known.project_root).expanduser().resolve())
+    except Exception:
+        pass
 
     script_dir = Path(__file__).parent.resolve()
+    candidates.append(script_dir)                          # mismo dir que streamlit_app.py
     if script_dir.name == "scripts":
-        return script_dir.parent
+        candidates.append(script_dir.parent)               # repo raíz si está en scripts/
+    candidates.append(Path.cwd())
+    candidates.append(Path.cwd() / "RAG_Brightspace")
 
-    candidate = Path.cwd() / "RAG_Brightspace"
-    if candidate.is_dir():
-        return candidate
+    # La primera que contenga el módulo RAG gana
+    for c in candidates:
+        if (c / RAG_MODULE_NAME).exists():
+            return c
 
-    return Path.cwd()
+    # Si no encontramos el módulo, devolvemos el directorio del script
+    # (el error se mostrará luego con instrucciones claras)
+    return script_dir
 
 
 PROJECT_ROOT = _resolve_project_root()
@@ -67,10 +90,10 @@ RAW_DIR    = PROJECT_ROOT / "raw"
 INDEX_DIR  = PROJECT_ROOT / "index"
 LOG_DIR    = PROJECT_ROOT / "logs"
 EVAL_DIR   = PROJECT_ROOT / "eval"
-SCRIPT_DIR = PROJECT_ROOT / "scripts"
+SCRIPT_DIR = PROJECT_ROOT  # en Streamlit Cloud scripts/ == raíz del repo
 
-# Poner scripts/ y raíz en el path para importar el módulo RAG
-for _d in [str(SCRIPT_DIR), str(PROJECT_ROOT), str(Path(__file__).parent)]:
+# Garantizar que PROJECT_ROOT esté en sys.path para importar el módulo RAG
+for _d in [str(PROJECT_ROOT), str(Path(__file__).parent)]:
     if _d not in sys.path:
         sys.path.insert(0, _d)
 
@@ -80,13 +103,28 @@ for _d in [str(SCRIPT_DIR), str(PROJECT_ROOT), str(Path(__file__).parent)]:
 
 @st.cache_resource(show_spinner="Cargando módulo RAG…")
 def import_rag():
+    import traceback, importlib
+    # Verificar si el archivo físicamente existe antes de importar
+    rag_file = PROJECT_ROOT / "asistente_rag_project_v3.py"
+    if not rag_file.exists():
+        # Buscar en todo sys.path como diagnóstico
+        found_in = [p for p in sys.path if (Path(p) / "asistente_rag_project_v3.py").exists()]
+        st.error(
+            f"### Archivo no encontrado\n\n"
+            f"Buscado en: `{PROJECT_ROOT}`\n\n"
+            f"Encontrado en sys.path: {found_in}\n\n"
+            "Sube `asistente_rag_project_v3.py` a la raiz del repositorio."
+        )
+        st.stop()
     try:
         import asistente_rag_project_v3 as rag
         return rag
-    except ModuleNotFoundError:
+    except Exception as e:
         st.error(
-            "No se encontró `asistente_rag_project_v3.py`.\n\n"
-            f"Colócalo en: `{SCRIPT_DIR}` o en `{PROJECT_ROOT}`"
+            f"### Error al importar el módulo RAG\n\n"
+            f"**Archivo:** `{rag_file}`\n\n"
+            f"**Error:** `{type(e).__name__}: {e}`\n\n"
+            f"```\n{traceback.format_exc()}\n```"
         )
         st.stop()
 
@@ -100,6 +138,19 @@ st.set_page_config(
     layout="wide",
     initial_sidebar_state="expanded",
 )
+
+# ── Diagnóstico siempre visible (ayuda a depurar en Streamlit Cloud) ──────────
+with st.sidebar.expander("🔧 Diagnóstico de rutas", expanded=False):
+    _rag_file = PROJECT_ROOT / "asistente_rag_project_v3.py"
+    st.markdown(f"**PROJECT_ROOT:** `{PROJECT_ROOT}`")
+    st.markdown(f"**Módulo RAG existe:** `{_rag_file.exists()}`")
+    st.markdown(f"**`__file__`:** `{Path(__file__).resolve()}`")
+    st.markdown(f"**cwd:** `{Path.cwd()}`")
+    _hits = [p for p in sys.path if (Path(p) / "asistente_rag_project_v3.py").exists()]
+    st.markdown(f"**Encontrado en sys.path:** `{_hits}`")
+    st.markdown("**sys.path:**")
+    st.code("\n".join(sys.path[:12]))
+
 
 st.markdown("""
 <style>
@@ -583,30 +634,34 @@ with tab_about:
 
 Interfaz Streamlit que replica la estructura del notebook Colab en entorno local/servidor.
 
-### Estructura de carpetas
+### Estructura del repositorio GitHub
 
 ```
-RAG_Brightspace/               ← PROJECT_ROOT = {PROJECT_ROOT}
-├── raw/                       ← documentos (266+ en producción)
-│   ├── KnowledgeBase.xlsx     ← FAQ (columnas: pregunta, respuesta, categoria)
-│   ├── *.txt                  ← páginas web crawleadas de Brightspace KB
-│   └── ...                    ← PDF, DOCX, HTML, CSV-tickets, JSON-tickets
-├── index/
-│   ├── faiss.index            ← FAISS IndexFlatIP (~2184 chunks en producción)
+asistenteai/                          ← raíz del repo (PROJECT_ROOT resuelto = {PROJECT_ROOT})
+├── asistente_rag_project_v3.py       ← REQUERIDO · módulo RAG principal
+├── streamlit_app.py                  ← esta interfaz
+├── requirements.txt                  ← dependencias
+├── raw/                              ← documentos de conocimiento
+│   ├── KnowledgeBase.xlsx            ← FAQ (columnas: pregunta, respuesta, categoria)
+│   ├── *.txt                         ← páginas web crawleadas de Brightspace KB
+│   └── ...                           ← PDF, DOCX, HTML, CSV-tickets, JSON-tickets
+├── index/                            ← índice FAISS persistente
+│   ├── faiss.index
 │   └── chunks_meta.jsonl
 ├── logs/
 │   └── events.jsonl
-├── eval/
-│   ├── intents_priorizado.json            ← catálogo de intents (--intents-json)
-│   ├── dataset_intents_sintetico_v1.jsonl ← dataset de evaluación
-│   ├── urls_master.xlsx                   ← URLs para crawl
-│   ├── urls_master_updated.xlsx
-│   ├── eval_results.csv
-│   └── eval_results_metrics.json
-└── scripts/
-    ├── asistente_rag_project_v3.py
-    └── streamlit_app.py  ← este archivo
+└── eval/
+    ├── intents_priorizado.json            ← catálogo de intents
+    ├── dataset_intents_sintetico_v1.jsonl ← dataset de evaluación
+    ├── urls_master.xlsx                   ← URLs para crawl
+    ├── urls_master_updated.xlsx
+    ├── eval_results.csv
+    └── eval_results_metrics.json
 ```
+
+> **Streamlit Cloud:** `asistente_rag_project_v3.py` y `streamlit_app.py`
+> deben estar en la **raíz del repositorio**. Los archivos `raw/`, `index/` y `eval/`
+> también viven en la raíz — no en una subcarpeta `scripts/`.
 
 ### Flujo de trabajo
 
