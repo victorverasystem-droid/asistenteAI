@@ -1,0 +1,29 @@
+URL: https://community.d2l.com/brightspace-es-MX/kb/articles/10764-acerca-de-la-biblioteca-multimedia
+TITLE: Acerca de la Biblioteca multimedia - Brightspace
+HASH: d34fb888bb035e2ad00f206ad759a2835ad5bcd47a2cf54ed4df5252597217c9
+TYPE: web
+
+La biblioteca multimedia es una ubicación centralizada en la que los usuarios pueden cargar, organizar y administrar activos reutilizables.
+En la biblioteca multimedia, los usuarios pueden hacer lo siguiente:
+- crear carpetas para organizar el contenido;
+- aplicar control de versión a los activos;
+- Compartir carpetas para apoyar la colaboración.
+Tipos de atchivos y límites admitidos
+Recorrido visual de la Biblioteca de medios
+La biblioteca multimedia ofrece las siguientes opciones:
+- Haga clic en Agregar activos para cargar un archivo multimedia o capturar contenido de audio y video directamente en la biblioteca multimedia.
+- Crear carpeta: los usuarios de la biblioteca multimedia ahora pueden crear carpetas para organizar los activos de tipo similar en un solo lugar. Haga clic en Crear carpeta en la biblioteca multimedia para crear carpetas y organizar sus activos.
+- Ordenar: ordene el contenido alfabéticamente o por fecha de edición.
+- Filtrar: Mostrar activos según:
+- Tipo de activo
+- Fecha de creación
+- Fecha editada
+- Buscar: utilice la búsqueda para encontrar todo el contenido en el repositorio de la biblioteca multimedia.
+- Papelera de reciclaje. Haga clic en Papelera de reciclaje para ver los archivos que se han eliminado. Compruebe cuánto tiempo se almacenarán los archivos eliminados antes de la eliminación permanente o para restaurar los archivos seleccionados.
+- ... (Menú Acciones): el menú Acciones ofrece diferentes opciones según el tipo de activo seleccionado:
+- Imágenes: editar, mover, transferir propiedad o eliminar un archivo de imagen.
+- Documentos: tener una vista previa, descargar, administrar versiones, mover a, cambiar nombre, editar descripción, transferir la propiedad o eliminar el archivo.
+- Archivos de audio o video: tener una vista previa, descargar, editar, administrar versiones, mover a, cambiar nombre, editar descripción, transferir la propiedad o eliminar el archivo.
+- Seleccionar todo: haga clic en la casilla de selección Seleccionar todo para elegir todos los activos de la biblioteca multimedia o haga clic en las casillas de selección individuales para elegir archivos específicos.
+Video: Descripción general de la biblioteca multimedia
+Obtenga información sobre cómo navegar por la biblioteca multimedia en Brightspace. En este video, se muestra a los instructores cómo examinar, organizar, editar y cargar elementos multimedia fácilmente mediante la nueva interfaz.

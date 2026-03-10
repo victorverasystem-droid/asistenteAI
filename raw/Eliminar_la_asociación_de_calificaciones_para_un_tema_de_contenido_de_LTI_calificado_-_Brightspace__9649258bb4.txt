@@ -1,0 +1,14 @@
+URL: https://community.d2l.com/brightspace-es-MX/kb/articles/32150-eliminar-la-asociacion-de-calificaciones-para-un-tema-de-contenido-de-lti-calificado
+TITLE: Eliminar la asociación de calificaciones para un tema de contenido de LTI calificado - Brightspace
+HASH: 9649258bb434e68d2bfa52fcfe909f3523a635abaa12ede2b4cad64d95f661be
+TYPE: web
+
+Eliminar la asociación de calificaciones para un tema de contenido de LTI calificado
+Si desea detener la herramienta LTI desde el envío de calificaciones al cuaderno de calificaciones de Brightspace para una actividad específica, puede eliminar la asociación de calificaciones del tema de contenido de LTI. Esto permite que la actividad de LTI permanezca accesible para los estudiantes sin eliminar el elemento de calificación asociado.
+Para eliminar la asociación de calificaciones de un tema de contenido de LTI:
+- En su curso, vaya al tema de contenido de LTI calificado que desea actualizar.
+- Haga clic en Editar actividad.
+- En la página de actividad, haga clic en Agregar y administrar elementos de calificación.
+- Seleccione Restablecer a No calificado en la lista desplegable Libro de calificaciones.
+- Haga clic en Aceptar y luego en Guardar o Guardar y cerrar para guardar los cambios.
+La asociación de calificaciones se eliminó para el tema de contenido seleccionado. La herramienta LTI conectada ya no puede escribir calificaciones en esta actividad.

@@ -1,0 +1,81 @@
+URL: https://community.d2l.com/brightspace-es-MX/kb/articles/10757-administrar-preguntas-en-el-generador-de-cuestionarios
+TITLE: Administrar preguntas en el generador de cuestionarios - Brightspace
+HASH: 568bb00ea68b674e0b2c34b8355b609340f1ec04b344b313bf19b1eb8b4e40f2
+TYPE: web
+
+Agregar o editar preguntas
+Para agregar o editar preguntas
+- En la página Administrar cuestionarios, haga clic en Agregar existente o Crear nuevo.
+- Para agregar recursos y preguntas anteriores, haga clic en Agregar existente y seleccione cualquiera de las siguientes opciones:
+- Cargar un archivo le permite examinar archivos en su dispositivo personal para adjuntarlos a su cuestionario.
+- Haga clic en Examinar archivos.
+- Arrastre el archivo que desea agregar a la ventana Cargar un archivo.
+- Haga clic en Guardar.
+- Examinar la biblioteca de preguntas le permite elegir agregar preguntas de cuestionarios anteriores o de la Biblioteca de preguntas.
+- Haga clic en la casilla de selección de las preguntas que desea agregar al cuestionario.
+- Haga clic en Importar.
+- Importar desde el repositorio de aprendizaje le permite examinar y elegir recursos de aprendizaje para agregar a su cuestionario.
+- Busque un repositorio en la barra de búsqueda o seleccione una de las categorías disponibles.
+- Elija las preguntas que desea agregar.
+- Haga clic en Guardar.
+- A fin de crear nuevas preguntas para sus cuestionarios, haga clic en Crear nueva y seleccione cualquiera de las siguientes opciones:
+- Nueva pregunta le permite elegir crear una nueva pregunta.
+- Seleccione el tipo de pregunta que desea crear.
+- Ingrese los detalles de su pregunta.
+- Haga clic en Guardar para cerrar la ventana; haga clic en Guardar y nueva para guardar la pregunta actual y comenzar una nueva pregunta; o haga clic en Guardar y copiar para crear una nueva pregunta que sea una copia de la pregunta actual.
+- Sección le permite crear una nueva sección para el cuestionario.
+- Escriba el Título de la sección
+- Escriba el Texto de la sección, si lo hubiera
+- Puede seleccionar casillas de selección que le permiten Ocultar el título de la sección a los estudiantes, Ocultar el texto de la sección a los estudiantes y Ordenar aleatoriamente las preguntas de esta sección
+- Los Grupos de preguntas le permite agregar a su cuestionario preguntas usadas anteriormente o preguntas de la Biblioteca de preguntas. También puede definir un esquema de marcado para ese grupo de preguntas específico.
+- Escriba el Título del grupo de preguntas.
+- Especifique la cantidad de preguntas del grupo que desea que aparezcan para los estudiantes y cuántos puntos recibirán los estudiantes por cada pregunta que respondan correctamente. La cantidad adecuada de preguntas se selecciona al azar para cada intento de cuestionario.
+- Haga clic en Examinar la biblioteca de preguntas para buscar y seleccionar las preguntas o la sección completa de preguntas que desea agregar, y haga clic en Importar.
+- Haga clic en Guardar.
+- Haga clic en Guardar y cerrar.
+Mover y reordenar preguntas
+Las preguntas individuales se pueden mover seleccionando sus casillas de verificación y arrastrándolas hacia la ubicación deseada. Si desea mover varias preguntas, puede usar el menú Mover a.
+Para mover y reordenar preguntas
+- Marque las casillas de selección para las preguntas que desea mover.
+- Haga clic en Mover a y seleccione una de las opciones disponibles:
+- Parte superior del cuestionario
+- Parte inferior del cuestionario
+- Sección
+Figura: Haga clic en Mover a y seleccione la ubicación deseada para las preguntas del cuestionario: Parte superior del cuestionario, Parte inferior del cuestionario, o una Sección específica.
+Eliminar las alineaciones de las preguntas del cuestionario
+Puede eliminar alineaciones de preguntas individuales dentro de grupos de preguntas en el editor de Grupos de preguntas.
+- Examine el grupo de preguntas.
+- Seleccione varias preguntas y, a continuación, haga clic para borrar la alineación de los resultados solo de esas preguntas.
+Agregar preguntas desde la ventana Examinar biblioteca de preguntas
+- En la página Editar cuestionario o Nuevo cuestionario, haga clic en Agregar o editar preguntas.
+- En el menú desplegable Importar, haga clic en Examinar la biblioteca de preguntas.
+- Para buscar en la Biblioteca de preguntas, escriba una palabra clave en el campo Buscar texto de pregunta.
+- Para buscar en cualquier otro cuestionario del curso, en el menú desplegable Origen, seleccione el cuestionario.
+- Seleccione las preguntas que desea agregar y realice una de las siguientes acciones:
+- Haga clic en Importar para agregar automáticamente las preguntas al final del cuestionario.
+- Haga clic en el menú desplegable Importar a fin de seleccionar la sección del cuestionario para agregar preguntas. Puede seleccionar Importar a la parte superior del cuestionario, Importar a la parte inferior del cuestionario o Importar a la sección > [Nombre de la sección].
+Haga clic en Edición de preguntas lista.
+Importar preguntas desde el repositorio de aprendizaje de Brightspace
+Para importar preguntas desde el Repositorio de aprendizaje de Brightspace
+- En las páginas Administrar cuestionarios, haga clic en Más acciones > Agregar recurso de aprendizaje.
+- Haga clic en Importar desde el Repositorio de aprendizaje.
+- Vaya al repositorio y marque las casillas de selección del cuestionario o las preguntas que desea importar. Si importa preguntas desde el nivel de cuestionario, importará preguntas a su cuestionario existente. Si importa desde el nivel de la lista de cuestionarios, importará todo el cuestionario.
+- Haga clic en Seleccionar.
+Para exportar preguntas al Repositorio de aprendizaje de Brightspace
+- En la página Administrar cuestionarios, haga clic en las casillas de selección de las preguntas que desea exportar a nivel de cuestionario.
+- Haga clic en Más acciones > Publicar en el Repositorio de recursos de aprendizaje.
+- Realice una de las siguientes acciones:
+- Para publicar en un repositorio existente, seleccione Elegir un repositorio. En el menú desplegable, seleccione un repositorio.
+- Para sobrescribir un recurso de aprendizaje existente, seleccione Sobrescribir un recurso existente. Haga clic en Buscar. Busque el repositorio que desea sobrescribir. Para que el recurso de aprendizaje herede los metadatos del recurso anterior, desmarque la casilla de selección Reemplazar los metadatos del recurso existente.
+- Haga clic en el área Opciones para compartir y publicar y realice una de las siguientes acciones:
+- Para salir de la página mientras el paquete se construye, seleccione Publicar en segundo plano.
+- Para ocultar el recurso de aprendizaje de las búsquedas, seleccione Ocultar recurso de aprendizaje de los resultados de búsqueda.
+- Para asociar el recurso de aprendizaje con los derechos de Creative Commons, seleccione Con licencia de Creative Commons. En el menú desplegable, seleccione su preferencia de modificaciones. La licencia de Creative Commons le permite retener los derechos de autor de su trabajo y distintos grados de reutilización a otros usuarios. La asociación de una licencia de Creative Commons completa automáticamente los campos de derechos de metadatos con esta información.
+- En el área Recursos de aprendizaje para publicar, desmarque la casilla de selección de los elementos que no desee incluir en el paquete. La eliminación de una carpeta borra todas sus preguntas y subcarpetas asociadas.
+- Haga clic en Siguiente.
+- En la página Archivos detectados, realice alguna de las siguientes acciones:
+- Para agregar archivos adicionales al paquete, haga clic en Agregar archivos. Busque el archivo y haga clic en Agregar.
+- Para agregar carpetas adicionales al paquete, haga clic en Agregar carpetas. Busque la carpeta y haga clic en Seleccionar una ruta.
+- Haga clic en Siguiente.
+- En la página Metadatos, para clasificar el recurso de aprendizaje, haga clic en Clasificaciones. En la lista desplegable Esquema de clasificación, seleccione un esquema. Haga clic en Seleccionar. Haga clic en el ícono Agregar para cualquier clasificación que desee agregar. Haga clic en Guardar.
+- Haga clic en Publicar en el LOR.

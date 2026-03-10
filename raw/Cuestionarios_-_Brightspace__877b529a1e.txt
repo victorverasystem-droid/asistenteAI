@@ -1,0 +1,16 @@
+URL: https://community.d2l.com/brightspace-es-MX/kb/articles/33881-cuestionarios
+TITLE: Cuestionarios - Brightspace
+HASH: 877b529a1ef36ff0332292d85d0f71e3555fc738c6d9a201a2e13c5be6d65eed
+TYPE: web
+
+Haga clic en Cuestionarios para revisar todos sus cuestionarios futuros, actuales y pasados con la Lista de cuestionarios.
+Recorrido visual: Lista de cuestionarios
+La página Lista de cuestionarios la puede organizar de manera diferente el instructor para evitar confusión sobre qué cuestionario se debe realizar.
+Figura: En la página Lista de cuestionarios se muestran detalles como Cuestionario futuro, Cuestionario actual y Cuestionario anterior. Haga clic en cualquiera de estas opciones para ver los cuestionarios asociados.
+- Haga clic en Cuestionarios para acceder a la Lista de cuestionarios.
+- Cuestionarios actuales: Cuestionarios activos a los que puede acceder y en los que puede escribir actualmente.
+- Cuestionarios futuros: Cuestionarios que aún no han comenzado. Si bien puede verlos, no podrá acceder a ellos hasta que llegue la fecha de inicio.
+- Cuestionarios anteriores: Cuestionarios que ya no están disponibles porque la fecha final está en el pasado. Según cómo esté configurado Brightspace para su escuela, estos cuestionarios pueden o no ser visibles para usted. Si hay cuestionarios anteriores disponibles para que los vea, puede acceder a ellos para ver los comentarios o para revisar su intento de cuestionario, pero no podrá iniciarlos ni volver a realizarlos.
+- Haga clic en la flecha para aplicar más acciones a un cuestionario.
+- Revise el Estado de la evaluación y la cantidad de Intentos permitidos para un cuestionario.
+Nota: Cuando se pasa la fecha de vencimiento de un cuestionario, el acceso al cuestionario sigue habilitado. Sin embargo, el material enviado se etiquetará como un envío tardío.

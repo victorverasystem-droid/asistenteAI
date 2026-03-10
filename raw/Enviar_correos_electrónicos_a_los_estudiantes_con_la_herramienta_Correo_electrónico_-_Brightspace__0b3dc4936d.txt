@@ -1,0 +1,87 @@
+URL: https://community.d2l.com/brightspace-es-MX/kb/articles/33895-enviar-correos-electronicos-a-los-estudiantes-con-la-herramienta-correo-electronico
+TITLE: Enviar correos electrónicos a los estudiantes con la herramienta Correo electrónico - Brightspace
+HASH: 0b3dc4936dd7fd1433ae5d68ef594b41d19ef96df04d9945643a73ea4d3d5a9b
+TYPE: web
+
+La herramienta de Correo electrónico le permite enviar correos electrónicos desde Brightspace. También puede organizar los correos recibidos mediante carpetas y almacenar las direcciones de correo electrónico con la libreta de direcciones.
+Para enviar correos electrónicos a otros utilizando la herramienta de correo electrónico
+- En la página de inicio de su organización o curso, haga clic en Alertas de mensajes (el ícono de sobre) y, a continuación, en Correo electrónico.
+- Para seleccionar a sus destinatarios de correo electrónico, realice una de las siguientes acciones:
+- Ingrese los nombres de los destinatarios en el campo Para.
+- Haga clic en Libreta de direcciones y selecciónela manualmente.
+- Actualice el campo Asunto.
+- Agregue su contenido en el campo Cuerpo, incluidas las imágenes, los enlaces o los medios. También puede adjuntar archivos en el área Archivos adjuntos.
+- Cargar: Agregue un archivo u otro medio desde su dispositivo.
+- Elija existente: Agregue un archivo desde su cuenta de Brightspace u otras cuentas como OneDrive y Google Drive.
+- Grabar: Grabe contenido de audio o video.
+- Haga clic en Enviar.
+Agregar y editar una firma de correo electrónico
+Agregue una firma a sus correos electrónicos para garantizar que cada mensaje sea personal y coherente.
+Para agregar una firma de correo electrónico
+- En la página de inicio de su organización o curso, haga clic en Alertas de mensajes (el ícono de sobre) y, a continuación, en Correo electrónico.
+- En la página Redactar nuevo mensaje, haga clic en Configuración.
+- En la página Configuración de correo electrónico, en el campo Firma de correo electrónico, cree su firma mediante el editor de Brightspace.
+- Haga clic en Guardar.
+Ya creó y agregó su firma de correo electrónico. Su firma aparecerá en la parte inferior del campo cuando redacte un nuevo mensaje.
+Para editar una firma de correo electrónico
+- En la página de inicio de su organización o curso, haga clic en el ícono Alertas de mensajes y en Correo electrónico.
+- En la página Redactar nuevo mensaje, haga clic en Configuración.
+- En la página Configuración de correo electrónico, en el campo Firma de correo electrónico, cambie su firma mediante el editor de Brightspace.
+- Haga clic en Guardar.
+Ya editó su firma de correo electrónico.
+Cancelar la suscripción a los correos electrónicos de notificaciones de Brightspace
+Si su organización habilitó el enlace Cancelar suscripción en los correos electrónicos de notificación, puede dejar de recibir notificaciones instantáneas y de resúmenes por correo electrónico sin la necesidad de iniciar sesión en Brightspace.
+Para cancelar la suscripción a los correos electrónicos de notificaciones realice lo siguiente:
+- Abra cualquier notificación por correo electrónico de Brightspace.
+- Haga clic en el enlace Cancelar suscripción en la parte inferior del mensaje.
+- En la página de confirmación Cancelar todas las notificaciones, haga clic en Confirmar.
+Se canceló la suscripción a los correos electrónicos de notificaciones de Brightspace.
+Preguntas frecuentes
+¿Cómo me comunico con mi instructor o encuentro el correo electrónico de mi instructor?
+Para comunicarse con su instructor, envíele un correo electrónico mediante la herramienta Correo electrónico en Brightspace. Puede encontrar la dirección de correo de su instructor en:
+- El programa de su curso. Esto puede publicarse en la herramienta Contenidode Brightspace
+- La herramienta Listado de alumnos, si cuenta con el permiso correspondiente para acceder a ella.
+¿Sobre qué problemas debo contactarme con mi instructor para solicitar ayuda?
+- Prórroga de las asignaciones, los cuestionarios, los debates, los exámenes.
+- Las solicitudes de intentos adicionales para los cuestionarios y las dificultades técnicas mientras se realiza un cuestionario.
+- Preguntas o detalles específicos sobre el material del curso, como por ejemplo, las instrucciones.
+- Consulta de calificación para evaluaciones como asignaciones y debates.
+No puedo iniciar sesión en el portal de correo electrónico de mi institución (no el de Brightspace). ¿Qué debo hacer?
+Si no puede iniciar sesión en el portal de correo electrónico escolar, comuníquese con el Servicio de asistencia de la institución .
+¿Por qué solo puedo ver algunos mensajes de correo electrónico en mi bandeja de entrada?
+Si sabe que tiene más correos electrónicos de los que puede ver en la página:
+- Asegúrese de que el filtro de correo electrónico no restrinja los mensajes de correo electrónico que puede ver. En la lista Filtrar por, seleccione Todos los mensajes.
+- Es posible que tenga varias páginas para su correo electrónico. Asegúrese de mirar en todas las páginas o de ampliar la cantidad de mensajes de correo electrónico que aparecen en cada página.
+Recibo un error de "No autorizado" al intentar acceder a mi correo electrónico. ¿Qué debo hacer?
+Desde la página de inicio de su organización o curso, haga clic en sus alertas de mensajes (ícono de sobre). Si ve el mensaje debe completar los siguientes cuestionarios para que se habiliten las alertas: {Quiz Name}, podrá acceder a su correo electrónico después de que el cuestionario indicado en el mensaje haya finalizado. Mientras el cuestionario está en curso, su acceso por correo electrónico está deshabilitado por su instructor.
+No puedo acceder a mi bandeja de entrada de correo electrónico. Solo puedo enviar correos electrónicos.
+Su institución tiene habilitada la función de correo electrónico de solo envío. No puede recibir correos electrónicos en Brightspace.
+Copiar los correos electrónicos a su cuenta de correo electrónico externa
+Puede configurar la herramienta Correo electrónico para enviar una copia de los correos electrónicos que envíe a su dirección de correo electrónico externa. Esto requiere validar su dirección de correo electrónico externa.
+Si aún no ha configurado una dirección de correo electrónico externa para su cuenta, consulte Cambiar la configuración de la cuenta.
+Para configurar la copia de correos electrónicos a su dirección de correo electrónico externa
+- Realice una de las siguientes acciones:
+- Haga clic en su nombre de usuario y vaya a Configuración de la cuenta > Correo electrónico.
+- Haga clic en el ícono Alertas de mensajes (sobre) y vaya a Correo electrónico > Configuración.
+- Marque Enviar una copia de cada mensaje saliente a [dirección de correo electrónico externa] y haga clic en Guardar. Se envía un correo electrónico de validación a su dirección de correo electrónico externa.
+- En la bandeja de entrada de su correo electrónico externo, haga clic en el enlace Confirmar dirección de correo electrónico incluido en su correo electrónico de validación.
+Su correo electrónico externo ya está verificado y todos los correos electrónicos enviados en Brightspace se copiarán a su dirección de correo electrónico especificada.
+Reenviar correos electrónicos de Brightspace a otra cuenta
+También puede configurar el reenvío para que cualquier correo electrónico que reciba en su bandeja de entrada se reenvíe a otra cuenta de su elección.
+Para reenviar correos electrónicos
+- Vaya a la herramienta correo electrónico.
+- Haga clic en Configuración (ícono de engranaje).
+- En Opciones de reenvío, marque la casilla de selección Reenviar mensajes entrantes a una cuenta de correo electrónico alternativa.
+- Ingrese la dirección de correo electrónico a la que desea que se reenvíen los correos electrónicos de Brightspace.
+- Elija una de las siguientes opciones:
+- Seleccione Reenviar y eliminar de la carpeta bandeja de entrada para reenviar cualquier correo electrónico enviado a su cuenta a la dirección especificada. Ya no se podrá acceder a los correos electrónicos a través de Brightspace.
+- Seleccione Reenviar y marcar no leído en la carpeta bandeja de entrada para reenviar cualquier correo electrónico enviado a su cuenta a la dirección especificada. El correo electrónico también figurará en su bandeja de entrada y se marcará como no leído.
+- Seleccione Reenviar y marcar leer en la carpeta bandeja de entrada para reenviar cualquier correo electrónico enviado a su cuenta a la dirección especificada. El correo electrónico también figurará en su bandeja de entrada y se marcará como leído.
+- Haga clic en Guardar. Las acciones de reenvío se configuran y guardan para todos los correos electrónicos que recibe en su bandeja de entrada. Se enviará un correo electrónico de validación a la dirección de correo electrónico de reenvío.
+En la bandeja de entrada de su correo electrónico externo, haga clic en el enlace Confirmar dirección de correo electrónico en el correo electrónico de validación.
+Preguntas frecuentes
+¿Cómo veo los correos electrónicos que envié?
+Para ver sus correos electrónicos enviados
+- Desde la página de inicio de su curso, haga clic en el icono Alertas de mensajes y luego haga clic en Correo electrónico.
+- Haga clic en Correo enviado.
+Ahora puede ver sus correos electrónicos enviados.

@@ -1,0 +1,36 @@
+URL: https://community.d2l.com/brightspace-es-MX/kb/articles/33893-buscar-y-contactar-a-otros-de-su-curso-usando-el-listado-de-alumnos
+TITLE: Buscar y contactar a otros de su curso usando el Listado de alumnos - Brightspace
+HASH: 8b6f41993cb746102b0442f6cd17ccc5415412ede7854979754564a3c3848c08
+TYPE: web
+
+Utilice la herramienta Listado de alumnos para ver quiénes se inscribieron en el curso, enviar mensajes de correo electrónico o mensajes instantáneos, ver archivos de casillero compartidos y leer los blogs.
+Enviar un correo electrónico desde el listado de alumnos
+Puede seleccionar usuarios específicos de su listado de alumnos y enviarles un correo electrónico.
+Enviar un correo electrónico desde el listado de alumnos
+- En la barra de navegación de su curso, haga clic en listado de alumnos.
+- Seleccione el o los usuarios a los que desea enviar un correo electrónico.
+Figura: Seleccione los usuarios deseados en la página Listado de alumnos y haga clic en Correo electrónico.
+- Haga clic en correo electrónico sobre la lista de usuarios. Se abre la ventana Redactar nuevo mensaje.
+Figura: Escriba el texto de su mensaje de correo electrónico en la ventana Redactar nuevo mensaje.
+-
+Ingrese los nombres de los destinatarios en el campo Para. Haga clic en Agregar CC o CCO para incluir otros destinatarios.
+-
+Ingrese un Asunto.
+-
+Escriba su mensaje en el campo cuerpo.
+-
+Haga clic en Enviar.
+Envió un correo electrónico a los usuarios seleccionados de su listado de alumnos.
+Enviar un mensaje instantáneo del listado de alumnos
+Puede enviar un mensaje instantáneo a los usuarios desde el listado de alumnos.
+Para enviar un mensaje instantáneo desde el listado de alumnos
+- En la barra de navegación de su curso, haga clic en listado de alumnos.
+- Seleccione el o los usuarios a los que desea enviar un mensaje.
+- Haga clic en Mensaje instantáneo sobre la lista de usuarios.
+Figura: Seleccione los usuarios deseados en la página Listado de alumnos y haga clic en Mensaje instantáneo.
+-
+En la ventana Enviar mensaje, escriba su mensaje.
+Figura: Redacte el texto de su mensaje instantáneo en la ventana Enviar mensaje.
+-
+Haga clic en Enviar.
+Envió un mensaje instantáneo a los usuarios seleccionados de su listado de alumnos.

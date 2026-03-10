@@ -1,0 +1,28 @@
+URL: https://community.d2l.com/brightspace-es-MX/kb/articles/15192-evaluar-las-asignaciones-con-la-herramienta-rubricas
+TITLE: Evaluar las asignaciones con la herramienta Rúbricas - Brightspace
+HASH: 887473d30ea7ea4fa9f3acdb1f4068e0c95519473d1a6e8a46bf4543b3b63106
+TYPE: web
+
+Si utiliza rúbricas para evaluar los envíos de asignaciones, estas se abren en una ventana emergente para facilitar la calificación, y la puntuación se transfiere automáticamente a la barra lateral Evaluación y comentarios.
+Para proporcionar un contexto más completo para la evaluación del estudiante, la ventana emergente proporciona detalles de la actividad, incluidos el título de la actividad, el nombre del curso, el nombre del estudiante y el nombre del evaluador. El nombre del evaluador solo aparece si se asigna explícitamente; los nombres de los evaluadores implícitos no aparecen con los detalles adicionales.
+La puntuación general de la rúbrica se transfiere automáticamente al campo Puntuación y aparece en Calificaciones si la asignación está asociada a un elemento de calificación. Los estudiantes pueden ver los comentarios de la rúbrica en la página Comentarios.
+- Para agregar evaluaciones con una rúbrica adjunta, en la página Evaluar envío, en el panel Evaluación, haga clic en la rúbrica que desea utilizar. La puntuación del envío se completa automáticamente desde la rúbrica en el campo Calificación general. Si se adjunta más de una rúbrica, el campo Calificación general se completa mediante la rúbrica en el menú desplegable Rúbrica de calificación.
+- Agregue o edite la Puntuación del material enviado y cualquier Comentario adicional, incluidos archivos de texto, audio o video.
+Utilizar el puntaje máximo o mínimo para los criterios de rúbrica sin calificar
+Puede evaluar rápidamente todos los criterios sin calificar de las rúbricas de tipo analítico hasta un valor máximo o mínimo y luego agregar comentarios cuando sea necesario.
+Para establecer un puntaje máximo o mínimo para los criterios de rúbrica sin calificar
+- Realice una de las siguientes acciones:
+- En Asignaciones, en la ventana emergente de evaluación, haga clic para abrir el menú contextual junto al nombre de la rúbrica de tipo analítico.
+- En Evaluación coherente, haga clic en el menú contextual junto al nombre de la rúbrica de tipo analítico.
+- Haga clic en una de las opciones:
+- Establecer Sin calificar a [nombre de nivel de rúbrica superior]: cuando todos los niveles sin calificar dentro de esta rúbrica se establecen con el valor máximo mediante el nivel superior de la rúbrica.
+- Establecer Sin calificar en [nombre de nivel de rúbrica más bajo]: cuando todos los niveles sin calificar dentro de esta rúbrica se establecen en el valor mínimo con el nivel inferior de la rúbrica.
+- En el cuadro de diálogo de confirmación, verifique si desea continuar con la acción masiva o deshacer la actualización.
+Borrar la puntuación de rúbrica
+Puede borrar las selecciones de una rúbrica previamente evaluada adjunta a asignaciones, debates o preguntas de respuesta escrita en cuestionarios. Esta opción es compatible con situaciones en las que debe empezar de nuevo sin afectar los comentarios ingresados previamente. Esta función elimina todas las puntuaciones de rúbrica sin afectar los comentarios.
+Antes de comenzar, asegúrese de que se haya agregado una rúbrica a una evaluación y que se haya aplicado la puntuación.
+Para borrar la puntuación de rúbrica:
+- Vaya a la actividad que contiene la rúbrica evaluada.
+- En el menú contextual Opciones de rúbricas, seleccione Borrar selecciones.
+- En el cuadro de diálogo de confirmación, haga clic en Borrar selecciones.
+Video: Agregar automáticamente un puntaje para los criterios de rúbrica sin calificar

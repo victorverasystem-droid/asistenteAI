@@ -1,0 +1,32 @@
+URL: https://community.d2l.com/brightspace-es-MX/kb/articles/11080-eliminar-y-copiar-preguntas-de-la-biblioteca-de-preguntas-en-un-cuestionario
+TITLE: Eliminar y copiar preguntas de la Biblioteca de preguntas en un cuestionario - Brightspace
+HASH: 08db54a90c8734b93ccf9c9107881acb1f3d5a5b2d2099ced5ebc9413ba8d372
+TYPE: web
+
+Puede realizar varias acciones en una sección de cuestionarios, un grupo de preguntas o una pregunta individual del cuestionario que se haya agregado a su cuestionario desde la biblioteca de preguntas.
+Eliminar secciones de la biblioteca de preguntas, grupos o preguntas individuales agregadas a un cuestionario
+Elimina las secciones de la biblioteca de preguntas, grupos o preguntas individuales agregadas desde la biblioteca de preguntas a un cuestionario
+Para eliminar
+- Vaya a Cuestionarios.
+- En el menú Acciones del cuestionario que contiene las preguntas que desea eliminar, haga clic en Editar.
+Figura: seleccione Editar en el menú Acciones de un cuestionario.
+- En Preguntas, realice una de las siguientes acciones:
+- Para eliminar una Sección del cuestionario, un Grupo de preguntas o una Pregunta individual, seleccione la casilla de verificación ubicada junto a la Sección del cuestionario, el Grupo de preguntas o la Pregunta individual que desee eliminar y, después, haga clic en Más acciones > Eliminar.
+Figura: seleccione la opción Calificación en el menú Más acciones.
+- Para eliminar preguntas individuales de un grupo de preguntas, seleccione el grupo de preguntas y haga clic en la X ubicada junto a las preguntas del cuestionario que desea eliminar.
+Importante: Eliminar una pregunta individual de un grupo de preguntas agregado a un cuestionario no elimina la pregunta de la biblioteca de preguntas.
+Copiar un cuestionario con asociaciones a la biblioteca de preguntas a otra unidad de organización
+Puede copiar un cuestionario que contenga secciones de bibliotecas de preguntas o grupos a otra unidad de organización (oferta de cursos) en Brightspace.
+Para copiar un cuestionario con las asociaciones de la biblioteca de preguntas
+- En la oferta de cursos a la que desea copiar el cuestionario, en la barra de navegación, haga clic en Administración del curso > Importar/exportar/copiar componentes.
+- Seleccione Copiar componentes desde otra unidad de organización.
+- Haga clic en Buscar oferta.
+- Localice y seleccione el curso que contenga el cuestionario que desea copiar.
+- Haga clic en Agregar seleccionado > Seleccionar componentes.
+- Seleccione biblioteca de preguntas y Cuestionarios y, a continuación, realice una de las acciones siguientes:
+- Para incluir todos los elementos, seleccione Copiar todos los elementos y, a continuación, haga clic en Continuar.
+Figura: seleccione biblioteca de preguntas y Cuestionarios. A continuación, seleccione Copiar todos los elementos para incluirlos a todos.
+- Para incluir solo algunos elementos, seleccione Seleccionar elementos individuales para copiar y, a continuación, haga clic en Continuar. En la página Seleccionar elementos para copiar, seleccione los elementos que desea copiar. Haga clic en Continuar.
+- Haga clic en Continuar.
+- Haga clic en Finalizar.
+Nota: Ahora puede importar el banco de cuestionarios y preguntas en el IMS QTI 2.1 estándar.

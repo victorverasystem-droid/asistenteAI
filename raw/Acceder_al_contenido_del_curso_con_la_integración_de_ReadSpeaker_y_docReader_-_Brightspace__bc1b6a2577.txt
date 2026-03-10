@@ -1,0 +1,20 @@
+URL: https://community.d2l.com/brightspace-es-MX/kb/articles/33873-acceder-al-contenido-del-curso-con-la-integracion-de-readspeaker-y-docreader
+TITLE: Acceder al contenido del curso con la integración de ReadSpeaker y docReader - Brightspace
+HASH: bc1b6a257738a6344bafbfe59c520ba67e4a2e77cad9fcb416b8ff9e3b61d75a
+TYPE: web
+
+Acceda al contenido del curso con ReadSpeaker para consumir sin problemas contenido basado en texto como un archivo de audio.
+Tipos de documentos compatibles con ReadSpeaker y docReader
+La integración de ReadSpeaker y docReader proporciona una versión de audio de los tipos de documentos compatibles en la herramienta Contenido.
+Si su organización tiene esta función activada, puede escuchar la reproducción de audio de los siguientes tipos de documentos:
+- ePub (.epub)
+- Microsoft Excel (.xls, .xlsx)
+- Microsoft PowerPoint (.pps, .ppt, .pptx)
+- Microsoft Word (.doc, .docx)
+- Presentación de OpenOffice/OpenDocument (.odp)
+- Hoja de cálculo de OpenOffice/OpenDocument (.ods)
+- Texto de OpenOffice/OpenDocument (.odt)
+- Formato de documento portátil (.pdf)
+- Formato de texto enriquecido (.rtf)
+Cuando selecciona ReadSpeaker y docReader, aparece un nuevo visor de contenido con controles de volumen y reproducción. En un tema de Contenido, en la página Visor de contenido, haga clic en Abrir docReader en el menú contextual del tema o en la página.
+Figura: La opción Abrir DocReader en el menú contextual del tema Visualizador de contenido.

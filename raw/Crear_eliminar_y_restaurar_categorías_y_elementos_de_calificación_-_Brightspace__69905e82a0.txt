@@ -1,0 +1,57 @@
+URL: https://community.d2l.com/brightspace-es-MX/kb/articles/10816-crear-eliminar-y-restaurar-categorias-y-elementos-de-calificacion
+TITLE: Crear, eliminar y restaurar categorías y elementos de calificación - Brightspace
+HASH: 69905e82a017e93bf5a69cf2f9f99e6536d8fcace10aec5a37a3f1599f865f98
+TYPE: web
+
+Las categorías de calificación proporcionan una manera de ordenar los elementos de calificación y crear restricciones y condiciones para los elementos de calificación. Ofrecen una manera de clasificar y caracterizar las actividades del estudiante, como asignaciones y cuestionarios.
+Crear una categoría de calificación
+Las categorías de calificación organizan y agrupan elementos de calificación relacionados en secciones de su cuaderno de calificaciones y se muestran en la pestaña Administrar calificaciones.
+Para crear una categoría de calificación
+- En la página de inicio de su curso, vaya a Calificaciones.
+- En la herramienta Calificaciones, haga clic en Administrar calificaciones.
+- Haga clic en Nuevo > Categoría.
+- En la pestaña Propiedades, ingrese los detalles de su categoría.
+Nota: Los campos en la pestaña Propiedades variarán según la configuración de su cuaderno de calificaciones.
+- En la pestaña Restricciones, puede elegir configurar lo siguiente:
+- Ocultar de los usuarios: ocultar restricciones de los estudiantes.
+- Tiene fecha de inicio: establezca una fecha de inicio para la categoría de calificación.
+- Tiene fecha final: establezca una fecha final para la categoría de calificación.
+- Mostrar en calendario: mostrar las fechas de inicio y finalización en el calendario del curso.
+- Condiciones de publicación: puede adjuntar condiciones existentes o crear y adjuntar condiciones.
+- Haga clic en Guardar y cerrar.
+Crear un elemento de calificación
+Los elementos de calificación pueden existir de manera independiente en el cuaderno de calificaciones o los puede asociar a elementos de calificación numérica con recursos del curso como debates, cuestionarios y asignaciones.
+Nota: Para obtener más información sobre los elementos de calificación, consulte el tema Crear un sistema de calificación.
+Para crear un elemento de calificación
+- En la página de inicio de su curso, vaya a Calificaciones.
+- En la herramienta Calificaciones, haga clic en Administrar calificaciones.
+Figura: haga clic en la pestaña Administrar calificaciones en la herramienta Calificaciones.
+- Haga clic en Nuevo > Elemento.
+- En la página Nuevo elemento, elija un Tipo de elemento de calificación de las siguientes opciones:
+- Numérico: califique a los usuarios mediante la asignación de un valor respecto de una cantidad total especificada de puntos.
+- Cuadro de selección: califique a los usuarios mediante el nivel del esquema de calificaciones que mejor corresponda con sus logros. No pueden crearse Elementos Calificación del tipo calificación con nivel hasta que se cree al menos un esquema de calificaciones de unidad de organización.
+Nota: Numérico y Cuadro de selección son los únicos elementos de calificación que serán compatibles con asociaciones para la calificación y contribuirán activamente a los cálculos del cuaderno de calificaciones. - Aprobado/reprobado: califique a los usuarios mediante un esquema simple de calificaciones de aprobación/reprobación.
+- Fórmula: califique automáticamente a los usuarios mediante una fórmula personalizada basada en los logros sobre otros elementos de calificación.
+- Calculado: calcule los logros acumulativos de los usuarios en varios elementos de calificación.
+- Texto: proporcione comentarios en el cuaderno de calificaciones que no se calculen en la calificación final.
+- En la pestaña Propiedades, ingrese los detalles de su elemento de calificación.
+Nota: Los campos en Propiedades variarán según el Tipo de elemento de calificación seleccionado. Para obtener más información sobre un campo en particular en Propiedades, haga clic en Obtener ayuda en (ícono ?) junto al campo.
+- En la pestaña Restricciones, ingrese la siguiente información:
+- Ocultar de los usuarios: ocultar restricciones de los estudiantes.
+- Tiene fecha de inicio: establezca una fecha de inicio para la categoría de calificación.
+- Tiene fecha final: establezca una fecha final para la categoría de calificación.
+- Mostrar en calendario: mostrar las fechas de inicio y finalización en el calendario del curso.
+- Condiciones de publicación: puede adjuntar condiciones existentes o crear y adjuntar condiciones.
+- En la pestaña Objetivos, haga clic en Asociar objetivos de aprendizaje para agregar objetivos de aprendizaje al elemento de calificación.
+- Haga clic en Guardar y cerrar.
+Eliminar categorías o elementos de calificación
+- En la barra de navegación del curso, haga clic en Calificaciones.
+- En la página Administrar calificaciones, haga clic en el botón Más acciones y seleccione Eliminar.
+- Marque la casilla de selección de cada elemento de calificación que desea eliminar.
+- Haga clic en Eliminar.
+Aprenda a eliminar elementos de calificación con asociaciones en su cuaderno de calificaciones.
+Restaurar un elemento de calificación eliminado
+Para restaurar un elemento de calificación requiere el permiso Administrar calificaciones. Comuníquese con su administrador si este permiso no está asignado a su rol.
+- Vaya a Calificaciones.
+- En la página Administrar calificaciones, haga clic en Más acciones > Ver registro de eventos.
+- Junto al elemento de calificación apropiado, seleccione Restaurar.

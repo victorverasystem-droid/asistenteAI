@@ -1,0 +1,33 @@
+URL: https://community.d2l.com/brightspace-es-MX/kb/articles/33238-colaborar-en-los-activos-de-la-biblioteca-multimedia-y-compartirlos-con-otros
+TITLE: Colaborar en los activos de la biblioteca multimedia y compartirlos con otros - Brightspace
+HASH: 2c4962404ead5827d77282325fb4ae691f708f3ee2321b88300d2f5016aae145
+TYPE: web
+
+Colaborar en los activos de la biblioteca multimedia y compartirlos con otros
+La biblioteca multimedia le permite organizar y administrar archivos de video, audio e imagen en carpetas. Para apoyar la colaboración, puede agregar a otros usuarios como colaboradores a una carpeta. Ellos pueden ver, cargar y administrar todos los activos en la carpeta compartida.
+Para agregar a usuarios como colaboradores, debe tener los siguientes permisos:
+- Servicio de contenido > Puede administrar todos los recursos (administradores) o Servicio de contenido > Puede administrar colaboradores de carpetas (todos los demás usuarios)
+- Usuarios > Buscar [rol]
+Si no tiene permiso para buscar usuarios, aún puede crear carpetas, pero no podrá agregar colaboradores.
+Agregar colaboradores
+Puede agregar colaboradores cuando cree una nueva carpeta o edite una existente.
+Cómo agregar un colaborador:
+- En la barra de navegación o en Herramientas de administración, haga clic en Biblioteca multimedia.
+- Realice una de las siguientes acciones:
+- Para agregar un colaborador a una nueva carpeta: haga clic en Crear carpeta.
+- Para agregar un colaborador a una carpeta existente: haga clic en Más acciones (…) junto al nombre de la carpeta y seleccione Editar.
+- Ingrese un Título de carpeta para su carpeta.
+- Para agregar colaboradores, realice una de las siguientes acciones:
+- Comience a escribir el nombre del usuario en el campo Agregar colaboradores y seleccione el usuario en la lista desplegable.
+- Haga clic en Agregar roles para compartir la carpeta con roles seleccionados, de modo que puedan acceder a la carpeta y realizar cambios en su contenido.
+- Haga clic en Agregar para incluirlos en la lista Compartir con.
+- Haga clic en Guardar.
+El usuario o rol ahora es un colaborador y puede acceder a todos los activos de la carpeta y editarlos.
+Eliminar un colaborador
+Puede eliminar colaboradores de las carpetas si tiene los permisos correspondientes.
+- En la barra de navegación o en Herramientas de administración, haga clic en Biblioteca multimedia.
+- Encuentre la carpeta y haga clic en Más acciones (…) y, luego, seleccione Editar.
+- En la lista Compartir con, seleccione al colaborador que desea eliminar.
+- Haga clic en Eliminar.
+- Haga clic en Guardar.
+El colaborador se elimina de la carpeta. Cualquier activo que haya agregado ya no aparecerá en su Biblioteca multimedia, pero aún se pueden encontrar los activos utilizando la barra de búsqueda.

@@ -1,0 +1,24 @@
+URL: https://community.d2l.com/brightspace-es-MX/kb/articles/33900-envie-comentarios-sobre-el-curso-con-la-herramienta-encuestas
+TITLE: Envíe comentarios sobre el curso con la herramienta Encuestas - Brightspace
+HASH: 6d50b49c5ef3bc39cece8b15b7af31fb11265644c1290221478891e695ba8207
+TYPE: web
+
+Las encuestas son una excelente manera de enviar comentarios constructivos a su instructor.
+Para participar en una encuesta
+-
+En la barra de navegación de su curso, haga clic en Encuestas.
+Figura: Menú desplegable Comunicación con Encuestas resaltadas.
+Nota: Las encuestas pueden estar en la barra de navegación del curso o pueden estar en el menú desplegable Comunicación.
+-
+Seleccione la encuesta deseada de la lista Encuestas actuales.
+Figura: La página Lista de encuestas que muestra las encuestas disponibles en la lista Encuestas actuales.
+-
+Complete su encuesta.
+-
+Haga clic en Enviar encuesta al final de la página.
+Figura: Ejemplo de encuesta del curso con las opciones Enviar encuesta y Guardar respuestas resaltadas.
+Nota: Puede hacer clic en Guardar respuestas y continuar con la encuesta más tarde. Si no desea enviar sus respuestas, puede hacer clic en el botón Salir en la parte superior de la página.
+Participación anónima en una encuesta
+Si una encuesta es anónima, los datos del usuario se ocultan en los resultados de la encuesta. Las respuestas a las preguntas de la encuesta están disponibles para todos los usuarios, pero el sistema no informa quién respondió.
+¿Por qué no puedo crear una encuesta?
+La herramienta Encuestas se diseñó para ser una herramienta de evaluación en los cursos y proporcionarles a su instructor una forma de solicitarle la opinión sobre cualquier aspecto del curso.

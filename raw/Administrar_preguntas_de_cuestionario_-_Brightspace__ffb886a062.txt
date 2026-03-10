@@ -1,0 +1,149 @@
+URL: https://community.d2l.com/brightspace-es-MX/kb/articles/22050-administrar-preguntas-de-cuestionario
+TITLE: Administrar preguntas de cuestionario - Brightspace
+HASH: ffb886a062529c3946498a2626b717eacedd67547d24624348e05389d486d9ca
+TYPE: web
+
+Utilice la Biblioteca de preguntas y los Grupos de preguntas para crear un conjunto aleatorio de preguntas de cuestionario
+Ver este video para aprender a crear un conjunto aleatorio de preguntas de cuestionario. Revise los pasos escritos a continuación.
+El orden aleatorio de las preguntas del cuestionario impide que los estudiantesestudiantes compartan las preguntas y respuestas con otros estudiantesestudiantes del curso. Esto evita que se haga trampa y elimina una ventaja que algunos estudiantes pueden tener sobre otros.
+Debe utilizar la Biblioteca de preguntas para proporcionar un conjunto aleatorio de preguntas de cuestionario. La Biblioteca de preguntas es un repositorio central donde puede guardar preguntas para volver a utilizarlas en un curso. Como práctica adecuada, le recomendamos crear todas las preguntas con la Biblioteca de preguntas. Esto garantiza que sus preguntas se almacenen en una ubicación central para su reutilización y acceso. Para obtener más información, consulte Acerca de la Biblioteca de preguntas.
+Los Grupos de preguntas le permiten crear cuestionarios con preguntas aleatorias mientras utiliza la nueva experiencia de creación de preguntas. Los grupos de preguntas son una manera efectiva de impedir que se haga trampa en los cuestionarios, ya que se garantiza que cada estudianteestudiante reciba un conjunto de preguntas único. Una vez que haya ingresado un título, el número de preguntas que desea seleccionar y los puntos por pregunta del grupo de preguntas, puede examinar la Question Library o cuestionarios, encuestas y autoevaluaciones existentes para seleccionar las preguntas que desee. Es recomendable que organice su Question Library para incluir una sección en cada cuestionario. Esto hace que sea más fácil localizar las preguntas correctas durante el proceso de creación del grupo de preguntas. Se genera una vista previa dinámica cuando se importan las preguntas a un grupo de preguntas. La vista previa les permite a los instructores obtener rápidamente una idea de cómo se muestra el grupo de preguntas para los estudiantes cuando responden el cuestionario.
+Para crear un grupo de preguntas y asignar a cada estudiante un conjunto aleatorio de preguntas del cuestionario:
+- Vaya a Cuestionarios.
+- Haga clic en el nombre del cuestionario.
+- Haga clic en Crear nuevo > Grupo de preguntas.
+- En el cuadro de diálogo Nuevo grupo de preguntas, ingrese un título en el campo Título de grupo de preguntas.
+- Ingrese el número de preguntas que desea ordenar aleatoriamente del grupo en el campo Cantidad de preguntas para seleccionar.
+- Ingrese la cantidad de puntos que vale cada pregunta en el campo Puntos por pregunta.
+- Haga clic en Examinar Biblioteca de preguntas.
+- Seleccione las preguntas que desea incluir en el grupo de preguntas al marcar la casilla de selección de la pregunta. Las preguntas se eligen automáticamente al azar entre las que usted selecciona.
+- Haga clic en Importar para agregar las preguntas al grupo de preguntas.
+- Haga clic en Guardar.
+- Si tiene varias secciones en su cuestionario y cada sección extrae un conjunto aleatorio de preguntas, repita este proceso.
+- Haga clic en Guardar y cerrar.
+Ha creado una sección y asignado a cada estudiante un conjunto aleatorio de preguntas.
+Ocultar puntos de las preguntas del cuestionario
+Oculte el valor de los puntos de las preguntas del cuestionario para garantizar que los estudiantes se centren en todas las preguntas de la misma forma, sin inferir la cantidad de respuestas correctas a partir de los valores de puntos.
+Utilice esta opción en los siguientes casos:
+- Preguntas de selección múltiple y escritas: evite que los estudiantes adivinen la cantidad de respuestas esperadas.
+- Evaluaciones de diagnóstico: mida la comprensión en auditorías de conocimientos o pruebas de diagnóstico sin enfatizar los puntajes.
+- Esfuerzo equitativo en las preguntas: anime a los participantes a abordar todas las preguntas de manera consistente, incluidas las preguntas de control o de bonificación.
+Cómo ocultar puntos de las preguntas del cuestionario
+- Vaya a Cuestionarios.
+- Haga clic en el nombre del cuestionario.
+- Expanda el área Sincronización y visualización.
+- En Mostrar, seleccione Ocultar valores de puntos de pregunta.
+- Haga clic en Guardar y cerrar.
+El cuestionario está configurado para evitar que los estudiantes vean el puntaje de las preguntas individuales mientras realizan un cuestionario. Los puntos de las preguntas seguirán estando visibles en Visualización de los resultados del cuestionario.
+Utilice una pregunta de cero puntos
+Puede asignar 0 (cero) puntos a una pregunta del cuestionario para recopilar información no calificada, como comentarios o aportes personales de los estudiantes durante un cuestionario, así como para implementar una pregunta de “Código de honestidad” al inicio.
+Para crear una pregunta de punto cero, ingrese 0 en el campo Puntos.
+Cómo ordenar aleatoriamente todas las preguntas y secciones en un cuestionario
+Puede ordenar las preguntas y secciones de un cuestionario de manera aleatoria para que cada estudiante las vea en orden aleatorio. El orden aleatorio solo afecta a las preguntas y secciones de nivel superior; todo lo que se encuentre dentro de una sección no se verá afectado.
+Para ordenar aleatoriamente todas las preguntas y secciones de un cuestionario:
+- Vaya a Cuestionarios.
+- Haga clic en el nombre del cuestionario.
+- Expanda el área Sincronización y visualización.
+- Seleccione Ordenar aleatoriamente el cuestionario y seleccione Ordenar aleatoriamente las preguntas y secciones del cuestionario. No cae en cascada a las subsecciones.
+- Haga clic en Guardar y cerrar.
+Su cuestionario se ordenará de manera aleatoria para cada estudiante.
+Cómo ordenar aleatoriamente un conjunto de preguntas de cuestionario en una sección
+Puede ordenar las preguntas dentro de una sección de manera aleatoria sin afectar las preguntas fuera de esa sección.
+Para crear una sección y asignar preguntas de cuestionario a cada estudiante en un orden diferente en esa sección:
+- Vaya a Cuestionarios.
+- Haga clic en el nombre del cuestionario.
+- Haga clic en Crear nueva > Sección.
+- En el cuadro de diálogo Nueva sección, ingrese un título en el campo Título de sección. De manera opcional, ingrese una descripción de sección en el campo Texto de sección.
+- Seleccione Ordenar aleatoriamente las preguntas de esta sección.
+- Haga clic en Guardar.
+- Arrastre y suelte las preguntas individuales de su cuestionario en la sección correspondiente. Para mover varias preguntas a la vez a una sección, marque la casilla de selección al lado de las preguntas, seleccione Mover a > Sección y luego, seleccione el nombre de la sección.
+- Haga clic en Guardar y cerrar.
+Ha ordenado aleatoriamente las preguntas del cuestionario mientras mantiene un orden específico para algunas preguntas en una sección.
+Cómo ordenar aleatoriamente las opciones de respuesta en preguntas de elección múltiple y de selección múltiple en el cuestionario
+Si desea evitar que los estudiantes hagan trampa en los cuestionarios con preguntas de elección múltiple y de selección múltiple, puede aleatorizar las opciones de respuesta para cada pregunta, de modo que las respuestas correctas se presenten en un orden distinto a cada estudiante.
+Para aleatorizar opciones de respuesta en preguntas de elección múltiple y de selección múltiple en un cuestionario:
+- Vaya a Cuestionarios.
+- Haga clic en la pestaña Biblioteca de preguntas.
+- Haga clic en el nombre de una pregunta con Tipo sea Elección múltiple o Selección múltiple.
+- Seleccione Aleatorizar el orden de respuesta debajo de las opciones de respuesta.
+- Haga clic en Guardar.
+- Haga clic en Edición de preguntas lista.
+Ha aleatorizado las opciones de respuesta para una pregunta de elección múltiple o de selección múltiple.
+Adjuntar una rúbrica a una pregunta de respuesta escrita (RE)
+En la nueva experiencia de evaluación de cuestionarios, puede adjuntar una rúbrica cuando cree o edite preguntas de respuesta escrita (RE). Utilice la rúbrica para evaluar la pregunta y proporcionar comentarios sobre el cuestionario. Los estudiantes pueden ver la rúbrica junto a la pregunta de RE durante un cuestionario y, luego, revisarla en su cuestionario calificado para recibir comentarios.
+Para adjuntar una rúbrica a una pregunta de respuesta escrita (RE):
+- Vaya a Cuestionarios, Encuestas, o Autoevaluaciones.
+- Haga clic en la pestaña Biblioteca de preguntas.
+- Realice una de las siguientes acciones:
+Para crear una nueva pregunta, haga clic en el menú desplegable Nueva y seleccione Respuesta escrita (RE).
+Para editar una pregunta de RE existente, haga clic en el texto de la pregunta en la lista.
+- Haga clic en el menú desplegable Agregar rúbrica.
+- Realice una de las siguientes acciones:
+Haga clic en Crear nueva para crear una rúbrica. En la ventana de Crear rúbrica, complete todos los campos requeridos y establezca el estado como Estado: Publicada. Haga clic en Adjuntar rúbrica.
+Haga clic en Adjuntar rúbrica. Haga clic en Agregar lo seleccionado.
+- Haga clic en Guardar.
+Agregó una rúbrica a una pregunta de respuesta escrita que puede aparecer en cuestionarios, encuestas y autoevaluaciones.
+Crear preguntas del cuestionario con puntos extra
+Cree preguntas con puntos extra para permitir que los estudiantes puedan obtener puntajes adicionales en su cuestionario.
+Para crear preguntas de cuestionario con puntos extra
+- Vaya a Cuestionarios o Contenido.
+- Haga clic en el cuestionario deseado.
+- Seleccione las preguntas que desea que sean preguntas con puntos extra.
+- Haga clic en Más acciones.
+- Haga clic en Alternar puntos extras. También puede volver a seleccionar Alternar puntos extras para hacer que una pregunta extra sea una pregunta de cuestionario regular.
+Haga una pregunta con puntos extra a una pregunta obligatoria
+Una pregunta obligatoria es una pregunta que los estudiantes deben responder antes de que puedan enviar su intento de cuestionario. Las preguntas pueden ser una pregunta con puntos extra y una pregunta obligatoria.
+Para cambiar una pregunta con puntos extra a una pregunta obligatoria
+- Vaya a Cuestionarios.
+- Haga clic en el cuestionario que desea editar.
+- Haga clic en las casillas de selección de las preguntas con puntos extra que desee hacer obligatorias.
+- Haga clic en Más acciones > Activar/desactivar obligatorias.
+- Haga clic en Guardar y cerrar.
+Cambió la pregunta con puntos extra seleccionada a una pregunta obligatoria.
+Use secciones para organizar las preguntas de un cuestionario
+Puede utilizar secciones para organizar preguntas de cuestionario relacionadas y mostrarlas a los estudiantes con un encabezado de sección en una sola página. Esto es útil cuando desea presentar preguntas a un estudiante, pero también organizar preguntas conceptualmente por tema o tema principal. Por ejemplo, las secciones podrían permitirle presentar todas las preguntas relacionadas con la biología en una sola página o mostrar una serie de preguntas sobre biología única en las páginas, cada una con el mismo encabezado de sección.
+¿Cómo utilizar secciones para organizar preguntas de cuestionario?
+- En la barra de navegación de su organización o curso, haga clic en Cuestionarios.
+- Haga clic en Nuevo cuestionario.
+- Ingrese un Nombre para su cuestionario.
+- En Preguntas, haga clic en Crear nuevo y seleccione sección. Se abre la página Nueva sección.
+- Ingrese un Nombre de sección y haga clic en Guardar.
+- Para crear una pregunta de cuestionario para agregar a esta sección, haga clic en Crear nuevo >Nueva pregunta o seleccione una pregunta del Grupo de preguntas.
+- Haga clic y arrastre la pregunta del cuestionario a la Sección. La pregunta del cuestionario se describe en la Sección.
+- Repita los pasos 5 a 7 para crear más secciones y preguntas de cuestionario anidadas.
+- Haga clic en Asignación de tiempo y visualización. En Paginación seleccione Agregar salto de página después de cada sección. Esto garantiza que cada sección y todas las preguntas del cuestionario anidadas en esa sección se muestren por separado en una página.
+- Haga clic en Guardar y luego en Vista previa.
+Video: Opciones para aleatorizar cuestionarios
+Alinear los resultados de aprendizaje con las preguntas del cuestionario
+Cuando alinea una pregunta con un resultado de aprendizaje, el resultado de aprendizaje se alinean con todos los usos de esa pregunta dentro de los cuestionarios en la misma oferta de cursos. Es posible alinear de forma masiva todas las preguntas dentro de un grupo o una sección de preguntas. Además, puede alinear los resultados de aprendizaje con los grupos de preguntas. Si alinea un grupo de preguntas con un resultado, todas las preguntas de ese grupo se alinean en todas las incidencias de la pregunta dentro y fuera del grupo de preguntas.
+Para alinear los resultados de aprendizaje con las preguntas del cuestionario
+- Vaya a Cuestionarios.
+- Haga clic en un cuestionario que ya contenga preguntas de cuestionario.
+- Seleccione una o varias preguntas o grupos de preguntas para alinear con los resultados de aprendizaje y, a continuación, haga clic en Más acciones.
+- Haga clic en Alinear a los resultados del aprendizaje.
+- Seleccione las casillas de selección de los resultados de aprendizaje que desee alinear con las preguntas del cuestionario y haga clic en Agregar.
+Los resultados de aprendizaje asociados ahora aparecen debajo de cada una de las preguntas seleccionadas.
+Para eliminar alineaciones de resultados de aprendizaje en preguntas de cuestionario
+- Seleccione una o varias preguntas o grupos de preguntas que estén alineados con los estándares y haga clic en Más acciones.
+- Haga clic en Alinear a los resultados del aprendizaje.
+- Desmarque las casillas de los resultados de aprendizaje que desee eliminar de las preguntas del cuestionario y haga clic en Agregar.
+Los estándares asociados ahora se eliminan de la pregunta.
+Cuando una pregunta de un cuestionario tiene un resultado de aprendizaje alineado con esta, se muestra una etiqueta de resultado al lado de la pregunta, en la Vista del generador de cuestionarios, así como en el Editor de grupos de preguntas. En la vista del Grupo de preguntas también se muestra la lista acumulativa de todos los resultados alineados con las preguntas del grupo.
+Personalice la vista de envío para mostrarles respuestas de cuestionario a los estudiantesestudiantes
+Para publicar la vista de envíos a los estudiantes inmediatamente después de completar el cuestionario, en la página Editar cuestionario, abra la sección Evaluación y comentarios, y seleccione Publicar de manera automática los resultados del intento inmediatamente después de finalizar. Las vistas de envío se configuran en términos de una vista predeterminada y vistas adicionales. La vista predeterminada permite que todos los estudiantesestudiantes, por ejemplo, vean su puntuación final del cuestionario inmediatamente después de enviar el cuestionario. Usted puede editar la vista predeterminada y mostrar las preguntas respondidas incorrectamente, mostrar las preguntas respondidas correctamente, mostrar todas las preguntas sin respuestas del usuario o mostrar todas las preguntas con respuestas del usuario. Mostrar una vista de envío detallada a todos los estudiantesestudiantes inmediatamente después de enviar un cuestionario funcionará si todos los estudiantesestudiantes responden el cuestionario al mismo tiempo. Sin embargo, si los estudiantes completan el cuestionario en diferentes momentos, y usted quiere asegurarse de que los estudiantes no compartan la clave de respuesta con otros estudiantes, puede optar por crear una vista de envíos adicional.
+Para personalizar la vista de envío de cuestionarios
+- En la barra de navegación, haga clic en Cuestionarios.
+- En la pestaña Administrar cuestionarios, haga clic en el cuestionario para el que desee crear una vista de envío.
+- Haga clic en la lista desplegable Evaluación y comentarios.
+- Haga clic en Personalizar visualizaciones de los resultados del cuestionario.
+- Haga clic en Editar vista para personalizar la vista de envío. Las preguntas son visibles para los alumnos en la vista de envío; seleccione una de las opciones siguientes para especificar cómo desea que aparezcan las preguntas:
+- No mostrar: No aparecen preguntas en la vista de envíos.
+- Todas las preguntas: Todas las preguntas del cuestionario y las respuestas de los estudiantes se muestran en la vista de envíos.
+- Preguntas incorrectas respondidas solo por estudiantes: Solo las preguntas respondidas de forma incorrecta aparecen en la vista de envíos.
+- Preguntas correctas respondidas solo por estudiantes: Solo las preguntas respondidas correctamente aparecen en la vista de envíos.
+- Haga clic en Actualizar.
+- Haga clic en Aceptar para volver a la página Administrar cuestionarios.
+- En la sección Cuando se publique, mostrar a los alumnos, puede elegir mostrar a los estudiantes su Calificación de intento y elegir de la lista desplegable cómo se deben mostrar las preguntas en la vista de envío.
+- Haga clic en Aceptar.
+- Haga clic en Guardar y cerrar.
+Se guarda la configuración de vista de envíos de su cuestionario.

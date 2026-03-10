@@ -1,0 +1,21 @@
+URL: https://community.d2l.com/brightspace-es-MX/kb/articles/10979-acerca-de-la-transferencia-automatica-de-la-puntuacion-global-a-la-calificacion-de-un-estudiante
+TITLE: Acerca de la transferencia automática de la puntuación global a la calificación de un estudiante - Brightspace
+HASH: cec5668f7f0fce4b106b84d6842a0ae0262857404408832fd22dd12e2b7bb382
+TYPE: web
+
+Puede transferir automáticamente la puntuación global de una rúbrica numérica a la calificación de un estudiante. Una puntuación se transfiere automáticamente solo cuando la rúbrica tiene una puntuación global.
+Las rúbricas numéricas incluyen los siguientes tipos:
+- Analítica de punto
+- Analítica de punto personalizado
+- Holística de porcentaje
+Cuando existen varias rúbricas en la ventana emergente de la rúbrica, Brightspace transfiere la puntuación global de la primera rúbrica numérica. Si desea transferir la puntuación de una rúbrica diferente o puntuaciones de varias rúbricas, debe manejar estas situaciones por separado.
+Brightspace maneja diferentes tipos de elementos de calificación durante la transferencia de la siguiente manera:
+- Numérico: la puntuación global de la rúbrica se expresa como un porcentaje y se aplica al elemento de calificación para garantizar una traducción correcta entre los valores de puntuación sobre diferentes. Por ejemplo, si el elemento de calificación tiene puntuación sobre 6 y la rúbrica tiene puntuación sobre 10; cuando evalúe la rúbrica y el estudiante alcance 8/10, la calificación del estudiante será 4,8 después de la transferencia.
+- Cuadro de selección: el entorno de aprendizaje de Brightspace busca el rango en los valores del cuadro de selección que tenga la puntuación de la rúbrica traducida y le proporciona al estudiante el % de valor asignado correspondiente al rango.
+- Aprobado/reprobado: si se evalúa la rúbrica con una puntuación de 0, después de la transferencia, el elemento de calificación se configurará en Reprobado; de lo contrario, se le otorgará al estudiante un Aprobado.
+Transferir automáticamente la puntuación global a la calificación del estudiante
+- Vaya a Calificaciones.
+- En la pestaña Administrar calificaciones, en el menú desplegable Acciones del elemento de calificación que desea evaluar, haga clic en Ingresar calificaciones.
+Figura: El menú desplegable Acciones para un elemento de calificación en el que se muestra la opción Ingresar calificaciones.
+- En la página Elemento de calificación seleccionada, haga clic en Evaluación para el estudiante que desea evaluar.
+- En la ventana emergente de la rúbrica, evalúe al estudiante y haga clic en Guardar y registrar. Si hace clic en Guardar, el puntaje global no se transfiere a la calificación del estudiante.

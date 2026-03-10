@@ -1,0 +1,45 @@
+URL: https://community.d2l.com/brightspace-es-MX/kb/articles/10838-anulacion-manual-de-los-niveles-de-logro-en-la-vista-de-maestria
+TITLE: Anulación manual de los niveles de logro en la vista de maestría - Brightspace
+HASH: 36e9833bad9fc6296e0f277230a03db0419ff8e519f6c697a512ce69d109b63b
+TYPE: web
+
+Los instructores pueden anular manualmente los niveles de logro sugeridos de los resultados en la Visualización de Dominio de Aprendizaje. Esto le permite ajustar el nivel general de logro y dar comentarios directamente a los estudiantes.
+Acceder a los detalles de los estudiantes
+-
+En Visualización de Dominio de Aprendizaje, haga clic en la celda de la tabla de un estudiante para ver un resultado específico.
+-
+La página muestra dos paneles:
+- Panel de evidencia (izquierda): muestra las evaluaciones completadas, el nivel de logro sugerido, la línea de tendencia y los mosaicos de evidencia. Los íconos indican si los resultados están publicados para el estudiante.
+- Panel de logro general (derecha): muestra el nivel de logro sugerido y le permite anularlo.
+En cualquier momento durante un curso, un instructor puede hacer clic en una celda individual de la tabla para ver en profundidad los detalles específicos del estudiante respecto de las evaluaciones que ese estudiante realizó asociadas al resultado seleccionado. Esta página contiene dos paneles: un panel de Evidencia a la izquierda y un panel de Logro general a la derecha, en los que puede realizar anulaciones manuales del nivel de logro sugerido.
+El panel de evidencias utiliza muchos de los mismos componentes de la vista de Progreso de resultados para los estudiantes, pero incluye el nivel sugerido de logro general tanto en la línea de tendencia como en un mosaico de evidencias, junto con el ícono para indicar si el logro se publicó al estudiante actualmente.
+El panel de Logro general muestra el nivel de logro sugerido y provee un botón que permite que el instructor anule ese nivel manualmente. Cuando se realiza una anulación manual, un instructor puede establecer el nivel sugerido de logro en cualquier nivel de logro de la escala de logros. Los instructores también pueden utilizar el panel de Logro general para proporcionar comentarios al estudiante que pueden ofrecer contexto o una explicación de la anulación manual. Si se proporcionan comentarios, estos se capturan y se registran en el mosaico de evidencias de Logro general.
+Sobrescribir niveles de logro
+Desde el panel Logro general, puede hacer lo siguiente:
+-
+Establecer manualmente el nivel sugerido en cualquier nivel en la escala de logro.
+-
+Proporcionar comentarios para dar a los estudiantes contexto o una explicación. Los comentarios se almacenan en el mosaico de evidencia de Logro general.
+Qué sucede después de una anulación:
+- La evaluación se bloquea y ya no se actualiza de forma automática mediante nuevas pruebas.
+- Aparece un ícono de Actualizar en la vista de tabla, lo que indica que se necesita una acción manual.
+- Aparece un asterisco junto al nombre del nivel en la vista de tabla (visible solo para los instructores). Los estudiantes no ven el asterisco.
+Actualizar opciones
+Cuando existe una anulación, tiene tres opciones:
+-
+Crear o borrar la anulación manual
+- Si el nivel se calcula de forma automática, haga clic en Anulación manual para establecer un nuevo valor.
+- Si se anuló el nivel actual previamente, haga clic en Borrar anulación manual para volver al cálculo automático.
+-
+Recalcular el nivel sugerido
+- Si el nivel actual se anuló manualmente, aparece un ícono de Calculadora.
+- Haga clic en el ícono de Calculadora para ingresar el método de cálculo del resultado.
+-
+Actualizar a un nuevo valor de anulación
+El ícono Actualizar indica al instructor que se requiere una acción manual. Hay tres acciones posibles:
+- Crear o borrar un valor de anulación manual. Si el nivel de logro actual se calcula automáticamente, haga clic en Anulación manual para establecer manualmente un nuevo nivel de logro general según la escala de logros. Si el nivel actual es un nivel previamente anulado, haga clic en Borrar anulación manual para volver a un nivel calculado automáticamente.
+- Recalcular el nivel de logro general sugerido. Si el nivel de logro general es un valor anulado manualmente con anterioridad, aparece el ícono de una calculadora. Haga clic en el ícono para volver a calcular el nivel de logro general sugerido en función del método de cálculo actual.
+- Actualice manualmente el nivel a un nuevo valor de anulación. Haga clic en un nuevo nivel de logro.
+Los cambios realizados en panel de Logro general deben guardarse antes de salir de la página:
+- Si la evaluación manual no se ha publicado al estudiante, usted puede Publicar o Guardar como borrador.
+- Si la evaluación manual ya se publicó al estudiante, puede Actualizar o Retirar. Retirar el nivel general de logro lo oculta de los estudiantes hasta que se vuelva a publicar.

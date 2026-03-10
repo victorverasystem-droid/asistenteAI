@@ -1,0 +1,82 @@
+URL: https://community.d2l.com/brightspace-es-MX/kb/articles/25807-definir-la-configuracion-en-la-herramienta-de-calificaciones
+TITLE: Definir la configuración en la herramienta de calificaciones - Brightspace
+HASH: 3b7ac00cfe68099aab1d8fda8bf8748bf0dd78d08ba3e3f4e6e0801e2a72505a
+TYPE: web
+
+La configuración de la Herramienta de calificaciones permite que equipo académico configure cómo aparece la Libreta de calificaciones en su vista de instructor (no visible para los estudiantes) y a los estudiantes cuando ven la libreta de calificaciones.
+Configurar las opciones personales de visualización
+Las Opciones de visualización personales permiten que el equipo académico configure su vista personal de la libreta de calificaciones. Estas configuraciones no afectan la forma en que los estudiantes ven la liberta de calificaciones.
+Para configurar las opciones de visualización personales
+-
+En la herramienta Calificaciones, haga clic en Configuración.
+Figura: El botón Configuración.
+-
+Haga clic en la pestaña Opciones de visualización personales.
+-
+Configure las opciones de detalles de Usuario y Calificación que desea que estén visibles en la Libreta de calificaciones, incluidos:
+-
+Detalles del usuario, incluida la información del estudiante. Las opciones incluyen el Nombre del usuario o la ID definida por organización (como el número del estudiante). (1)
+-
+Detalles de la calificación, incluida la Calificación por puntos, la Calificación ponderada, el Símbolo de esquema de calificaciones (como se define en el esquema de calificaciones asociado con el elemento de calificación) y el Color de esquema de calificaciones (si está configurado en el esquema de calificaciones correspondiente) (2)
+Figura: Las opciones de visualización Detalles del usuario y Detalles de la calificación.
+-
+Establezca los atributos de la tabla para su Libreta de calificaciones, incluidos:
+-
+Número de caracteres para mostrar para los elementos de texto, que determina la longitud del elemento de calificación o el texto de la categoría en la lista de usuarios. El valor máximo es de 50 caracteres, pero puede anularse para los elementos de calificación de texto. Si el texto es más largo que el valor máximo, será truncado. (1)
+-
+Número de columnas antes de que se repitan los detalles del usuario, que determina con qué frecuencia se repiten los detalles del usuario en la lista de usuarios. El valor máximo es de 99. (2)
+-
+Número de usuarios antes de que se repita el encabezado de la columna, que determina con qué frecuencia se repite el encabezado de la columna en la lista de usuarios. El valor máximo es de 50. Si ingresa 0, el encabezado de columna no se repite. (3)
+Figura: Propiedades de la tabla de la libreta de calificaciones.
+-
+Indique si desea Repetir las calificaciones finales (1) e indique la página de inicio predeterminada que desea ver al abrir Calificaciones. Las opciones incluyen Ingresar calificaciones, Administrar calificaciones, Configuración de calificación, Esquemas de calificaciones y Asistente de configuración. (2)
+Figura: Repetir las calificaciones finales y Configuración de la página de inicio.
+Configurar las opciones de visualización de la Unidad de organización (curso)
+Las Opciones de visualización de la unidad de organización determinan la vista predeterminada que se muestra para otros usuarios (como los estudiantes) cuando ven sus libretas de calificaciones.
+Para configurar las opciones de visualización del curso de la unidad de organización
+-
+En Calificaciones, haga clic en Configuración.
+Figura: El botón Configuración.
+-
+Haga clic en la pestaña Opciones de visualización de la unidad de organización .
+Figura: Pestaña Opciones de visualización de la unidad de organización.
+-
+Establezca los decimales mostrados que controlan la cantidad de decimales que se mostrarán para que un evaluador califique un curso. El valor puede ser entre 0 y 5.
+-
+Establezca la Visualización de la vista de estudiantes, que incluye lo siguiente:
+-
+Detalles de la calificación, incluida la Calificación por puntos, la Calificación ponderada (si la configuración de cálculo se estableció como ponderada), el Símbolo de esquema de calificaciones (como se define en el esquema de calificaciones asociado con el elemento de calificación) y el Color de esquema de calificaciones (si está configurado en el esquema de calificaciones correspondiente). (1)
+-
+Decimales mostrados (2)
+-
+Número de caracteres para mostrar para los elementos de texto, que determina la longitud del elemento de calificación o el texto de la categoría en la lista de usuarios. El valor máximo es de 50 caracteres, pero puede anularse para los elementos de calificación de texto. Si el texto es más largo que el valor máximo, será truncado. (3)
+-
+Cálculo de calificación final (4)
+-
+Artefactos de ePortfolio (5)
+Figura: Opciones de visualización de la vista de estudiantes.
+-
+Haga clic en Guardar y luego en Cerrar.
+Configure las opciones de cálculo de calificaciones
+La Configuración de cálculo de calificaciones le permiten configurar y ajustar el Sistema de calificación general, la Calificación final publicada y los Cálculos de calificaciones.
+Para configurar las opciones de cálculo de calificaciones
+-
+En Calificaciones, haga clic en Configuración.
+Figura: El botón Configuración.
+-
+Haga clic en la pestaña Opciones de cálculo .
+Figura: Pestaña Opciones de cálculo.
+-
+Configure las opciones según corresponda, incluidos:
+-
+Sistema de calificación, que incluye el sistema ponderado, los puntos y la fórmula.
+-
+Calificación final publicada, que incluye la Calificación calculada y la Calificación rectificada.
+-
+Cálculos de calificación, que incluyen excluir elementos sin calificar o tratar elementos sin calificar como cero (0).
+-
+Actualizar automáticamente, que incluye mantener actualizadas las calificaciones finales de manera automática.
+-
+Auto-cero, que incluye los envíos faltantes.
+Nota: Muchos de los ajustes también están disponibles mediante la pestaña Asistente de configuración.
+Video: Configuración de la herramienta de calificaciones

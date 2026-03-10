@@ -1,0 +1,195 @@
+URL: https://community.d2l.com/brightspace-es-MX/kb/articles/10851-crear-y-administrar-categorias-y-equipos-de-trabajo
+TITLE: Crear y administrar categorías y equipos de trabajo - Brightspace
+HASH: 63506622737a82b6ca52669dabfd1b7502b09981007877b80537c10c124c2460
+TYPE: web
+
+Además de administrar las inscripciones de equipos de trabajo en las herramientas Equipos de trabajo y Secciones, las inscripciones se pueden realizar mediante los siguientes métodos:
+- Inscripciones de equipos de trabajo, incluida la inscripción masiva mediante un archivo CSV
+- Herramienta Administrar usuarios
+- Inscripciones en el listado de alumnos que agregan usuarios a los equipos de trabajo
+- API de inscripción
+- Integraciones con banners
+- Autorregistro
+Estos métodos de inscripción grupal se ejecutan como un proceso de trabajo en segundo plano para reducir los tiempos de espera y los errores. El procesamiento de trabajo en segundo plano puede tardar varios minutos en completarse en la mayoría de los casos, en promedio. Algunos trabajos pueden tardar más.
+Crear una categoría de grupo
+Para organizar y administrar los grupos relacionados, use categorías. Por ejemplo, puede tener una categoría para la Asignación 1, la Asignación 2, los Seminarios, la Ayuda compensatoria y las Revisiones de libros.
+Antes de crear un conjunto nuevo de grupos, debe configurar una categoría y crear áreas de trabajo restringidas para los grupos.
+Para crear una categoría de grupo
+- En la página Administrar grupos, haga clic en Nueva categoría.
+- Ingrese un Nombre de categoría y una Descripción.
+- Seleccione un Tipo de inscripción de la lista desplegable.
+- De acuerdo con el tipo de inscripción seleccionado, ingrese la Cantidad de grupos que desea crear, o la Cantidad de usuarios por grupo o bien, ambas opciones.
+- Para aplicar un prefijo distintivo a cada nombre de grupo y código de la categoría, introdúzcalo en el campo Prefijo del grupo. Si no completa este campo, el prefijo predeterminado será "Grupo".
+- Según el Tipo de inscripción elegido, realice una de las siguientes acciones:
+- Para inscribir automáticamente a los usuarios en equipos de trabajo, seleccione Inscribir automáticamente usuarios nuevos.
+- Para asignar aleatoriamente usuarios a los equipos de trabajo, seleccione Distribuir usuarios en equipos de trabajo de forma aleatoria. Si no selecciona esta opción, los usuarios se distribuirán por orden alfabético según el Listado de alumnos.
+- Para que la descripción de los equipos de trabajo sea visible para los estudiantes dentro de sus equipos de trabajo, seleccione Hacer visibles las descripciones de categoría y de equipo de trabajo para los miembros del equipo.
+- Si selecciona un Tipo de inscripción que es compatible con la autoinscripción, para establecer los horarios de disponibilidad de inscripción, seleccione las casillas de selección Establecer fecha de inicio de la autoinscripción o Establecer fecha de vencimiento de la autoinscripción, y seleccione las fechas en el campo del calendario en miniatura.
+- Si selecciona Establecer la fecha de vencimiento de la autoinscripción, pero desea que todos los estudiantes que no se inscriban antes de la fecha de vencimiento queden inscritos, puede seleccionar Asigna a los usuarios no inscritos después de la fecha de vencimiento de la autoinscripción para distribuirlos de forma automática, aleatoria y uniforme en los grupos disponibles. Esta opción agregará miembros del grupo más allá de la capacidad de los grupos, si corresponde. La autoinscripción se repite en un intervalo establecido a partir de la fecha de vencimiento para garantizar que se asignen todos los estudiantes a un grupo.
+- Haga clic en Guardar.
+- Para personalizar los nombres de grupo individuales, haga clic en el grupo e introduzca un nombre de grupo nuevo.
+- Haga clic en Guardar.
+- Para configurar las áreas de debate, las áreas de casilleros y las asignaciones con el nombre de grupo personalizado, en el menú contextual del nombre de la categoría, haga clic en Editar categoría.
+- En el área Crear espacio de trabajo, seleccione Configurar áreas de debate, Configurar casilleros o Configurar asignaciones.
+- Haga clic en Guardar.
+- En la página Crear temas restringidos, seleccionar el Foro en el que desea crear temas restringidos.
+- Si activó la función de creación de nuevo tema de grupo, realice una de las siguientes acciones:
+- Si desea que los instructores administren cada tema individualmente, seleccione el botón de opción Crear un tema por grupo. Los estudiantes solo pueden ver los temas asignados a su grupo.
+- Si desea permitir que los instructores administren todas las actividades y evaluaciones de un tema, seleccione el botón de opción Crear un tema con cadenas de mensajes separadas por grupo. Los estudiantes solo pueden ver las cadenas de mensajes de su propio grupo.
+- Haga clic en Crear y siguiente.
+- Ingrese un Título y una Descripción para el debate grupal.
+- Haga clic en Crear y siguiente.
+- Haga clic en Listo.
+Utilizar códigos de grupo distintos para varias categorías
+También puede crear códigos de grupo distintos para varias categorías y al copiar e importar grupos a otras ofertas de cursos para incluir OrgunitId en un código de grupo y crear un grupo distinto dentro de una oferta de cursos. El ajuste que establece el administrador en la variable de configuración d2l.Tools.Groups.IncludeOrgUnitIdInGroupCode también se utiliza para crear códigos de grupo distintos en una situación adicional:
+Al crear varias categorías dentro de una oferta de cursos, cada categoría tiene códigos de equipo de trabajo distintos para equipos de trabajo secundarios. Las categorías de grupo incluyen OrgUnitId y GroupCategoryId para garantizar que los equipos de trabajo secundarios permanezcan distintos. Por ejemplo, si configuró el campo Prefijo de grupo en “grp” en el paso 5 anterior, las categorías aparecerán como “grp_[OrgUnitId]_[GroupCategoryId]_1, grp_[OrgUnitId]_[GroupCategoryId]_2”.
+Copiar equipos de trabajo que incluyan un OrgUnitId
+Al copiar equipos de trabajo que incluyen un OrgUnitId, el identificador se actualiza para coincidir con el OrgUnitId de la oferta de cursos de destino, lo que garantiza que los códigos de grupo sigan siendo distintos.
+Agregar un equipo de trabajo a una categoría
+Para agregar un grupo a una categoría
+- En la barra de navegación, haga clic en Grupos.
+- En la página Administrar grupos, en la lista desplegable Ver categorías, seleccione la categoría en la que desea agregar un grupo.
+- En el menú contextual de la categoría, haga clic en Agregar grupo.
+- Si no desea utilizar el nombre predeterminado que se proporciona, introduzca un nombre de grupo.
+- Si no desea utilizar el código de grupo predeterminado que se proporciona, introduzca un código de grupo.
+- Ingrese una descripción del grupo.
+- Haga clic en Guardar.
+Después de hacer clic en Guardar, la herramienta Grupos mostrará la categoría y le proporcionará una indicación de que sus grupos se están creando en segundo plano y que se le notificará una vez que los grupos se hayan creado. Esta notificación aparece como una alerta de actualización en la minibarra que indica que los grupos se crearon.
+Mientras esto está en progreso, Brightspace indicará que la “Creación de grupos está curso”. Durante el procesamiento, no puede realizar cambios en los grupos o las inscripciones.
+Restaurar equipos de trabajo y categorías que se han eliminado
+Los equipos de trabajo y las categorías que se han eliminado se mueven a una Papelera de reciclaje, lo que permite a los usuarios restaurar unidades de equipos individuales o categorías completas dentro de una oferta de cursos. Cuando restaura equipos de trabajo, las inscripciones y los casilleros existentes también se restablecen (si están presentes). Cualquier actividad vinculada a los equipos de trabajo restaurados, como debates o asignaciones, se puede restaurar individualmente a través de sus respectivas páginas de restauración.
+Para restaurar grupos y categorías que se han eliminado
+- En la barra del navegador o desde el menú Administración del curso, haga clic en Equipos de trabajo.
+- En la página Administrar equipos de trabajo, haga clic en Papelera de reciclaje.
+- En la página Papelera de reciclaje, seleccione el elemento que desea restaurar.
+- Haga clic en Restaurar.
+Inscribir líderes de cursos en grupos
+La forma de inscribir a un líder de curso en los grupos depende de si tienen acceso a todos los grupos o solo a determinados grupos. Los usuarios deben tener acceso a todos los grupos si son responsables de mediar, calificar y trabajar los materiales para toda la clase. Los usuarios deben tener acceso a grupos determinados si solo son responsables de mediar, calificar y trabajar los materiales para un grupo particular.
+Agregue el personal que trabaja con grupos selectos de la misma manera en que agrega usuarios. Sin embargo, si un administrador habilita el permiso Puede inscribirse automáticamente en grupos, los usuarios que guían cursos y ayudan a los usuarios (como asistentes educativos) se agregan a los grupos al mismo tiempo que los usuarios regulares; de esta manera, todo su personal o la mayoría podría terminar en el mismo grupo. Asegúrese de que equilibra la inscripción mediante la página Inscribir usuarios.
+Para inscribir líderes de cursos en equipos de trabajo
+- En la página Administrar grupos, haga clic en Inscribir usuarios en el menú contextual de la categoría que contiene el grupo (o los grupos) en el que desea inscribir a un usuario.
+- En el campo Buscar, busque al usuario que desea agregar. Para ver una lista de usuarios que necesitan inscribirse, utilice la opción de búsqueda No inscrito.
+- Para agregar usuarios a los grupos, seleccione las casillas de verificación junto a cada nombre de usuario. Desmarque las casillas de selección para quitar usuarios de los grupos.
+- Haga clic en Guardar.
+Agregue nuevos miembros del equipo de trabajo después de la evaluación
+Cuando publica una evaluación para una asignación de equipo de trabajo y posteriormente agrega estudiantes adicionales a ese equipo, estos estudiantes recién agregados no reciben automáticamente la calificación o la evaluación de resultados ya publicada del equipo de trabajo.
+Los estudiantes recién agregados pueden ver la evaluación publicada en la herramienta Asignaciones, pero no la ven en la herramienta Calificaciones ni en la herramienta de progreso de la clase, a menos que la actualice manualmente.
+Puede realizar una de las siguientes acciones para asegurarse de que la calificación aparezca para los estudiantes recién agregados:
+- Actualice la evaluación del equipo de trabajo publicada en la herramienta Asignaciones, que vuelve a aplicar la evaluación a todos los miembros actuales del equipo de trabajo.
+- Ingrese manualmente una calificación para los estudiantes afectados en la herramienta Calificaciones.
+Este comportamiento garantiza que los cambios de calificación realizados después de la publicación sean explícitos y estén bajo su control.
+Activar identificadores adicionales para los estudiantes
+Los instructores pueden diferenciar entre los nombres duplicados de los estudiantes mediante la visualización del nombre de usuario o el ID definido por la organización junto al nombre de un estudiante. Los instructores pueden activar esta opción desde las herramientas Administrar grupos y Administrar secciones.
+Asegúrese de que el permiso del usuario Ver ID definidos por la organización del usuario y el permiso de privacidad de la información del usuario Ver nombres de usuario estén activados.
+- En las páginas Administrar grupos o Administrar secciones, haga clic en Configuración.
+- En Detalles del usuario, asegúrese de seleccionar Nombre de usuario e ID definido por la organización para activar los detalles del usuario correspondientes.
+Eliminar a un usuario de un grupo
+Cuando elimina un usuario de un grupo, todos sus archivos se mantienen en el sistema, incluidos las publicaciones de debate, los envíos de Asignaciones y los archivos de Casillero.
+- En la página Administrar grupos, en la lista desplegable Ver categorías, seleccione la categoría que contiene los grupos con los usuarios que desea eliminar.
+- En el menú contextual de la categoría, haga clic en Inscribir usuarios.
+- En la página Inscribir usuarios, junto al nombre del usuario, desmarque la casilla de selección para cada grupo del que desea quitar al usuario.
+- Haga clic en Guardar.
+Inscripción y anulación de inscripciones de usuarios de forma masiva mediante la importación de archivos
+Importe los cambios de inscripción de equipos de trabajo mediante un archivo CSV o TXT que contenga los datos de inscripción de los usuarios. Puede crear archivos manualmente para importar o utilizar la plantilla CSV descargable que se proporciona en la página Importar en la herramienta Equipos de trabajo. Haga clic en el enlace Ver las instrucciones sobre cómo crear su archivo CSV para ver el formato del archivo, los campos obligatorios y opcionales, y las acciones disponibles.
+Antes de comenzar
+- Asegúrese de que todos los estudiantes incluidos en el archivo CSV estén inscritos actualmente en el curso.
+- Puede inscribir y anular la inscripción de estudiantes en varios equipos de trabajo con un solo archivo, pero cada línea debe hacer referencia a una sola acción de estudiante y grupo.
+- Solo puede ejecutar un proceso de importación a la vez. Una vez iniciado, la cancelación del proceso de importación no deshace las acciones ya completadas.
+- Prepare un archivo CSV de acuerdo con las instrucciones proporcionadas en la página Importar.
+Para importar un archivo CSV con las actualizaciones de inscripción de los equipos de trabajo
+-
+En la página Administrar equipos de trabajo, realice una de las siguientes acciones:
+- Haga clic en Importar en la barra de herramientas de la página.
+- En el menú desplegable Categoría, seleccione Importar.
+- Siga las instrucciones en pantalla para preparar su archivo CSV. Haga clic en Descargar plantilla CSV para utilizar la plantilla proporcionada.
+- Guarde el archivo en una carpeta de su dispositivo.
+- Selecciona una categoría en el menú desplegable Seleccionar categoría.
+- Haga clic en Elegir archivo para buscar la ubicación de su archivo CSV.
+- Haga clic en Importar archivo.
+- Una vez finalizado el proceso, realice una de las siguientes acciones:
+- Haga clic en Salir.
+- Haga clic en Ver resultados de la importación.
+Los cambios en la inscripción de los equipos de trabajo se aplican de inmediato.
+Preparar un archivo para importar actualizaciones de inscripción masiva en Equipos de trabajo
+Para inscribir o cancelar la inscripción de estudiantes en equipos de trabajo con un archivo CSV, puede crear un archivo manualmente o descargar la plantilla CSV en la página Importar.
+Requisitos de formato de archivo
+- Guarde el archivo con la extensión .csv o .txt.
+- Utilice comas para separar los campos.
+- Coloque la información de cada estudiante en una nueva línea.
+- La primera columna de la plantilla es una ACCIÓN, que especifica el tipo de inscripción. El sistema interpreta cada línea del archivo como una acción independiente, ya sea inscripción o cancelación de inscripción.
+Campos obligatorios
+Los siguientes campos deben aparecer en el archivo en este orden exacto:
+Los campos en blanco se ignoran y no generan cambios
+Acciones.
+Cada línea del archivo debe comenzar con una de las siguientes acciones:
+- INSCRIBIR: inscribe a un estudiante en un equipo de trabajo específico
+- Formato:
+INSCRIBIR, *Username, ID definida por organización, GroupName, *GroupCode
+- ANULAR INSCRIPCIÓN : Elimina a un estudiante de un equipo de trabajo específico
+- Formato:
+ANULAR INSCRIPCIÓN, *Username, ID definida por organización, GroupName, *GroupCode
+Exportar detalles de equipos de trabajo e inscripciones
+Haga clic en Exportar en la herramienta Equipos de trabajo para descargar la información de la categoría de grupo, incluidas las inscripciones de usuarios y las fechas de inscripción. La opción Exportar solo aparece si existe al menos una categoría de grupo en su curso.
+Para exportar los detalles del equipo de trabajo:
+- Realice una de las siguientes acciones:
+- En la página Administrar equipos de trabajo, haga clic en Exportar. En el menú desplegable Seleccionar categoría, elija la categoría que desea incluir en el CSV.
+- Seleccione Exportar en la lista desplegable de categoría.
+- En el menú desplegable Seleccionar equipo de trabajo, elija el equipo que desea incluir o haga clic en Seleccionar todo.
+- Haga clic en Exportar.
+- Haga clic en Descargar.
+El archivo CSV se descarga con los nombres de equipo de trabajo, los detalles de usuario y las fechas de inscripción.
+Configuración de autoinscripción en grupos
+Para configurar la autoinscripción en grupos
+La autoinscripción permite que los usuarios se inscriban ellos mismos en grupos. Utilice esta opción cuando desee que los usuarios puedan elegir sus propios miembros del grupo, o ser parte de un grupo sobre un tema que les interesa.
+Los usuarios pueden autoinscribirse en los grupos si hacen clic en el enlace Elegir grupo junto al nombre de una categoría de grupo configurada para la autoinscripción. Cuando la autoinscripción está disponible, se muestra un enlace en la parte superior de la página Grupos del usuario. De forma predeterminada, los usuarios no pueden autoinscribirse en más de un grupo. Los instructores pueden agregar usuarios a otros grupos en cualquier momento.
+Si un grupo está completo, la columna Miembros muestra la cantidad total de los miembros del grupo en rojo con la palabra "(Completo)" junto a él. Si un estudiante desea salir de un grupo en el que se autoinscribió antes de la fecha y hora especificadas por la opción Establecer la fecha de caducidad de la autoinscripción (si se selecciona), en la página Mis grupos, puede hacer clic en Abandonar grupo si esta opción está configurada.
+Cuando se hace clic en el marcador de capacidad o en el total que figura en la columna Miembros, se abre la ventana emergente Miembros del grupo que contiene una lista de los miembros actuales del grupo. No puede hacer clic en los grupos vacíos.
+- En la página Administrar grupos, haga clic en Nueva categoría.
+- Ingrese un Nombre de categoría y una Descripción.
+- Seleccione una de las siguientes opciones en la lista desplegable Tipo de inscripción:
+- Grupos de #: autoinscripción
+- # de grupos: autoinscripción
+- N.° de grupos, capacidad n.°: autoinscripción
+- De acuerdo con el tipo de inscripción seleccionado, ingrese la Cantidad de grupos que desea crear, o la Cantidad de usuarios por grupo o bien, ambas opciones.
+- Para controlar las fechas de disponibilidad de autoinscripción, seleccione las casillas de selección Para controlar las fechas de disponibilidad de autoinscripción, seleccione las casillas de selección o Establecer fecha de vencimiento de la autoinscripción, y seleccione las fechas y horas en el campo de calendario en miniatura.
+- Para asociar las áreas de debate con los grupos de la categoría, seleccione Configurar áreas de debate.
+- Para asociar las áreas de casillero con los grupos de la categoría, seleccione Configurar casilleros.
+- Para asociar las asignaciones con los grupos de la categoría, seleccione Configurar asignaciones.
+- Haga clic en Guardar.
+Ver cómo autoinscribirse en un grupo
+Restringir las inscripciones a equipos de trabajo específicos
+Los instructores pueden crear subgrupos en función de la inscripción de sección o grupo, en la herramienta Equipos de trabajo. Los instructores solo pueden aplicar una restricción de inscripción a un subgrupo.
+- En la barra de navegación del curso, haga clic en Grupos.
+- En Administrar grupos, haga clic en Nueva categoría y complete la información de la categoría.
+- En Limitar las inscripciones a, seleccione el grupo o la sección pertinente. El campo Prefijo del grupo se completa automáticamente de acuerdo con el grupo o la sección seleccionados, pero puede editarlo antes de guardarlo.
+- Haga clic en Guardar.
+Insertar enlace de autoinscripción de grupo
+En la herramienta de contenido, los instructores pueden crear un enlace de autoinscripción para grupos de debate a fin de facilitar la clasificación en grupos de los miembros de un curso con muchos estudiantes.
+Para insertar un enlace de Autoinscripción de grupo
+- Vaya a Contenido.
+- Haga clic en Crear nuevo.
+- En la página ¿Qué le gustaría crear?, haga clic en Nueva lección.
+- Ingrese los detalles de su tema.
+- En el Editor de Brightspace, haga clic en Insertar enlace rápido.
+- En el cuadro de diálogo Insertar enlace rápido, seleccione Grupos de autoinscripción.
+- Seleccione un grupo en la ventana Grupos de autoinscripción y haga clic en Seleccionar.
+- En la página de creación de la Nueva lección, haga que su tema sea Visible y haga clic en Guardar y cerrar.
+Creó un enlace de autoinscripción de grupo.
+¿Qué ocurre cuando mueve los usuarios a un nuevo grupo?
+Cuando mueve los usuarios a un nuevo grupo
+Las publicaciones de debate permanecen en el grupo antiguo y no cuentan para la calificación del usuario si el foro o el tema está asociado a un elemento de calificación. El usuario debe cumplir con los requisitos de la publicación de debate en la nueva sección. Puede anular una calificación con la herramienta Calificaciones.
+Los archivos de casillero permanecen en el antiguo grupo. Los usuarios deben agregar personalmente los archivos que desean mantener en la nueva área de Casillero.
+Los envíos de asignaciones del grupo antiguo permanecen con el grupo antiguo. El usuario recibe la calificación lograda por el grupo nuevo en cualquier asignación del grupo. Puede cambiar la calificación del usuario por la marca del grupo original en la herramienta Calificaciones.
+¿Qué ocurre cuando elimina un grupo o una categoría de grupo?
+Cuando elimina un grupo, ocurre lo siguiente:
+- Si ha seleccionado la opción Inscribir automáticamente a usuarios nuevos, los usuarios se distribuyen automáticamente en los equipos de trabajo restantes.
+- Si los grupos se configuran para la inscripción manual, los usuarios deben agregarse a los grupos restantes mediante la página Inscribir usuarios.
+- Los foros de debate de grupo permanecen disponibles como referencia. Puede eliminarlos en la herramienta Debates.
+- Las áreas de Casillero grupal y los archivos que contienen se eliminan.
+- Las asignaciones grupales y los archivos que contienen se eliminan.
+Cuando elimina una categoría, ocurre lo siguiente:
+- Los usuarios ya no están inscritos en grupos, porque estos no existen.
+- Los foros de debate de grupo permanecen disponibles como referencia. Puede eliminarlos en la herramienta Debates.
+- Las áreas de Casillero grupal y los archivos que contienen se eliminan.
+- Las asignaciones grupales y los archivos que contienen se eliminan.
+Las eliminaciones de equipos de trabajo y categorías se ejecutan como trabajos en segundo plano para reducir los tiempos de espera y los errores. Esto se aplica a todos los métodos de eliminación de grupos, incluso a través de la página Administrar equipos de trabajo, el Editor de unidades de organización, las integraciones de SIS, como Banner o IPSIS, o las rutas de eliminación de API.

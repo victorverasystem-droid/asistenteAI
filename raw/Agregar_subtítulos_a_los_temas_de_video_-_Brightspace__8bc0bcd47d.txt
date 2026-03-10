@@ -1,0 +1,27 @@
+URL: https://community.d2l.com/brightspace-es-MX/kb/articles/16403-agregar-subtitulos-a-los-temas-de-video
+TITLE: Agregar subtítulos a los temas de video - Brightspace
+HASH: 8bc0bcd47d79ef42555e1ec84c15fdd4fc5f2fe7c63393bf319b199835bde678
+TYPE: web
+
+Para agregar subtítulos a los videos cargados, cargue un archivo SRT o WebVTT. También puede adjuntar más de un archivo de subtítulos a un video con el fin de adaptarse a más de un idioma. Esto puede hacer que el video esté disponible para un público más amplio. Los subtítulos se muestran a los estudiantes como subtítulos en el reproductor de video. Los estudiantes pueden decidir si quieren ver el video con los subtítulos activados, así como cuál de los idiomas disponibles desean utilizar. Los subtítulos no se generan automáticamente para los videos ni se traducen automáticamente a diferentes idiomas. El archivo de subtítulos se carga en una subcarpeta en la misma ubicación que el archivo de video. Solo se pueden agregar subtítulos a los videos que cargue. Si desea incluir subtítulos para videos web alojados en otro sitio, como YouTube, debe respetar las prácticas de dicho sitio.
+Agregar subtítulos a los temas de video en la Experiencia de contenido nuevo
+Puede agregar subtítulos a los temas de video en la Nueva experiencia de contenido (Lecciones)
+Para agregar subtítulos
+- Vaya a Contenido.
+- Haga clic en el módulo en el que desea crear un tema de video nuevo.
+- Haga clic en Agregar material existente.
+Figura: La opción Agregar existente para un módulo.
+- En la página ¿Qué le gustaría agregar?, haga clic en el enlace Examinar.
+Figura: La página ¿Qué le gustaría agregar? con el enlace Examinar.
+- Seleccione el archivo SRT o WebVTT que desea cargar y haga clic en Abrir.
+Agregar subtítulos a los temas de video en la Experiencia de contenido clásico
+Puede agregar subtítulos a los temas de video en la Experiencia de contenido clásico
+Para agregar subtítulos
+- Vaya a Contenido.
+- En el panel Tabla de contenidos, haga clic en el módulo para el que desea crear un tema de video nuevo.
+- En el botón Cargar/crear, haga clic en Video o audio.
+- En la pestaña Cargar, cargue el video.
+- Haga clic en Agregar subtítulos.
+- En la lista desplegable Idioma de subtítulo, seleccione un idioma.
+- Para cargar el archivo SRT o WebVTT que contiene los subtítulos del video, haga clic en Examinar. Busque el archivo y haga clic en Abrir.
+- Haga clic en Listo > Guardar.

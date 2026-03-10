@@ -1,0 +1,17 @@
+URL: https://community.d2l.com/brightspace-es-MX/kb/articles/33889-calendario
+TITLE: Calendario - Brightspace
+HASH: 7a4b375456affd75f509ba9115bfbc21d275dab2b4256b5cf3da2b909201ae4a
+TYPE: web
+
+Vea todos sus próximos eventos en un solo lugar. Agregue al calendario eventos como fechas de vencimiento de proyectos, horarios de consulta, eventos en clase y más.
+Recorrido visual: Herramienta Calendario
+Figura: La herramienta Calendario se organiza en varias secciones, que se describen a continuación.
+- Vistas de calendario: Alterne entre diferentes diseños de visualización de eventos
+- Utilice la vista Agenda para agrupar los eventos de su curso por Fecha, Curso o Categoría. Los eventos se muestran en orden cronológico y los eventos de día entero se muestran en la parte superior de cada listado agrupado.
+- Con las vistas de día, semana y mes, agrupe sus eventos en incrementos diarios, semanales o mensuales.
+- Con la vista de lista, filtre sus eventos por asignaciones, listas de control, debates, calificaciones, materiales, módulos, cuestionarios y encuestas.
+- Contenido del calendario: Navegue por sus eventos del calendario. La información que se muestra dependerá del calendario específico que esté viendo.
+- Menú de calendario: Seleccione los eventos del calendario que desea ver mediante el menú del calendario. También puede cambiar el esquema de colores asociado a los calendarios individuales y agregar nuevos calendarios.
+- Minicalendario: Utilice el minicalendario para navegar rápidamente a un día, una semana o un mes específicos.
+- Tareas: Utilice el panel de tareas para crear, controlar y mantener las tareas personales.
+Descripción general de video: Herramienta Calendario

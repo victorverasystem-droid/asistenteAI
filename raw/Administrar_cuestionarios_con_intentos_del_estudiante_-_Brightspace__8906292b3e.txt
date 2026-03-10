@@ -1,0 +1,63 @@
+URL: https://community.d2l.com/brightspace-es-MX/kb/articles/10937-administrar-cuestionarios-con-intentos-del-estudiante
+TITLE: Administrar cuestionarios con intentos del estudiante - Brightspace
+HASH: 8906292b3e24a67cf3c6dd2ab6a3c72431b3652b3c07b3f8414c7c4a16c677c7
+TYPE: web
+
+Puede editar un cuestionario después de que un estudiante haya realizado un intento. Brightspace registra un intento de cuestionario como cualquier cuestionario que inicia (en curso) o completa (enviado) un estudiante.
+Editar las fechas de vencimiento y los límites de tiempo del cuestionario
+Lo siguiente se aplica a las ediciones de la fecha de vencimiento y los límites de tiempo de los cuestionarios con los intentos del estudiante:
+- Las fechas de vencimiento y los límites de tiempo existentes se bloquean en el momento en que un estudiante inicia un intento de cuestionario.
+- Las configuraciones aplicadas después de que se inicie el cuestionario se aplicarán al intento, excepto en el caso de ajustes y acceso especial.
+- Solo los nuevos intentos de cuestionario utilizarán la configuración actualizada de fecha de vencimiento y límite de tiempo.
+Editar los puntajes y calificaciones del cuestionario
+Los cambios que alteran la puntuación o el método de calificación de las preguntas del cuestionario solo se aplican a la versión editada del cuestionario para los intentos futuros.
+Los siguientes tipos de ediciones para las preguntas del cuestionario pueden cambiar la calificación general de un cuestionario.
+- Cambio de los puntos asociados con una pregunta en un cuestionario
+- Adición o eliminación de una pregunta
+- Cambio del estado de puntos extra de una pregunta
+El contenido del cuestionario y las ediciones de los puntajes no se aplican a los intentos completados ni los intentos en curso. Los intentos anteriores del cuestionario reflejan su contenido y la puntuación tal como aparecieron para cada estudiante en el momento exacto en que comenzó su intento.
+Los cálculos generales de calificaciones aparecen de la siguiente manera para los cuestionarios editados con intentos anteriores sin alterar:
+- Cuando se utilizan los métodos Intento más alto, Primer intento, Último intento e Intento más bajo, se utilizan el numerador y el denominador del intento real del estudiante para calcular la calificación general. El denominador en Calificación general para los intentos anteriores no se cambia mediante las ediciones que alteran la puntuación del cuestionario para los intentos futuros. La calificación general se determina por la puntuación del porcentaje más alto en todos los intentos.
+- Para el método Intento promedio, las puntuaciones del porcentaje del estudiante se promedian y se muestran mediante el denominador de la versión editada más reciente del cuestionario.
+Actualizar las calificaciones para todos los intentos de una pregunta del cuestionario
+Puede alterar directamente las calificaciones del estudiante en preguntas específicas en los intentos anteriores con respecto a un cuestionario editado mediante la opción Actualizar todos los intentos.
+Para actualizar las calificaciones para los cuestionarios realizados
+- Vaya a Cuestionarios.
+- En el menú desplegable Acciones del cuestionario que ha editado, haga clic en Calificación.
+- En la pestaña Preguntas, seleccione Actualizar todos los intentos.
+- Haga clic en la pregunta del cuestionario que desea calificar para abrir la página Actualizar todos los intentos.
+- En Tipo de calificación, seleccione una de las siguientes opciones:
+- Dar a todos los intentos: ingrese un valor de punto para todos los intentos de pregunta.
+- Dar a los intentos con respuesta: seleccione una respuesta del menú desplegable e ingrese un valor de punto para todos los intentos con esa respuesta.
+- Haga clic en Guardar.
+Todos los intentos de esa pregunta específica tienen una calificación actualizada.
+Eliminar intentos de cuestionario
+estudiantes pueden tener problemas técnicos cuando realicen un cuestionario. Si es necesario, puede restablecer un intento de cuestionario para su estudiante y proporcionar la oportunidad de volver a tomar sus cuestionarios mediante la eliminación de los intentos.
+Para eliminar intentos de cuestionario
+- En la barra de navegación, haga clic en Cuestionarios.
+- En la página Administrar cuestionarios, en el menú desplegable junto al cuestionario con intentos que desee restablecer, haga clic en Calificación.
+- Seleccione los intentos que desea eliminar y, a continuación, haga clic en el botón Eliminar en la parte superior de la lista de intentos de cuestionario.
+Enviar cuestionarios en curso
+A veces, los no pueden hacer clic en el botón Enviar cuando realiza un cuestionario. Si se olvida de hacer clic en Enviar, el intento de cuestionario aparecerá como faltante. Puede hacerse pasar por el estudiante y buscar su intento con el fin de enviar el cuestionario en su nombre.
+Para enviar un cuestionario en curso en nombre de un estudiante
+- En Cuestionarios, en la página Administración de cuestionarios, haga clic en el menú desplegable que aparece junto al cuestionario que desea calificar.
+- SeleccioneCalificar.
+- En la pestaña Usuarios, haga clic en Mostrar opciones de búsqueda.
+- En el menú desplegable Restringir a, seleccione Todos los usuarios o Usuarios con intentos en curso.
+- Haga clic en Buscar (ícono de lupa) para aplicar el filtro Restringir a.
+- Haga clic en el ícono Ingresar al cuestionario como usuario que aparece junto al cuestionario en curso y haga clic en Enviar para enviar el cuestionario como ese usuario.
+Usted envía el cuestionario en curso en nombre del estudiante.
+Volver a abrir un intento de cuestionario enviado
+Puede volver a abrir el intento de cuestionario enviado más reciente si un estudiante se queda sin tiempo, no envía el cuestionario antes de la fecha final o lo envía por error. Esta medida ayuda a reducir la frustración que causan los materiales enviados de forma automática y mejora la flexibilidad para administrar cuestionarios.
+Para volver a abrir un intento de cuestionario enviado
+- En Cuestionarios, en la página Administración de cuestionarios, haga clic en el menú desplegable que aparece junto al cuestionario que desea volver a abrir.
+- SeleccioneCalificar.
+- Seleccione todos los intentos que desea volver a abrir y haga clic en Reopen (Volver a abrir).
+- Agregue tiempo adicional si es necesario y confirme el intento de reapertura.
+Los estudiantes pueden reanudar el cuestionario desde donde lo dejaron.
+Restablecer restricciones de sesión
+Si anteriormente habilitó Bloquear cada intento en una sola sesión iniciada para exigir que los estudiantes completen un cuestionario dentro de una sola sesión de inicio de Brightspace, puede restablecer la restricción de sesión en un intento específico si es necesario.
+Para restablecer las restricciones de la sesión
+- Vaya a la página de intentos del estudiante y haga clic en Restablecer.
+- En la ventana de confirmación, haga clic en Restablecer la restricción.
+La restricción de sesión para ese intento se restablecerá.

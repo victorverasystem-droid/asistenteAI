@@ -1,0 +1,43 @@
+URL: https://community.d2l.com/brightspace-es-MX/kb/articles/16404-asociar-el-contenido-del-curso-con-los-resultados-de-aprendizaje
+TITLE: Asociar el contenido del curso con los Resultados de aprendizaje - Brightspace
+HASH: 63300754c4c299cbc1ee5a5d72cdc3a3e6373ec7af35d51147fc484d8a6cfe1a
+TYPE: web
+
+Utilice Resultados de aprendizaje para asociar el contenido del curso con las expectativas de aprendizaje y agregar valor al trabajo de curso de sus estudiantes.
+Agregar resultados de aprendizaje a un tema de contenido
+Agregue Resultados de aprendizaje cuando crea nuevos tipos de temas de contenido, incluidos estos ejemplos:
+- Asignaciones
+- Debates
+- Páginas
+- Archivos cargados (como documentos PDF)
+- Enlaces web
+- LTI
+- Paquetes LOR y SCORM
+- Archivos multimedia (audio y video)
+Cómo agregar un Objetivo de aprendizaje a temas de contenido
+- En Contenido, haga clic en Crear nuevo y elija un tipo de tema de contenido que admita los Resultados de aprendizaje.
+- En la página Nuevo [tipo de contenido], ingrese los detalles en los campos correspondientes y, luego, haga clic en Estándares.
+- Marque las casillas de selección de los Resultados de aprendizaje que se alinean con su tema de contenido.
+- Haga clic en Guardar.
+Editar alineaciones de Resultados de aprendizaje de un curso
+Cómo editar alineaciones de Resultados de aprendizaje de un curso
+- Desde el área de contenido, seleccione una unidad o un elemento del material del curso.
+- En el (…) menú Opciones, seleccione Ver estándares.
+- Haga clic en Editar alineaciones de estándares y marque las casillas de selección de los Resultados de aprendizaje que se alinean con su tema de contenido.
+- Haga clic en Guardar cambios.
+- Haga clic en X para salir.
+Cuando elimina los resultados de la administración individual, aparecen los siguientes mensajes de advertencia:
+- Advertencia cuando el resultado está vinculado a actividades eliminadas: si un resultado está asociado con una actividad eliminada (como una asignación, un debate o un cuestionario) y un usuario intenta eliminarla, un mensaje emergente advierte al usuario que el resultado aún puede tener evaluaciones vinculadas a ella.
+- Confirmación cuando no hay evaluaciones vinculadas: si no hay evaluaciones asociadas con el resultado, aparece un mensaje solicitando al usuario que confirme la eliminación.
+Identificar brechas en los Resultados de aprendizaje
+Cómo identificar brechas en los Resultados de aprendizaje
+- Vaya a Contenido.
+- Haga clic en Estándares.
+- En la página Cobertura de estándares, marque la casilla de selección Mostrar solo los estándares que no tengan materiales del curso.
+- Determine si los Resultados de aprendizaje no están vinculados con los materiales del curso.
+- Cierre el diálogo y seleccione una unidad en la tabla de contenido.
+- En el menú Opciones (…), seleccione Ver estándares.
+- Haga clic en Editar alineaciones de estándares.
+- Haga clic en las casillas de selección de cualquiera de los Resultados de aprendizaje disponibles para asociarlos con el material de la unidad seleccionada.
+- Haga clic en Guardar cambios.
+- Haga clic en X para salir.

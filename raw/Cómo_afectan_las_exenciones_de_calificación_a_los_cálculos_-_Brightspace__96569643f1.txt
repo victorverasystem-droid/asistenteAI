@@ -1,0 +1,30 @@
+URL: https://community.d2l.com/brightspace-es-MX/kb/articles/11032-como-afectan-las-exenciones-de-calificacion-a-los-calculos
+TITLE: Cómo afectan las exenciones de calificación a los cálculos - Brightspace
+HASH: 96569643f186d0bd4deb7bda9af54282ef1df92a2a7d5ba093ca95c3592dd4b0
+TYPE: web
+
+Las exenciones de calificación afectan la forma en que Brightspace calcula los puntajes de las categorías, los elementos de calificación calculados y los elementos de calificación de fórmula. Cuando un estudiante está exento de un elemento de calificación, ese elemento se considera como si no existe en la estructura de calificaciones.
+Este comportamiento no solo afecta la calificación individual, sino también la forma en que se evalúan las categorías y fórmulas, especialmente cuando se aplican reglas de anulación o cálculos personalizados.
+Consulte Acerca de las exenciones para obtener detalles sobre cómo agregar o eliminar una exención.
+Puntuaciones de categorías que incluyen excepciones
+Para las puntuaciones de categorías, las exenciones de calificaciones afectan las puntuaciones de la siguiente manera:
+- Los elementos de calificación exentos están excluidos del cálculo de las puntuaciones de categorías. El elemento de calificación se trata como si no existiera dentro de la categoría.
+- En una categoría con reglas de eliminación, los elementos exentos se eliminan antes de que la cantidad especificada de elementos de calificación. A continuación, la categoría se calcula con los elementos restantes.
+- Si todos los elementos de una categoría están exentos, no hay puntuaciones de elementos de calificación para utilizar cuando se calcula una puntuación de categoría. En este caso, la categoría no tiene una puntuación.
+- En un cuaderno de calificaciones ponderado, la exención de un elemento de categoría provoca que las ponderaciones de los elementos restantes no alcancen el 100 %. Brightspace ajusta automáticamente las ponderaciones de los elementos restantes de manera proporcional.
+Elementos de calificación calculados que incluyen exenciones
+Para las puntuaciones calculadas de un elemento de calificación, las exenciones de calificación afectan las puntuaciones de la siguiente manera:
+- Los elementos exentos se excluyen de la puntuación calculada.
+- Si todos los elementos en un elemento de calificación calculado están exentos, el elemento no tendrá una puntuación calculada.
+Elementos de calificación por fórmula que incluyen exenciones
+Para los elementos de calificación por fórmula, las exenciones de calificación afectan las puntuaciones de la siguiente manera:
+- Las fórmulas tratan las exenciones como calificaciones vacías (nulas); sin embargo, se ignora la configuración Tratar elemento sin calificar como 0. Si se exime a un estudiante de una calificación, entonces la exención y los resultados en cascada se tratan como nulos.
+- Si se utilizó un elemento de calificación por fórmula en otra fórmula y la fórmula anterior está vacía (nula), entonces se la trata como si estuviera exenta durante el cálculo de la fórmula.
+En la siguiente tabla se describen las normas de evaluación actualizadas para las fórmulas:
+Para las calificaciones únicas:
+Suma/resta (+/-):
+Multiplicación/división (*//)
+Igualdad (=)
+Desigualdad (<>)
+Mayor/menor que (>/<)
+Mayor/menor que o igual a (>=/<=)

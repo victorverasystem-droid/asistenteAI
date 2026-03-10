@@ -1,0 +1,46 @@
+URL: https://community.d2l.com/brightspace-es-MX/kb/articles/11034-acerca-de-los-grupos-y-las-secciones
+TITLE: Acerca de los grupos y las secciones - Brightspace
+HASH: 3b1cfc3b5cc80b4fef9f44c557506378adace2af49995a01cb515f21efa862d4
+TYPE: web
+
+Acerca de los grupos
+Si desea que los estudiantes vean a todos los estudiantes y el contenido de un curso, pero que formen parte de un grupo para un proyecto o una actividad específicos, use la herramienta Grupos.
+Tenga presente lo siguiente sobre los grupos:
+- Como prioridad, los grupos tienen una Categoría que se crea dentro de una oferta de cursos en la herramienta Grupos. Antes de agregar los grupos, primero debe crear la categoría.
+- Con una Categoría de grupo, se pueden restringir las inscripciones a solo aquellas en las secciones o los grupos asociados de la oferta de cursos, o permitir inscripciones para todos los estudiantes en el Listado de alumnos.
+- Se pueden crear Debates, Asignaciones y Casilleros dentro de la categoría que se compartirá entre aquellos inscritos en ese equipo de trabajo.
+Requisitos de la herramienta Grupos
+Para usar la herramienta Grupos, se requiere lo siguiente:
+- Para ver y usar la herramienta Grupos, debe tener los permisos de Grupos requeridos aplicados a su rol. Solo el administrador de su organización puede acceder a estos permisos.
+- Para agregar la herramienta Grupos a la barra de navegación de su curso, debe tener los permisos de Barra de navegación necesarios aplicados a su rol. Para obtener más información sobre cómo agregar una herramienta o un enlace a la barra de navegación del curso, consulte el tema Personalice la barra de navegación del curso.
+Recorrido visual de la herramienta Grupos
+- Cree un nuevo grupo Categoría para organizar y administrar grupos relacionados.
+- Restaure las categorías o los equipos de trabajo eliminados desde la Papelera de reciclaje.
+- Consulte las categorías de grupos específicos seleccionándolas en el menú desplegable.
+- Envíe correos electrónicos o elimine grupos seleccionados.
+- Revise y edite grupos en una categoría:
+- Seleccione un grupo para editarlo e inscribir estudiantes en él.
+- Seleccione una cantidad de miembros para revisar los estudiantes ya inscritos en un curso.
+- Revise las asignaciones, debates o elementos de almacenamiento relacionados con grupos específicos.
+- Cambie la configuración de visualización de grupos u obtenga más información sobre grupos haciendo clic en Ayuda.
+-
+Importe los grupos mediante un archivo CSV o TXT que contenga los datos de inscripción de los usuarios.
+-
+Exporte los detalles de equipos de trabajo e inscripciones desde una categoría de grupo seleccionada como un archivo CSV.
+Acerca de las secciones
+Use la herramienta Secciones para dividir su clase en secciones y así administrar un gran volumen de inscripciones. Las secciones facilitan la organización de asistentes, asignaciones y calificaciones. La herramienta Secciones permite mantener aislados a los estudiantes de aquellos en otras secciones bajo la misma oferta. Por ejemplo, Cursos de día concurrente frente a Cursos por la noche asociados con una oferta de cursos común. Cuando existen secciones en un curso, los estudiantes solo ven los materiales de aprendizaje y los estudiantes de su propia sección.
+Requisitos de la herramienta Secciones
+Para usar la herramienta Secciones, se requiere lo siguiente:
+- Para ver y usar la herramienta Secciones, debe tener los permisos de Secciones requeridos aplicados a su rol. Solo el administrador de su organización puede acceder a estos permisos.
+- Para habilitar secciones para su curso, vaya a la página Administración del curso > Información de oferta de cursos de un curso y seleccione El curso tiene secciones.
+- Para localizar la herramienta Secciones, vaya a Administración del curso desde la barra de navegación.
+Recorrido visual de la herramienta Secciones
+- Agregar sección: agregue una sección nueva a su curso.
+- Inscribir usuarios: inscriba a usuarios en una sección.
+- Ver secciones: consulte una lista detallada de todas las secciones y estudiantes inscritos en una sección.
+- Editar propiedades generales de la sección: edite las propiedades de sección de su curso.
+- Enviar correo electrónico, inscribir, eliminar: envíe correos electrónicos a los estudiantes de una sección, inscríbalos en una sección o elimine secciones.
+- Revise y edite las secciones de la tabla haciendo clic en los elementos de Nombre, Código o Usuarios.
+- Configuración: cambie la configuración de visualización de la sección u obtenga más información sobre secciones haciendo clic en Ayuda.
+Consideraciones para la configuración de las secciones
+Video: Definir grupos y secciones

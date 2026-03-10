@@ -1,0 +1,34 @@
+URL: https://community.d2l.com/brightspace-es-MX/kb/articles/33885-acerca-de-lumi-chat-de-d2l
+TITLE: Acerca de Lumi Chat de D2L - Brightspace
+HASH: 68018c0def2dbeb709f1362e17a7d118b0726b2cbf030fe074a93d24253b9542
+TYPE: web
+
+Lumi Chat de D2L es una herramienta de ayuda basada en IA que se integra directamente en Brightspace como una ventana emergente desde el botón de burbuja de diálogo en la esquina inferior derecha de la pantalla. Después de escribir una pregunta, Lumi Chat utilizará respuestas generadas por la IA para proporcionar soluciones. Las respuestas generadas toman la consulta del usuario, identifican su intención y crean una respuesta de texto libre con la información de las bases de conocimiento de D2L, además de vincular los recursos de documentación relacionados según corresponda. Al acceder a la documentación de soporte, puede encontrar flujos de trabajo, artículos y videos que lo ayudarán a completar su tarea.
+Si aún necesita más ayuda, puede comunicarse con un agente de apoyo en vivo directamente desde Brightspace sin buscar información de contacto de Apoyo para el usuario final de D2L en otro lugar. La posibilidad de comunicarse con el área de asistencia técnica depende del paquete que haya adquirido su organización.
+Después de cerrar Lumi Chat, se le mostrará una encuesta (de satisfacción del cliente) CSAT para recopilar sus comentarios. La encuesta se activará de manera automática cuando cierre la ventana del chat y se puede acceder a ella en cualquier momento a través del ícono de estrella en el chat. La participación en la encuesta es opcional.
+Figura: De manera opcional, puede responder una encuesta para proporcionar sus comentarios sobre Lumi Chat.
+Compatibilidad con idiomas
+Lumi Chat está disponible en los siguientes cuatro idiomas compatibles con el EUS:
+- Inglés
+- Francés (canadiense)
+- Español (Latinoamérica)
+- Portugués de Brasil
+El idioma y la configuración regional elegidos por un usuario en su perfil determinarán el idioma de los mensajes de IA, el idioma de los artículos de soporte y el idioma del soporte recibido en cualquier canal seleccionado (teléfono, correo electrónico, chat).
+Nota: Si el idioma y la configuración regional elegidos por un usuario no son uno de los cuatro idiomas mencionados anteriormente, la experiencia predeterminada será en inglés.
+Acceder a la ayuda con Lumi Chat
+Lumi Chat aparece en la página de inicio de sesión de su organización, pero debe iniciar sesión en Brightspace antes de poder acceder a su funcionalidad completa. Se recomienda mostrar la información de contacto de los recursos de apoyo disponibles si los usuarios experimentan problemas de autenticación de Brightspace.
+Acceder a la ayuda con Lumi Chat
+- Haga clic en el botón Lumi Chat (ícono de burbuja de diálogo) para abrir Lumi Chat.
+Figura: Haga clic en el botón Lumi Chat para hacer una pregunta.
+- Escriba la pregunta relacionada con Brightspace en el cuadro de texto y haga clic en Enviar mensaje.
+Figura: haga clic en Enviar mensaje después de escribir su pregunta.
+- Lumi Chat utilizará IA generativa para responder a la pregunta e incluirá pasos para solucionar su problema, además de una lista de artículos de la comunidad Brightspace que también pueden responder a su pregunta. Pruebe los pasos sugeridos por Lumi Chat haga clic en el enlace de un artículo para leerlo.
+Imagen: lea la respuesta sugerida por la IA generativa de Lumi Chat.
+- Si necesita más ayuda, realice una de las siguientes acciones:
+- Seleccione Preguntas a la comunidad para que se dirija a la Comunidad de Brightspace para publicar su pregunta en un foro de debate y recibir respuestas de otros miembros de la Comunidad.
+- Seleccione Comunicarse con apoyo para obtener más ayuda. Aparecen las siguientes opciones:
+- Llámenos: A los usuarios se les dará el número de teléfono correcto para su organización. Esta opción puede no estar disponible para su organización.
+- Envíenos un correo electrónico: Se creará un caso desde la herramienta y se enviará al Equipo de apoyo al usuario final de D2L.
+- Chatear con nosotros: Los usuarios pueden chatear con un agente de apoyo de D2L en vivo mientras navegan por diferentes áreas de Brightspace.
+Figura: Haga clic en una de las opciones de soporte sugeridas si necesita más ayuda.
+Video: Lumi Chat

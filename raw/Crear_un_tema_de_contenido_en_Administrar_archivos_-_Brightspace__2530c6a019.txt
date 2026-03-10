@@ -1,0 +1,18 @@
+URL: https://community.d2l.com/brightspace-es-MX/kb/articles/10787-crear-un-tema-de-contenido-en-administrar-archivos
+TITLE: Crear un tema de contenido en Administrar archivos - Brightspace
+HASH: 2530c6a01905d315cc4c4b58b0512a78f66ee5528cbebfa969b035dac0a81cdf
+TYPE: web
+
+Crear un tema de contenido en Administrar archivos
+Puede crear un tema de contenido si usa un archivo directamente desde Administrar archivos. El ícono Enlace aparece junto a los archivos en uso como temas en la herramienta Contenido.
+Para crear un tema de contenido en Administrar archivos
+- En la página Administrar archivos, marque las casillas de selección al lado de los archivos que desea designar como temas.
+- Haga clic en el ícono Agregar temas de contenido.
+Figura: haga clic en Agregar temas de contenido para abrir la página Agregar varios temas.
+- En la lista desplegable, elija un Módulo principal para los temas.
+- Introduzca los Títulos del tema. Si cambia el nombre de un archivo que es un tema en su curso, éste actualiza en forma automática la referencia del archivo en el área Administrar contenido.
+- Haga clic en Agregar.
+Figura: la página Agregar varios temas en la que se muestra la lista desplegable Módulo principal. Haga clic en Agregar.
+Video: Crear un tema de contenido en Administrar archivos
+Video: Crear un archivo con Insertar objetos
+Ver cómo crear un archivo e insertar objetos

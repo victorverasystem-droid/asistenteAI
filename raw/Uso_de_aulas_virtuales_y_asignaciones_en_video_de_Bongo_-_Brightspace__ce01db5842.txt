@@ -1,0 +1,38 @@
+URL: https://community.d2l.com/brightspace-es-MX/kb/articles/22933-uso-de-aulas-virtuales-y-asignaciones-en-video-de-bongo
+TITLE: Uso de aulas virtuales y asignaciones en video de Bongo - Brightspace
+HASH: ce01db5842b63ae00d0fcc97c5d72c18b1521a6d939c2b4afb41f8a6ccd16c1f
+TYPE: web
+
+Puede utilizar la integración Aula Virtual por Bongo para crear una sesión de aula virtual o establecer reuniones por video con los estudiantes. Puede elegir guardar sus sesiones y publicarlas en el Brightspace Learning Environment como un recurso. También puede utilizar las Asignaciones en video por Bongo para crear asignaciones en video, lo que permite a los estudiantes responder a los materiales del curso o hacer presentaciones de forma remota.
+Según su organización, puede tener acceso al Aula Virtual, las Asignaciones en video, o ambas.
+Para obtener más información sobre Bongo, consulte la base de conocimientos de Bongo y Brightspace IntegrationHub
+Creación de una sesión de aula virtual
+Para obtener información acerca de cómo crear sesiones de aula virtual, consulte la página de soporte Programar una reunión de aula virtual.
+Para obtener información acerca de cómo crear salas de descanso en las sesiones de aula virtual, consulte la página de soporte Instructores: salas de descanso. Tenga en cuenta que esta opción está disponible solo para usuarios premium de las aulas virtuales de Bongo.
+Crear un enlace rápido a una sesión de aula virtual
+- En la página de inicio del curso, haga clic en Contenido.
+- En el módulo o submódulo al que desea agregar el enlace rápido, desde el botón Actividades existentes, seleccione Aula virtual.
+- Seleccione la reunión que desea agregar o haga clic en Crear reunión para programar una nueva sesión.
+Edición y cancelación de una sesión de aula virtual
+Para obtener información acerca de la edición o cancelación de sesiones en el aula virtual, consulte la página de soporte Programar una reunión de aula virtual
+Creación de asignaciones de video
+La integración estándar en las asignaciones de video le permite crear asignaciones en video para proyectos individuales. Para obtener información sobre la creación de asignaciones de video para proyectos individuales, consulte la página de soporte Configurar proyecto individual.
+Si su organización eligió obtener la versión premium de asignaciones en video, también puede escoger proyectos individuales, proyectos grupales, preguntas y respuestas, y tipos de asignaciones en video interactivas.
+Para obtener información sobre los tipos de asignaciones de video que pueden estar disponibles para usted, consulte las siguientes páginas de soporte:
+Crear un enlace rápido a una asignación en video
+- En la página de inicio del curso, haga clic en Contenido.
+- En el módulo o submódulo al que desea agregar el enlace rápido, seleccione Asignaciones en video desde el botón Actividades existentes.
+- Seleccione la asignación en video que desea agregar.
+- Haga clic en Crear enlace.
+Edición de una asignación en video
+Para obtener información sobre cómo editar, copiar o eliminar asignaciones en video, consulte la página de soporte Introducción: instructores.
+Calificación de una asignación en video
+Para obtener información sobre cómo calificar asignaciones de video, consulte la página de soporte Calificación en Bongo.
+Sincronización y opciones de calificación
+La sincronización de calificaciones está habilitada en Brightspace Learning Environment y las calificaciones de Bongo se envían al cuaderno de calificaciones del Sistema de gestión educativa (LMS, por sus siglas en inglés).
+Las opciones de calificación son:
+- Ingreso de calificaciones: calificación por porcentaje. Utilice un valor entre 1 y 100 cuando ingrese una calificación. El valor que se ingresa representa el porcentaje que se utiliza para asignar puntos en el cuaderno de calificaciones de LMS según el máximo puntaje ingresado en el LMS. Por ejemplo, si un estudiante recibe una calificación del 90 %, ingrese el valor 90; si un estudiante recibe una calificación del 75 %, ingrese 75.
+- Calificaciones de educadores: es un sistema que consta de calificaciones de 5 estrellas, donde cada estrella vale 20 puntos. Por ejemplo, si se le dan cuatro estrellas a un estudiante, se envían 80 puntos al cuaderno de calificaciones de LMS.
+- Aprobación/reprobación y Logro finalizado/no finalizado: estas opciones envían una calificación de 0 o 100 al cuaderno de calificaciones de LMS.
+Auto Analysis™ para asignaciones individuales
+Si su organización ofrece la versión premium de Video Assignments, puede utilizar los informes de la herramienta Auto Analysis™ sobre los envíos de los estudiantes como parte de su evaluación. Para obtener más información, consulte la página de soporte Descripción general de Auto Analysis™ y PhraseGen.

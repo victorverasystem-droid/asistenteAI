@@ -1,0 +1,43 @@
+URL: https://community.d2l.com/brightspace-es-MX/kb/articles/10990-anular-la-calificacion-mas-baja
+TITLE: Anular la calificación más baja - Brightspace
+HASH: b14d9b134dd3ed25de0a1e6486298fe9e54796cde63de08bf4795f12a9128d7e
+TYPE: web
+
+Los instructores pueden excluir el puntaje más bajo de un estudiante de los cálculos de calificaciones de dos maneras principales:
+- Manualmente, usando exenciones
+- Automáticamente, mediante la configuración de una categoría de calificación para anular el elemento más bajo
+Manualmente eximir un elemento de calificación
+Use las Exenciones en la edición por lote a fin de excluir manualmente un elemento de calificación para un estudiante individual.
+Para eximir a un estudiante de una calificación:
+- En la página de inicio de su curso, vaya a Calificaciones.
+- Haga clic en el menú desplegable Acciones junto al nombre de un estudiante y luego, en Exenciones en la edición por lote.
+- En la página Editar exenciones de calificación, en la columna Exento, seleccione la casilla de selección para cada elemento de calificación que desea anular.
+Nota: Puede eximir o anular más de un elemento de calificación.
+- Haga clic en Guardar y cerrar.
+La evaluación exenta se muestra como Exento en la columna de calificación del estudiante y se excluye de su cálculo de calificación final.
+Anular automáticamente la calificación más baja utilizando una categoría
+Puede configurar una categoría de calificación para que automáticamente se anule el elemento de calificación más bajo de cada estudiante.
+Para anular automáticamente la calificación más baja:
+- En la página de inicio de su curso, vaya a Calificaciones.
+- Seleccione la pestaña Administrar calificaciones.
+- Realice una de las siguientes acciones:
+- Para crear una nueva categoría de calificación: haga clic en Nuevo y seleccione Categoría.
+- Para editar una categoría existente: haga clic en el menú Acciones (flecha) y seleccione Editar.
+En la configuración de categoría, desplácese hasta la sección Distribución.
+Seleccione Distribuir puntos entre todos los elementos.
+En Cantidad de elementos más bajos que no son extra para excluir de cada usuario, ingrese 1 (o más, si lo desea).
+Haga clic en Guardar y cerrar.
+El sistema excluye automáticamente los elementos con puntaje más bajo del cálculo de calificación de cada estudiante para la categoría y la calificación final.
+Requisitos y limitaciones para la anulación automática
+Para utilizar la función de anulación automática, se deben cumplir las siguientes condiciones:
+- Todos los elementos que no son extra en la categoría deben tener el mismo valor máximo de puntos.
+- La categoría debe distribuir puntos o ponderación por igual
+- Los elementos deben ser distintos a extra.
+- No puede anular el elemento más bajo en las categorías (solo dentro de una sola categoría).
+Si está utilizando un sistema de calificación Fórmula:
+- Excluya el elemento de la fórmula en una configuración de fórmula personalizada.
+Interacción con cálculos de calificaciones
+Cálculo de calificación final frente a intermedio
+- La Calificación calculada final refleja todas las reglas de anulación configuradas (manual y automático).
+- La opción Cálculo > Elemento de calificación para incluir, utilizada en los cálculos intermedios o a petición, aún puede incluir elementos anulados en el cálculo.
+Esto puede provocar que las calificaciones intermedias no coincidan con la Calificación calculada final, lo que puede causar confusión para los instructores y estudiantes.

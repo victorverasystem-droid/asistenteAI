@@ -1,0 +1,27 @@
+URL: https://community.d2l.com/brightspace-es-MX/kb/articles/10910-edicion-masiva-de-fechas-en-administrar-fechas
+TITLE: Edición masiva de fechas en Administrar fechas - Brightspace
+HASH: e80143b717aab173353e35635cc16502e3f9279f2b921a8d3bd43d8aa0ce5ea8
+TYPE: web
+
+La herramienta Administrar fechas permite editar de forma masiva las fechas de vencimiento y las fechas de disponibilidad del contenido del curso y agentes inteligentes.
+Para la edición masiva de fechas
+- En la barra de navegación, haga clic en Administrador del curso.
+- Haga clic en Administrar fechas.
+- Marque la casilla de selección de los elementos a los cuales desea editar las fechas de forma masiva.
+- Haga clic en Edición masiva de fechas.
+Figura: Seleccione los elementos que desea editar y haga clic en Edición masiva de fechas.
+- En el cuadro de diálogo Edición masiva de fechas, actualice las fechas de vencimiento y las fechas de disponibilidad.
+- Haga clic en Guardar.
+Figura: actualice las fechas de vencimiento y las fechas de disponibilidad en el cuadro de diálogo Edición masiva de fechas.
+Desplazar fechas en Administrar fechas
+La herramienta Administrar fechas le permite mover fechas de inicio y finalización hacia delante o atrás en un número especificado de días. Puede usar esta función para mover contenido del curso y agentes inteligentes hacia delante a un nuevo trimestre.
+Para desplazar fechas en Administrar fechas
+- En la barra de navegación, haga clic en Administrador del curso.
+- Haga clic en Administrar fechas.
+- Marque la casilla de selección de cualquier elemento para el que desea desplazar las fechas.
+- Haga clic en Ajuste masivo de fechas.
+Figura: Seleccione los elementos que desea editar y haga clic en Ajuste masivo de fechas.
+- En el cuadro de diálogo Ajuste masivo de fechas, ingrese los detalles del ajuste.
+- Haga clic en Guardar.
+Figura: utilice el cuadro de diálogo Ajuste masivo de fechas para ajustar de forma masiva varias Fechas de vencimiento, Fechas de inicio, Fechas finales y Otras fechas de actividad.
+Video: Desplazar fechas en Administrar fechas

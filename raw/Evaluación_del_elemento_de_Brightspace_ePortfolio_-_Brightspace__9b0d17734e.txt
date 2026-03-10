@@ -1,0 +1,33 @@
+URL: https://community.d2l.com/brightspace-es-MX/kb/articles/33899-evaluacion-del-elemento-de-brightspace-eportfolio
+TITLE: Evaluación del elemento de Brightspace ePortfolio - Brightspace
+HASH: 9b0d17734ed0dbfe28f899f72872c5111dd5b8209547b3030519dce7a2a75112
+TYPE: web
+
+Puede habilitar comentarios sobre un artefacto, una colección, una reflexión, una presentación o un objetivo de aprendizaje. Use esta función para colaborar con sus compañeros de manera que ellos puedan realizar comentarios sobre su trabajo, ofrecer críticas constructivas o señalar recursos adicionales.
+Puede habilitar evaluaciones para un artefacto, una colección, una reflexión, una presentación o un objetivo de aprendizaje, de modo que los usuarios que tengan los permisos correspondientes puedan evaluar el elemento mediante una rúbrica. Debe seleccionar la rúbrica que desea utilizar en la lista proporcionada por su organización.
+Cuando otros usuarios comentan y evalúan un elemento de Brightspace ePortfolio, sus comentarios se convierten en un componente del elemento. Puede verlo debajo de los detalles del elemento cuando ve el elemento o a través de las noticias y los componentes en su panel.
+Puede habilitar los comentarios y las evaluaciones para todos los elementos de forma predeterminada o habilitarlos individualmente, elemento por elemento.
+Video: Haga que los elementos sean evaluables por otros
+Acerca de la edición y la generación de comentarios de los elementos de Brightspace ePortfolio
+Para dejar comentarios, evaluaciones o anotaciones sobre un elemento en Brightspace ePortfolio de un usuario, debe tener los permisos adecuados. Puede recibir permisos para comentar, evaluar o editar el trabajo de un usuario de una de estas dos maneras:
+- El usuario le otorga los premisos correspondientes.
+- Usted configura un grupo para compartir forzado para usuarios en un curso específico, lo que le otorga los permisos correspondientes.
+Estimular a los usuarios a que le concedan su permiso para comentar y evaluar los elementos del portafolio asociado al trabajo del curso es una excelente manera de ofrecerles opiniones informales e intermitentes.
+Video: Acceda a los elementos compartidos con usted
+Enviar elementos de Brightspace ePortfolio a una asignación
+Puede enviar los elementos de su Brightspace ePortfolio a una asignación en Brightspace para realizar una evaluación formal. Cuando envía un elemento a una asignación de un curso, se transfiere una copia del elemento a la herramienta Asignaciones. Los cambios futuros que se realicen en el elemento en Brightspace ePortfolio no se transfieren a la copia de la asignación.
+- En la barra de navegación de su curso, haga clic en Asignaciones.
+Figura: La herramienta Asignaciones en la Página de inicio del curso.
+- Seleccione la asignación a la que desea realizar un envío.
+Figura: La asignación específica seleccionada.
+- En el área Enviar archivos, haga clic en Agregar un archivo.
+Figura: El botón Agregar un archivo.
+- En el panel de herramientas, haga clic en ePortfolio.
+Figura: La opción ePortfolio.
+- Seleccione el elemento que desea enviar y haga clic en Seleccionar elemento.
+Figura: El botón Seleccionar elemento.
+- Una vez agregado el elemento seleccionado, haga clic en Enviar.
+Figura: El botón Enviar.
+- La página muestra los detalles del resumen del elemento enviado. Después de la revisión, haga clic en Listo.
+Figura: La página de revisión y el botón Listo.
+El elemento de ePortfolio se envía como una asignación para evaluar.

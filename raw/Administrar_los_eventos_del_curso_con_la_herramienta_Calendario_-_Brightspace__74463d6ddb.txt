@@ -1,0 +1,66 @@
+URL: https://community.d2l.com/brightspace-es-MX/kb/articles/33901-administrar-los-eventos-del-curso-con-la-herramienta-calendario
+TITLE: Administrar los eventos del curso con la herramienta Calendario - Brightspace
+HASH: 74463d6ddb7f66d8e878c0c2a5828ffe77470b6f14914dfcf5a09f85a811a2b4
+TYPE: web
+
+Utilice la herramienta Calendario para ver todos sus próximos eventos en una sola ubicación. Agregue al calendario eventos como fechas de vencimiento de proyectos, horarios de consulta, eventos en clase y más.
+Crear y administrar tareas personales
+Puede agregar y administrar tareas personales en la herramienta Calendario.
+Crear y administrar tareas
+- En la barra de navegación del curso, haga clic en Calendario.
+- Haga clic en Agregar una tarea.
+Figura: Ingrese el nombre de la tarea en el campo Agregar una tarea….
+- Ingrese el nombre o los detalles de la tarea.
+- Presione la tecla Intro del teclado.
+Figura: Revise su tarea recién creada en el calendario.
+Se agrega una nueva tarea a su calendario.
+Editar una tarea existente, proporcionar una fecha de vencimiento e incluir notas adicionales
+- Seleccione la tarea.
+- Haga clic en la tarea para editar el nombre.
+- Haga clic en Sin fecha de vencimiento para ingresar una fecha de vencimiento. Ingrese una fecha y haga clic en Guardar fecha de vencimiento.
+- Haga clic en Agregar una nota… a fin de ingresar una nota para la tarea.
+- Haga clic en Eliminar tarea (ícono de papelera) para eliminar la tarea.
+Sincronice su calendario con calendarios externos
+Puede utilizar feeds iCal para copiar y pegar una URL en cualquier calendario externo o descargar un archivo .ics. Esto le permite sincronizar los eventos del curso de la herramienta Calendario creados en Brightspace con un calendario externo, como Microsoft Outlook y Google Calendar.
+Asimismo, cuando se subscribe a un feed iCal, se sincroniza la aplicación o el dispositivo de calendario externo con la herramienta Calendario y, de esta manera, puede mantenerse actualizado sin iniciar sesión en Brightspace.
+Nota: Consulte las instrucciones de su dispositivo o aplicación sobre cómo agregar o eliminar un feed iCal, ya que cada aplicación tiene un método diferente para administrar un feed iCal.
+Sincronizar con un calendario externo
+-
+En la Página de inicio del curso, haga clic en el menú desplegable del componente Calendario y seleccione Ir al calendario.
+Figura: Haga clic en Ir al Calendario en el menú desplegable Calendario.
+- En la página Calendario, haga clic en Configuración.
+Figura: Haga clic en Configuración (que se indica con un ícono de engranaje) para ajustar la configuración de sincronización del calendario.
+- Seleccione la opción Habilitar feeds de Calendario y haga clic en Guardar.
+Figura: Marque la casilla junto a Activar fuentes de calendario.
+- En el área de vistas de Calendario, haga clic en Suscribirse.
+- En Suscripciones de Calendario, seleccione a qué calendario desea suscribirse o seleccione Todos los calendarios y tareas o Solo tareas.
+Figura: Seleccione la opción Suscripciones del calendario que desee.
+- Realice una de las siguientes acciones:
+- Copie y pegue la dirección URL en cualquier aplicación externa de calendario para suscribirse a los eventos de los calendarios seleccionados.
+- Haga clic en Descargar para descargar un archivo .ics. Abra el archivo .ics en una herramienta de calendario externa, como Microsoft Outlook, para sincronizar su calendario.
+- Haga clic en Cerrar.
+Su calendario externo se sincroniza con la herramienta Calendario.
+Cambiar la configuración de Calendario
+Mantenga actualizada la configuración de Calendario para recibir recordatorios sobre las próximas actividades y nunca perderse actualizaciones importantes.
+Cambiar la configuración de Calendario
+-
+En la Página de inicio del curso, haga clic en el menú desplegable de Calendario y seleccione Ir al calendario.
+Figura: Haga clic en Ir al Calendario en el menú desplegable Calendario.
+- En la página Calendario, haga clic en Configuración.
+Figura: Haga clic en Configuración (que se indica con un ícono de engranaje) para cambiar la configuración del calendario.
+- Seleccione la opción Habilitar feeds de Calendario.
+Figura: Marque la casilla junto a Activar fuentes de calendario.
+- Personalice la siguiente Configuración de Calendario:
+Opciones de calendario
+Horario principal: Haga clic en el botón desplegable para configurar el inicio y el fin de su horario principal. Seleccione la opción Mostrar fines de semana para incluir los fines de semana en el horario principal especificado.
+Figura: Seleccione sus Horas principales; para ello, seleccione la hora de inicio y finalización en los menús desplegables. Marque Mostrar fines de semana para mostrar los fines de semana en las Horas principales.
+Feeds de Calendario: Seleccione la opción Habilitar feeds de Calendario para obtener información de programación, como eventos y tareas a través de un archivo iCal.
+Figura: Marque la casilla junto a Activar fuentes de calendario.
+- Opciones de tareas
+- Tareas completadas: Haga clic en el botón desplegable para ocultar o mostrar la visualización de las tareas completadas en Calendario.
+Figura: Seleccione la configuración deseada de Tareas completadas en el menú desplegable. Duración predeterminada de las próximas tareas: Haga clic en el botón desplegable para cambiar la cantidad de días. Tres días es la duración predeterminada de las próximas tareas.
+Figura: Seleccione la configuración de la Duración predeterminada de las próximas tareas en el menú desplegable.
+Confirmar eliminación: Seleccione esta opción para que se muestre un mensaje emergente para confirmar la eliminación de tareas.
+Figura: Marque Confirmar eliminación para recibir notificaciones antes de eliminar tareas.
+- Después de revisar todos los detalles, haga clic en Guardar.
+La nueva Configuración de Calendario entra en vigencia inmediatamente.

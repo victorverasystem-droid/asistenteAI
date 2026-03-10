@@ -1,0 +1,36 @@
+URL: https://community.d2l.com/brightspace-es-MX/kb/articles/10810-calificaciones-finales-que-incluyen-exenciones
+TITLE: Calificaciones finales que incluyen exenciones - Brightspace
+HASH: 1972a076588a16abc1f5534ccf18b198f085ca4312a5d38d812acf8243207d89
+TYPE: web
+
+Para los elementos de calificación final, las exenciones de calificación afectan las puntuaciones de la siguiente manera:
+- Los elementos exentos se excluyen del cálculo. Estos elementos de calificación se tratan como calificaciones vacías, no como 0 si la opción Tratar elementos sin calificar como 0 está activada.
+- Si todos los elementos están exentos, no existen calificaciones que puedan utilizarse para calcular una calificación final. La calificación final no tendrá una puntuación.
+Excluir un elemento de calificación del cálculo de Calificación final
+Al excluir un elemento de calificación del cálculo de Calificación final, el tipo de método de cálculo utilizado afecta la forma en que debe excluir el elemento de calificación. Por ejemplo:
+- Cuando se utiliza el cálculo de Puntos, los elementos de calificación tienen la opción Excluir del cálculo de calificación final.
+- Cuando se utiliza el cálculo Ponderado, un usuario necesita agregar 0 en la ponderación para un elemento de calificación.
+- Cuando se utiliza el cálculo de Fórmula, un usuario no necesita incluir el valor del elemento de calificación en la fórmula.
+Para excluir un elemento de calificación basado en Puntos del cálculo de Calificación final
+- Vaya a Calificaciones.
+- Para el elemento de calificación que desea excluir, haga clic en el menú contextual del elemento de calificación y seleccione Editar.
+Figura: Haga clic en Editar en el menú contextual del elemento de calificación.
+- En la pestaña Propiedades, en la sección Calificación, seleccione Excluir del cálculo de calificación final.
+Figura: Seleccione Excluir del cálculo de calificación final para excluir el elemento de calificación.
+- Haga clic en Guardar y cerrar.
+Excluyó un elemento de calificación basado en puntos del cálculo de Calificación final.
+Ver estadísticas de elementos de calificación que incluyen exenciones
+Las exenciones de los elementos de calificación aparecen en las estadísticas de la clase y se eliminan de los cálculos estadísticos.
+- En la pestaña Estadísticas de la clase, el número de calificaciones enviadas se reduce (no se incluye al estudiante exento); los cálculos, como el mínimo y el máximo, no incluyen al estudiante exento, y la distribución de calificaciones excluye a los estudiantes con el elemento de calificación exento.
+- En la pestaña Estadísticas del usuario, se muestra "Exento" en la columna de la calificación para los estudiantes con exención de calificación.
+Ver Estadísticas de la categoría de calificación que incluyen exenciones
+En la ficha Estadísticas de la clase, los estudiantes que estén exentos de todos los elementos de una categoría se tratan de la siguiente manera:
+- El número de calificaciones enviadas se resta del número máximo de estudiantes que pueden enviar elementos.
+- Los cálculos como el mínimo y el máximo no incluyen al estudiante exento.
+- La distribución de calificaciones no incluye a los estudiantes exentos.
+Cuando un estudiante está exento en todos los elementos de una categoría, aparece como "Exento" en la página Estadísticas del usuario. De lo contrario, la categoría reflejará los cálculos adecuados que cuentan de las exenciones.
+Cómo afectan las exenciones de calificación las condiciones de publicación
+Los instructores pueden establecer condiciones de publicación a fin de publicar nuevo contenido para los estudiantes después de que un elemento de calificación esté completo. Debido a que las exenciones de calificación no cuentan como un elemento de calificación completo ni como uno incompleto, hay dos condiciones de publicación que se ven afectadas por las exenciones:
+- Valor de calificación en un elemento de calificación
+- Ninguna calificación recibida
+Estos elementos de publicación respetan la exención y no se activan ante la presencia de una exención de calificación. Por ejemplo, si un Valor de calificación en un elemento de calificación se establece en un elemento de contenido, el usuario que esté exento del elemento de calificación listado en la condición de publicación no tendrá acceso al contenido.

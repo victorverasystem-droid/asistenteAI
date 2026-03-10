@@ -1,0 +1,23 @@
+URL: https://community.d2l.com/brightspace-es-MX/kb/articles/10943-vea-los-detalles-de-la-evaluacion-en-la-pagina-de-detalles-de-progreso-de-los-resultados
+TITLE: Vea los detalles de la evaluación en la página de detalles de Progreso de los resultados - Brightspace
+HASH: 047cf5b37191d224e66fc23cc4b8c07e514c3ad7f33c10380476efbf7c2f0472
+TYPE: web
+
+Vea los comentarios y los envíos de las asignaciones y los temas de debate para estudiantes individuales mediante los detalles de la evaluación en la página de detalles Progreso de los resultados. Cada nodo de estudiante muestra la minitendencia típica del progreso de los resultados dentro del nodo. Cuando un usuario hace clic en un resultado específico, aparece la página de evidencia del progreso de los resultados.
+La página de detalles proporciona una vista completa de las evaluaciones, que incluye:
+- Descripción de la actividad
+- Envío del estudiante
+- Evaluación de la rúbrica
+- El puntaje que logró el estudiante
+- Fechas de inicio y término
+- Resultados y niveles logrados
+- Comentarios generales
+Para ver la página de detalles Progreso de los resultados
+- Vaya a Administración del curso > Administración de estudiantes > Progreso de la clase.
+- Haga clic en el nombre del estudiante.
+- Haga clic en Estándares.
+Figura: En la página Resumen de progreso, haga clic en Estándares.
+- Utilice la barra de búsqueda o desplácese para encontrar un resultado de aprendizaje.
+- Seleccione un resultado de aprendizaje para ver la prueba relacionada con este.
+Figura: Seleccione un objetivo de aprendizaje.
+- Haga clic en una evaluación de la lista de pruebas para abrir la página Detalles de las pruebas.

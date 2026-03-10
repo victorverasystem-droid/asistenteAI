@@ -1,0 +1,62 @@
+URL: https://community.d2l.com/brightspace-es-MX/kb/articles/10759-crear-una-seccion
+TITLE: Crear una sección - Brightspace
+HASH: 3e561cec453367064f0b97e0260596ccfc1af686eb2059a518f10ed17006df8e
+TYPE: web
+
+Si su curso aún no tiene secciones, puede crear una nueva con la herramienta Administración del curso.
+Para crear una sección nueva
+- En la barra de navegación, haga clic en Administración del curso.
+- En Administración de estudiantes, haga clic en Secciones.
+- En la página Administrar secciones, haga clic en Crear secciones.
+Figura: Haga clic en el botón Crear secciones.
+- Seleccione un Tipo de inscripción:
+- Secciones de número: seleccione para ingresar un Número de usuarios a su sección única.
+- Número de secciones: seleccione para ingresar un Número de secciones a su curso.
+- Para inscribir a nuevos usuarios automáticamente, seleccione Inscribir automáticamente a usuarios nuevos.
+- Para inscribir a los usuarios en las secciones de forma aleatoria, seleccione Distribuir usuarios en secciones de forma aleatoria.
+- Para permitir que los usuarios vean las descripciones de las secciones, seleccione Hacer que las descripciones de las secciones sean visibles para los miembros de la sección.
+Figura: La sección Opciones de sección.
+- Para crear temas de debate específicos por sección dentro de un foro, seleccione Configurar áreas de debate y elija una de las siguientes opciones:
+- Crear un nuevo tema para crear un nuevo tema que se restrinja a esta categoría de grupo.
+- Adjuntar a tema existente a fin de crear un hilo restringido para el grupo en un tema existente. Esto solo está disponible para los temas vacíos sin publicaciones ni restricciones de grupos anteriores.
+Figura: La sección Opciones adicionales en la que se muestran las opciones para crear un espacio de trabajo para los debates.
+- Haga clic en Crear.
+Agregar una sección existente a su curso
+Si ya ha creado secciones, puede agregar una a su curso que utilice la configuración que definió cuando creó una nueva sección.
+Para agregar una sección existente a su curso
+- En la barra de navegación, haga clic en Administración del curso.
+- En Herramientas, haga clic en Secciones.
+- En la página Administrar secciones, haga clic en Agregar sección.
+Figura: Haga clic en el botón Agregar sección.
+- En el cuadro de diálogo Agregar sección, ingrese un Nombre de sección, un Código de sección y una Descripción.
+- Haga clic en Agregar.
+Figura: Haga clic en Agregar.
+Editar las propiedades de todas las secciones existentes
+- En la barra de navegación, haga clic en Administración del curso.
+- En el área Administración de estudiantes, haga clic en Secciones.
+- Haga clic en el enlace Editar propiedades generales de la sección.
+Figura: Haga clic en el enlace Editar propiedades generales de la sección.
+- Realice las ediciones.
+- Haga clic en Guardar.
+Inscribir usuarios en secciones
+Las opciones de inscripción que escoge cuando crea secciones determinan cómo se inscribirán los usuarios en las secciones. Cuando inscribe usuarios, puede cambiar manualmente en qué sección se encuentran inscritos los usuarios, buscar los usuarios sin inscripción en una sección o inscribir a los usuarios manualmente en una sección que ha superado el límite de inscripción.
+Para inscribir usuarios en secciones
+- En la página Administrar secciones, haga clic en Inscribir usuarios.
+Figura: Haga clic en el botón Inscribir usuarios.
+- En Mostrar, seleccione Todas las secciones o seleccione una individual.
+- Para buscar un usuario en particular o realizar una búsqueda en blanco para ver a todos los usuarios, utilice el campo Buscar.
+- Para buscar usuarios que no están inscritos en una sección:
+- Haga clic en Mostrar opciones de búsqueda.
+- En Inscripción, desmarque Inscrito y asegúrese de que la opción No inscrito esté seleccionada.
+- Modifique las asignaciones de sección de usuarios según sea necesario.
+- Haga clic en Guardar.
+Video: Modificar la inscripción en una sección
+Editar las propiedades de todas las secciones existentes
+- En la barra de navegación, haga clic en Administración del curso.
+- En el área Administración de estudiantes, haga clic en Secciones.
+- Haga clic en el enlace Editar propiedades generales de la sección.
+- Realice las ediciones.
+- Haga clic en Guardar.
+Eliminar secciones
+La eliminación de una sección cancela la inscripción de usuarios de la misma, pero o el listado de alumnos. Debe agregar manualmente dichos usuarios a las secciones restantes.
+Los temas de debate específicos de la sección permanecen disponibles para referencia si una sección es eliminada. Puede usar la herramienta Debates para eliminar foros y temas innecesarios.

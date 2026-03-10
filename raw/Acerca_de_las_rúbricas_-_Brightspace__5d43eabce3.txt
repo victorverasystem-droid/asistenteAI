@@ -1,0 +1,61 @@
+URL: https://community.d2l.com/brightspace-es-MX/kb/articles/16419-acerca-de-las-rubricas
+TITLE: Acerca de las rúbricas - Brightspace
+HASH: 5d43eabce34a949a441b47b0e1f51fac0abed2de88f96f774258e22c6e8c30b0
+TYPE: web
+
+Utilice la herramienta de rúbricas para crear rúbricas de manera fácil y eficiente dentro de un curso. Puede asociar rúbricas con evaluaciones y elementos de calificación. Durante la evaluación, las rúbricas pueden estandarizar la evaluación del trabajo del estudiante y facilitar la capacidad de proporcionar comentarios.
+Requisitos
+Para usar la herramienta Rúbricas, se requiere lo siguiente:
+- Para ver y usar la herramienta Rúbricas, debe tener los permisos de Rúbricas requeridos aplicados a su rol. Solo el administrador de su organización puede acceder a estos permisos.
+Importante: También puede localizar las herramientas disponibles del curso si va a Administración del curso en la barra de navegación. Si no encuentra la herramienta Rúbricas en su instancia de Brightspace, comuníquese con el administrador de su organización para obtener los permisos necesarios.
+Recorrido visual de la Herramienta de rúbricas
+Figura: Recorrido por la interfaz de Rúbricas.
+- Nueva rúbrica: Cree una nueva rúbrica para un curso.
+- Acciones: Realice cualquiera de las siguientes acciones al seleccionarlas en el menú desplegable.
+- Editar opciones: Editar una rúbrica existente.
+- Vista previa: Vea cómo aparece una rúbrica para los estudiantes.
+- Establecer estado: Establezca el estado de una rúbrica como Borrador, Publicado o Archivado.
+- Borrador: Una rúbrica que se está creando o en curso.
+- Publicado: Una rúbrica que es visible para los estudiantes de su curso.
+- Archivado: Una rúbrica que ya no está visible pero guardada en Brightspace para que la vea.
+- Ver estadísticas: Vea las estadísticas de su rúbrica. Esto incluye actividades relacionadas con envíos, competencias asociadas y ePortfolio.
+- Copiar: Cree una copia de una rúbrica.
+- Eliminar: Eliminar una rúbrica de Brightspace.
+- Descripción: Muestra la descripción de cada rúbrica, si corresponde.
+- Tipo: El tipo de rúbrica. Por ejemplo, las rúbricas pueden ser analíticas o holísticas.
+- Método de puntuación: Cómo se califica una rúbrica. El método puede ser sin puntuación, con puntos, o con puntos personalizados.
+- Estado: Indica el estado de la rúbrica.
+Acerca de las opciones de estado de rúbrica
+Borrador: el estado inicial de una rúbrica. Las rúbricas en borrador aún no están disponibles para asociaciones nuevas.
+Publicada: se pueden realizar asociaciones con las rúbricas publicadas. Una vez que una rúbrica tiene una asociación, no puede cambiar su nombre, descripción, niveles ni criterios.
+Archivadas: las rúbricas archivadas no aparecen en los resultados de búsqueda predeterminada y no están disponibles para nuevas asociaciones. Las asociaciones existentes con las rúbricas archivadas permanecen asociadas con actividades creadas previamente, pero no se pueden evaluar ni actualizar. Los estudiantes aún ven las evaluaciones de rúbrica visibles para estudiantes en las rúbricas archivadas y sus puntuaciones en resumen de actividad, progreso del usuario y calificaciones. Los estudiantesestudiantes no ven la etiqueta de estado Archivado; sin embargo, pueden ver las evaluaciones y los comentarios proporcionados mediante una rúbrica de estado archivada.
+Nota: Los usuarios que tienen permisos para cambiar el estado de una rúbrica pueden hacerlo en cualquier momento. Si cambia el estado de una rúbrica a Archivada, no hay efectos sobre la alineación de las rúbricas con ninguna actividad de evaluación o evaluación anterior que se haya completado con la rúbrica. Las rúbricas que se cambian a un estado Archivado después de la alineación inicial con la actividad continúan mostrándose y se pueden utilizar para la evaluación. La etiqueta Archivado que aparece en los mosaicos de rúbrica en los flujos de trabajo de creación y evaluación de actividades informa a los instructores y desarrolladores de cursos que una rúbrica previamente alineada con una actividad está archivada y que no es posible agregar rúbricas archivadas a las actividades de evaluación y nuevas alineaciones de rúbricas.
+Acerca de los tipos de rúbrica
+Análisis: rúbricas de dos dimensiones con niveles de rendimiento en columnas y criterios de evaluación en filas. Le permiten evaluar el rendimiento de los participantes de acuerdo con múltiples criterios mediante una sola rúbrica. Puede sumar los criterios para asignar distintas ponderaciones (valores) a distintos criterios e incluir un rendimiento general. En las rúbricas analíticas, los niveles de rendimiento aparecen en columnas y los criterios de evaluación en filas. Las rúbricas analíticas pueden usar puntos, puntos personalizados o un método de puntuación de solo texto. Las rúbricas analíticas de puntos y de puntos personalizados pueden usar tanto texto como puntos para evaluar el desempeño. Con los puntos personalizados, cada criterio puede valer una cantidad de puntos diferente. Se proporciona un puntaje general, tanto para los puntos como para los puntos personalizados, en función de la cantidad total de puntos obtenidos. El puntaje general permite determinar si los estudiantes cumplen con los criterios que los instructores establecieron. Puede anular manualmente el puntaje total y general de la rúbrica.
+Holística: rúbricas de un solo criterio (de una dimensión) que se utilizan para evaluar los logros generales de los estudiantes en una actividad o un elemento de acuerdo con niveles de rendimiento predefinidos. Las rúbricas holísticas pueden usar un método de puntuación de porcentajes o solo de texto.
+Puntuación: se usa para evaluar las rúbricas con niveles de desempeño textuales, como Excelente, o con texto y un puntaje numérico, como Excelente (90 puntos). Hay varias formas de puntuar una rúbrica:
+- Sin puntuación: niveles de desempeño indicados mediante texto. Por ejemplo, los tres niveles de desempeño de una rúbrica pueden ser Insuficiente, Bueno y Excelente.
+- Puntos: este método de puntuación solo se puede utilizar en las rúbricas de análisis. Los niveles de desempeño se indican mediante puntos. Por ejemplo, los tres niveles de desempeño de una rúbrica pueden ser Insuficiente (0 puntos), Bueno (75 puntos) y Excelente (125 puntos).
+- Puntos personalizados: este método de puntuación solo se puede utilizar en las rúbricas de análisis. El método de puntuación Puntos personalizados es similar al método Puntos, pero permite personalizar los puntos asignados a cada criterio (fila). Por ejemplo, si los niveles de desempeño son Insuficiente, Bueno y Excelente, el criterio Ortografía y gramática puede valer 0, 10 y 20 puntos por cada nivel, y el criterio Expresión puede valer 0, 30 y 60 puntos, es decir, tendría el triple de puntos que Ortografía y gramática.
+- Porcentajes: este método de puntuación solo se puede utilizar en las rúbricas holísticas. Una rúbrica holística que usa el método Porcentajes puede evaluarse automáticamente en función del puntaje de su elemento asociado (como un elemento de calificación).
+Visibilidad de la rúbrica
+Puede controlar la visibilidad de la rúbrica para los estudiantes. Esto es útil para impedir que los alumnos utilicen rúbricas previas como claves de respuesta para las actividades. Por ejemplo, puede describir las expectativas de evaluación en las instrucciones de asignación y ocultar la rúbrica previa asociada. Luego de calificar la asignación, usted publica la rúbrica calificada como parte de los detalles de la evaluación del estudiante.
+La visibilidad de la rúbrica se controla de dos maneras:
+- Los administradores pueden establecer la visibilidad predeterminada de nuevas rúbricas en el nivel de unidad de organización.
+- Los instructores pueden establecer la visibilidad de cada rúbrica. Crear o editar una rúbrica incluye las siguientes opciones: Los estudiantes siempre podrán ver la rúbrica, La rúbrica estará oculta hasta que se publiquen los comentarios y Los estudiantes nunca podrán ver la rúbrica.
+Para indicar la visibilidad de la rúbrica a los instructores, las rúbricas que están ocultas hasta que se publiquen los comentarios o las rúbricas que nunca están visibles, se muestra un indicador en la sección Rúbricas de la actividad asociada. Las rúbricas visibles no muestran un indicador.
+Tenga en cuenta lo siguiente:
+- Los comentarios copiados desde las rúbricas ocultas solo le aparecen a los estudiantes; no son visibles para los instructores, ya que tienen acceso a la rúbrica. El estado de visibilidad de una rúbrica solo puede cambiarse en el nivel de rúbrica, no en el nivel de actividad. Por ejemplo, no se puede cambiar la visibilidad de una rúbrica de una asignación.
+- La visibilidad es una propiedad de una rúbrica y no una evaluación individual. Las definiciones de rúbrica y los comentarios publicados aparecen en la herramienta de evaluación en la que se usa la rúbrica.
+- En el caso de los debates individuales y grupales, un instructor evalúa la rúbrica en el flujo de trabajo del tema de evaluación. Al momento de guardar la evaluación, los comentarios de la rúbrica se considerarán publicados.
+Mostrar comentarios de la rúbrica en la experiencia de rúbrica
+Si selecciona la Rúbrica es visible para los estudiantes, después de que el estudiante reciba los comentarios publicados, podrá consultar los comentarios y la definición de la rúbrica en cualquier página en que se utilice.
+En el caso de las asignaciones individuales y grupales, un instructor evalúa la rúbrica en el flujo de trabajo de evaluación de la asignación. Al momento de publicar o actualizar la evaluación, los comentarios de la rúbrica se considerarán publicados. Para hacer cambios después de publicar los comentarios de la rúbrica, puede editar los comentarios mientras están publicados (así, los estudiantes pueden ver las actualizaciones a medida que las realiza), o bien puede retirar los comentarios publicados para que los estudiantes no puedan ver la rúbrica y, a continuación, volver a publicarlos.
+Si selecciona La rúbrica está oculta para los estudiantes, los estudiantes no verán las rúbricas ni los comentarios de las rúbricas. Sin embargo, si selecciona Incluir comentarios de la rúbrica en los comentarios generales, el estudiante podrá ver los comentarios en la rúbrica como parte de los comentarios del nivel de criterio de la actividad, bajo el encabezado Comentarios generales en las herramientas Asignación y Calificación. En la vista del estudiante, el título y la descripción del criterio de rúbrica aparecen encima de cada elemento de comentarios.
+Si selecciona La rúbrica está oculta para los estudiantes hasta que se publiquen los comentarios, los estudiantes podrán ver la rúbrica y los comentarios solo después de que se publiquen los comentarios.
+Mostrar comentarios de la rúbrica calificada en el Cuaderno de calificaciones
+Los instructores y estudiantes pueden consultar la rúbrica asociada a una actividad registrada en el Cuaderno de calificaciones. Por ejemplo, si se adjunta una rúbrica a un debate y, a su vez, usted la evalúa en Debates, el estudiante podrá ver los resultados de la rúbrica en la calificación asociada.
+Usted podrá evaluar los debates o las asignaciones desde la herramienta correspondiente y la rúbrica completada se mostrará en su totalidad en el Cuaderno de calificaciones (si la actividad tiene una calificación vinculada).
+D2L sugiere las siguientes prácticas recomendadas:
+- Solo debe asociar una rúbrica con la actividad que se evalúa. Los elementos de calificación que cuentan con rúbricas directamente asociadas ya no se podrán vincular a actividades. Sin embargo, las actividades asociadas con las rúbricas pueden vincularse con los elementos de calificación.
+- Se pueden seguir utilizando las rúbricas en el caso de los elementos de calificación considerados independientes y destinados a actividades de calificación fuera de línea o de observación. Sin embargo, estos elementos no se pueden asociar con las actividades.

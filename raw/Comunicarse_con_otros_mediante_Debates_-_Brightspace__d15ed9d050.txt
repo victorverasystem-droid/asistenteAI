@@ -1,0 +1,173 @@
+URL: https://community.d2l.com/brightspace-es-MX/kb/articles/33894-comunicarse-con-otros-mediante-debates
+TITLE: Comunicarse con otros mediante Debates - Brightspace
+HASH: d15ed9d050b1950e17e6521a32e60d6b76885cc9ee9518bafc6c2c4e8160a03b
+TYPE: web
+
+Puede localizar y publicar respuestas en hilos de conversación de debate mediante la herramienta de debates o desde la herramienta de contenido.
+Video: Crear una Publicación de debate
+Ver un tema de debate
+La herramienta de debates le permite ver todos los temas de debate relacionados con los materiales del curso.
+Ver todos los temas de debate
+- En la barra de navegación, haga clic en Debates.
+-
+Haga clic en el foro y en el tema en el que desea suscribirse a un hilo de conversación de debate. En el siguiente ejemplo, el foro de debate es “Astronomía”, y los temas son “Debate de la semana 1” y “Debate de la clase sobre la teoría del Big Bang”.
+-
+Haga clic en el debate que desea ver. Todos los hilos de conversación de debate se enumeran en un tema de debate en particular. Haga clic en un hilo de conversación para verlo.
+Ver y publicar en un debate de la Experiencia de nuevo contenido
+Puede acceder a los debates y crear publicaciones directamente desde la herramienta Contenido. Puede ver sus actividades de debate en la sección Mi trabajo.
+Cómo ver y publicar en un debate de la Experiencia de nuevo contenido
+- Vaya a Contenido.
+- Haga clic en el módulo donde reside su debate y haga clic en el debate.
+- En la sección Mi trabajo, haga clic en Abrir debate.
+- En la página del tema, haga clic en Iniciar un nuevo hilo de conversación.
+- Ingrese un título su publicación del debate.
+- Escriba su publicación con el Editor de Brightspace.
+- Antes de publicar, puede seleccionar o deseleccionar las siguientes casillas de selección:
+- Inmovilizar hilo de conversación: su publicación aparece en la parte superior de los hilos de conversación del debate solo para usted.
+- Suscribirse a este hilo de conversación: usted recibe notificaciones cuando otro usuario interactúa con su publicación.
+- Haga clic en Publicar.
+Ha creado una nueva publicación de debate con la Experiencia de nuevo contenido. En Contenido, su publicación de debate aparece en su sección Mi trabajo.
+Suscribirse a un debate
+La herramienta de Debates le permite suscribirse a hilos de conversación de debate y lo ayuda a mantenerse actualizado sobre los últimos debates y cambios del curso.
+Suscribirse a un hilo de conversación de debate
+- En la barra de navegación, haga clic en Debates.
+Figura: Haga clic en Debate en la página de inicio del curso.
+-
+Haga clic en el foro y en el tema en el que desea suscribirse a un hilo de conversación de debate. En el siguiente ejemplo, el foro de debate es “Astronomía”, y los temas son “Debate de la semana 1” y “Debate de la clase sobre la teoría del Big Bang”.
+Figura: Seleccione el Foro de debate y el tema para verlos.
+-
+Haga clic en Suscribirse debajo del nombre del tema.
+-
+Personalice las notificaciones para ese tema al seleccionar una de las siguientes opciones:
+- Mostrar las notificaciones solo en la minibarra
+- Enviarme una notificación instantánea
+- Incluir en mi resumen de actividad
+- Haga clic en Suscribirse.
+Cuando está suscrito a las notificaciones de todos los hilos de conversación, el tema se resalta con la etiqueta Suscrito.
+Cancelar la suscripción a un tema de debate
+La herramienta de debates le permite cancelar la suscripción a los hilos de conversación de debate para dejar de recibir notificaciones sobre nuevas publicaciones en los temas del curso.
+Anular la suscripción a un hilo de conversación de debate
+- En la barra de navegación, haga clic en Debates.
+-
+Haga clic en el foro y en el tema al que está suscrito.
+-
+Haga clic en un tema específico para comprobar el estado de la suscripción. El estado Suscrito (ícono de estrella azul) situado debajo del nombre del tema indica que actualmente recibe notificaciones de un tema de debate.
+-
+Haga clic en Suscribirse debajo del nombre del tema y, a continuación, en Sí en la ventana abierta para confirmar que está cancelando la suscripción.
+El estado del tema cambia a Suscribirse y aparece un mensaje “La suscripción al tema se canceló correctamente”. Se canceló su suscripción a las notificaciones de todos los hilos de conversación dentro del tema.
+Figura: El mensaje “La suscripción al hilo de conversación se canceló correctamente” o “La suscripción al tema se canceló correctamente” aparece después de que cancela su suscripción. Haga clic en la X para cerrar este mensaje.
+Crear una cadena de debate
+La herramienta de debates le permite publicar, leer y responder hilos de conversación de debate sobre distintos temas del curso, compartir ideas sobre los materiales del curso, plantear preguntas, compartir archivos o trabajar con sus compañeros en asignaciones y tareas.
+Para crear una cadena de debate
+-
+En la barra de navegación, haga clic en Debates.
+-
+Haga clic en el foro y en el tema en el que desea crear una publicación de debate.
+-
+Haga clic en Iniciar una nueva cadena.
+-
+Ingrese un asunto y la información de su publicación. Puede configurar cualquiera de las siguientes opciones de publicación:
+- Para mantener la cadena en la parte superior de la lista, seleccione Inmovilizar cadena.
+- Para recibir actualizaciones sobre la cadena a través del método de notificación seleccionado, seleccione Subscribirse a esta cadena.
+- Para adjuntar un archivo, en el área Archivos adjuntos, haga clic en Examinar para localizar el archivo que desea adjuntar.
+- Para adjuntar una grabación de audio, en el área Archivos adjuntos, haga clic en Grabar audio > Grabar. Para hacer ajustes en el volumen y la selección del micrófono, haga clic en Configuración de Flash. Para escuchar la grabación, haga clic en Reproducir. Para borrar la grabación, haga clic en Borrar. Si tiene audio grabado previamente y está utilizando un explorador compatible, puede arrastrar los archivos de audio hacia el destino de carga de archivos adjuntos.
+- Para adjuntar una grabación de video, en el área Archivos adjuntos, haga clic en Grabar video > Permitir > Grabar. Cuando termine la grabación, haga clic en Detener. Para borrar la grabación, haga clic en Borrar. Para agregar la grabación, haga clic en Agregar. Si tiene un video grabado previamente y utiliza un navegador compatible, puede arrastrar los archivos de video hacia el destino de carga de archivos adjuntos.
+- Para publicar el hilo de conversación en más de un tema, haga clic en Publicar en otros temas. Haga clic en Agregar temas. Seleccione los temas en los que desea que aparezca el hilo de conversación. Para publicar en todos los temas simultáneamente, haga clic en Seleccionar todos y, a continuación, en Agregar temas.
+-
+Haga clic en Publicar para publicar o en Guardar como borrador.
+Su publicación está visible con moderación pendiente.
+Agregar audio o video a un hilo de conversación de debate
+También puede agregar contenido de audio-video a un hilo de conversación de debate.
+Agregar contenido de audio-video a un hilo de conversación de debate desde Contenido
+- En la página de inicio del curso, vaya a Contenido.
+- En el módulo que contiene su tema de debate, haga clic en el tema donde desea crear un hilo de conversación.
+- Haga clic en Iniciar un nuevo hilo de conversación.
+- Ingrese un título en Ingresar un asunto.
+- Para adjuntar una grabación de audio, en el área Archivos adjuntos, haga clic en Grabar audio > Grabar.
+- Para hacer ajustes en el volumen y la selección del micrófono, haga clic en Configuración de Flash.
+- Para escuchar la grabación, haga clic en Reproducir.
+- Para borrar la grabación, haga clic en Borrar.
+- Si tiene audio grabado previamente y está utilizando un navegador compatible, puede arrastrar y soltar los archivos de audio en el destino de carga de archivos adjuntos o hacer clic en Elegir existente.
+- Para adjuntar una grabación de video, en el área Archivos adjuntos, haga clic en Grabar video > Permitir > Grabar.
+- Cuando termine la grabación, haga clic en Detener.
+- Para borrar la grabación, haga clic en Borrar.
+- Para agregar la grabación, haga clic en Agregar.
+- Si tiene un video grabado previamente y utiliza un navegador compatible, puede arrastrar y soltar los archivos de video en el destino de carga de archivos adjuntos o hacer clic en Elegir existente.
+- Haga clic en Publicar.
+Nota: si el tema está moderado, su publicación no aparecerá hasta que el moderador la apruebe.
+Adjuntar un archivo a un hilo de conversación de debate
+Puede adjuntar archivos (como un archivo de texto o de imagen) desde su dispositivo personal a un hilo de conversación de debate.
+Para adjuntar un archivo a un hilo de conversación de debate
+- En la página de inicio del curso, vaya a Contenido.
+- En el módulo que contiene su tema de debate, haga clic en el tema donde desea crear un hilo de conversación.
+- Haga clic en Iniciar un nuevo hilo de conversación.
+- Ingrese un título en el campo Ingresar un asunto.
+Figura: Ingrese un asunto y el texto de su publicación de debate en los campos correspondientes. También puede seleccionar Inmovilizar hilo de conversación, Publicar como anónima y Suscribirse a este hilo de conversación.
+- Para adjuntar un archivo, haga clic en el botón Insertar recursos en el campo Cuerpo del Editor de Brightspace.
+Figura: Haga clic en Insertar objetos en el editor de Brightspace.
+-
+En el cuadro de diálogo Insertar recursos, haga clic en Mi PC.
+-
+Haga clic en Cargar y seleccione el archivo de su computadora o arrastre y suelte el archivo en la casilla de carga.
+-
+Haga clic en Cargar.
+Editar un hilo de conversación de debate existente
+La herramienta de debates le permite editar los hilos de conversación de debate publicados en diferentes cursos.
+Editar un hilo de conversación de debate existente
+-
+En la barra de navegación, haga clic en Debates.
+-
+Haga clic en el foro y en el tema en el que desea editar una publicación de debate existente.
+-
+Haga clic en la flecha desplegable de una publicación específica y seleccione Editar hilo de conversación.
+-
+Realice los cambios y haga clic en Actualizar.
+Se actualiza el hilo de conversación de debate.
+Editar una publicación de debate existente
+La herramienta de de debate le permite editar sus publicaciones de debate en diferentes cursos.
+Editar una publicación de debate existente
+-
+Haga clic en un hilo de conversación de debate en particular para editar una publicación. Al hacer clic en un hilo de conversación en particular, se muestran todas las publicaciones de debate.
+-
+Haga clic en el botón de flecha desplegable de una publicación en particular y seleccione Editar publicación.
+-
+Haga los cambios y haga clic en Actualizar.
+Borrar un hilo de conversación de debate
+Puede eliminar un hilo de conversación de debate con la herramienta de debates.
+Para borrar un hilo de conversación de debate de Debates
+- En la barra de navegación, haga clic en Debates.
+- En la página Lista de debates, en el menú de contexto del hilo de conversación que desea evaluar, haga clic en Borrar hilo de conversación.
+- Para confirmar la eliminación, haga clic en Sí.
+Se eliminan el hilo de conversación de debate y todas las publicaciones asociadas.
+Responder a un hilo de conversación de debate o publicación
+La herramienta de debates permite responder a hilos de conversación y publicaciones de debate creados sobre distintos temas del curso, compartir ideas sobre los materiales del curso, plantear preguntas, compartir archivos o trabajar con sus compañeros en asignaciones y tareas.
+Para responder a un hilo de conversación de debate o publicación
+-
+En la barra de navegación, haga clic en Debates.
+-
+Haga clic en el foro y en el tema en el que desea responder a un hilo de conversación o publicación.
+-
+Haga clic en un hilo de conversación de debate en particular para responder a una publicación.
+Al hacer clic en un hilo de conversación en particular, se muestran todas las publicaciones de debate.
+- Realice una de las siguientes acciones:
+- Para responder a la publicación principal de la cadena, haga clic en Responder a la cadena.
+- Para responder a una publicación determinada en el hilo de conversación, haga clic en Responder.
+- Ingrese la respuesta en el editor de Brightspace. Para incluir el texto de la publicación original en su respuesta, haga clic en el enlace Agregar texto de la publicación original.
+- Establezca una de las siguientes opciones:
+- Para realizar una publicación en forma anónima, seleccione Publicar como anónimo.
+- Para recibir actualizaciones sobre la cadena con su método de notificación seleccionado, seleccione Subscribirse a esta cadena.
+- Para adjuntar un archivo, en el área Archivos adjuntos, haga clic en Examinar para localizar el archivo que desea adjuntar.
+- Para adjuntar una grabación de audio, en el área Archivos adjuntos, haga clic en Grabar audio > Grabar. Para hacer ajustes en el volumen y la selección del micrófono, haga clic en Configuración de Flash. Para escuchar la grabación, haga clic en Reproducir. Para borrar la grabación, haga clic en Borrar. Si tiene audio grabado previamente y está utilizando un explorador compatible, puede arrastrar los archivos de audio hacia el destino de carga de archivos adjuntos.
+- Para adjuntar una grabación de video, en el área Archivos adjuntos, haga clic en Grabar video > Permitir > Grabar. Cuando termine la grabación, haga clic en Detener. Haga clic en Borrar para eliminar la grabación o en Agregar para añadir la grabación. Si tiene un video grabado previamente y utiliza un navegador compatible, puede arrastrar los archivos de video hacia el destino de carga de archivos adjuntos.
+- Haga clic en Publicar.
+Cambiar la configuración de la herramienta de Debates
+Puede personalizar la configuración de herramienta de debates, como dónde y cómo se muestra un tema o un hilo de conversación.
+Cambiar la configuración de la herramienta de Debates
+- En la barra de navegación, haga clic en Debates.
+- En la página Lista de debates, haga clic en Configuración.
+- Realice cualquiera de las siguientes acciones:
+- Para mostrar los temas en las páginas Ver tema y Ver hilo de conversación, seleccione Mostrar siempre el panel Lista de debates.
+- Para ocultar los temas en las páginas Ver tema y Ver hilo de conversación, desmarque Mostrar siempre el panel Lista de debates.
+- Para incluir automáticamente la publicación original al responder, seleccione Configuración de respuesta.
+- Haga clic en Guardar.
+Se guarda la configuración de Debates.

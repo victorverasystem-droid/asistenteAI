@@ -1,0 +1,16 @@
+URL: https://community.d2l.com/brightspace-es-MX/kb/articles/11077-eliminacion-de-categorias-o-elementos-de-calificacion
+TITLE: Eliminación de categorías o elementos de calificación - Brightspace
+HASH: 2cbc6007fa22fc4e8a2cd13bee5b56d78bb53cc291bb7fea3b4fa4c410684fc9
+TYPE: web
+
+- En la barra de navegación del curso, haga clic en Calificaciones.
+- En la página Administrar calificaciones, haga clic en el botón Más acciones y seleccione Eliminar.
+- Marque la casilla de selección de cada elemento de calificación que desea eliminar.
+- Haga clic en Eliminar.
+Aprenda a eliminar elementos de calificación con asociaciones en su cuaderno de calificaciones.
+Restaurar un elemento de calificación eliminado
+Para restaurar un elemento de calificación requiere el permiso Administrar calificaciones. Comuníquese con su administrador si este permiso no está asignado a su rol.
+- Vaya a Calificaciones.
+- En la página Administrar calificaciones, haga clic en Más acciones > Ver registro de eventos.
+Figura: Haga clic en Ver registro de eventos en el menú Más acciones.
+- Junto al elemento de calificación apropiado, seleccione Restaurar.

@@ -1,0 +1,85 @@
+URL: https://community.d2l.com/brightspace-es-MX/kb/articles/33904-compartir-elementos-en-brightspace-eportfolio
+TITLE: Compartir elementos en Brightspace ePortfolio - Brightspace
+HASH: 2a0c9cd7594e96aa9e949346e45307d4094c2725b34cb7b2ed2936d997ca131a
+TYPE: web
+
+Comparta sus elementos de Brightspace ePortfolio internamente y externamente.
+Compartir elementos de Brightspace ePortfolio con usuarios internos
+Amplíe su conocimiento con otros usuarios compartiendo sus elementos de ePortfolio para colaborar de manera eficaz. Utilice permisos para compartir internamente los elementos de Brightspace ePortfolio con otros usuarios. Puede configurar opciones de permisos independientes para cada artefacto, colección, reflexión, presentación y objetivo de aprendizaje en Brightspace ePortfolio para que pueda seleccionar el contenido que desea compartir con los demás.
+- En la minibarra, haga clic en ePortfolio.
+Figura: La opción ePortfolio en la página de inicio del curso.
+- Vaya a Mis elementos y haga clic en el botón desplegable junto al elemento que desea compartir. Seleccione Compartir.
+Figura: El elemento seleccionado en la página Mis elementos con el botón Compartir resaltado.
+- En la página Configuración de uso compartido, haga clic en Agregar usuarios y grupos.
+- Seleccione una de las siguientes opciones:
+- Para compartir elementos de Brightspace ePortfolio con todos los usuarios, seleccione la pestaña Todos.
+- Para compartir elementos de Brightspace ePortfolio con usuarios individuales, seleccione la pestaña Usuarios y seleccione los usuarios que desea agregar. También puede utilizar la barra de búsqueda para encontrar un usuario específico.
+Figura: Pestaña Usuarios con un usuario seleccionado.
+- Para compartir con un grupo que comparte, haga clic en la pestaña Grupos que comparten y seleccione los grupos que desea agregar.
+- En el área Asignar permisos, seleccione permisos específicos para los usuarios antes de compartir un elemento.
+Figura: La opción Asignar permisos en el campo Configuración de uso compartido.
+- Seleccione la visibilidad del elemento que va a compartir. Si se selecciona la opción Visible para el rango de fechas especificado, puede elegir la fecha de inicio y la fecha de finalización en las que se ve el elemento. Haga clic en Guardar.
+Figura El campo Visibilidad con la opción Visible para el rango de fechas especificado seleccionada.
+- Después de revisar todos los detalles, haga clic en Enviar invitación.
+Figura: El botón Enviar invitación.
+- Ingrese los detalles de la invitación y haga clic en Enviar.
+Figura: El botón Enviar.
+Comparta su elemento mediante el envío de una invitación a ePortfolio.
+Video: Compartir elementos en Brightspace ePortfolio
+Compartir elementos de Brightspace ePortfolio con usuarios externos
+También puede compartir las presentaciones de Brightspace ePortfolio de forma externa, con amigos, padres o los empleadores potenciales de las maneras siguientes:
+- Puede configurar la presentación para que esté disponible en forma pública para cualquiera a través de una dirección URL. Cuando comparte una presentación de esta forma, las personas solo pueden ver la presentación. No pueden agregar comentarios, agregar evaluaciones ni editar la presentación.
+- Puede enviar una invitación personal para ver su presentación mediante un correo electrónico y el destinatario puede seguir el enlace adjunto para ver la presentación. El destinatario debe configurar un nombre de usuario y una contraseña y luego, puede ver y agregar comentarios o evaluaciones de acuerdo con los permisos que usted le concedió. Los usuarios externos no pueden editar presentaciones.
+Enviar una invitación a un usuario
+Haga que otro usuario se una a usted en su aprendizaje enviándole una invitación a los elementos de ePortfolio. Es posible enviar invitaciones a los usuarios internos cuando comparte un tema con ellos. Cuando envía una invitación, tiene la oportunidad de dejarles un mensaje sobre por qué está compartiendo el elemento y qué quiere que ellos hagan con él. Si envía una invitación a un grupo que comparte que incluye a todos los usuarios de su organización o a todos los usuarios de un curso o departamento específico, todos los usuarios del grupo reciben la invitación.
+- En la minibarra, haga clic en ePortfolio.
+Figura: La opción ePortfolio en la página de inicio del curso.
+- Filtrar por Mis elementos. Haga clic en el botón desplegable junto al elemento que desea compartir y luego seleccione Compartir.
+Figura: La opción Compartir.
+- En el campo Lista de uso compartido, seleccione los usuarios a los que desea enviar una invitación. En caso de que no vea al usuario que desea invitar, haga clic en Agregar usuarios y grupos.
+Figura: El botón Agregar usuarios y grupos.
+Puede utilizar la barra de Búsqueda para encontrar un usuario en particular.
+Figura: La barra de Búsqueda en el campo Configuración de uso compartido.
+- Seleccione permisos específicos para los usuarios antes de compartir un elemento.
+Figura: La opción Asignar permisos en el campo Configuración de uso compartido.
+- Haga clic en Compartir.
+Figura: El botón Compartir.
+- Puede seleccionar la visibilidad del elemento que va a compartir. Si se selecciona la opción Visible para el rango de fechas especificado, puede elegir la fecha de inicio y la fecha de finalización en las que se ve el elemento. Haga clic en Guardar.
+Figura El campo Visibilidad con la opción Visible para el rango de fechas especificado seleccionada.
+- Después de revisar todos los detalles, haga clic en Enviar invitación.
+Figura: El botón Enviar invitación.
+-
+Ingrese los detalles de la invitación y haga clic en Enviar.
+Figura: El botón Enviar.
+Su elemento se compartirá enviando una invitación a su ePortfolio.
+Acerca de la visualización de los elementos compartidos
+Existen diversas maneras para descubrir, categorizar, supervisar y revisar contenido compartido en Brightspace ePortfolio.
+Acerca de la creación de enlaces rápidos a elementos de Brightspace ePortfolio
+Puede crear enlaces rápidos al contenido de Brightspace ePortfolio de la misma manera en que crea otros enlaces rápidos. No obstante, la persona que sigue el enlace debe tener dicho elemento compartido con él.
+Si incluye un enlace rápido a un elemento de Brightspace ePortfolio en un formulario, una reflexión, un artefacto o una presentación, el elemento al que se hace referencia no hereda permisos del elemento que contiene el enlace. Esto significa que las personas que ven un elemento desde el enlace rápido también deben contar con un permiso directo para ver el elemento en cuestión y seguir el enlace; en caso contrario, reciben un mensaje de error que les informa que no tienen permiso para ver el elemento.
+Ignorar elementos compartidos de un usuario
+Si tiene los permisos adecuados, puede ignorar elementos compartidos de otros usuarios. Una vez que ignora a un usuario, todos los elementos (incluidos los elementos a los que se suscribió) e invitaciones que le pertenecen se ocultan del suministro de Anuncios, el área de Invitaciones no leídas, la página Invitaciones y la página Explorar.
+Ignorar elementos compartidos de un usuario
+- En la barra de navegación, haga clic en ePortfolio.
+- Busque un elemento que pertenece al usuario que desea ignorar.
+- En el menú de contexto del elemento, haga clic en Ignorar elementos del usuario.
+Figura: La opción Ignorar elementos de un usuario de una presentación compartida.
+- Haga clic en Ignorar.
+Se ignorarán todos los elementos compartidos del usuario especificado.
+Restablecer elementos compartidos ignorados
+También puede restaurar cualquier elemento que haya elegido ignorar en la Lista de elementos a ignorar.
+- En la barra de navegación, haga clic en ePortfolio.
+- Haga clic en Configuración.
+- En el área Lista de elementos a ignorar, junto al usuario cuyos elementos desea restaurar, haga clic en el ícono X Restaurar elementos.
+Figura: El ícono X Restaurar elementos del área Lista de elementos a ignorar en la configuración de ePortfolio.
+- Haga clic en Restaurar > Guardar y cerrar.
+Todos los elementos compartidos de ese usuario se restauran y están disponibles.
+Eliminar permisos de uso compartido de un elemento
+Puede eliminar los permisos de uso compartido de un elemento específico de ePortfolio.
+- En la barra de navegación, haga clic en ePortfolio.
+- En la página Mis elementos, en el menú de contexto del elemento del que desea eliminar permisos, haga clic en Compartir.
+- En el área Lista de uso compartido, realice una de las siguientes acciones:
+- Para quitar un usuario o una oferta de cursos del elemento, haga clic en el ícono Eliminar permisos.
+- Para modificar los permisos de un usuario para el elemento, haga clic en el ícono Editar permisos. Active o desactive los permisos del usuario.
+- Haga clic en Cerrar.
+Los permisos para compartir se eliminan del elemento de ePortfolio.

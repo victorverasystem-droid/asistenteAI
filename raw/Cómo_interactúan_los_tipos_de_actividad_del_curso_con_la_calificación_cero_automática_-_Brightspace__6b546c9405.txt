@@ -1,0 +1,16 @@
+URL: https://community.d2l.com/brightspace-es-MX/kb/articles/26209-como-interactuan-los-tipos-de-actividad-del-curso-con-la-calificacion-cero-automatica
+TITLE: Cómo interactúan los tipos de actividad del curso con la calificación cero automática - Brightspace
+HASH: 6b546c94052d81a4c3adfc9d298d2cc2aab5b732a2a3fbaaf79aab47e005ca1d
+TYPE: web
+
+Cómo interactúan los tipos de actividad del curso con la calificación cero automática
+Para ejecutar el cero automático de los materiales enviados faltantes, todas las actividades deben tener asociaciones de calificaciones y una fecha de vencimiento en el futuro.
+Actividades de curso compatibles
+Actividades de curso no compatibles
+Los siguientes tipos de actividad de curso no son compatibles con la calificación cero automática:
+- Cuestionarios síncronos (no tienen fechas de vencimiento)
+- Debates (los temas no tienen fechas de vencimiento)
+- Listas de verificación (no tienen una asociación de calificaciones)
+- Encuestas (no tienen asociaciones de calificaciones)
+- Objetos del modelo de referencia para recursos de software de cursos intercambiable (los administradores pueden configurarlos para enviar una calificación de 0 al libro de calificaciones en cualquier momento una vez que el estudiante haya accedido al objeto)
+- Asignaciones en papel y presenciales observadas (incluso si se les asigna una fecha de vencimiento, el sistema no puede evaluar el momento del envío)

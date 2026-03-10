@@ -1,0 +1,12 @@
+URL: https://community.d2l.com/brightspace-es-MX/kb/articles/33880-anuncios
+TITLE: Anuncios - Brightspace
+HASH: 3c726c652c2174e54aa51fc12d6393e496c72cf1bdae4762205ac87dfee458a2
+TYPE: web
+
+Reciba comunicaciones frecuentes y regulares de su instructor. Personalice sus preferencias de notificación para que reciba las actualizaciones importantes.
+Recorrido visual: Noticias
+Figura: La herramienta Noticias se organiza en varias secciones, que se describen a continuación.
+- Haga clic en RSS para ver el feed RSS de Noticias de su curso.
+- Haga clic en Notificaciones para administrar la configuración de notificaciones por SMS y correo electrónico sobre las noticias del curso.
+- Busque una noticia. Haga clic en Mostrar opciones de búsqueda para filtrar y definir mejor su búsqueda.
+- Haga clic en un título para navegar a esa noticia. Haga clic en el ícono de flecha para ver o descartar la noticia.

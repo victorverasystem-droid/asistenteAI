@@ -1,0 +1,25 @@
+URL: https://community.d2l.com/brightspace-es-MX/kb/articles/16411-usar-plantillas-en-contenido
+TITLE: Usar plantillas en Contenido - Brightspace
+HASH: cc5c61255d70fdedbf2850b80447d7a9ab16201bfd78bfcb08585442dff14042
+TYPE: web
+
+Utilice plantillas en su curso para mejorar la calidad visual de su contenido y fomentar la participación del .
+Agregar plantillas en la Experiencia de contenido nuevo
+- Vaya a Contenido.
+- Seleccione Crear nueva > Página.
+Figura: haga clic en Página para crear una página nueva.
+- En la página Nueva página, haga clic en Seleccionar plantilla.
+- Haga clic en una plantilla disponible o seleccione Buscar una plantilla para ver otras ofertas de plantillas.
+Figura: Haga clic en Seleccionar plantilla y seleccione una plantilla de la lista desplegable.
+- Edite su tema con la nueva plantilla.
+- Active o desactive la Visibilidad para que quede Visible u Oculto.
+- Haga clic en Guardar y cerrar.
+Figura: El botón Visibilidad y la opción Guardar y cerrar.
+Agregar plantillas en Contenido clásico
+- En la barra de navegación, haga clic en Contenido.
+- Haga clic en Configuración.
+- En el área Desarrollo de contenido, seleccione Habilitar plantillas HTML.
+- Para facilitar la búsqueda de plantillas HTML, seleccione la opción Ordenar las plantillas HTML por nombre a fin de clasificarlas en orden alfanumérico según el nombre de archivo. Los administradores pueden establecer el orden de clasificación predeterminado para la organización o las unidades de organización específicas mediante la edición de una variable de configuración. De manera predeterminada, las plantillas HTML se ordenan de forma alfanumérica según la estructura del directorio.
+- Si desea cambiar el lugar en el que están ubicadas las plantillas, haga clic en Cambiar ruta. Seleccione la ubicación nueva y, a continuación, haga clic en Seleccionar ruta.
+- Haga clic en Guardar.
+Video: Editar plantillas en Contenido clásico

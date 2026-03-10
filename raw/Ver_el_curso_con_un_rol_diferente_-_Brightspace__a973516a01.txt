@@ -1,0 +1,16 @@
+URL: https://community.d2l.com/brightspace-es-MX/kb/articles/15173-ver-el-curso-con-un-rol-diferente
+TITLE: Ver el curso con un rol diferente - Brightspace
+HASH: a973516a012a4275c2559e0aa11f58bf140c45f08f1a8dfbf19bec8ebb4b3c13
+TYPE: web
+
+Puede asumir temporalmente el rol de sus estudiantes para poder ver su curso como lo harían ellos. Esto puede ayudarlo a comprender cómo se muestra su curso para los estudiantes en Brightspace.
+Nota: Debe tener el permiso Cambio de rol > Ver cambio de rol concedido a su rol para verlo como otro rol. Comuníquese con su administrador para obtener más información.
+Para ver su curso con un rol diferente
+- Haga clic en su nombre de usuario en la minibarra del curso.
+- Haga clic en Ver como [rol]. Una vez que seleccione un rol, la instancia de Brightspace se mostrará como le aparecería a ese rol.Figura: La opción Ver como del menú de nombre de usuario.
+Figura: Su nombre de usuario cuando se ve como un rol seleccionado.
+- Para volver a su vista de instructor, haga clic en su nombre de usuario y, luego, en la X que se encuentra al lado de Ver como [rol].
+Figura: Haga clic en X para volver a su rol.
+- Si tiene los permisos de rol necesarios, también puede hacer clic en Cambiar para seleccionar de una lista de roles para ver.
+Figura: La opción Cambiar en el menú de nombre de usuario.
+Nota: Las opciones Ver como [rol] disponibles para usted son creadas y administradas por su administrador. Para Cambiar la opción predeterminada de Ver como, debe tener el permiso Cambio de rol > Cambio de rol “[nombre de rol]” asignado a usted. El administrador debe otorgarle permisos para cada rol individual.

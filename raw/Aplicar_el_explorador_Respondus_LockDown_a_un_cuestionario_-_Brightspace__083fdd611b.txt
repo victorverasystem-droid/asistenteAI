@@ -1,0 +1,45 @@
+URL: https://community.d2l.com/brightspace-es-MX/kb/articles/22718-aplicar-el-explorador-respondus-lockdown-a-un-cuestionario
+TITLE: Aplicar el explorador Respondus LockDown a un cuestionario - Brightspace
+HASH: 083fdd611ba4ed835ec467d351b80bdeb0cc4a33202641e825279b896d9c4f85
+TYPE: web
+
+Puede crear cuestionarios en dos ubicaciones: la herramienta de contenido y la herramienta de cuestionarios. Después de guardar el nuevo cuestionario de su curso, aparece en la pestaña Administrar cuestionarios. Puede aplicar el explorador Respondus LockDown a cualquier cuestionario que aparezca en la pestaña Administrar cuestionarios mediante las opciones disponibles en la pestaña Explorador LockDown.
+Nota: Para obtener más información sobre cómo crear un cuestionario, consulte Crear y configurar un cuestionario.
+Figura: Haga clic en la pestaña Administrar cuestionarios de la herramienta de cuestionarios para ver una lista de los cuestionarios actuales.
+- En la página de inicio de Brightspace, seleccione el curso en el que creó el cuestionario.
+- Haga clic en Cuestionarios en la barra de navegación. Si no aparece en la barra de navegación, haga clic en Más y, a continuación, seleccione Cuestionarios de la lista.
+- Haga clic en la pestaña Explorador LockDown.
+Figura: Haga clic en Explorador LockDown para ver el panel Explorador LockDown.
+- En la pestaña Panel de Explorador LockDown, haga clic en la flecha desplegable junto a su cuestionario y haga clic en Configuración para abrir la configuración de cuestionario del Explorador LockDown.
+Figura: Haga clic en la opción Configuración.
+- Haga clic en Se requiere el explorador Respondus LockDown para este examen a fin de cambiar la configuración.
+Figura: Haga clic en el botón de opción Se requiere el explorador Respondus LockDown para este examen a fin de utilizar el Explorador LockDown.
+Figura: Cuando se selecciona Se requiere el explorador Respondus LockDown para este examen, se dispone de configuraciones adicionales, incluidas Configuración de contraseña, Configuración avanzada adicional y Configuración de supervisión.
+- Ingrese una contraseña para acceder al examen, si corresponde.
+- Haga clic en Configuración avanzada para ampliar y ver las opciones adicionales.
+Figura: Marque las opciones deseadas para su cuestionario en las configuraciones del Explorador LockDown.
+Importante: La configuración en el área de configuración del explorador Respondus es una integración en Respondus; solo las dos opciones seleccionadas en la imagen anterior (Se requiere el explorador Respondus LockDown para este examen y Se requiere el explorador LockDown para ver los comentarios y resultados posteriores al examen) se guardan en la base de datos de Brightspace. Respondus guarda los demás ajustes en su servidor. Como resultado, si este cuestionario se copia en otros cursos, esas dos configuraciones son las únicas que se copian con el cuestionario en el curso nuevo.
+- Revise la Configuración avanzada disponible y seleccione cualquiera de las opciones que se apliquen a su cuestionario.
+Nota: Para obtener más información acerca de cada Configuración avanzada, haga clic en Explicar al lado de cada elemento de la lista.
+- Haga clic para seleccionar cualquier configuración de supervisión que corresponda. De forma predeterminada, se selecciona No se requiere supervisión en este examen.
+- Haga clic en Guardar y cerrar.
+Cuando guarda el cuestionario con la configuración de Respondus LockDown aplicada, el nombre del cuestionario se adjunta para incluir Se requiere el explorador Respondus LockDown, y en la columna del Explorador LockDown se muestra Obligatorio. Si edita el nombre del cuestionario para eliminar el texto adjunto, la columna Explorador LockDown en el panel muestra Error con el botón Solucionar. Haga clic en Solucionar para volver a adjuntar Se requiere el explorador Respondus LockDown al nombre del cuestionario.
+Figura: Los cuestionarios con el estado Error se pueden corregir si hace clic en el botón Solucionar. Los cuestionarios tienen la opción Se requiere el explorador Respondus LockDown adjunta al título y el estado Obligatorio cuando se configuran correctamente a fin de usar el explorador LockDown.
+Uso de la opción Acceso especial con el explorador Respondus LockDown
+La opción Acceso especial permite que un cuestionario esté disponible para seleccionar grupos de estudiantes o les permite a los instructores proporcionar fechas de vencimiento individualizadas y configuraciones de tiempo personalizadas para ciertos estudiantes. Los instructores pueden configurar el Acceso especial para sus estudiantes en la pestaña Fechas y condiciones de disponibilidad de su cuestionario. Para obtener más información, consulte la sección Configurar fechas y condiciones de disponibilidad del tema Crear y configurar un cuestionario.
+Dentro de la configuración Administrar acceso especial, existe una configuración para indicar específicamente si se requiere que los estudiantes con acceso especial utilicen el explorador LockDown en un cuestionario.
+- Desde dentro de un cuestionario, haga clic para expandir el área Fechas y condiciones de disponibilidad.
+Figura: Haga clic en la flecha para expandir el área Fechas y condiciones de disponibilidad de los cuestionarios.
+- Haga clic en Administrar acceso especial.
+Figura: Puede acceder a las opciones de Acceso especial si hace clic en Administrar acceso especial.
+- Haga clic en Agregar usuarios a acceso especial.
+Figura: Haga clic en el botón Agregar usuarios a Acceso especial para ver los usuarios existentes que tienen acceso especial y agregar nuevos usuarios a la lista.
+- En el área Explorador LockDown del panel Acceso especial, haga clic en No se requiere para responder este cuestionario.
+Figura: Marque la casilla de verificación No se requiere para responder este cuestionario.
+Importante: Si la opción Se requiere el explorador Respondus LockDown para este examen no está activada para este cuestionario, la sección Explorador LockDown no aparece en las opciones de Administrar acceso especial.
+Figura: Ejemplo que muestra la misma área de las opciones de Administrar acceso especial que en el paso 4 anterior, sin la opción de Explorador LockDown disponible.
+Solucionar problemas con el explorador Respondus LockDown
+Si tiene problemas durante el uso del explorador Respondus LockDown en un cuestionario, siga estos pasos para detectar y resolver los problemas más frecuentes antes de comenzar el cuestionario o el examen.
+- Reinicie la computadora: cierre todas las aplicaciones, exploradores y ventanas emergentes innecesarias antes de iniciar el explorador LockDown para evitar interferencias.
+- Ejecute la comprobación del sistema: dentro del explorador LockDown, vaya al Centro de ayuda y seleccione la opción Ejecutar comprobación del sistema para diagnosticar posibles problemas con la red, el sistema operativo y otras aplicaciones.
+Si sigue teniendo problemas, visite la base de conocimientos de Asistencia de Respondus

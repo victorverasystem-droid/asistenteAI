@@ -1,0 +1,94 @@
+URL: https://community.d2l.com/brightspace-es-MX/kb/articles/11089-configurar-el-cuaderno-de-calificaciones
+TITLE: Configurar el cuaderno de calificaciones - Brightspace
+HASH: 9e2924c11bca3c07a9cb1bad99a43a2d91d35995a0782d79f480fea78548fd17
+TYPE: web
+
+Use el Asistente de configuración de calificaciones para configurar el cuaderno de calificaciones del curso. El asistente lo guía a través de la elección de un sistema de calificación, la configuración de cómo se publican las calificaciones finales, la decisión de cómo se tratan los elementos sin calificar y la selección de opciones de visualización para instructores y estudiantes.
+El Asistente de configuración de calificaciones lo guía a través de varias opciones sobre cómo se calculan, muestran y comparten las calificaciones con los estudiantes. No es necesario que complete todas las opciones de inmediato; siempre puede volver más tarde para ajustar la configuración.
+Para ayudarlo a encontrar la información que necesita rápidamente, utilice los siguientes enlaces a fin de navegar directamente a cada paso o tema:
+Iniciar el Asistente de configuración
+Para comenzar:
+- En la barra de navegación del curso, haga clic en Calificaciones.
+- Haga clic en Asistente de configuración.
+-
+Haga clic en Iniciar.
+Elegir un sistema de calificación
+Su sistema de calificación controla el cálculo de su calificación final. Para obtener más información sobre el sistema de calificación, consulte Tipos de sistemas de calificación.
+Para seleccionar un sistema de calificación:
+- En la página Elegir sistema de calificación, seleccione una de las siguientes acciones:
+- Ponderado: cada categoría o elemento contribuye un porcentaje hacia la calificación final.
+- Puntos: todos los elementos de calificación contribuyen en función de los puntos obtenidos.
+- Fórmula: permite fórmulas avanzadas y personalizadas para el cálculo.
+- Haga clic en Continuar.
+Establecer las opciones de publicación de la calificación final
+Decida cómo y cuándo los estudiantes ven su calificación final.
+Para establecer la publicación de calificación final:
+- En la página Calificación final publicada, seleccione una de las siguientes acciones:
+- Calificación calculada final: el sistema calcula en función de los elementos de calificación y las ponderaciones y no hay necesidad de ajustar esas calificaciones sin editar el puntaje del elemento de calificación.
+- Calificación final rectificada: los instructores pueden anular manualmente las calificaciones de los usuarios antes de publicarlas.
+- (Opcional) para publicar automáticamente las calificaciones finales a los estudiantes, marque Publicar calificación final automáticamente.
+- Haga clic en Continuar.
+Decidir cómo tratar los elementos sin calificar
+Este paso controla cómo el cuaderno de calificaciones maneja las asignaciones o los cuestionarios que aún no han recibido una calificación.
+Para configurar cómo se tratan los elementos sin calificar:
+- En la página Cálculos de calificaciones, seleccione cómo desea que se traten los Elementos sin calificar:
+- Anular elementos sin calificar: las actividades sin calificar no se incluyen en el cálculo de calificación final.
+- Tratar los elementos sin calificar como 0: las actividades sin calificar se tratan como cero en la calificación final.
+- (Opcional) para asignar automáticamente cero al trabajo no enviado, seleccione Asignar automáticamente 0 a materiales enviados faltantes. Nota: Esta opción solo puede estar disponible si está habilitada por el administrador.
+- Seleccione Conservar automáticamente la calificación final actualizada para volver a calcular las calificaciones finales automáticamente a medida que se ingresan las calificaciones nuevas.
+- Haga clic en Continuar.
+Qué significa cada opción:
+Crear un esquema de calificaciones predeterminado
+El esquema de calificaciones determina cómo se muestran las calificaciones (porcentaje, calificación por letra, personalizado).
+Para seleccionar un esquema de calificaciones predeterminado:
+-
+En la página Esquema de calificaciones, seleccione el esquema predeterminado para su curso:
+- Porcentaje (por ejemplo, 87 %)
+- Esquema personalizado (por ejemplo, calificaciones por letra como A–, B+ o etiquetas personalizadas como Aprobado/No aprobado o Excede/Cumple/Necesita mejorar)
+- Haga clic en Continuar.
+Elegir las opciones de visualización
+Esta configuración controla cómo aparecen las calificaciones tanto para los instructores como para los estudiantes. Puede configurar la Vista de administración para instructores y la Vista de estudiante para estudiantes.
+Opciones de visualización de la Vista de administración (configuración del instructor)
+Para configurar las opciones de visualización de la Vista de administración:
+- En la página Opciones de visualización de la Vista de administración, ingrese el número de decimales que se mostrarán en el campo Número de decimales que se mostrarán.
+- Esto determina cuántos decimales están visibles cuando los instructores ven o ingresan calificaciones en el cuaderno de calificaciones.
+- Haga clic en Continuar.
+Opciones de visualización de la Vista de estudiante (configuración del estudiante)
+Para configurar las opciones de visualización de la Vista de estudiante:
+- En la página de opciones de visualización de la Vista de estudiante, seleccione los siguientes ajustes:
+- Detalles de la calificación: elija qué información de la calificación será visible para los estudiantes (calificación final, elementos de calificación, etc.).
+- Cantidad de decimales mostrados: seleccione cuántos decimales verán los estudiantes en sus calificaciones.
+- Cantidad de caracteres mostrados: elija cuántos caracteres de los nombres del elemento de calificación o los comentarios se muestran a los estudiantes.
+- Visualización del cálculo de calificación final: elija si los estudiantes pueden ver cómo se calcula su calificación final.
+- Haga clic en Continuar.
+Figura: La página Opciones de visualización de la vista de administración.
+Revisar y finalizar
+Al final del asistente, revise sus selecciones.
+Para finalizar la configuración:
+- En la página Resumen de configuración de calificaciones, revise sus elecciones.
+- Para realizar cambios, haga clic en Volver.
+- Si todo parece correcto, haga clic en Finalizar.
+Video: Asistente de configuración de la herramienta de calificaciones
+Este video lo guía a través del Asistente de configuración de la herramienta Calificaciones en Brightspace, que abarca pasos clave, como la configuración del sistema de calificación, la publicación de calificación final y las opciones de visualización. Ver cómo configurar eficientemente su cuaderno de calificaciones.
+Acerca de los Elementos extra (opcional)
+Los elementos extra ofrecen a los estudiantes puntos adicionales sin cambiar los puntos totales posibles.
+Para crear un elemento extra:
+- Al crear o editar un elemento de calificación, marque Extra.
+- Guarde el elemento.
+Acerca del comportamiento de redondeo (opcional)
+En Brightspace, las calificaciones se calculan con el valor sin procesar, pero se muestran como valores redondeados. Esto garantiza que los cálculos sean precisos mientras se presenta un formato más limpio y legible tanto para los instructores como para los estudiantes.
+Puntos clave sobre el comportamiento de redondeo:
+- Cálculos de los valores sin procesar: las calificaciones se calculan con base en el valor no redondeado completo. Sin embargo, la calificación que se muestra en el cuaderno de calificaciones refleja el valor redondeado.
+- Visualización de decimales:
+- Las calificaciones se pueden mostrar con hasta cinco decimales.
+- Las Opciones de visualización de Vista de administración le permiten controlar cuántos decimales se muestran a los instructores.
+- Las Opciones de visualización de la Vista de estudiantes le permiten controlar cuántos decimales pueden ver los estudiantes.
+- Redondeo automático: de forma predeterminada, las calificaciones se redondean en su cuaderno de calificaciones.
+- Anulaciones manuales: también puede anular manualmente las calificaciones redondeadas ingresando de manera directa el valor redondeado en su cuaderno de calificaciones.
+Preguntas frecuentes y consejos
+P: ¿Por qué no puedo seleccionar “Publicar calificación final automáticamente”?
+R: Es posible que no tenga el permiso requerido. Comuníquese con el administrador.
+P: ¿Por qué el redondeo parece inconsistente?
+A: Las calificaciones se almacenan con alta precisión. Aplique un esquema de calificaciones personalizado para controlar el redondeo.
+P: ¿Puedo cambiar estos ajustes después de la configuración?
+R: Sí. Vaya a Calificaciones > Configuración o vuelva a ejecutar el Asistente de configuración.

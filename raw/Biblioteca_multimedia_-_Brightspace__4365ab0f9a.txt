@@ -1,0 +1,24 @@
+URL: https://community.d2l.com/brightspace-es-MX/kb/articles/33888-biblioteca-multimedia
+TITLE: Biblioteca multimedia - Brightspace
+HASH: 4365ab0f9a64da97ecbc290f5dd1fdf1837763bb3ca7be85e2cf4be73ce1c7ab
+TYPE: web
+
+La biblioteca multimedia es una ubicación centralizada para procesar, almacenar y reproducir contenido en audio y video. Cualquier archivo multimedia que cargue o cree se almacena en el repositorio de la biblioteca multimedia.
+Además de los archivos multimedia, la biblioteca multimedia también admite activos no multimedia, como documentos Microsoft Office, imágenes y archivos PDF.
+Puede utilizar las funciones Reproductor multimedia y Grabar video a fin de crear y compartir contenido para debates, asignaciones y otras actividades de Brightspace.
+Recorrido visual de la Biblioteca de medios
+La biblioteca multimedia ofrece las siguientes opciones:
+- Haga clic en Agregar activos para cargar un archivo multimedia o capturar contenido de audio y video directamente en la biblioteca multimedia.
+- Crear carpeta: los usuarios de la biblioteca multimedia ahora pueden crear carpetas para organizar los activos de tipo similar en un solo lugar. Haga clic en Crear carpeta en la biblioteca multimedia para crear carpetas y organizar sus activos.
+- Ordenar: ordene el contenido alfabéticamente o por fecha de edición.
+- Filtrar: Mostrar activos según:
+- Tipo de activo
+- Fecha de creación
+- Fecha editada
+- Buscar: utilice la búsqueda para encontrar todo el contenido en el repositorio de la biblioteca multimedia.
+- Papelera de reciclaje. Haga clic en Papelera de reciclaje para ver los archivos que se han eliminado. Compruebe cuánto tiempo se almacenarán los archivos eliminados antes de la eliminación permanente o para restaurar los archivos seleccionados.
+- ... (Menú Acciones): el menú Acciones ofrece diferentes opciones según el tipo de activo seleccionado:
+- Imágenes: editar, mover, transferir propiedad o eliminar un archivo de imagen.
+- Documentos: tener una vista previa, descargar, administrar versiones, mover a, cambiar nombre, editar descripción, transferir la propiedad o eliminar el archivo.
+- Archivos de audio o video: tener una vista previa, descargar, editar, administrar versiones, mover a, cambiar nombre, editar descripción, transferir la propiedad o eliminar el archivo.
+- Seleccionar todo: haga clic en la casilla de selección Seleccionar todo para elegir todos los activos de la biblioteca multimedia o haga clic en las casillas de selección individuales para elegir archivos específicos.

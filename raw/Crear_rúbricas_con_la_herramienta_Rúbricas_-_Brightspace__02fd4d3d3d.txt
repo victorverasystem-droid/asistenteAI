@@ -1,0 +1,138 @@
+URL: https://community.d2l.com/brightspace-es-MX/kb/articles/10927-crear-rubricas-con-la-herramienta-rubricas
+TITLE: Crear rúbricas con la herramienta Rúbricas - Brightspace
+HASH: 02fd4d3d3d7323c95248f9794ded28f76544360814811f05182ea8c0b2cd779b
+TYPE: web
+
+Las rúbricas le permiten proporcionar calificaciones y comentarios eficaces, oportunos y significativos a los estudiantes. Se pueden vincular a asignaciones, cuestionarios y debates, y pueden darle la oportunidad de proporcionar un marco a los estudiantes sobre las expectativas de actividad.
+Crear una rúbrica
+Utilice la herramienta Rúbricas para crear, nombrar y personalizar su rúbrica para que se ajuste a sus necesidades de evaluación.
+Para crear una rúbrica nueva
+- En Rúbricas, haga clic en Nueva rúbrica.
+- Ingrese un Nombre para su rúbrica.
+- Seleccione el tipo de rúbrica adecuado en el menú desplegable Tipo:
+- Tipo: analítica proporciona la capacidad de agregar varios criterios dentro de una rúbrica.
+- Tipo: Holística proporciona un único criterio. También puede evaluar las rúbricas holísticas utilizando las puntuaciones de porcentaje establecidas para cada nivel de rúbrica.
+-
+Elija el tipo de Puntuación adecuado:
+- Puntuación: Puntos da como resultado que cada nivel de rúbrica tenga la misma puntuación para cada criterio.
+- Puntuación: Ninguna puntuación indica que no se han establecido valores de puntos.
+- Puntuación: Puntos personalizados permiten establecer valores de puntos únicos para cada nivel en cada criterio.
+- Haga clic en Nuevo criterio para ingresar el nombre del criterio; ingrese un Nivel de rúbrica e ingrese el nivel de punto.
+- Realice cualquiera de los siguientes pasos opcionales:
+- Si desea agregar más niveles de rúbrica, haga clic en Agregar nuevo nivel antes del botón (+).
+- Si desea eliminar los niveles de rúbrica existentes, haga clic en el ícono de papelera de reciclaje.
+- Si desea agregar más criterios, haga clic en Agregar criterio e ingrese el nombre del criterio.
+- Si desea eliminar los criterios existentes, haga clic en Eliminar fila.
+- Agregue una descripción de cada Nivel de criterio, así como los Comentarios iniciales para ese nivel que se aplicarán cuando se evalúen los envíos del estudiante.
+- Ajuste los parámetros de Puntuación general para determinar el nivel general y la puntuación que se asigna a los niveles de logro y que se asignan a los estudiantessegún su envío.
+- Haga clic para expandir Opciones y personalizar lo siguiente:
+- Visibilidad de la rúbrica
+- Visibilidad de la puntuación
+- Descripción
+- Disponibilidad avanzada
+- Opciones para personalizar la rúbrica.
+- Haga clic en Cerrar para finalizar la creación de su rúbrica.
+Para obtener información sobre cómo agregar una rúbrica a una asignación, consulte Agregar una rúbrica a una asignación.
+Editar una rúbrica
+Utilice el menú Contexto de la herramienta rúbricas para editar una rúbrica.
+Para editar una rúbrica
+- Use la barra de navegación para seleccionar la rúbrica que desea editar.
+- Haga clic en la flecha Más opciones junto a la rúbrica que desea editar.
+- Haga clic en Editar.
+Editar una rúbrica evaluada
+Normalmente, las rúbricas que se han utilizado para la evaluación están bloqueadas y no se pueden editar. Sin embargo, si tiene el permiso Editar rúbricas evaluadas, puede corregir errores de ortografía, aclarar la redacción y realizar otros cambios menores que no deberían afectar la integridad académica de la rúbrica.
+Para editar una rúbrica evaluada
+- Vaya a Rúbricas.
+- En la página Rúbricas, haga clic en la rúbrica que desea editar.
+- En la página Editar rúbrica, haga clic en Editar texto en el mensaje de alerta en la parte superior de la página.
+- En el cuadro de diálogo ¿Desea editar esta rúbrica evaluada?, haga clic en Editar texto e ingrese sus ediciones. Los cuadros rojos de la siguiente imagen indican qué campos puede editar:
+- Haga clic en Cerrar. Las modificaciones se guardan automáticamente.
+Cuando realiza un cambio a una rúbrica evaluada previamente, se actualiza con un resaltado en azul y el texto editado en la esquina inferior derecha. Cuando guarda y cierra la rúbrica, las indicaciones de edición ya no aparecen.
+Controlar la visibilidad de las rúbricas
+Puede controlar la visibilidad de la rúbrica para los estudiantes. Esto es útil para impedir que los estudiantesutilicen rúbricas previas como claves de respuesta para las actividades. Por ejemplo, puede describir las expectativas de evaluación en las instrucciones de asignación y ocultar la rúbrica previa asociada. Una vez que califica la asignación, usted publica la rúbrica calificada como parte de los detalles de la evaluación del estudiante.
+La visibilidad de la rúbrica se controla de las siguientes maneras:
+- Los administradores pueden establecer la visibilidad predeterminada de nuevas rúbricas en el nivel de unidad de organización.
+- Los profesores pueden establecer la visibilidad de cada rúbrica. Crear o editar una rúbrica incluye las siguientes opciones: Los estudiantes siempre podrán ver la rúbrica, La rúbrica estará oculta hasta que se publiquen los comentarios y Los estudiantes nunca podrán ver la rúbrica.
+Para indicar la visibilidad de la rúbrica a los profesores, las rúbricas que están ocultas hasta que se publiquen los comentarios o las que nunca están visibles muestran un indicador en la sección Rúbricas de la actividad asociada. Las rúbricas visibles no muestran un indicador.
+Tenga en cuenta lo siguiente:
+- Los comentarios copiados desde las rúbricas ocultas solo le aparecen a los estudiantes; no son visibles para los profesores, ya que tienen acceso a la rúbrica. El estado de visibilidad de una rúbrica solo puede cambiarse en el nivel de rúbrica, no en el nivel de actividad. Por ejemplo, no se puede cambiar la visibilidad de una rúbrica de una asignación.
+- La visibilidad es una propiedad de una rúbrica y no una evaluación individual. Las definiciones de rúbrica y los comentarios publicados aparecen en la herramienta de evaluación en la que se usa la rúbrica.
+- En el caso de los debates individuales y grupales, los profesores evalúan la rúbrica en el flujo de trabajo del tema de evaluación. Al momento de guardar la evaluación, los comentarios de la rúbrica se considerarán publicados.
+Uso de rúbricas en la vista móvil
+La vista de Evaluación de las herramientas Asignaciones y Debates utiliza un componente de contenedor plegable en el panel derecho. Los instructores pueden abrir o cerrar estos paneles para Rúbricas, Calificaciones y comentarios, Resultados y Competencias.
+Para calificar una rúbrica en la vista móvil
+- Vaya a Asignaciones o Debates.
+- Para la asignación o el debate que desea evaluar, haga clic en el menú desplegable Acciones y, a continuación, haga clic en Ver envíos.
+- En la pestaña Envíos, haga clic en el nombre de la asignación o del debate que desea evaluar.
+- A medida que evalúa, observe el triángulo. Haga clic en el triángulo de los paneles de Rúbricas, Calificaciones y comentarios, Resultados y Competencias para abrir el contenedor de evaluación. Vuelva a hacer clic en el triángulo para cerrar el contenedor.
+- Agregue comentarios a las secciones que desee.
+- Haga clic en Guardar borrador o Publicar.
+Ha evaluado una asignación o un debate en la vista móvil.
+Imprimir o descargar un PDF de una rúbrica
+Puede imprimir o descargar un PDF de vista previa (sin evaluar) y rúbricas evaluadas. Los alumnos también pueden imprimir o descargar un PDF de una rúbrica en la implementación del navegador de escritorio de Brightspace.
+En todas las visualizaciones de una rúbrica, el botón Imprimir se muestra arriba de la esquina superior derecha de la rúbrica.
+Las rúbricas impresas incluyen el logotipo de la organización que emitió la rúbrica; específicamente, la imagen que se muestra en la barra de navegación del curso. La imagen del logotipo proporciona un claro reconocimiento organizacional de las rúbricas que se evaluaron en los cursos de su organización y distingue las rúbricas en la carpeta de un alumno si ha tomado clases de varias instituciones. Puede utilizar el reconocimiento de marca de los logotipos para evaluar los méritos para obtener crédito de otras instituciones.
+Imprimir una vista previa de una rúbrica
+- En Administrador del curso, haga clic en Rúbricas.
+- Realice una de las siguientes acciones:
+- En el menú Más acciones junto al nombre de la rúbrica, haga clic en Vista previa.
+- Haga clic en una rúbrica para abrir la página Editar rúbrica. En el menú Más accionesde Editar rúbrica, haga clic en Vista previa.
+- Haga clic en Imprimir rúbrica.
+- Seleccione la impresora o el controlador de PDF que desea utilizar y haga clic en Imprimir.
+Imprimir una rúbrica evaluada desde la herramienta Calificaciones
+- Vaya a Calificaciones.
+- Haga clic en el menú de acción a la derecha de cualquier nombre de estudiante y seleccione Vista previa de calificaciones.
+- Haga clic en Ver rúbrica calificada.
+- Haga clic en Imprimir rúbrica.
+- Seleccione la impresora o el controlador de PDF que desea utilizar y haga clic en Imprimir.
+Imprimir una rúbrica evaluada desde Progreso de resultados.
+- Vaya a Progreso de la clase.
+- Seleccione un alumno de la Lista de alumnos.
+- Seleccione la opción Calificaciones de la barra de navegación izquierda.
+- Expanda la sección Comentarios para un elemento de calificación.
+- Seleccione Ver rúbrica calificada.
+- Haga clic en Imprimir rúbrica.
+- Seleccione la impresora o el controlador de PDF que desea utilizar y haga clic en Imprimir.
+Copia de rúbricas
+Al copiarse una rúbrica se crea una nueva rúbrica basada en una rúbrica existente en la misma unidad de organización, lo que le permite reutilizarla fácilmente en un curso. La nueva rúbrica tiene las mismas propiedades, niveles y criterios, y se comparte con las mismas unidades de organización que la rúbrica original.
+- Vaya a Rúbricas.
+- En la página Rúbricas, en el menú contextual de la rúbrica que desea copiar, haga clic en Copiar.
+- Haga clic en la rúbrica nueva para editarla.
+También es posible copiar un solo criterio de rúbrica para facilitar la reutilización de criterios que ya se han creado.
+Para copiar un criterio de rúbrica único
+- Seleccione la rúbrica que desea editar.
+- En la página Editar rúbricas, haga clic en el menú de acciones junto al nombre del criterio.
+- Haga clic en Copiar fila.
+- Cambie el nombre del criterio recientemente creado.
+Eliminar una rúbrica
+Solo puede eliminar una rúbrica en la unidad de organización donde se creó. No puede eliminar una rúbrica que se utiliza en una actividad de Competencias o un elemento de Brightspace ePortfolio, o que esté adjunta a un elemento de calificación.
+Para eliminar una rúbrica- Vaya a Rúbricas.
+- En la página Rúbricas, en el menú contextual de la rúbrica que desea eliminar, haga clic en Eliminar.
+Para eliminar un solo criterio de una rúbrica- Seleccione la rúbrica que desea editar.
+- En la página Editar rúbricas, haga clic en el menú de acciones junto al nombre del criterio.
+- Haga clic en Eliminar fila.
+Compartir una rúbrica
+Se pueden crear rúbricas a nivel de la organización, del departamento o del curso. Las rúbricas no se comparten automáticamente con todas las unidades de organización secundarias que se encuentran debajo de la unidad de organización en la que fueron creadas. Debe compartirlas explícitamente si desea que estén disponibles para las unidades de organización secundarias. No se pueden compartir las rúbricas creadas al nivel del curso con otros cursos; sin embargo, se puede crear una rúbrica en una plantilla de curso y volver a usarla en ofertas de cursos de esa misma plantilla.
+Si utiliza competencias para evaluar a los usuarios, es conveniente configurar las rúbricas antes de configurar las competencias, los objetivos de aprendizaje y las actividades, ya que no se puede crear una actividad sin asociarla a una rúbrica y no se puede evaluar si un usuario ha completado una competencia u objetivo de aprendizaje si no se evalúan las actividades asociadas mediante una rúbrica.
+Para compartir una rúbrica
+- En la página Mi página de inicio, en la barra de navegación, haga clic en Rúbricas.
+- Haga clic en la rúbrica que desea compartir con otra unidad de organización.
+- En la pestaña Propiedades, en el área Disponibilidad avanzada, haga clic en Agregar unidades de organización.
+- Seleccione todas las unidades de organización con las que desee compartir la rúbrica. Si procede, también puede seleccionar opciones para compartir, incluidas Esta unidad de organización, Todas las descendientes o Todas las descendientes del tipo.
+- Haga clic en Insertar.
+- Haga clic en Guardar.
+Copiar y eliminar un grupo de criterios
+Para facilitar la organización y reutilización del contenido de una rúbrica, usted puede copiar o eliminar un grupo de criterios existente.
+Cuando usted tiene un grupo de criterios existente, las opciones Copiar grupo de criterios y Eliminar grupo de criterios aparecen cuando hace clic en (…) Menú Acciones en el encabezado Grupo de criterios. Si está utilizando la navegación solo con teclado, estas opciones están disponibles en el orden de las pestañas después del nombre del grupo de criterios.
+Para copiar un grupo de criterios existente, realice lo siguiente:
+- Vaya a Rúbricas.
+- En la página Rúbricas, haga clic en la rúbrica que desea editar.
+- Identifique el grupo de criterios de la rúbrica que desea copiar y haga clic en (…) Menú Acciones junto al encabezado Grupo de criterios.
+- Haga clic en Copiar grupo de criterios.
+El nuevo grupo de criterios aparece debajo del grupo de criterios original. Si emplea la navegación con teclado, el enfoque del teclado se mueve al nombre del nuevo grupo de criterios.
+- Agregue un nombre nuevo al grupo de criterios nuevo.
+Para eliminar un grupo de criterios existente, realice lo siguiente:
+- Vaya a Rúbricas.
+- En la página Rúbricas, haga clic en la rúbrica que contiene el grupo de criterios que desea eliminar.
+- Identifique el grupo de criterios de la rúbrica que desea eliminar y haga clic en (…) Menú Acciones junto al encabezado Grupo de criterios.
+- Haga clic en Eliminar grupo de criterios.

@@ -1,0 +1,31 @@
+URL: https://community.d2l.com/brightspace-es-MX/kb/articles/33902-acerca-de-brightspace-eportfolio
+TITLE: Acerca de Brightspace ePortfolio - Brightspace
+HASH: 2a38d3bb764bf7dcda21c07e5f95b2481eb284402dfa4fca75f4d66072136813
+TYPE: web
+
+Brightspace ePortfolio es una herramienta de portafolio personal para almacenar, organizar y compartir elementos que representan el aprendizaje y reflexionar sobre ellos. Puede incluir elementos como documentos, gráficos, archivos de audio, videos, presentaciones y trabajo del curso para demostrar su progreso o dominio en áreas específicas.
+Puede controlar qué elementos desea incluir en su portafolio, cómo organizarlos y con quién desea compartirlos. Cuando comparte elementos con sus pares, mentores o posibles empleadores, puede otorgarles permiso para ver elementos, editar elementos, ver o agregar comentarios y ver o agregar evaluaciones para recibir comentarios.
+Descripción general de la interfaz de usuario de Brightspace ePortfolio
+Figura: Brightspace ePortfolio se divide en 4 páginas principales: el Panel, la página Mis elementos, la página Explorar y la página Grupos que comparten.
+¿Qué son los íconos de actividad?
+Una vez que comparte los elementos con otros usuarios y proporcionan comentarios o evaluaciones de las rúbricas, en la página Mis elementos, los íconos que representan esta actividad se muestran junto a sus elementos.
+Puede hacer clic en estos íconos para ver detalles sobre las personas o los grupos con los que comparte un elemento o para revisar comentarios y evaluaciones de rúbrica efectuados sobre dicho elemento.
+Cuando hace clic en el ícono de un grupo que comparte o en el ícono de una persona, se abre el cuadro de diálogo Configuración de uso compartido del elemento. Desde aquí, puede modificar quién accede a su elemento. Al hacer clic en el ícono de comentarios, se abre la página Ver del elemento, donde puede revisar los comentarios y evaluaciones de rúbrica de otras personas.
+Figura: Íconos de actividad de Brightspace ePortfolio.
+Habilitar las notificaciones en Brightspace ePortfolio
+Configure sus notificaciones para recibir notificaciones en tiempo real sobre su ePortfolio.
+- En la minibarra, haga clic en su nombre de usuario y seleccione Notificaciones.
+Figura: La opción Notificaciones que aparece al hacer clic en el nombre de usuario en la página de inicio del curso.
+-
+En el área Notificaciones instantáneas, seleccione cómo desea recibir notificaciones mediante cualquiera de los siguientes elementos:
+-
+ePortfolio: comentarios agregados a los elementos a los que se suscribió.
+-
+ePortfolio: otro usuario se suscribió a sus actualizaciones.
+-
+ePortfolio: comentarios agregados a mis elementos.
+Figura: La opción para habilitar Notificaciones instantáneas para actualizaciones relacionadas con ePortfolio a través de SMS o correo electrónico.
+Nota: Para recibir notificaciones a través de SMS, asegúrese de haber configurado y confirmado su número de teléfono móvil registrado. Para recibir notificaciones individuales relacionadas con contenido, use la aplicación Brightspace Pulse o seleccione la opción Correo electrónico en el tipo de notificación individual.
+- Haga clic en Guardar para aplicar la nueva configuración de Notificaciones a Brightspace ePortfolio.
+Configuración de Brightspace ePortfolio
+La configuración permite cambiar las opciones de visualización y las preferencias de Brightspace ePortfolio.

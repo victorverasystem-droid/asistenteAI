@@ -1,0 +1,161 @@
+URL: https://community.d2l.com/brightspace-es-MX/kb/articles/22090-enviar-y-administrar-asignaciones
+TITLE: Enviar y administrar asignaciones - Brightspace
+HASH: b8973453a456e4ea32cf1e9dd47b4c6444fb1c96eca003d99fca43a3731d58ac
+TYPE: web
+
+Fechas finales y de vencimiento
+Una fecha de vencimiento es la fecha límite de envío de una asignación en su curso. Esta fecha es específica únicamente para las asignaciones.
+Las fechas finales se vinculadas a las asignaciones. La fecha final es la última fecha en que una asignación está disponible para enviarla, independientemente de la fecha de vencimiento. Una vez que la fecha final de la carpeta ha caducado, ya no podrá hacer el envío, independientemente de cuál sea la fecha de vencimiento de la asignación.
+Puede verificar estas fechas y configuraciones de fecha en la página Lista de asignaciones. El cuadro de información que aparece al desplazar el cursor sobre un elemento incluye información sobre las fechas de inicio y finalización con configuración que explica cómo se ve la asignación antes y después de estas fechas.
+Enviar una asignación
+La herramienta Asignaciones le permite enviar asignaciones en Brightspace, lo que elimina la necesidad de enviar su trabajo por correo electrónico a los instructores.
+Revise las extensiones de archivo admitidas en la página de material enviado de su asignación.
+Una barra de progreso indica que el archivo se está cargando.
+La página Envío de asignaciones incluye una sección desplegable Mostrar información de la asignación que, según la configuración del curso, revela detalles sobre la asignación, como:
+- Rúbricas que se usan para evaluar su trabajo
+- Resultados de aprendizaje con los que se evaluará su asignación
+- Herramientas externas integradas que pueden revisar su material enviado y generar informes que evalúan la originalidad, la gramática, el uso de IA y más. Si están disponibles, los contratos de licencia de usuario final (CLUF) de estas herramientas aparecen aquí en forma de enlace. En estos casos, puede hacer clic en el enlace y aceptar el CLUF antes de enviar su asignación.
+- Cuando envía una asignación sin aceptar un CLUF, aparece un modal de confirmación.
+- Puede enviar asignaciones sin aceptar el CLUF, pero es posible que no estén disponibles los informes de estas herramientas hasta que lo acepte. Solo es necesario aceptar el CLUF una vez por herramienta y no será necesario volver a aceptarlo cada vez que envíe una asignación.
+Enviar una asignación
+- En la barra de navegación, haga clic en Asignaciones.
+- En la página Asignaciones, haga clic en la asignación a la que desea realizar el envío.
+- Siga las instrucciones de la asignación y realice una de las siguientes acciones:
+- Escriba su asignación directamente en el campo Envío de texto. Cuando finalice su respuesta por escrito, haga clic en Enviar.
+- Para buscar el archivo que desea enviar, haga clic en Agregar archivo. Seleccione el archivo en su computadora local o dispositivo de almacenamiento, un casillero personal, un casillero grupal o Brightspace ePortfolio y, luego, haga clic en Agregar. Ingrese los comentarios que desee enviar con el archivo. Haga clic en Enviar.
+- Algunas asignaciones le permiten elegir entre materiales enviados como archivo y texto. Puede cargar el archivo de su asignación, escribir su asignación directamente en el campo Material enviado como texto o enviar un archivo y agregar información adicional en el campo Material enviado como texto.
+- Puede seleccionar Grabar audio para agregar comentarios. Cuando finalice una grabación, haga clic en Agregar. Ingrese los comentarios que desee enviar con el archivo. Haga clic en Enviar.
+Si su instructor habilitó los comentarios gramaticales de e-rater®, para ver los comentarios gramaticales de su asignación, en la página Historial de envíos, haga clic en el enlace Ver comentarios gramaticales de e-rater® en la columna Comentarios en línea.- Si su asignación permite varios envíos, puede incorporar todos los comentarios gramaticales y volver a enviar su asignación.
+Enviar una asignación con la Experiencia de nuevo contenido
+Puede enviar asignaciones directamente en Contenido sin necesidad de dirigirse a otras herramientas del curso.
+Cómo enviar una asignación con la Experiencia de nuevo contenido
+- Vaya a Contenido.
+- Haga clic en su módulo y luego, en su asignación.
+- En la sección Mi trabajo, agregue un archivo desde tu dispositivo o unidad personal.
+- En la sección Comentarios, agregue cualquier información adicional para su instructor.
+- Haga clic en Enviar.
+El envío de su asignación aparece en la sección Mi trabajo del módulo de su asignación. Puede volver a repasar esta sección en cualquier momento para ver su asignación.
+Ver una asignación
+En la herramienta Asignaciones, haga clic en la asignación a la que desea realizar el envío.
+Realizar un envío de texto
+- Escriba su asignación directamente en el campo Material enviado como texto.
+- Cuando finalice su respuesta por escrito, haga clic en Enviar.
+Realizar un envío de archivo
+- Para buscar el archivo que desea enviar, haga clic en Agregar archivo. Puede adjuntar archivos desde su computadora local o dispositivo de almacenamiento, un casillero personal, un casillero grupal o Brightspace Portfolio.
+- Ingrese los comentarios que desee enviar con el archivo.
+- Haga clic en Enviar.
+Agregar un envío de audio o video
+- Haga clic en Grabar audio o Grabar video.
+- Para cargar un archivo de audio o video desde su dispositivo, haga clic en Cargar archivo > Seleccionar archivo.
+- Haga clic en Agregar.
+- Ingrese un Título, una Descripción y un Idioma de audio para su grabación o archivo. Haga clic en la casilla de selección de Generación automática de subtítulos desde audio para habilitar los subtítulos en su archivo.
+- Haga clic en Agregar.
+- Ingrese los comentarios que desee enviar con la grabación o el archivo.
+- Haga clic en Enviar.
+Editar o borrar un envío de asignación
+Una vez que se envía correctamente un archivo a una carpeta para asignaciones, ya no es posible borrarlo. Sin embargo, si tiene los permisos de hacer otro envío, vuelva a enviar el archivo y asegúrese de comunicarse con su instructor para informarle sobre su nuevo envío.
+Volver a enviar una asignación
+- Vaya a la herramienta Asignaciones de su curso.
+- Haga clic en la carpeta de asignaciones donde desea editar o eliminar un archivo enviado.
+- Haga clic en Agregar un archivo para agregar otro archivo a la carpeta de asignaciones.
+- Ingrese los comentarios que desee enviar con el archivo.
+- Haga clic en Enviar.
+- Comuníquese directamente con su instructor para informarle de su reenvío.
+Si no tiene la posibilidad de hacer otro envío, comuníquese con su instructor y hágale saber que le gustaría volver a enviar un archivo para la asignación afectada.
+Solucionar problemas con las asignaciones
+Es posible que ocasionalmente experimente un problema al intentar cargar su archivo de asignación. Esta sección le proporciona los errores que podría encontrar al cargar sus soluciones de asignación y de solución de problemas.
+La asignación no se puede enviar o volver a enviar
+Hay muchas razones por las que no se podría enviar una asignación. Es posible que no pueda enviar una asignación por las siguientes razones:
+- La fecha final ya pasó y su instructor desactivó los envíos atrasados.
+- El acceso está restringido para su asignación. Esto podría deberse a que su instructor solo ha hecho que la tarea esté disponible para una fecha de inicio y final específicas o a que es necesario completar otras actividades del curso, como un cuestionario o consultar contenido, antes de poder enviar la asignación.
+- Su instructor desactivó la visibilidad de la asignación y la ocultó para los estudiantes.
+- No está cargando el tipo de archivo correcto o incluyendo detalles específicos para su asignación. Para más información sobre errores de asignación y carga, consulte las partes finales de este tema.
+- Su instructor solo permite un envío de la asignación, por lo que no puede volver a enviarla.
+- Necesita un acceso especial para enviar la asignación.
+Si no puede enviar o volver a enviar su asignación, comuníquese con su instructor y pídale que realice los pasos necesarios para permitir el envío de la asignación.
+Errores de carga de archivo
+Si intenta enviar una asignación de archivo con un tipo de archivo que no está permitido, Brightspace mostrará un mensaje de error para ayudarlo a corregir el problema.
+Por qué su archivo podría rechazarse
+Una asignación puede restringir los tipos de archivo permitidos. Si carga un archivo con una extensión de archivo no compatible, no se podrá completar el envío.
+En función de cómo esté configurada la asignación, podrá ver uno de los siguientes mensajes:
+- Si solo se restringen pocos tipos de archivo, en el mensaje se mostrarán las extensiones de archivos que puede enviar.
+- Si se restringen siete o más tipos de archivo, en el mensaje se indicará que solo se pueden enviar extensiones de archivo permitidas.
+Revisar las extensiones de archivo permitidas
+Para el Envío de materiales y el Envío de materiales como archivo o texto, puede revisar la lista de extensiones de archivo permitidas antes de enviar su trabajo. Utilice esta lista para confirmar que su tipo de archivo es compatible.
+Comentarios en Visualización de actividades
+Después de cargar los archivos, Visualización de actividad resaltará los archivos que no están permitidos:
+- Los archivos con tipos no compatibles se identifican claramente.
+- Si un archivo no tiene extensión o no se puede detectar su tipo, la Visualización de actividad indicará que no se puede enviar y que solo se permiten tipos de archivos compatibles.
+- Si se cargan varios archivos no compatibles, Visualización de actividad agrupará los tipos de archivos no permitidos para facilitar la revisión.
+Elimine los archivos no compatibles y cargue un tipo de archivo compatible antes de enviar la asignación.
+La asignación no está disponible o no se puede encontrar
+Las asignaciones suelen tener fechas de inicio y final que determinan cuándo una asignación está disponible o visible. Los instructores también pueden controlar si una asignación es visible o no para los estudiantes cuando crean la asignación. Si se supone que puedes acceder y ver su asignación, pero no la puede ver, comuníquese con su instructor y pídales que pongan la asignación a disposición.
+Si tiene problemas para localizar su tarea, acceda al módulo relacionado con ella en la herramienta Contenido. Si sigue sin encontrar su tarea, vaya a la herramienta Asignaciones y búsquela por su nombre. Si su asignación no está disponible en la herramienta Asignaciones y debería estarlo, comuníquese con su instructor.
+Error: El campo es obligatorio. Seleccione al menos un archivo para cargar.
+Recibirá este mensaje de error cuando haga clic en Agregar antes de que el archivo se cargue completamente.
+Para resolver este problema, espere hasta que la barra de carga verde del nombre de archivo haya terminado de cargar y haga clic en Agregar.
+Error: Esta extensión de archivo no está permitida.
+Cuando intenta cargar un envío de archivo para una asignación de un tipo de extensión de archivo que el instructor ha restringido, aparece un mensaje de error.
+Para resolver esto, antes de cargar un archivo, revise los tipos de archivo permitidos que aparecen en el cuadro de diálogo Enviar asignación y cargue solo el tipo de archivo permitido.
+Error: Ups, no se pudo cargar su archivo.
+La causa de este mensaje de error puede deberse a un nombre de archivo no válido, problemas de red o si el archivo que se está cargando supera el límite de carga de archivos.
+Para identificar el origen del problema y resolverlo, compruebe lo siguiente:
+Nombre del archivo. El archivo no se carga cuando:
+- El nombre del archivo contiene caracteres no válidos. El nombre del archivo no debe contener caracteres no válidos. Cambie el nombre del archivo e intente cargarlo nuevamente. Algunos ejemplos de caracteres no válidos son: \ / : * ? " < > | ~ # % & + { } -
+- La ruta completa del archivo es demasiado larga. Le recomendamos que mantenga el nombre del archivo a menos de 120 caracteres.
+Tamaño del archivo. La función Carga de archivos en Brightspace admite hasta 2 GB por archivo, según la configuración de su organización.
+Reducir el tamaño del archivo
+- Si el archivo contiene imágenes, puede reducir la resolución o el tamaño de estas.
+- Si el archivo contiene muchas páginas, intente dividirlo en dos archivos. Por ejemplo, en una presentación, puede crear un archivo para las diapositivas 1 a 5 y un archivo para las diapositivas 6 a 10.
+Conexión a Internet
+El cargador de archivos en Brightspace carga archivos en fragmentos de 10 MB. Si un fragmento de 10 MB tarda más de dos minutos en cargarse, el proceso de carga arroja un error de tiempo de espera agotado, y la carga del archivo se interrumpe.
+La velocidad de carga depende de su conexión a Internet.
+- Siempre cargue archivos mediante una conexión a Internet por cable en lugar de una conexión inalámbrica siempre que sea posible.
+- Si tiene acceso a una red más rápida, cargue desde esta red (por ejemplo, Home, en el campus).
+Comprobar la velocidad de conexión a Internet
+Vaya a un sitio web de prueba de velocidad de Internet y evalúe su velocidad de Internet.
+La velocidad de carga determina la rapidez con la que se cargan los archivos. Otro factor importante es el tamaño total del archivo, ya que un archivo más grande tarda más en cargarse. Aunque no es necesaria una velocidad mínima de conexión a Internet para utilizar Brightspace, cuanto mejor sea la velocidad de carga, más rápido se cargarán sus archivos.
+Cargue el archivo correcto
+Cuando guarda un archivo en Microsoft Office, como un archivo llamado assignment.docx, puede encontrar dos archivos guardados en su computadora: assignment.docx y ~$assignment.docx.
+Esto se debe a que Office crea un archivo temporal y el archivo de documento, donde el archivo temporal comienza con ~$. Asegúrese de cargar el documento real en lugar del archivo temporal, ya que el archivo temporal no se abrirá y no contiene datos.
+Error: Enlace rápido no disponible
+Es posible que encuentre este error cuando haga clic en el enlace de la carpeta de envíos de asignaciones desde la herramienta de contenido o en una publicación de noticias.
+La causa de este error es si la carpeta de asignación no está visible en la página Asignaciones porque se la marcó como oculta, porque tiene una condición de publicación o porque no existe. Si la asignación está visible pero en gris, la asignación aún no se ha abierto o ya está cerrada.
+Comuníquese con su instructor para obtener más ayuda sobre cómo acceder a la carpeta de envíos de asignaciones si este es el caso.
+Problemas con el navegador
+Es posible que tenga un problema al cargar su asignación cuando la página no se carga correctamente, la página de asignación está en blanco o la página no responde.
+En este caso, recomendamos que se asegure de estar utilizando un navegador web compatible. Si el navegador es compatible, asegúrese de que esté actualizado.
+Obtenga más información sobre cómo actualizar:
+Si la actualización de su navegador no funcionó, utilice otro navegador compatible, reinicie su computadora o borre el historial de navegación, la caché y las cookies.
+Encuentre y revise los comentarios
+Revisar comentarios en Asignaciones:
+- En la barra de navegación, haga clic en Asignaciones.
+- En la página Asignaciones, ubique su asignación y haga clic en No leída en la columna Estado de la evaluación.
+- En la página Ver comentarios, puede visualizar sus comentarios del material enviado, la evaluación de rúbrica y las calificaciones.
+- Si el instructor anotó comentarios en las asignaciones, haga clic en Ver comentarios en línea. La vista de anotaciones se abre en una nueva pestaña, en la que se muestran los comentarios anotados mediante resaltado, dibujo a mano alzada, formas y comentarios asociados.
+- Para descargar las asignaciones anotadas en formato PDF, haga clic en Descargar.
+- Una vez que haya terminado de ver los comentarios, regrese a la página Ver comentarios y haga clic en Listo.
+Visualizar informes de herramientas externas de aprendizaje
+Si su instructor tiene herramientas externas de aprendizaje integradas para evaluar la originalidad o gramática del material enviado para las asignaciones de su curso, podrá ver los informes desde estas herramientas después de que envíe la asignación. Los informes de herramientas externas integradas solo están disponibles para envíos de asignaciones individuales (no asignaciones grupales) y solo para material enviado de texto y archivo. Si la herramienta requiere que se acepte un Contrato de licencia de usuario final antes de procesar los envíos y usted no lo aceptó, puede que su informe no esté disponible.
+Para ver informes de herramientas externas de aprendizaje:
+- En la barra de navegación, haga clic en Asignaciones.
+- En la página Asignaciones, realice una de las siguientes acciones:
+- Haga clic en el enlace a su material enviado en la columna Estado de finalización. Esta acción abre la página Historial de envíos.
+- Haga clic en No leído en la columna Estado de evaluación. Esta acción abre la página Ver comentarios.
+- Haga clic en Ver en la columna Resultados de herramienta externa.
+- Revise el informe que se abre en la ventana emergente Resultados de herramienta externa para [su nombre].
+- Haga clic en Detalles para abrir y ver un informe más detallado en una nueva pestaña.
+- Cuando haya terminado de ver el informe, haga clic en Cerrar en la ventana emergente Resultados de herramienta externa para [su nombre].
+Video: Enviar y confirmar un envío de asignaciones
+Ver informes de similitud de Turnitin
+Puede ver los Informes de similitud en la página Materiales enviados. Cuando el informe está disponible, el estado cambia de En progreso a un porcentaje, que indica la cantidad de contenido coincidente.
+Una calificación de porcentaje más bajo indica que el contenido probablemente sea original y que no se ha copiado. Una calificación de porcentaje más alto indica que el contenido probablemente no sea original y que se ha copiado de otra fuente.
+Los rangos de porcentajes se asocian con colores:
+- Azul >= 0 y < 20 %
+- Verde >= 20 y < 40 %
+- Amarillo >= 40 y < 60 %
+- Naranja >= 60 y < 80 %
+- Rojo >= 80 y <= 100 %
+Haga clic en la sección de color junto a la clasificación de porcentaje para ver el Informe de similitud asociado. El Informe de similitud consta de dos paneles. En el panel derecho, se enumeran todas las fuentes coincidentes, incluido el porcentaje de texto que coincide, y un enlace al contenido en línea. El panel izquierdo muestra el texto de envío mediante resaltado de colores para resaltar el contenido coincidente.
+Solución de problemas: me aparece una asignación entregada en la que se muestra un ícono con el mensaje ”No se pudo generar un Informe de similitud para este archivo”.
+Si no aparecen otros detalles en el mensaje de texto del ícono, como que el archivo no es de un tipo compatible o no incluye suficiente texto, el error genérico indica un problema de transferencia del archivo al servidor de TurnItIn. Para recibir asistencia con la solución de problemas, comuníquese con su instructor para comunicarse con el equipo de soporte de D2L.

@@ -1,0 +1,51 @@
+URL: https://community.d2l.com/brightspace-es-MX/kb/articles/10768-configuracion-del-calculo-de-rendimiento-general
+TITLE: Configuración del cálculo de rendimiento general - Brightspace
+HASH: dbcadf41bd70b7545b55434b8badb156c3f690695d90af426f082d76f5c0bc42
+TYPE: web
+
+La vista de maestría del cuaderno de calificaciones incluye cuatro métodos de cálculo:
+- Más común (predeterminado)
+- Más reciente
+- Más alta
+- Promedio decreciente
+También está la opción Sin cálculo automático. Esta opción desactiva el nivel sugerido de logro. El instructor aún puede determinar manualmente el nivel de logro general de cada estudiante.
+La configuración de los métodos de cálculo está disponible en la opción Configuración de la vista de maestría. La configuración también se puede realizar desde el primer mensaje de alerta de uso que se muestra la primera vez que accede a la página Vista de maestría.
+La primera vez que utilice la página de la tabla Vista de maestría, aparecerá un mensaje debajo del título de la página para mostrar el método de cálculo predeterminado de los datos en la vista. El mensaje también proporciona un enlace a la página Configuración, en la que puede cambiar el método de cálculo.
+Si intenta cambiar el método de cálculo predeterminado en uso o desactivar los cálculos automáticos, se deben volver a calcular los niveles de logros. Si cambia el método de cálculo después de que se hayan recopilado los datos de la evaluación, aparece un mensaje de advertencia para indicar que las evaluaciones se deben volver a calcular de acuerdo con el método recientemente seleccionado. Cualquier evaluación previa con anulaciones o comentarios manuales no se verá afectada por el cambio de método de cálculo. Si los resultados del rendimiento general ya están publicados, los estudiantes también podrán ver los nuevos cálculos del método recién seleccionado de inmediato.
+Cada uno de los métodos de cálculo proporciona un ejemplo de cálculo para mostrar cómo se determinaría el nivel general de logro en una situación hipotética específica. Este enfoque proporciona una visibilidad clara de los algoritmos de cálculo utilizados para calcular el nivel de logro general sugerido. Por ejemplo:
+Figura: Ejemplo de cálculo del método de cálculo del promedio decreciente con un tasa de deterioro del 75 % y 5 actividades.
+Método de cálculo: Más común
+El método de cálculo predeterminado es el Más común. Este método selecciona el nivel de evaluación más frecuente (o el modo estadístico) entre una cantidad seleccionada de evaluaciones o todas las evaluaciones del curso.
+Para usar el tipo de cálculo Más común
+- En el cuaderno de calificaciones, haga clic en Dominio.
+- Haga clic en Configuración.
+- Haga clic en Más común.
+- Elija las actividades que desea utilizar en el cálculo e indique la cantidad de actividades a las que accedió más recientemente que desea incluir, si corresponde.
+- Indique si desea utilizar el Nivel más alto o el Más reciente cuando hay más de un nivel de logro que tiene los recuentos más altos.
+- Indique si desea utilizar el Intento más alto o el Último intento cuando los estudiantes realizan varios intentos en una actividad.
+Método de cálculo: Más reciente
+Puede utilizar el método de evaluación Más reciente para representar el nivel de logro general del estudiante relacionado con un resultado. Este método es conveniente en casos en los que se proporciona al estudiante una evaluación de alta exigencia o una evaluación final de final de curso. En estas situaciones, el logro general de los resultados del curso que alcanza el estudiante se determina mediante la puntuación de esta evaluación. Este escenario supone que la evaluación final es la última evaluación (o la más reciente) del curso.
+Para usar el tipo de cálculo Más reciente
+- En el cuaderno de calificaciones, haga clic en Dominio.
+- Haga clic en Configuración.
+- Haga clic en Más reciente.
+Método de cálculo: Más alto
+Utilice el método de cálculo más alto si el nivel general de logro del estudiante con respecto a un resultado en el curso debe representarse con el nivel más alto logrado en cualquier evaluación individual evaluada para este resultado. Este método se puede utilizar en casos como modelos de educación basada en competencias donde el estudiante necesita demostrar el dominio relacionado con un resultado en algún punto del curso o dentro de un rango de actividades de evaluación o de intentos de envío.
+Para usar el tipo de cálculo Más alto
+- En el cuaderno de calificaciones, haga clic en Dominio.
+- Haga clic en Configuración.
+- Haga clic en Más alto.
+- Elija las actividades que desea utilizar en el cálculo e indique la cantidad de actividades a las que accedió más recientemente que desea incluir, si corresponde.
+Método de cálculo: Promedio decreciente
+El método de cálculo del promedio decreciente proporciona un cálculo del promedio ponderado por el cual las puntuaciones de las evaluaciones más antiguas contribuyen menos al cálculo general en comparación con las evaluaciones más recientes. Este método también ofrece opciones para limitar el alcance de los cálculos a una cantidad específica de actividades de evaluación, así como para obtener un control pormenorizado sobre varios intentos de envío de los estudiantes con respecto a una actividad.
+Los niveles de logro de solo texto se convierten en valores numéricos según sus números ordinales. Los niveles de logro con asignación de porcentaje se convierten al valor promedio de sus rangos. Luego, el logro general se determina mediante el cálculo del promedio ponderado de las evaluaciones.
+Para usar el tipo de cálculo Promedio decreciente
+- En el cuaderno de calificaciones, haga clic en Dominio.
+- Haga clic en Configuración.
+- Haga clic en Promedio decreciente.
+- Indique el índice de deterioro que desea utilizar.
+Nota: Utilice un índice de deterioro superior al 60 % para producir las puntuaciones más confiables.
+- Elija las actividades que desea utilizar en el cálculo e indique la cantidad de actividades a las que accedió más recientemente que desea incluir, si corresponde.
+- Indique si desea utilizar el Intento más alto o el Último intento o el Promedio de todos los intentos cuando los estudiantes realizan varios intentos en una actividad.
+Sin cálculo automático
+Utilice la opción Sin cálculo automático cuando no desee un nivel de logro sugerido para todos los estudiantes y todos los resultados del curso. Los instructores pueden realizar evaluaciones manuales para establecer un nivel de logros dentro del curso. Sin embargo, hay cálculos que ofrecen un nivel de logro sugerido.

@@ -1,0 +1,41 @@
+URL: https://community.d2l.com/brightspace-es-MX/kb/articles/10883-administrar-las-rubricas-a-traves-del-menu-de-enlaces-rapidos
+TITLE: Administrar las rúbricas a través del menú de enlaces rápidos - Brightspace
+HASH: aa5925f9eb5fb573ea5ac0bda78553113b5214ba99fcd43319268e9dd82ced19
+TYPE: web
+
+Para lograr que las rúbricas sean más accesibles sin ir directamente a Rúbricas, usted puede acceder a las Rúbricas a través del menú Enlaces rápidos del edito de Brightspace.
+Nota: Para asegurarse de que puede crear enlaces rápidos directamente a las rúbricas y de que los estudiantes pueden ver las rúbricas, debe tener los permisos necesarios. Comuníquese con el administrador para obtener más información. Solo las rúbricas con la opción Visible para todos los usuarios seleccionada se pueden agregar como un enlace rápido. Para obtener más información sobre cómo crear una rúbrica, consulte Crear rúbricas con la herramienta Rúbricas. Para obtener más información sobre el Editor de Brightspace, consulte Acerca del Editor de Brightspace.
+Crear un enlace rápido a una rúbrica en la Experiencia de contenido nuevo
+Puede crear un enlace rápido a una rúbrica cuando crea una nueva lección en la Nueva experiencia de contenido.
+Nota: Para obtener más información sobre la Experiencia de contenido clásica y la Nueva experiencia de contenido (Lecciones), consulte Experiencias de contenido.
+Para crear un enlace rápido a una rúbrica en la Nueva experiencias de contenido:
+- Vaya a Contenido.
+- Haga clic en Crear nuevo > Nueva lección.
+Figura: Seleccione Nueva lección para crear una lección.
+- Ingrese los detalles de la nueva lección.
+- En el campo Descripción, haga clic en el ícono Insertar enlace rápido.
+Figura: En la barra de menú superior, haga clic en el ícono Insertar enlace rápido.
+- En el cuadro de diálogo Insertar enlace rápido, haga clic en Rúbricas.
+Figura: Seleccione Rúbricas en el cuadro de diálogo Insertar enlace rápido.
+- Realice una de las siguientes acciones:
+- Busque y haga clic en una rúbrica de la lista. La rúbrica se agrega al editor de texto como un enlace.
+- Para crear una rúbrica nueva para agregar o editar una rúbrica existente, haga clic en Administrar rúbricas.
+Figura: Haga clic en Administrar rúbricas para ir a la página de rúbricas de la herramienta Rúbricas.
+- Cambie la Visibilidad a Oculta o Visible.
+- Haga clic en Guardar y cerrar.
+Figura: Elija si desea que su nueva lección estéoculta o visible antes de guardarla.
+Crear un enlace rápido a una rúbrica en el Contenido clásico
+Puede crear un enlace rápido a una rúbrica en cualquier módulo de la Experiencia de contenido clásica.
+Nota: Para obtener más información sobre la Experiencia de contenido clásica y la Nueva experiencia de contenido (Lecciones), consulte Experiencias de contenido.
+Para crear un enlace rápido a una rúbrica en la Experiencia de contenido clásica:
+- En Contenido, haga clic en Agregar un módulo... para nombrar y crear un nuevo módulo.
+- Haga clic en Cargar/crear y seleccione Crear un archivo en el menú desplegable.
+- Haga clic en Insertar enlace rápido.
+Figura: Haga clic en el icono Insertar enlace rápido para abrir eldiálogo Insertar enlace rápido .
+- En el cuadro de diálogo Insertar enlace rápido, haga clic en Rúbricas.
+Figura: Seleccione Rúbricas en el cuadro de diálogo Insertar enlace rápido.
+- Realice una de las siguientes acciones:
+- Busque y haga clic en una rúbrica de la lista. La rúbrica se agrega al editor de texto como un enlace.
+- Para crear una rúbrica nueva para agregar o editar una rúbrica existente, haga clic en Administrar rúbricas.
+Figura: Haga clic en Administrar rúbricas para ir a la página de rúbricas de la herramienta Rúbricas.
+- Haga clic en Guardar y cerrar.

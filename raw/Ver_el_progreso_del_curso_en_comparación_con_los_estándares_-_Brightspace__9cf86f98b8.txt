@@ -1,0 +1,28 @@
+URL: https://community.d2l.com/brightspace-es-MX/kb/articles/11073-ver-el-progreso-del-curso-en-comparacion-con-los-estandares
+TITLE: Ver el progreso del curso en comparación con los estándares - Brightspace
+HASH: 9cf86f98b85a2f94338f63da23dd81dc91faac510f7fc8f37e5d57d19cffda26
+TYPE: web
+
+La herramienta progreso de la clase incluye una pestaña Estándares en la página Resumen de progreso del usuario. En esta pestaña, se muestra un historial del material enviado y las evaluaciones del estudiante con respecto a todos los estándares alineados con las actividades del curso.
+Importante: El término de idioma utilizado para describir los Estándares depende del valor establecido para la variable de configuración d2l.Languages.Terminology.LearningOutcomes. Por ejemplo, el término Estándares se puede cambiar por Competencias, Expectativas, Objetivos o Resultados de aprendizaje.
+Esta pestaña le permite:
+- Ver todos los estándares que están alineados con las actividades de evaluación de su curso, de modo que pueda entender los resultados que se esperan que demuestren sus estudiantes.
+- Comparar la evaluación actual de cada estudiante con cada resultado de aprendizaje, de modo que puedan alterar o individualizar la instrucción, según el desempeño del estudiante.
+- Ver una lista de todas las pruebas que se evaluaron para un resultado de aprendizaje específico para familiarizarse rápidamente con los comentarios que se proporcionó para las evaluaciones.
+Esta pestaña permite a los estudiantes realizar lo siguiente:
+- Ver todos los estándares alineados con las actividades del curso, de modo que puedan entender todos los estándares que se espera que demuestren en el curso.
+- Comparar su evaluación actual con cada resultado para comprender su progreso en relación con cada estándar.
+- Ver una lista de todos los comentarios que ha dejado para un estándar específico, de modo que entiendan en qué deben esforzarse más. Si ha dejado comentarios para una rúbrica oculta, estos aparecen en la sección Comentarios generales en la herramienta Calificaciones o Asignaciones. El título y la descripción del criterio de rúbrica aparecen arriba de cada elemento de comentarios.
+Los comentarios copiados de las rúbricas ocultas solo los ven los estudiantes.
+- Si la organización seleccionó la opción Personalizar resultados del cuestionario > Mostrar estándares para las preguntas mostradas al definir los ajustes de la configuración de Evaluación y comentarios para un cuestionario, los estudiantes pueden ver los resultados alineados con los cuestionarios y ver si se realizó más de un intento, así como los resultados de cada intento.
+Importante: Los siguientes procesos e imágenes muestran el término de idioma Resultados de aprendizaje en lugar de Estándares.
+Para ver el progreso en relación con los resultados de aprendizaje:
+- Vaya al Progreso de la clase y seleccione para ver un estudiante.
+- Haga clic en Resultados de aprendizaje. La descripción general del curso enumera todos los resultados de aprendizaje (estándares) que están alineados con las actividades del curso, junto con una minivisualización de las últimas evaluaciones realizadas para el estudiante en relación con cada resultado de aprendizaje.
+Figura: haga clic en la pestaña Resultados de aprendizaje.
+- Haga clic en un resultado de aprendizaje para ver la página Progreso de los resultados de aprendizaje, que ofrece una lista de las pruebas que el estudiante envió y que se relacionan con el resultado de aprendizaje seleccionado. También se muestra una línea de tiempo que muestra los niveles de evaluación comparativa para cada elemento de prueba y un resumen de los comentarios proporcionados sobre cada actividad. En la sección Tendencia, se muestra una visualización de tendencias de las evaluaciones. En la sección Prueba, se muestra una lista de todas las actividades que se evaluaron.
+Figura: vea un resumen detallado de un resultado de aprendizaje haciendo clic en él.
+- Haga clic en un resultado de aprendizaje evaluado individualmente para ver información más específica sobre la evaluación.
+Figura: el área de comentarios y evaluación que se muestra después de hacer clic en un resultado de aprendizaje.
+Figura: En la parte inferior de la página de detalles hay comentarios, escalas de logros y el envío de la asignación.
+Usted revisó los resultados de aprendizaje para un estudiante.

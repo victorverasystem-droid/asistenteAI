@@ -1,0 +1,101 @@
+URL: https://community.d2l.com/brightspace-es-MX/kb/articles/22097-cambiar-la-configuracion-personal-en-brightspace
+TITLE: Cambiar la configuración personal en Brightspace - Brightspace
+HASH: f0e8b9f50bdf68ef452ad9dad18356ceceb5468f40730e226d402876256078ae
+TYPE: web
+
+Puede mantener su configuración personal actualizada si cambia su Perfil, Notificaciones, Configuración de la cuenta y configuración de idioma preferido en Brightspace.
+Para cambiar la configuración personal en Brightspace
+- Seleccione su nombre de usuario y luego seleccione Perfil.
+Figura: Seleccione Perfil para navegar hacia la página Editar mi perfil de usuario.
+- Puede cambiar los siguientes ajustes de configuración:
+- Imagen:
+- En el ícono de su perfil, haga clic en Cambiar imagen.
+Figura: Seleccione Cambiar imagen para actualizar la imagen de su perfil.
+- Navegue hasta la ubicación de la imagen que desea cargar y seleccione la imagen de su perfil.
+Figura: Puede seleccionar una imagen desde su computadora o desde su casillero seleccionando la opción correspondiente.
+Nota: El límite máximo del tamaño del archivo de imagen es de 1 MB. Para obtener la mejor calidad y proporciones, cargue una imagen con un ancho y una altura de 100 por 100 píxeles. Los formatos de archivo aceptados son JPG, PNG y GIF.
+- Haga clic en Agregar.
+Figura: Seleccione Agregar para confirmar y agregar la imagen del perfil cargada.
+- Redes sociales: En el campo LinkedIn, ingrese la URL en su red social.
+Figura: Ingrese la URL de su perfil de LinkedIn en el campo LinkedIn.
+- Información personal: Ingrese un Eslogan y agregue sus intereses o pasatiempos.
+Nota: Todos los campos de Información personal tienen un límite de caracteres de 4,000 caracteres.
+Figura: Puede exponer su perfil agregando Información personal adicional.
+- Haga clic en Guardar y cerrar para aplicar la nueva Configuración de perfil y volver a la Página de inicio del curso. De lo contrario, haga clic en Guardar para permanecer en la página de Configuración de perfil.
+Figura: Haga clic en Guardar y cerrar cuando haya terminado.
+La configuración de su perfil se actualiza y guarda.
+Cambiar configuración de notificaciones
+Las notificaciones le permiten personalizar qué métodos desea utilizar para recibir notificaciones, por ejemplo, correo electrónico, así como qué eventos activarán notificaciones.
+Cambiar la configuración de Notificaciones
+- Haga clic en su nombre de usuario y luego seleccione Notificaciones.
+Figura: Seleccione Notificaciones para continuar.
+- Opcionalmente, puede conectarse con sus profesores y compañeros de clase, y mantenerse informado sobre las actualizaciones relacionadas con el curso, descargando la aplicación Pulse en la App Store o en Google Play.
+- Puede cambiar los siguientes ajustes de Notificaciones:
+- Métodos de contacto
+- Cambiar la dirección de correo electrónico existente
+- Haga clic en Cambiar la configuración del correo electrónico.
+- Seleccione Usar correo electrónico personalizado, agregue su nueva dirección de correo electrónico y, a continuación, haga clic en Guardar.
+Nota: Su organización envía todas las notificaciones de correo electrónico de Brightspace a la dirección de correo electrónico actualizada. Comuníquese con el Administrador del sistema para obtener más ayuda.
+- Resumen de actividad
+Para controlar con qué frecuencia recibe notificaciones sobre actividades relacionadas con el curso, abra el menú desplegable debajo de ¿Con qué frecuencia? y seleccione si desea recibir notificaciones con frecuencia Diaria, Semanal o Nunca.
+Figura: Seleccione su nivel deseado de notificaciones de resumen por correo electrónico en ¿Con qué frecuencia?.
+- Notificaciones instantáneas
+A fin de establecer notificaciones individuales para los componentes relacionados con el curso, seleccione el tipo de notificación preferido junto a cada componente.
+Nota: Para recibir notificaciones individuales relacionadas con contenido, use la aplicación Brightspace Pulse o seleccione la opción Correo electrónico en el tipo de notificación individual.
+Figura: Puede seleccionar la forma en que desea ser notificado para varios componentes relacionados con el curso seleccionando la casilla o casillas correspondientes en Notificaciones instantáneas. - Personalizar notificaciones
+Seleccione si desea recibir notificaciones de valor de calificación de la herramienta Calificaciones o recibir notificaciones futuras relacionadas con cursos.
+Figura: La opción de configuración de Personalizar notificaciones.
+- Excluir algunos cursos
+Para excluir la recepción de notificaciones de cursos específicos, haga clic en el enlace Administrar mis exclusiones de cursos y seleccione los cursos que desea excluir.
+- Después de revisar todos los detalles, haga clic en Guardar.
+Su configuración de notificaciones se actualiza y guarda.
+Video: Administrar las notificaciones de la cuenta
+Cambiar configuración de cuenta
+La configuración de la cuenta le permite establecer sus pronombres personales, cambiar la configuración de la fuente de Brightspace, habilitar la autenticación de dos factores, habilitar tecnologías de asistencia como el lector de pantalla y mucho más.
+Cambiar la configuración de la cuenta
+- Haga clic en su nombre de usuario y seleccione Configuración de la cuenta.
+Figura: Haga clic en Configuración de la cuenta.
+- En la pestaña Configuración de la cuenta, puede cambiar la siguiente configuración:
+- En la pestaña Debates, puede cambiar los siguientes ajustes:
+- Configuración personal
+- Configuración de visualización
+Si se habilita esta opción, se anclará el panel Lista de debates en las páginas Ver tema y Ver hilo de conversación.
+Figura: Puede configurar si desea Siempre mostrar el panel Lista de debates en Configuración de pantalla.
+- Vista predeterminada
+- Seleccione la opción Vista de cuadrícula para visualizar las publicaciones de debate en la vista de cuadrícula tradicional, en la que los asuntos de las publicaciones se muestran en una cuadrícula.
+- Seleccione la opción Vista de lectura para visualizar las publicaciones de debates en la vista de lectura, en la que se muestra todo el texto de las publicaciones.
+Figura: Seleccione su configuración de Vista predeterminada.
+- Configuración de respuesta
+Si se selecciona esta opción, la publicación original se incluirá de forma predeterminada cuando se redacta una respuesta.
+Figura: Puede configurar si desea Incluir publicación original en la respuesta en la Configuración de respuesta.
+- Configuración de suscripción
+Habilitar esta opción le permite suscribirse al hilo de conversación de forma predeterminada al crear un nuevo hilo de conversación.
+Figura: Puede configurar si desea suscribirse a un hilo recientemente creado de forma predeterminada en Configuración de suscripción.
+- Configuración de vista de cuadrícula
+- Estilo de cadena predeterminado
+- Si selecciona la opción En hilo de conversación, se muestran los temas agrupados al acceder a ellos.
+- Si selecciona la opción Sin hilo de conversación, se muestra el estilo de hilo de conversación predeterminado que se utiliza al acceder a los temas.
+Figura: Seleccione su Estilo de cadena predeterminado preferido.
+- Configuración de visualización
+- Mostrar panel de vista previa
+Si se selecciona esta opción, el panel de Vista previa se mostrará en la Vista de cuadrícula. Si no se selecciona esta opción, al hacer clic en una publicación en la Vista de cuadrícula se abrirá en una ventana emergente.
+- Mostrar barra de herramientas
+Si se selecciona esta opción, los campos de búsqueda se mostrarán en la Vista de cuadrícula.
+Figura: Seleccione la Configuración de visualización que prefiera en Configuración de vista de cuadrícula > Configuración de visualización
+- Campos de publicación en pantalla
+Si se habilita esta opción, el ID de publicación se mostrará en la Vista de cuadrícula.
+Figura: Puede configurar si desea Campos de publicación en pantalla.
+- Límites de caracteres
+Si activa esta opción, podrá limitar la cantidad de caracteres del asunto que se muestra para cada publicación cuando navegue por los temas. El número de caracteres se puede configurar ingresando un número entero entre 1 y 150 en el campo de Caracteres del asunto que se muestran.
+Figura: Puede Limitar la cantidad de caracteres del asunto que se muestran en la publicación seleccionando la casilla y configurando la cantidad de Caracteres del asunto que se muestran.
+Después de revisar todos los detalles, haga clic en Guardar y cerrar para aplicar la nueva Configuración de la cuenta y volver a la Página de inicio del curso. De lo contrario, haga clic en Guardar para permanecer en la página Configuración de la cuenta.
+La configuración de su cuenta se actualiza y se guarda.
+Actualiza la configuración de idioma preferida
+El menú Usuario muestra la configuración de idioma seleccionada actualmente; sin embargo, se puede cambiar esa opción mediante la configuración de idioma accesible haciendo clic en el idioma preferido actual.
+Solo están disponibles para su selección los idiomas que habilite su organización.
+Cambiar la configuración de la cuenta:
+- Haga clic en su nombre de usuario y seleccione el idioma preferido actual.
+Figura: Seleccione su idioma actual para realizar cambios en su idioma preferido.
+- Explore para seleccionar su idioma de preferencia y haga clic en Guardar.
+Nota: Solo están disponibles para su selección los idiomas que habilite su organización.
+Figura: Seleccione el idioma en la ventana Establecer idioma preferido.

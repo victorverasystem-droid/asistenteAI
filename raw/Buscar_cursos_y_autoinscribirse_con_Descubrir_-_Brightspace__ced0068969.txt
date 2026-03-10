@@ -1,0 +1,58 @@
+URL: https://community.d2l.com/brightspace-es-MX/kb/articles/14440-buscar-cursos-y-autoinscribirse-con-descubrir
+TITLE: Buscar cursos y autoinscribirse con Descubrir - Brightspace
+HASH: ced00689694151d451df59bf6bce02faee5e726c97f3ba5440c767715e556c0b
+TYPE: web
+
+A fin de proporcionar una mayor flexibilidad y control sobre sus objetivos de aprendizaje personales, la herramienta Descubrir permite buscar cursos activos en su organización y autoinscribirse en ellos. También puede anular la autoinscripción una vez que se haya inscripto.
+Cuando inicia Descubrir desde la barra de navegación, se muestra la página de inicio de Descubrir. Para examinar fácilmente los cursos por categoría, la página de inicio de Descubrir organiza los cursos dados de baja en secciones:
+- La sección Nuevo incluye cursos agregados a Descubrir en los últimos 6 meses. De manera predeterminada, se muestran los cuatro cursos agregados más recientemente. Para mostrar todos los cursos agregados a Descubrir en los últimos 6 meses, haga clic en Ver todos.
+- La sección Actualizados incluye los cursos actualizados dentro de los últimos 6 meses. Esto incluye solo cursos con títulos o descripciones actualizados; los cursos con contenido actualizado no se muestran en esta sección. De manera predeterminada, se muestran los cuatro cursos actualizados más recientemente. Para mostrar todos los cursos actualizados en los últimos 6 meses, haga clic en Ver todos.
+- La sección Destacados incluye cursos promovidos por la organización, por lo general, cursos populares o cursos que la organización desea promocionar, hasta un máximo de cuatro.
+Figura: Cursos organizados por secciones en la página de inicio de Descubrir.
+Después de inscribirse en un curso, este se elimina de la página de inicio de Descubrir. Para ver el curso inscrito en Descubrir, haga clic en Examinar todo el contenido en la página de inicio de Descubrir y, a continuación, ordene por Ya inscrito. Todos los cursos inscritos se muestran en los resultados de búsqueda.
+Figura: Los resultados de la búsqueda en Descubrir se ordenan por Ya inscrito
+Tenga en cuenta lo siguiente:
+- En los resultados de búsqueda solo aparecen los cursos que permiten autoinscribirse (ya sea que lo configuren los administradores o instructores del curso).
+- Puede inscribirse en un curso antes de su fecha de inicio (si está configurada), pero no puede inscribirse en un curso después de su fecha final (si está configurada).
+- Descubrir usa la búsqueda de coincidencias parciales para establecer coincidencias con el título y la descripción del curso. Por ejemplo, escribir “química” podría dar resultados de búsqueda para “bioquímica” y “química”.
+- En Descubrir, puede abrir un curso inscrito en Brightspace. En Descubrir, diríjase al curso inscrito y, en la página de detalles del curso, haga clic en Abrir curso.
+- Según cómo se configure Descubrir en su organización, los cursos se pueden organizar según una o más de las siguientes secciones en la página de inicio de Descubrir: Nuevo, Actualizado, Todo o Destacado.
+Autoinscripción en un curso
+Puede examinar o buscar cursos disponibles para usted mediante Descubrir y Autoinscripción en un curso.
+Para realizar la autoinscripción en un curso
+- En la barra de navegación, haga clic en Descubrir.
+- En la página de inicio de Descubrir, realice una de las siguientes acciones:
+- Examine el curso por secciones.
+- En la barra de búsqueda, ingrese términos que coincidan con el título y la descripción del curso. Si no encuentra lo que busca, intente usar un término de búsqueda diferente. También puede hacer clic en Examinar todo el contenido o Ver todo para ver todos los cursos.
+Figura: Haga clic en el tipo de filtro y seleccione la opción o las opciones que desea buscar. Las opciones no seleccionadas no aparecen en los resultados de búsqueda.
+- Seleccione el curso en el que desea inscribirse.
+- En la página de detalles del curso, haga clic en Inscribirse en el curso.
+Anular la autoinscripción en un curso
+Puede cancelar su inscripción en cualquier curso en el que ya esté inscrito.
+Para anular la autoinscripción en un curso
+- En la barra de navegación, haga clic en Descubrir.
+- En la página de inicio de Descubrir, realice una de las siguientes acciones:
+- Haga clic en Examinar todo el contenido y, a continuación, ordene por Ya inscrito. Todos los cursos inscritos se muestran en los resultados de búsqueda.
+- En la barra de búsqueda, ingrese términos que coincidan con el título y la descripción del curso.
+- Seleccione el curso cuya inscripción desea anular.
+- En el (...) menú Opciones de la página de detalles del curso, haga clic en Anular la inscripción.
+Solicitar la aprobación para la autoinscripción en un curso
+En algunos casos, es posible que deba solicitar la aprobación de su instructor antes de autoinscribirse en un curso.
+Para solicitar la aprobación para la autoinscripción
+- En la barra de navegación, haga clic en Descubrir.
+- En la página de inicio de Descubrir, haga clic en el nombre de un curso para obtener la vista previa.
+- Si el curso requiere aprobación antes de autoinscribirse, haga clic en Solicitar aprobación. Se lo dirigirá a la página Solicitar detalles y su solicitud se establecerá en Pendiente.
+Figura: El botón Solicitar aprobación para un curso
+Figura: La página de Solicitar detalles
+- Si desea retirar su solicitud, haga clic en Retirar solicitud.
+Una vez que el instructor apruebe o rechace su solicitud, recibirá una notificación en Brightspace.
+Figura: Una notificación de aprobación o rechazo de la autoinscripción
+Administrar sus solicitudes de autoinscripción
+Puede revisar todas sus solicitudes de autoinscripción en la página Mis solicitudes.
+Para acceder a la página Mis solicitudes
+- En la barra de navegación, haga clic en Descubrir.
+- En la página de inicio Descubrir, haga clic en Mis solicitudes.
+Figura: Utilice la página Mis solicitudes para revisar todas las solicitudes de inscripción que haya creado y el estado de cada una.
+- Para revisar una solicitud, haga clic en el nombre del curso y realice una de las siguientes acciones:
+- Si su solicitud de inscripción es Aprobada, puede hacer clic en Abrir curso o en Ver solicitud para revisar los detalles de su solicitud.
+- Si su solicitud de inscripción es Rechazada, puede hacer clic Ver solicitud para revisar cualquier comentario que su aprobador haya dejado explicando las razones del rechazo.

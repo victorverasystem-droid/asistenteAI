@@ -1,0 +1,39 @@
+URL: https://community.d2l.com/brightspace-es-MX/kb/articles/10808-usar-la-carpeta-de-brightspace-para-educacion-superior-y-aprendizaje-corporativo
+TITLE: Usar la carpeta de Brightspace para educación superior y aprendizaje corporativo - Brightspace
+HASH: 3ec6a7e2c4cd81a0bc5150f6f089400f66d40d38979dc28392b715e12d2b6b3d
+TYPE: web
+
+En un entorno de aprendizaje corporativo o de educación superior, los estudiantes adultos documentan y comparten su viaje de aprendizaje con la aplicación Brightspace Portfolio o con la herramienta Portfolio en Brightspace. D2L recomienda utilizar uno de los siguientes flujos de trabajo para estos entornos de aprendizaje:
+- Uso compartido de pruebas con instructores
+- Pruebas no enlazadas a un curso
+Uso compartido de pruebas con instructores
+En este flujo de trabajo, los estudiantes recopilan pruebas y eligen cuándo compartirlas con los instructores para su evaluación. Este flujo de trabajo es ideal para los estudiantes en un entorno de aprendizaje de educación superior en el que puede que tengan trabajo en progreso que no está listo para compartir con los instructores. En el caso de los instructores, esto les permite ver solo las pruebas que el estudiante haya seleccionado cuidadosamente para su revisión, comentarios y evaluación.
+-
+Con la aplicación móvil, los estudiantes capturan fotos o videos de su aprendizaje a medida que ocurre (conocidos como pruebas) y registran sus pensamientos y observaciones.
+-
+Los estudiantes cargan fotos y observaciones de audio a Brightspace desde la aplicación.
+-
+Desde la herramienta Portfolio en Brightspace, las pruebas enviadas aparecen inmediatamente en las carpetas de los estudiantes (sin proceso de aprobación). Los instructores no ven las pruebas hasta que los estudiantes las compartan explícitamente con ellos, lo que lo hace ideal para el trabajo en progreso. Un administrador configura la capacidad de permitir que los estudiantes compartan las pruebas con los instructores.
+-
+Una vez que los estudiantes han seleccionado cuidadosamente las pruebas, las comparten con los instructores, quienes las revisan y proporcionan sus comentarios y evaluaciones.
+Tenga en cuenta lo siguiente:
+- Para permitir que los estudiantes compartan pruebas con los instructores, un administrador debe activar este flujo de trabajo.
+- Una vez que el administrador activa la función para compartir con el instructor, los estudiantes solo pueden compartir las pruebas con los instructores desde la herramienta Portfolio en Brightspace.
+- Si actualmente utiliza Brightspace Portfolio y un administrador activa la función para compartir con el instructor por primera vez, cualquier prueba existente que antes era visible se mantendrá así. Sin embargo, las nuevas pruebas no serán visibles para usted hasta que un estudiante las comparta.
+- Las pruebas que contienen comentarios, rúbricas o resultados no pueden compartirse con los instructores.
+- Las pruebas archivadas se pueden compartir y dejar de compartir con los instructores, incluso si contienen comentarios, rúbricas o resultados.
+- Los estudiantes también pueden compartir pruebas con los instructores haciendo clic en (...) Menú Opciones en un mosaico de pruebas y selección de Compartir con los instructores.
+- Cuando un estudiante comparte pruebas con un instructor, la fecha y hora en que se comparten las pruebas se agrega a estas, de forma visible para el estudiante y el instructor. Sin embargo, la fecha y hora en que se recopilaron las pruebas solo estarán visibles para el estudiante.
+Pruebas no enlazadas a un curso
+En este flujo de trabajo, los estudiantes recopilan pruebas y eligen no enlazarlas a un curso. Este flujo de trabajo es ideal para los estudiantes mayores en un entorno de educación superior o aprendizaje corporativo, ya que es posible que no estén inscritos en los cursos, pero aun así deben recopilar pruebas de aprendizaje en un lugar independiente donde no sea necesaria la evaluación por parte de un instructor. Por ejemplo, actividades extracurriculares, pasantías, o aprendizaje o investigación independiente.
+- Con la aplicación móvil o página web, los estudiantes capturan fotos o videos de su aprendizaje a medida que ocurre (conocidos como pruebas) y registran sus pensamientos y observaciones.
+- Cuando los estudiantes cargan pruebas en la aplicación web Portfolio, son redirigidos a la página de pruebas, que muestra una opción que les permite elegir si enlazar las pruebas a un curso o no.
+- Cuando un estudiante carga pruebas en la aplicación Brightspace Portfolio, se les solicita a los estudiantes que elijan una carpeta para cargar pruebas a: Pruebas no enlazadas o a uno de los cursos en los que están inscritos.
+- Desde la aplicación web Portfolio, cuando los estudiantes navegan a la página de inicio Portfolio y hacen clic en Ver por: Cursos, se muestra un mosaico de Pruebas no enlazadas, junto con mosaicos de cursos activos. El mosaico Pruebas no enlazadas es donde los estudiantes pueden agregar y ver todas las pruebas cargadas que no están enlazadas a un curso. Al hacer clic en el mosaico Pruebas no enlazadas, se muestran todas las pruebas no enlazadas y enlazadas en la página Ver por: Prueba Desde esta página, los estudiantes pueden filtrar las pruebas por Enlazadas al curso o No tiene curso.
+Tenga en cuenta lo siguiente:
+- Las pruebas que no están enlazadas a un curso están ocultas para los instructores. Esto significa que los instructores no pueden evaluar las pruebas, a menos que los estudiantes enlacen las pruebas a un curso.
+- Si el uso compartido del instructor está habilitado, los estudiantes primero deben enlazar las pruebas a un curso y, luego, compartirlas con el instructor. El uso compartido del instructor no es automático cuando las pruebas están enlazadas a un curso y el uso compartido del instructor está habilitado.
+- Los estudiantes pueden desenlazar pruebas que solo contengan notas privadas, con las notas privadas que quedan en el texto de las pruebas. Esto significa que, si un instructor ha compartido una nota privada con otros instructores, y el estudiante luego enlaza la prueba con un nuevo curso, el nuevo instructor puede ver la nota del instructor anterior.
+- Si los estudiantes quitan o cambian un curso enlazado, todas las categorías de clase se eliminan de las pruebas enlazadas.
+- Si se comparte una prueba con un instructor y contiene comentarios, rúbricas o resultados, el estudiante no puede eliminar o cambiar el curso enlazado.
+- Si un estudiante no tiene pruebas no enlazadas, la vista previa de la imagen para el mosaico de Pruebas no enlazadas se establece de forma predeterminada en el color del tema definido por organización. Una vez que el estudiante carga pruebas no enlazadas, se selecciona la prueba más reciente como la imagen de vista previa del mosaico.

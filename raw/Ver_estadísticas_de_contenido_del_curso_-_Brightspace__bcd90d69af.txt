@@ -1,0 +1,32 @@
+URL: https://community.d2l.com/brightspace-es-MX/kb/articles/16402-ver-estadisticas-de-contenido-del-curso
+TITLE: Ver estadísticas de contenido del curso - Brightspace
+HASH: bcd90d69afa15c56b1d7f6c97665b72787c71a383c72ea0a3806ab4edd764b50
+TYPE: web
+
+Ver estadísticas de contenido del curso
+Los informes de contenido del curso pueden mostrar la cantidad total de estudiantes, la cantidad de estudiantes que consultaron el contenido del curso y el tiempo promedio que los estudiantes dedicaron a ver el contenido. Puede ver las estadísticas de contenido del curso en general y las estadísticas específicas de determinados módulos y temas.
+Consideraciones de estadísticas del contenido del curso
+- Un estudiante que realiza varias consultas se cuenta solo una vez.
+- En la cantidad total de usuarios que se incluyen en las estadísticas no aparecen los usuarios que cuentan con el permiso Administrar contenido.
+- El tiempo calculado que los estudiantes dedicaron a ver contenido en general o módulos o temas individuales no incluye los tiempos de espera de las sesiones de los estudiantes ni los estudiantes que consultan el contenido, los módulos y los temas en el momento que usted consulta los detalles de las estadísticas.
+- Con la función Restablecer estadísticas, solo se restablece la cantidad de visitas y el tiempo dedicado a cada tema de contenido que se muestra en la página Estadísticas de contenido y en la herramienta Progreso de la clase.
+- Con la función Restablecer estadísticas, no se restablece el estado del nivel de avance del contenido de ningún tema de contenido de los estudiantes, en la herramienta Contenido o en la herramienta Progreso de la clase.
+- La función Exportar estadísticas le permite generar un archivo CSV que contiene todas las estadísticas de visualización y análisis fuera de Brightspace.
+- El valor Disponible para en la pestaña Contenido muestra la cantidad de estudiantes (de la lista de clases) para los que está disponible el contenido. Un tema o módulo está disponible para un estudiante si se cumple lo siguiente:
+- La fecha actual se encuentra dentro de las fechas de disponibilidad del tema o módulo
+- Los estudiantes han cumplido todas las condiciones de publicación que se requieren.
+- El tema o módulo de contenido está publicado o es visible
+Nota: Para este valor, se considera lo siguiente: condiciones de publicación, acceso especial (asignaciones y cuestionarios), acceso grupal (asignaciones y debates), fechas de disponibilidad, estado oculto o visible, y si el elemento principal del módulo está “disponible”.
+Verificar las estadísticas del contenido del curso en la Experiencia de contenido clásica
+- Vaya a Contenido.
+- En la página Tabla de contenidos, en la lista desplegable Herramientas relacionadas, haga clic en Ver informes.
+- En el área Estadísticas, realice una de las siguientes acciones:
+- Para ver todas las estadísticas de un módulo o tema, en la pestaña Contenido, haga clic en el valor Disponible para o en Usuarios que consultaron del módulo o tema.
+- Para ver las estadísticas de un estudiante específico, en la pestaña Usuarios, haga clic en el nombre de un estudiante.
+Comprobar las estadísticas de contenido del curso en Lecciones
+- Vaya a Contenido.
+- En la lista desplegable Opciones del curso, haga clic en Ver informes.
+Figura: Haga clic en Ver informes en la lista desplegable Opciones del curso.
+- En el área Estadísticas, realice una de las siguientes acciones:
+- Para ver todas las estadísticas de un módulo o tema, en la pestaña Contenido, haga clic en el valor Disponible para o en Usuarios que consultaron del módulo o tema.
+- Para ver las estadísticas de un estudiante específico, en la pestaña Usuarios, haga clic en el nombre de un estudiante.

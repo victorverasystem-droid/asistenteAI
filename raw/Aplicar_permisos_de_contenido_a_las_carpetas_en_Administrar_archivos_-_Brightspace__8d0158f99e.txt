@@ -1,0 +1,10 @@
+URL: https://community.d2l.com/brightspace-es-MX/kb/articles/10784-aplicar-permisos-de-contenido-a-las-carpetas-en-administrar-archivos
+TITLE: Aplicar permisos de contenido a las carpetas en Administrar archivos - Brightspace
+HASH: 8d0158f99ebc1ba746c4cbe091be1d4c42ed01deb4c5dbe8f22c09966ba34b76
+TYPE: web
+
+Si su organización tiene habilitada la variable de configuración de seguridad de inscripción, los usuarios que tienen el permiso del rol Acceder a archivos del curso cuando la seguridad de inscripción esté habilitada pueden acceder a Administrar archivos para ver y descargar archivos del curso.
+Si desea ocultar archivos específicos del curso de los usuarios, puede guardar estos archivos en carpetas protegidas utilizando nombres de carpetas que comiencen con un punto (por ejemplo, .notas_personales). También puede cambiar el nombre de carpetas existentes para protegerlas. Las carpetas protegidas solo están disponibles para los usuarios que tienen el permiso del rol Ver listado de archivos.
+Para aplicar permisos de contenido a carpetas
+- Cree una carpeta o edite una carpeta existente.
+- Agregue un punto al principio del nombre de la carpeta (por ejemplo, .notas_personales).

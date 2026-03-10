@@ -1,0 +1,38 @@
+URL: https://community.d2l.com/brightspace-es-MX/kb/articles/14417-crear-e-insertar-una-nota-de-video-en-el-editor-de-brightspace
+TITLE: Crear e insertar una nota de video en el editor de Brightspace - Brightspace
+HASH: 3e21e2489c2379035b0859e65864425f5a819884d66fdbde68f449abad522dd0
+TYPE: web
+
+Una video note es un video que se graba y se agrega mediante la opción Insertar objetos en el Editor de Brightspace. Una video note puede ser un video cargado o un video que se graba con la cámara web. Puede contener video y audio, o se puede configurar para grabar solo audio. Esto le permite compartir información importante con su propia voz y tono en cualquier lugar donde esté disponible el Editor de Brightspace.
+Agregar (crear) una video note con el Editor de Brightspace
+Puede usar Agregar video note para grabar videos de hasta 25 minutos de duración y agréguelos en cualquier lugar en el que esté disponible el editor de Brightspace. Para ayudar a garantizar que todos los usuarios puedan aprender sin barreras, se pueden crear subtítulos opcionales automáticamente.
+Para crear e insertar una video note
+- Vaya al área específica del curso en la que desea agregar una video note (por ejemplo, Asignaciones, Debates o Cuestionarios).
+- En el editor de Brightspace, haga clic en Insertar objetos.
+- En el cuadro de diálogo Insertar objetos, haga clic en Agregar Video Note. Asegúrese de permitir que Brightspace acceda a la cámara y al micrófono de su dispositivo.
+- En la pestaña Grabar cámara web, alterne el botón Solo audio para cambiar entre una grabación de audio y video o simplemente una grabación de audio.
+- Haga clic en Nueva grabación y, para finalizar el contenido, haga clic en Detener grabación.
+- Revise su contenido y haga clic en Siguiente.
+- Ingrese un Título, una Descripción y seleccione un Idioma de audio.
+- Para generar subtítulos automáticamente, seleccione Generar subtítulos automáticamente a partir del audio. Debe elegir un Idioma de audio para generar los subtítulos.
+- Haga clic en Siguiente.
+- Haga clic en Insertar.
+La video note se inserta en Brightspace Editor.
+Buscar y agregar video notes existentes
+Si ha creado video notes anteriormente y tiene los permisos para buscar e insertar video notes, puede reutilizarlas cuando corresponda.
+Para buscar y agregar video notes existentes
+- Navegue hacia el área específica en la que desea volver a utilizar una video note existente.
+- En el editor de Brightspace, haga clic en Insertar objetos.
+- En el cuadro de diálogo Insertar objetos, haga clic en Búsqueda de video note.
+Figura: haga clic en Búsqueda de video note en el cuadro de diálogo Insertar objetos.
+- Ingrese los términos de búsqueda en el campo Buscar notas y haga clic en Buscar. También puede realizar una búsqueda en blanco para ver todos los resultados de búsqueda.
+Figura: ingrese sus términos de búsqueda en el campo Buscar notas y haga clic en Buscar para encontrar contenido de video note.
+- Seleccione la video note que desea reutilizar y haga clic en Siguiente.
+- Puede obtener una vista previa de la video note antes de insertarlas y reutilizarlas.
+- Haga clic en Insertar.
+Ha reutilizado una video note en su contenido.
+Solucionar problemas al insertar videos de YouTube con Insertar objetos
+Existen dos posibles razones por las que su contenido de YouTube puede no funcionar cuando lo agrega con Insertar objetos:
+- Al utilizar el Marco Insertar objetos para agregar un video de YouTube u otros contenidos multimedia integrados en un Marco de herramienta de contenido, algunos navegadores de Internet pueden bloquear el contenido porque no es seguro y no informa al usuario que existe un bloque invisible en el que deberían encontrarse los medios. Esto hace que parezca que se produjo un error en la inserción, aunque el navegador bloquee el contenido inseguro.
+Para resolver este problema, la URL vinculada desde los marcos de contenido debe ser https:// y no http://. Es posible que sea necesario reconsiderar el enlace al contenido si el sitio de destino no tiene el formato https://.
+- Es posible que su curso contenga espacios aislados. Para mejorar la seguridad de los archivos de contenido que ejecutan secuencias de comandos para crear experiencias HTML con mayor riqueza (como objetos que pueden ejecutar JavaScript), existe una función de espacios aislados que crea un iFrame seguro en torno al archivo HTML. Esto permite que un archivo HTML ejecute secuencias de comandos (como JavaScript) solo dentro de iFrame, pero evita que se ejecuten fuera de iFrame (contra el dominio). Esto permite cierta flexibilidad en la creación de contenido enriquecido y garantiza que la información del usuario final sea segura en todas las situaciones (como en cursos en los que los roles sin privilegio aportan contenido).

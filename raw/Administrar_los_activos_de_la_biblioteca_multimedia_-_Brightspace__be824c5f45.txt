@@ -1,0 +1,101 @@
+URL: https://community.d2l.com/brightspace-es-MX/kb/articles/33237-administrar-los-activos-de-la-biblioteca-multimedia
+TITLE: Administrar los activos de la biblioteca multimedia - Brightspace
+HASH: be824c5f45605ff8cf007cc4d44d1004f9222d0802db0f3fcfa1de4b576ef3ea
+TYPE: web
+
+Administrar los activos de la biblioteca multimedia
+La biblioteca multimedia en Brightspace le permite crear, cargar y administrar audio, video, objetos del Modelo de referencia para recursos de software de cursos intercambiable y otro tipo de contenido en un solo lugar. Utilícela para grabar, organizar e insertar con facilidad recursos multimedia directamente en sus cursos.
+Tipos de atchivos y límites admitidos
+Cargar activos a la biblioteca multimedia
+Cargar activos a la biblioteca multimedia le permite reutilizarlos en varios cursos, lo que optimiza la administración del contenido. Puede organizar los activos por tipo o asunto, y compartirlos con otros usuarios si los agrega como colaboradores.
+Nota: De momento, solo los administradores deben agregar a los colaboradores.
+Cómo cargar activos:
+- En la barra de navegación del curso, haga clic en Biblioteca multimedia.
+- Haga clic en Agregar activo.
+- Arrastre y suelte el archivo en el cuadro Soltar archivos o haga clic para examinar y seleccionar un archivo de su computadora.
+- Una vez que se cargue el archivo, aparecerá una confirmación. Haga clic en Cerrar.
+- El archivo ahora está visible en la biblioteca multimedia, junto con una confirmación de que la carga está completa.
+Crear carpeta para activos en la biblioteca multimedia
+La organización de los activos en carpetas le permite administrar colecciones grandes y encontrar recursos más fácilmente. Esta función optimiza el flujo de trabajo, en especial cuando trabaja con varios cursos.
+Cómo crear una carpeta:
+- En la barra de navegación del curso, haga clic en Biblioteca multimedia.
+- Haga clic en Crear carpeta.
+- Ingrese un nombre para la carpeta y haga clic en Guardar.
+La carpeta ya está disponible en la biblioteca multimedia.
+Mover activos a una carpeta en la biblioteca multimedia
+Una vez que los activos están cargados, puede organizarlos aún más moviéndolos a carpetas. Esto garantiza que sea fácil de encontrar y administrar el contenido.
+- En la barra de navegación del curso, haga clic en Biblioteca multimedia.
+- Marque la casilla junto al activo que desea mover.
+- Haga clic en el botón Más acciones (…) y seleccione Mover a.
+- Seleccione Crear carpeta para crear una nueva carpeta o elija una existente de la lista.
+- Haga clic en Mover aquí.
+El activo se movió a la carpeta seleccionada.
+Actualizar y administrar versiones de activos en la biblioteca multimedia
+Mantener sus activos actualizados es fundamental para preservar la calidad de su contenido. Con la función de administración de versiones, puede cargar nuevas versiones o volver a las anteriores con facilidad.
+Nota: Esto actualizará el activo en cualquier lugar en el que se utilice en Brightspace.
+Cómo cargar una nueva versión:
+- En la barra de navegación del curso, haga clic en Biblioteca multimedia.
+- Haga clic en el botón Más acciones (…) y seleccione Administrar versiones.
+- Arrastre y suelte el archivo en el cuadro Soltar archivos o haga clic para examinar y seleccionar un archivo de su computadora.
+- Una vez que se haya terminado de procesar la nueva versión, haga clic en Publicar.
+- Aparece un recordatorio, que indica que este reemplazará el activo en cualquier lugar en el que se utilice. Haga clic en Publicar.
+- La nueva versión aparecerá en la lista de Versiones. Haga clic en Cerrar para volver a la biblioteca multimedia.
+Cómo previsualizar una versión:
+- En la barra de navegación del curso, haga clic en Biblioteca multimedia.
+- Haga clic en el botón Más acciones (…) y seleccione Administrar versiones.
+- Haga clic en el botón Más acciones (…) junto a la versión que desea previsualizar y seleccione Vista previa.
+La versión del activo aparece en la pantalla Vista previa.
+Cómo descargar una versión:
+- En la barra de navegación del curso, haga clic en Biblioteca multimedia.
+- Haga clic en el botón Más acciones (…) y seleccione Administrar versiones.
+- Haga clic en el botón Más acciones (…) junto a la versión que desea descargar y seleccione Descargar.
+La versión del activo se guarda en las descargas.
+Cómo volver a una versión anterior:
+- En la barra de navegación del curso, haga clic en Biblioteca multimedia.
+- Haga clic en el botón Más acciones (…) y seleccione Administrar versiones.
+- Haga clic en el botón Más acciones (…) junto a la versión que desea revertir y seleccione Revertir.
+- Aparece un recordatorio, que indica que este reemplazará el activo en cualquier lugar en el que se utilice. Haga clic en Publicar.
+- La nueva versión aparece en la lista de Versiones. Haga clic en Cerrar para volver a la biblioteca multimedia.
+Agregar activos de la biblioteca multimedia al editor de Brightspace
+Puede utilizar el ícono Insertar recursos en el editor de Brightspace para agregar contenido de audio y video desde la Biblioteca multimedia.
+Para insertar elementos desde la Biblioteca multimedia
+- En el editor de Brightspace, haga clic en Insertar objetos.
+- Seleccione Biblioteca multimedia.
+- Para localizar contenido de audio-video, ingrese un término de búsqueda y haga clic en Buscar. Para una búsqueda más refinada, haga clic en Buscar opciones para filtrar su búsqueda.
+- Seleccione el contenido que desea agregar y haga clic en Siguiente.
+- En Propiedades, personalice la relación de aspecto y el tamaño máximo del reproductor de video.
+- Haga clic en Insertar.
+Insertar enlaces rápidos de la biblioteca multimedia con opciones de filtro mejoradas
+Puede utilizar el ícono Insertar enlace rápido en el Editor de Brightspace para agregar enlaces rápidos de la biblioteca multimedia a su contenido.
+Para insertar enlaces rápidos de la Biblioteca multimedia
+- En el Editor de Brightspace, haga clic en Insertar enlace rápido.
+- Seleccione Biblioteca multimedia.
+- Haga clic para expandir los Filtros. Puede filtrar el contenido de la biblioteca multimedia de la siguiente manera:
+- Tipo de contenido: Filtre por tipo de contenido de audio o video.
+- Fecha de modificación: Filtre por fecha de modificación.
+- Fecha de creación.
+- Seleccione el contenido que desea agregar y haga clic en Siguiente.
+- Haga clic en Insertar.
+El contenido de audio y video se agrega como un enlace rápido.
+Eliminar activos en la biblioteca multimedia
+En ocasiones, es posible que deba eliminar activos de la biblioteca multimedia. Eliminar contenido obsoleto o innecesario le permite mantener la biblioteca organizada y relevante.
+- En la barra de navegación del curso, haga clic en Biblioteca multimedia.
+- Marque la casilla junto al activo que desea eliminar.
+- Haga clic en el botón Más acciones (…) y seleccione Eliminar.
+- En la pantalla de confirmación, haga clic en Eliminar.
+El archivo se eliminó de la biblioteca multimedia.
+Eliminar carpetas en la biblioteca multimedia
+Si necesita eliminar una carpeta completa y su contenido de la biblioteca multimedia, esta tarea le permite limpiar y reorganizar el almacenamiento de activos. La eliminación de carpetas hace posible mantener una biblioteca multimedia bien organizada y eficiente.
+- En la barra de navegación del curso, haga clic en Biblioteca multimedia.
+- Marque la casilla junto al activo que desea eliminar.
+- Haga clic en el botón Más acciones y seleccione Eliminar.
+- En la pantalla de confirmación, haga clic en Eliminar.
+La carpeta se eliminó de la biblioteca multimedia.
+Eliminar varios elementos de contenido audiovisual en la Biblioteca multimedia
+Puede seleccionar varios elementos audiovisuales en la Biblioteca multimedia y eliminarlos.
+Para seleccionar varios elementos audiovisuales y eliminarlos
+- Vaya a la Biblioteca multimedia.
+- Marque las casillas de selección que están junto al contenido de audio y video al que desea aplicar acciones por lote. O bien haga clic en la casilla de selección superior para seleccionar todo el contenido para las acciones por lote.
+-
+Haga clic en Acciones masivas > Eliminar.
+El contenido seleccionado se mueve a la Papelera de reciclaje.

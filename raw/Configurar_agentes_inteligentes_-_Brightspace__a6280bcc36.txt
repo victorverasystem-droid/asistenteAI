@@ -1,0 +1,104 @@
+URL: https://community.d2l.com/brightspace-es-MX/kb/articles/11071-configurar-agentes-inteligentes
+TITLE: Configurar agentes inteligentes - Brightspace
+HASH: a6280bcc3626e1d79b9c949ec9ed5db122273062441e187b9597e7d41416a653
+TYPE: web
+
+Agregar un enlace a la herramienta Agentes inteligentes de la barra de navegación
+Puede agregar un enlace a la herramienta Agentes inteligentes de la barra de navegación de su curso.
+Para agregar el enlace a la barra de navegación
+- En el menú Herramientas de administración, seleccione Navegación y temas.
+- Haga clic en el enlace de la barra de navegación en la que desea agregar un enlace a la Intelligent Agents herramienta.
+- En la página Editar barra de navegación, en el área Enlaces, haga clic en Agregar enlaces.
+- En la ventana de diálogo Agregar enlaces, marque la casilla de selección Agentes inteligentes.
+- Haga clic en Agregar y, a continuación, en Guardar y cerrar.
+Crear un agente
+Cree un agente que realice una acción, como enviar un correo electrónico en función de los criterios que haya establecido.
+Para crear un agente
+- Vaya a Administración del curso > Agentes inteligentes.
+- Haga clic en Nuevo agente.
+- Realice los siguientes pasos:
+- Ingrese un Nombre del agente.
+- (Opcional) Agregue una Descripción del agente.
+- (Opcional) Seleccione una Categoría. Para crear una nueva categoría, haga clic en Agregar categoría, agregue un Nombre y, a continuación, haga clic en Guardar.
+.
+- Vaya a Estado y seleccione Agente habilitado para que el agente esté habilitado al momento de la creación.
+- Para programar con qué frecuencia se evalúan los criterios del agente, haga lo siguiente:
+- Expanda Programación haciendo clic en el ícono de flecha.
+- Seleccione una Frecuencia.
+- Ingrese los criterios basados en esa frecuencia.
+- Expanda los Criterios y en la sección Rol en el listado de alumnos, realice una de las siguientes acciones:
+- Para que el agente se aplique a todos los roles en el listado de alumnos, seleccione Todos los usuarios visibles en el listado de alumnos.
+- Para que el agente se aplique a ciertos roles, seleccione Usuarios con roles específicos y seleccione los roles correspondientes.
+- Para que el agente Tome medidas sobre la actividad, seleccione una o más de las siguientes opciones:
+- Actividad de inicio de sesión ejecuta el agente si el usuario ha iniciado sesión o no en la plataforma durante el último número de días especificado.
+- Actividad del curso ejecuta el agente si el usuario ha accedido o no al curso en el último número de días especificado.
+-
+Para establecer un agente inteligente según las condiciones de publicación específicas, realice una de las siguientes acciones:
+- Expanda la sección Acciones haciendo clic en el ícono de flecha.
+- En Repetición, seleccione con qué frecuencia desea que el agente ejecute una acción.
+- Si su rol tiene los permisos Utilizar las acciones de inscripción del agente y Anular inscripción, puede configurar su agente para que realice una acción de inscripción o de cancelación de inscripción:
+- En Cambiar inscripciones de usuario, seleccione Cambiar las inscripciones de usuario cuando se cumplan los criterios.
+- Desde la Acción de inscripción, seleccione la acción que desea que el agente realice y seleccione el curso.
+- Para Inscribir al usuario en un curso, seleccione un curso disponible. Solamente se mostrarán los cursos en los que tiene permiso para inscribirse. Seleccione el Nuevo rol con el que se inscribirá el usuario cuando se cumplan los criterios del agente.
+- Para que el agente envíe un correo electrónico cuando se cumplan los criterios establecidos, vaya a Enviar un correo electrónico, marque la casilla de selección Enviar un correo electrónico cuando se cumplan los criterios e ingrese la información de su correo electrónico y los archivos adjuntos relevantes.
+Nota: Para enviar el correo electrónico del agente a destinatarios específicos, haga clic en ¿Qué direcciones de correo electrónico especiales puedo utilizar?, luego, copie la cadena de reemplazo correspondiente y péguela en los campos Para, Cc Cco según sea necesario. Las direcciones de correo electrónico especiales incluyen, por ejemplo, usuarios, auditores y padres o tutores.
+- Haga clic en Guardar y cerrar.
+Edición de un agente
+Puede realizar cambios en los agentes existentes.
+Para editar un agente
+- Vaya a Administración del curso > Agentes inteligentes.
+- Seleccione una opción de filtro en Vista. Las opciones son:
+- Todos los agentes
+- Por categoría (que ordena a los agentes por su categoría asignada)
+- Habilitado (solo aquellos agentes que han sido habilitados)
+- Deshabilitado (solo aquellos agentes que no están habilitados actualmente).
+- En el menú contextual del agente que desea editar, haga clic en Editar agente.
+- Para editar varios agentes a la vez, seleccione dos o más agentes y haga clic en Edición masiva.
+- Realice sus cambios.
+- Haga clic en Guardar y cerrar.
+Copiar un agente
+Puede copiar un agente para volver a utilizarlo o para realizar cambios mínimos de edición.
+Para copiar un agente
+- Vaya a Administración del curso > Agentes inteligentes.
+- En el menú del contexto del agente que desea copiar, haga clic en Copiar. Se crea un nuevo agente y se agrega “Copia de” al comienzo de su nombre.
+Eliminación de un agente
+Puede eliminar un agente de manera individual o por lote. Los agentes eliminados no se ejecutan si tienen un cronograma recurrente.
+Para eliminar un agente individual
+- Vaya a Administración del curso > Agentes inteligentes.
+- En el menú de contexto del agente que desea eliminar, haga clic en Eliminar.
+- Para confirmar la eliminación, haga clic en Eliminar.
+Para eliminar varios agentes
+- Vaya a Administración del curso > Agentes inteligentes.
+- En la Lista de agentes, seleccione los agentes que desea eliminar.
+- Haga clic en Eliminar.
+- Para confirmar la eliminación, haga clic en Eliminar.
+Restaurar un agente
+Puede restaurar todos los agentes eliminados. Todos los agentes restaurados conservan las propiedades existentes y su historial.
+Para restaurar un agente eliminado
+- Vaya a Administración del curso > Agentes inteligentes.
+- Haga clic en Más acciones y seleccione Restablecer.
+- Haga clic en Restaurar para restaurar un agente eliminado.
+Reordenar categorías de agentes
+Puede reordenar la lista de categorías utilizadas por agentes inteligentes.
+Para reordenar la lista de categorías de agentes
+- Vaya a Administración del curso > Agentes inteligentes.
+- Haga clic en Editar categorías.
+- Haga clic en Orden de clasificación de la categoría. Ingrese el valor numérico y, luego, presione Ingresar o haga clic fuera del campo.
+- Haga clic en Cerrar.
+Cambiar el estado de un agente
+Puede activar y desactivar los agentes individualmente o en lote fácilmente en la página Lista de agentes. Los agentes deshabilitados muestran un ícono Agente no habilitado (simbolizado por un círculo rojo con una línea atravesada) junto a su nombre.
+Para cambiar el estado de un agente
+- Vaya a Administración del curso > Agentes inteligentes.
+- Realice una de las siguientes acciones:
+- Para activar a un agente, seleccione el agente que desee activar y haga clic en Activar.
+- Para desactivar a un agente, seleccione el agente que desee desactivar y haga clic en el Desactivar.
+Actualizar las configuraciones de agentes inteligentes
+Puede ajustar la configuración en la herramienta Agente inteligente para establecer valores personalizados para el nombre desde el cual provienen los correos electrónicos y la dirección de respuesta a la cual se envían las respuestas.
+Para actualizar las configuraciones de agentes inteligentes
+- Vaya a Administración del curso > Agentes inteligentes.
+- Haga clic en Configuración.
+- Seleccione una de las siguientes opciones:
+- Seleccionar Utilizar valores predeterminados del sistema.
+- Seleccionar Establecer valores personalizados para este curso y completar los campos disponibles.
+- Haga clic en Guardar.
+Reemplazo de cadenas por agentes

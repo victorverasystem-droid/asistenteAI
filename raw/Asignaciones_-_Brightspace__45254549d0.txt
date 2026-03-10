@@ -1,0 +1,17 @@
+URL: https://community.d2l.com/brightspace-es-MX/kb/articles/33877-asignaciones
+TITLE: Asignaciones - Brightspace
+HASH: 45254549d09c800f70383126be9da25c7bdb3731e2433a9bea950d5aa0ed326b
+TYPE: web
+
+La herramienta Asignaciones le permite cargar y enviar asignaciones directamente a Brightspace. Sencillamente cargue su material enviado a la asignación correspondiente y envíelo.
+Nota: Si no puede ubicar la herramienta Asignaciones o acceder a ella, es posible que esta figure con otro nombre. Comuníquese con el instructor para obtener más información.
+Recorrido visual de la herramienta Asignaciones
+Figura: La herramienta Asignaciones se organiza en varias secciones, que se describen a continuación.
+- Haga clic en Asignaciones para acceder a la herramienta Asignaciones.
+- Haga clic en Ver historial para revisar su historial de envíos. También puede ordenar los resultados por asignación y tipo de asignación.
+- Haga clic en una asignación de la lista para agregar archivos, grabar audio, grabar video, agregar comentarios y enviar su asignación.
+- Revise:
+- Estado de finalización: Muestra un recuento de todo el material o los archivos enviados para la asignación.
+- Puntuación: Muestra una calificación o puntuación si el material enviado recibió una calificación.
+- Estado de evaluación: Muestra los comentarios de su instructor.
+- Fecha de vencimiento: Se muestra la fecha en que el instructor solicitó que se complete la asignación.

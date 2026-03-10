@@ -1,0 +1,26 @@
+URL: https://community.d2l.com/brightspace-es-MX/kb/articles/10998-definicion-de-la-configuracion-de-clases-de-portfolio
+TITLE: Definición de la configuración de clases de Portfolio - Brightspace
+HASH: cb3b379114e8be327b1c66e6b91e64156f9d961f8a520e8e7691cb740c16871b
+TYPE: web
+
+En Brightspace, la herramienta Portfolio proporciona la configuración de clase para los avatares de los estudiantes y la aprobación de pruebas.
+Figura: Haga clic en Configuración en la herramienta Portfolio.
+Avatares del estudiante
+Puede activar una configuración que muestra los avatares Funster en lugar de las fotos de perfil del estudiante. Esta configuración de avatares solo se aplica a la vista del instructor de los estudiantes en la clase.
+Cuando un estudiante visita su Brightspace Portfolio, el avatar que aparece cumple las siguientes reglas:
+- Si el estudiante tiene un avatar de Brightspace, úselo.
+- Si el estudiante no tiene un avatar de Brightspace, pero ha estado en un curso en que se le asignó un Funster, utilice el Funster.
+- Si el estudiante no tiene un avatar de Brightspace ni un Funster, use la imagen de perfil predeterminada.
+Si los estudiantes están en un curso que se configuró antes de la actualización de enero del 2018, el avatar se cambia a Funster de forma predeterminada.
+Aprobación de pruebas
+Puede elegir los métodos para agregar pruebas que requieran su aprobación. Esto garantiza que las pruebas recopiladas con un método específico no aparezcan en el portafolio del estudiante hasta que usted las apruebe. Estas opciones son más adecuadas para los estudiantes jóvenes en un entorno de aprendizaje de educación primaria y secundaria. Las opciones disponibles son:
+- La herramienta web de Portfolio
+- La aplicación Portfolio está en los modos Dispositivo de clase y Dispositivo de familia (activados de manera predeterminada).
+- La aplicación Portfolio está en modo Mi dispositivo.
+Por ejemplo, si está utilizando un dispositivo de clase compartido con sus estudiantes, es posible que desee elegir la aplicación Portfolio en los modos “Dispositivo de aula” y “Dispositivo de familia”.
+Definición de la configuración de clases de Portfolio
+- Vaya a Carpeta.
+- En la página Portfolio, haga clic en Configuración.
+- Para utilizar Funsters en lugar de fotos del perfil de los estudiantes, haga clic en Utilizar avatares de Funster en lugar de las fotos de perfil.
+- En Aprobación de pruebas, seleccione los métodos para agregar pruebas que requieran su aprobación.
+- Haga clic en Guardar.

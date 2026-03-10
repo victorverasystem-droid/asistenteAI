@@ -1,0 +1,28 @@
+URL: https://community.d2l.com/brightspace-es-MX/kb/articles/10865-tipos-de-sistemas-de-calificacion
+TITLE: Tipos de sistemas de calificación - Brightspace
+HASH: 41cd4fc76f2966b06f3adcc30991fa76e930f06762b8d27e24ba3b37b0e4d187
+TYPE: web
+
+Brightspace admite tres tipos de sistemas de calificación: Ponderado, Puntos y Fórmula. Cada sistema calcula la calificación final de manera diferente y ofrece flexibilidad en la forma en que los elementos de calificación contribuyen a la calificación general del curso.
+Elija el sistema de calificación que mejor se alinee con la estructura de su curso, la estrategia de evaluación y las políticas de calificación.
+Consulte Crear un sistema de calificación para conocer los pasos a fin de configurar un sistema de calificación en su curso.
+Sistema de calificación ponderado
+El sistema ponderado calcula los elementos de calificación como un porcentaje de una calificación final equivalente al 100 %.
+- Las categorías representan los porcentajes de la calificación final.
+- La contribución de cada elemento de calificación se basa en su ponderación en la categoría y la ponderación de la categoría respecto de la calificación final.
+- Ejemplo: una categoría que vale el 10 % de la calificación final con dos elementos iguales asigna a cada elemento el 5 % de la calificación final.
+- Los elementos de calificación en una categoría deben sumar el 100 % de esa categoría.
+Sistema de calificación de puntos
+El sistema de puntos utiliza puntos máximos para determinar cuánto contribuye un elemento de calificación.
+- Las calificaciones finales se calculan así: (total de puntos obtenidos ÷ total de puntos máximos) × 100.
+- No es necesario que asigne ponderaciones de categorías ni puntos totales.
+- Los puntos máximos de un elemento de calificación reflejan su contribución a la calificación final de forma directa.
+Prácticas recomendadas:
+- Asegúrese de que los puntos máximos reflejen importancia (por ejemplo, no califique cada tarea con un máximo de 50, mientras que un examen final solo corresponde a 80).
+- Puede excluir elementos del cálculo de la calificación final (numérico, cuadro de selección, aprobado/reprobado o categorías completas) utilizando la casilla de selección Excluir del cálculo de calificación final en la creación o edición.
+- En el sistema ponderado, no hay una configuración para excluir del cálculo de la calificación final. Para excluir un elemento cuando se utilizan las ponderaciones, asigne una ponderación del 0 % al elemento.
+Sistema de calificación de fórmulas
+- El sistema de fórmulas se basa en el sistema de puntos y le permite aplicar condiciones personalizadas.
+- Admite reglas avanzadas, como la necesidad de un puntaje mínimo del examen, la aplicación de sanciones o el puntaje más bajo.
+- Ejemplo: exija que los estudiantes obtengan al menos un 50 % tanto en los exámenes de mitad de trimestre como en los exámenes finales para aprobar el curso.
+Comparación del sistema de calificación

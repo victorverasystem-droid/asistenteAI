@@ -1,0 +1,49 @@
+URL: https://community.d2l.com/brightspace-es-MX/kb/articles/10935-ejecutar-agentes-inteligentes
+TITLE: Ejecutar agentes inteligentes - Brightspace
+HASH: 5b740869171a8920fa9636086848825166f45c1139a38d3445a727925899511e
+TYPE: web
+
+Realizar una ejecución de práctica en un agente
+Puede hacer que el agente realice una ejecución de práctica para ver a quién identifica el agente sin enviar un correo electrónico a los usuarios. Los agentes no necesitan estar habilitados para realizar una ejecución de práctica.
+Para realizar una ejecución de práctica en un agente
+- Vaya a Administración del curso > Agentes inteligentes.
+- En el menú de contexto del agente para el cual desea realizar una ejecución de práctica, haga clic en Ejecución de práctica.
+Figura: haga clic en Ejecución de práctica en el menú contextual del agente.
+- Haga clic en Ejecutar en el cuadro de diálogo Confirmación.
+- Haga clic en Listo para regresar a la página Lista de agentes.
+- Los resultados de la práctica aparecen en la columna Resultados de la última ejecución.
+Figura: haga clic en el enlace de la columna Resultados de la última ejecución para ver más detalles.
+Ejecución de un agente en forma manual
+Por lo general, los agentes se configuran para que se ejecuten en forma automática. Si no tiene un cronograma regular configurado para un agente, debe ejecutarlo en forma manual.
+Cuando ejecuta un agente en forma manual, este envía un correo electrónico de confirmación al usuario que solicitó o configuró el agente. Este correo electrónico incluye la siguiente información:
+- código y nombre de la unidad de organización
+- qué agente ejecutó
+- hora y fecha en que se envío la solicitud
+- hora y fecha en que finalizó la solicitud
+- si el agente realizó alguna acción
+Aún puede configurar la ejecución manual de un agente inteligente en cualquier momento en el curso con una fecha final pasada. Los agentes no necesitan estar habilitados para configurar una ejecución manual.
+Para ejecutar un agente de forma manual
+- Vaya a Administración del curso > Agentes inteligentes.
+- En el menú de contexto del agente que desea ejecutar manualmente, haga clic en Ejecutar ahora.
+Figura: haga clic en Ejecutar ahora en el menú contextual del agente.
+- Haga clic en Ejecutar en el cuadro de diálogo Confirmación.
+- Haga clic en Listo para regresar a la página Lista de agentes.
+- Los resultados de la práctica aparecen en la columna Resultados de la última ejecución. También puede ver los detalles haciendo clic en Ver historial desde el menú contextual del agente.
+Figura: haga clic en el enlace de la columna Resultados de la última ejecución para ver más detalles.
+Ver el historial de un agente
+Puede ver el historial de un agente para ver cuándo se ejecutó el agente, quién se identificó, el tipo de ejecución (Manual, Programada o Práctica), quién ejecutó al agente y si se encontraron errores.
+Para ver el historial de un agente
+- Vaya a Administración del curso > Agentes inteligentes.
+- En el menú de contexto del agente cuyo historial desea vera, haga clic en Ver historial.
+Figura: haga clic en Ver historial en el menú contextual del agente.
+Exportar el historial de un agente
+Puede exportar el historial de un agente a un archivo CSV para ver cuándo se ejecutó el agente, quién se identificó, el tipo de ejecución (Manual, Programada o Práctica), quién ejecutó al agente y si se encontraron errores.
+- Vaya a Administración del curso > Agentes inteligentes.
+- Haga clic en Más acciones y seleccione Exportar historial del agente.
+Figura: haga clic en Exportar historial del agente en el menú Más acciones.
+- Utilice Seleccionar un agente para seleccionar Todos los agentes o un agente específico.
+- Seleccione Incluir ejecuciones de práctica para incluir información de ejecución de práctica.
+- Establezca el rango de fechas que se incluirá.
+- Haga clic en Exportar.
+Figura: una vez que haya seleccionado un agente y establecido el rango de fechas, haga clic en Exportar.
+- Haga clic en el enlace del archivo CSV para descargar el historial.

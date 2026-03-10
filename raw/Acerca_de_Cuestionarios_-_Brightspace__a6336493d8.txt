@@ -1,0 +1,27 @@
+URL: https://community.d2l.com/brightspace-es-MX/kb/articles/11023-acerca-de-cuestionarios
+TITLE: Acerca de Cuestionarios - Brightspace
+HASH: a6336493d8ef63c7c042a6678741794be79881b65de927a9d9523f30880781fb
+TYPE: web
+
+Cree cuestionarios utilizando diferentes tipos de preguntas. Cree cuestionarios que seleccionen preguntas al azar de un grupo de preguntas o que mezclen el orden de las preguntas.
+Requisitos
+Para usar la herramienta de cuestionarios, se requiere lo siguiente:
+- Para ver y usar la herramienta de cuestionarios, debe tener los permisos de cuestionarios requeridos aplicados a su rol. Solo el administrador de su organización puede acceder a estos permisos.
+- Para agregar la herramienta de cuestionarios a la barra de navegación de su curso, debe tener los permisos de Barra de navegación necesarios aplicados a su rol. Para obtener más información sobre cómo agregar una herramienta o un enlace a la barra de navegación del curso, consulte el tema Personalice la barra de navegación del curso.
+Recorrido visual de la Herramienta de cuestionarios
+Figura: Descripción general de la interfaz de la herramienta de cuestionarios.
+La página de herramientas de cuestionarios ofrece las siguientes opciones:
+- Haga clic en la pestaña Biblioteca de preguntas para crear nuevas preguntas de cuestionario o agregar preguntas existentes.
+- Haga clic en la pestaña Estadísticas para revisar las estadísticas de calificaciones del usuario y del cuestionario.
+- Crear un Nuevo cuestionario.
+- Editar o crear nuevas categorías de cuestionarios para ayudar a organizar sus cuestionarios.
+- Haga clic en Más acciones para:
+- Agregar un recurso de aprendizaje
+- Reordenar cuestionarios.
+- Hacer que los cuestionarios sean visibles para los usuarios.
+- Ocultar cuestionarios a los usuarios.
+- Eliminar o restaurar cuestionarios
+- Ver cuestionarios por disponibilidad o categoría asignada.
+- Seleccione varios cuestionarios y haga clic en Edición por lote para configurar varios cuestionarios.
+- Haga clic en la flecha para aplicar más acciones a un cuestionario.
+Video: Nueva experiencia de cuestionario

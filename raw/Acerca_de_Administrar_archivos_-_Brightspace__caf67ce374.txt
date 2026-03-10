@@ -1,0 +1,20 @@
+URL: https://community.d2l.com/brightspace-es-MX/kb/articles/10791-acerca-de-administrar-archivos
+TITLE: Acerca de Administrar archivos - Brightspace
+HASH: caf67ce374581eb2ac9dda1446fc21fa6fb9c89442c6f3eaf5f87cc284f97130
+TYPE: web
+
+La herramienta Administrar archivos es un sistema de administración de archivos de su curso. Puede usar esta herramienta para organizar y cargar archivos asociados a su oferta de cursos.
+Administrar archivos le permite seleccionar y cargar archivos desde su computadora en Brightspace. Si bien puede cargar la mayoría de los tipos de archivo en un directorio de contenido en Administrar archivos, solo los archivos con extensiones específicas se pueden usar como temas de contenido.
+Las funciones que puede realizar en Administrar archivos se pueden dividir en las siguientes dos categorías:
+- Organizar y administrar archivos y carpetas: realice tareas como crear, editar, eliminar, cargar, mover archivos y carpetas, y comprimir y descomprimir archivos.
+- Crear temas a partir de sus archivos: puede crear temas utilizando archivos de la estructura de contenido de su curso.
+Cuando el archivo se comprime o descomprime correctamente, aparece una notificación en Alertas de actualización (el ícono de campana). Al hacer clic en la notificación, regresa a la página Administrar archivos en el curso.
+Requisitos
+Para usar la herramienta Administrar archivos, se requiere lo siguiente:
+- Para ver y usar la herramienta Administrar archivos, debe tener los permisos de Administrar archivos requeridos aplicados a su rol. Solo el administrador de su organización puede acceder a estos permisos.
+- Para agregar la herramienta Administrar archivos a la barra de navegación de su curso, debe tener los permisos de Barra de navegación necesarios aplicados a su rol. Para obtener más información sobre cómo agregar una herramienta o un enlace a la barra de navegación del curso, consulte el tema Personalice la barra de navegación del curso.
+Recorrido visual de la herramienta Administrar archivos
+Figura: Utilice Administrar archivos para crear nuevos archivos y administrar los existentes desde una sola página.
+- Revise la ubicación de sus archivos y utilice los íconos para crear nuevos archivos, nuevas carpetas, pegar contenido seleccionado de la lista o cargar nuevo contenido.
+- Utilice los íconos para cortar, pegar, borrar, descargar, comprimir o cargar archivos.
+- Seleccione los archivos de la lista para guardarlos o seleccione la flecha para acceder a las opciones adicionales de cada archivo.

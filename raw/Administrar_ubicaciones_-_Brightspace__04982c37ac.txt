@@ -1,0 +1,26 @@
+URL: https://community.d2l.com/brightspace-es-MX/kb/articles/10988-administrar-ubicaciones
+TITLE: Administrar ubicaciones - Brightspace
+HASH: 04982c37acf83da72be39b7fea88b96f4bba8ba77a868b6db5bf65511bb0d3fb
+TYPE: web
+
+Utilice las ubicaciones para informar a los estudiantes el momento en que ocurre un evento o una sesión de clase. Utilice la herramienta Ubicaciones para configurar las ubicaciones como activas o inactivas, así como para restablecer los diseños asociados.
+Nota: Las ubicaciones se pueden vincular a eventos en la herramienta Calendario. Consulte el tema Administrar los eventos del curso con la herramienta Calendario para obtener más información.
+Las ubicaciones se crean y vinculan a diseños mediante la herramienta Gráficos de puestos. Puede configurar un diseño; para ello active o desactive los gráficos a fin de imitar el entorno de aula. Consulte el tema Crear y administrar gráfico de puestos para obtener más información.
+Importante: Se le deben otorgar los permisos Ubicaciones > Administrar ubicaciones y Eliminar ubicaciones para acceder a la herramienta Ubicaciones. Comuníquese con su administrador para obtener más información.
+Configuración de ubicaciones como activas o inactivas
+Las ubicaciones están configuradas como inactivas de forma predeterminada.
+Para configurar las ubicaciones como activas o inactivas
+- En la barra de navegación del curso, haga clic en Ubicaciones.
+- En la página Ubicaciones, seleccione la ubicación que desea establecer como activa o inactiva y realice una de las siguientes acciones:
+Figura: Los botones Establecer como activa y Establecer como inactiva.- Haga clic en Establecer como activa. La ubicación seleccionada se establece como activa y aparece una marca de verificación junto al nombre de la ubicación.
+- Haga clic en Establecer como inactiva. La ubicación seleccionada se establece como inactiva y no se muestra ningún símbolo junto al nombre de la ubicación.
+Nota: No se puede crear un gráfico de puestos para una ubicación inactiva ni asociar una ubicación inactiva con los eventos del Calendario.
+Haga clic en la pestaña Activa para revisar cualquier ubicación activa.
+Restaurar un diseño
+Si tiene diseños personalizados para cursos individuales, puede revertir el diseño al diseño original configurado por la organización.
+Para restaurar un diseño
+- En la barra de navegación del curso, haga clic en Ubicaciones.
+- En la página Ubicaciones, pase el cursor sobre el ícono junto al nombre de la ubicación y haga clic para abrir el diseño de la ubicación.
+Figura: El ícono de diseño.
+- Haga clic en Más acciones y, luego, en Restablecer diseño.
+Se restablece el diseño de la ubicación.

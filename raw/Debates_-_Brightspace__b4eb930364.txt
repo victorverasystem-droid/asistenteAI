@@ -1,0 +1,17 @@
+URL: https://community.d2l.com/brightspace-es-MX/kb/articles/33882-debates
+TITLE: Debates - Brightspace
+HASH: b4eb930364fe745005a1a3dd9c744b07c957d8a9e88919625aaf0526959cbdc8
+TYPE: web
+
+Utilice la herramienta de Debates para ver los temas de debate y suscribirse a ellos, así como para iniciar nuevos hilos de conversación.
+Recorrido visual: Herramienta de debates
+La herramienta Debates lo ayuda a crear y administrar debates en su curso.
+Figura: La herramienta Debates se organiza en varias secciones, que se describen a continuación.
+- Haga clic en Debates para abrir la página Debates.
+- Lista de debates: muestra una descripción general de los temas del foro. Haga clic en el enlace del tema para ver los hilos de conversación o haga clic en el botón desplegable junto al tema para ver más opciones.
+- Suscripciones: Establezca su método de notificación predeterminado para los elementos de debate a los que está suscrito. También puede hacer clic en el enlace Cambiar la configuración de notificaciones para actualizar sus métodos de contacto, el resumen de actividad y qué método se utiliza para recibir notificaciones instantáneas para diversas herramientas y funciones.
+- Filtrar por: Ordenar y filtrar temas de debate.
+- Foro de debate: Haga clic en la flecha para acceder a más acciones del foro de debate.
+- Tema de debate: Haga clic para abrir el tema de debate en la lista o haga clic en la flecha para ver los temas en Vista de cuadrícula o Suscribirse a hilos de conversación.
+- Configuración: configure sus opciones de visualización personal, la configuración de la unidad de organización (curso) y la configuración predeterminada para las condiciones de disponibilidad.
+- Ayuda: Obtenga más información sobre la herramienta de debates.

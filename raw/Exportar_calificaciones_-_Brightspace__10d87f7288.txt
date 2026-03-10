@@ -1,0 +1,17 @@
+URL: https://community.d2l.com/brightspace-es-MX/kb/articles/26706-exportar-calificaciones
+TITLE: Exportar calificaciones - Brightspace
+HASH: 10d87f728824785054be578ba31876f209bcc7fb5684c8b40adb9aa325988006
+TYPE: web
+
+Si desea ingresar calificaciones en un archivo CSV o TXT, puede configurar su cuaderno de calificaciones en Brightspace y utilizar la opción Exportar calificaciones para crear un archivo estructurado de forma adecuada.
+- En la barra de navegación, haga clic en Calificaciones.
+- En la página Ingresar calificaciones, haga clic en Exportar.
+- En el área Exportar opciones, haga lo siguiente:
+- En la lista desplegable Exportar elementos de calificación de, seleccione la persona cuyos elementos de calificación desea exportar. Puede filtrar por Secciones y Equipos de trabajo.
+- Seleccione el Campo clave que desee utilizar para identificar a los usuarios.
+- En la lista desplegable Clasificar por, seleccione el orden de clasificación de los campos que aparecen en el archivo exportado.
+- Seleccione los valores de calificación y detalles del usuario que desea exportar.
+- En el área Elegir calificaciones para exportar, seleccione los elementos de calificación que desea exportar.
+- Haga clic en Exportar a CSV o en Exportar a Excel. Haga clic en Descargar para ver su archivo.
+- Haga clic en Cerrar.
+Ha exportado las calificaciones de Brightspace a un formato de archivo externo.

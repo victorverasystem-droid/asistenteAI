@@ -1,0 +1,25 @@
+URL: https://community.d2l.com/brightspace-es-MX/kb/articles/11031-archivar-pruebas
+TITLE: Archivar pruebas - Brightspace
+HASH: 957463a8e1df9b771597f7eebd28d382c45c58246bb01835878c7fafa7435ce0
+TYPE: web
+
+Las pruebas de cursos inactivos se archivan automáticamente para optimizar la apariencia de Brightspace Portfolio de un estudiante. Cuando un curso desaparece de la lista de cursos activos de los estudiantes, la carpeta y las pruebas del curso capturadas en esos cursos se mueven automáticamente al año archivado. Las situaciones en las que una carpeta de curso se puede archivar incluyen:
+- el curso se desactiva
+- el curso llegó a su fecha final
+- el estudiante anula la inscripción al curso
+- el curso se elimina.
+Aquellos que tengan acceso al portafolio del estudiante pueden ver sus pruebas archivadas. Los instructores pueden aprovechar esta función para revisar las pruebas anteriores de aprendizaje de un estudiante y personalizar cómo o qué enseñan. Los instructores pueden ver las pruebas de un estudiante de los cursos que actualmente imparten, además de todas las pruebas archivadas, independientemente de que ellos impartieran el curso en el que se generaron las pruebas. Los instructores siguen sin poder ver las pruebas de los cursos actuales del estudiante de los que no son instructores.
+Cuando las pruebas del curso se archivan, aparecen en una carpeta que contiene todas las pruebas archivadas de ese año calendario.
+Ver las pruebas en las carpetas archivadas
+En la herramienta Portfolio, puede ver las pruebas en portafolios archivados, que se eliminan automáticamente de los portafolios de cursos y se archivan cuando los cursos relacionados se vuelven inactivos. Puede utilizar los portafolios archivados de un estudiante para demostrar el crecimiento, reflexionar sobre el aprendizaje pasado y mostrar su mejor trabajo.
+Tenga en cuenta lo siguiente:
+- Para ver los portafolios de un estudiante, este debe estar en la lista de clases de un curso activo en el que usted sea el instructor. No puede ver las pruebas de los cursos activos si no es el instructor.
+- Cuando ve un portafolio archivado, los enlaces de la ruta de navegación aparecen en la parte superior de la página, lo que le permite volver a las páginas anteriores.
+- Cuando se visualizan portafolios archivados por años o cursos, se desactiva el filtrado.
+- Con los botones de flecha Anterior y Siguiente de un portafolio archivado, navegue para activar las pruebas.
+Para ver las pruebas en los portafolios archivados
+- Vaya a Carpeta.
+- Haga clic en Visto por: estudiantes.
+- Haga clic en un estudiante.
+- Desde el portafolio del estudiante, haga clic en el selector de portafolio y, luego, seleccione Portafolios archivados.
+- En la página de portafolio archivado, seleccione un año y, luego, un curso archivado. Se muestran las pruebas del curso archivado.

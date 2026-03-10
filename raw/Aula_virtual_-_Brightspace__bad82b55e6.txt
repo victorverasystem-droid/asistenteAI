@@ -1,0 +1,9 @@
+URL: https://community.d2l.com/brightspace-es-MX/kb/articles/33884-aula-virtual
+TITLE: Aula virtual - Brightspace
+HASH: bad82b55e6fd496d721dc2b2b894aa16dcd61c02f17f57deb439c17d724e8903
+TYPE: web
+
+El Aula Virtual es una herramienta de reunión programada en línea en la que los estudiantes pueden aprender, comunicarse y colaborar mediante la transmisión en vivo de video coordinada por su instructor. Para obtener más información, consulte el sitio Descripción general del aula virtual.
+Acceda al Aula virtual
+En la página de inicio de su curso, haga clic en Aula virtual. Si no aparece en la barra de navegación, haga clic en Más > Aula virtual.
+Figura: En la barra de navegación, seleccione Aula virtual.

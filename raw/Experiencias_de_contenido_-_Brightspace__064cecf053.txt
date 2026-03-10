@@ -1,0 +1,28 @@
+URL: https://community.d2l.com/brightspace-es-MX/kb/articles/33879-experiencias-de-contenido
+TITLE: Experiencias de contenido - Brightspace
+HASH: 064cecf0533e893c6e00fd0a78bdc2b0e6221f84f9af2bf7174466b3e8edd128
+TYPE: web
+
+Acceda a todo el contenido y las actividades del curso en una sola ubicación.
+Recorrido visual de la Experiencia de Contenido clásica
+- Utilice la página Descripción general para obtener información sobre su curso, los materiales de contenido y las expectativas del curso. También puede imprimir y descargar un programa del curso cargado directamente desde la página Descripción general del contenido.
+Los botones Imprimir y Descargar se muestran de manera diferente, lo que depende de si el instructor habilitó esta opción.
+- Haga clic en Marcadores para revisar una lista de temas marcados. El número que aparece junto al enlace Marcadores indica la cantidad de marcadores que tiene.
+- En la página Contenido del curso se detallan las fechas de vencimiento, de inicio y finales del material del curso, así como las actividades del curso vencidas y otros eventos del curso que se llevarán a cabo durante los próximos siete días. Las fechas que aparecen en esta página no son exclusivas de los temas de contenido. Los próximos eventos incluyen todos los eventos dentro del curso desde la herramienta Calendario. El número que aparece junto al enlace Próximos eventos indica la cantidad de eventos que tendrá próximamente.
+- En el panel Tabla de contenidos, se detallan todos los módulos que están disponibles en su curso. El número junto al nombre de cada módulo en el panel Tabla de contenido indica la cantidad de temas que hay en cada módulo.
+Video: Navegar por el contenido
+Recorrido visual: nueva Experiencia de Contenido (lecciones)
+En la interfaz de Lecciones, la tabla de contenido del curso está representada por una estructura de árbol, lo que le permite navegar fácilmente por su curso. Los mosaicos que contienen componentes de cursos adicionales se muestran con íconos de flecha, lo que indica que los mosaicos se pueden expandir con un clic.
+Puede utilizar los botones de navegación en la parte superior derecha para desplazarse secuencialmente entre los temas de la estructura de contenido del curso, siguiendo el orden de clasificación establecido.
+Si desplaza el puntero sobre un componente, podrá ver un cuadro de información. Esto es útil si el título completo es demasiado largo para mostrarse en la tabla de contenido.
+Cada tipo de material muestra un ícono único para que sea más fácil distinguir visualmente los materiales.
+- Búsqueda: ingrese un texto en el campo de búsqueda para buscar entre los títulos y descripciones del contenido de su curso.
+- Unidad: haga clic para ampliar y revisar el contenido.
+- Progreso de la unidad: resumen fraccionado del progreso para cada módulo de contenido.
+- Marca de verificación: marcas de verificación para los elementos finalizados.
+- Fechas de vencimiento: fechas de vencimiento con una información de herramientas que aparece al desplazarse para obtener detalles adicionales.
+- Descargar: haga clic para descargar el contenido en formato PDF.
+- Ícono de audio: haga clic para abrir el texto con ReadSpeaker y escuchar la lectura del contenido.
+- Pantalla completa: haga clic para ampliar el contenido a pantalla completa.
+- Flechas: utilice los botones de navegación para desplazarse secuencialmente entre los temas de la estructura de contenido del curso, siguiendo el orden de clasificación establecido.
+Video: experiencia de nuevo contenido

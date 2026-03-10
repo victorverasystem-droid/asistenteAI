@@ -1,0 +1,75 @@
+URL: https://community.d2l.com/brightspace-es-MX/kb/articles/16955-acerca-de-importar-exportar-copiar-componentes
+TITLE: Acerca de Importar/exportar/copiar componentes - Brightspace
+HASH: 30e3a0925efab1c0c365f59030249c8e7e699f08ebbb996b67d2260c93990779
+TYPE: web
+
+Puede exportar componentes de su curso, importar componentes a su curso o copiar componentes de otro curso a su curso. Para empezar este proceso, vaya a Administración del curso y seleccione Importar/exportar/copiar componentes.
+Requisitos
+Para usar Importar/exportar/copiar componentes, se requiere lo siguiente:
+- Para ver y utilizar Importar/exportar/copiar componentes, debe tener los permisos necesarios de Importar/exportar/copiar componentes aplicados a su rol. Solo el administrador de su organización puede acceder a estos permisos.
+- Para localizarlos, vaya a Administración del curso > lmportar/exportar/copiar componentes.
+Recorrido visual de Importar/exportar/copiar componentes
+Figura: Seleccione entre las opciones disponibles para importar, exportar o copiar componentes del curso.
+- Copie componentes del curso desde otro curso existente en otra instancia de Brightspace (unidad de organización).
+- Exporte componentes del curso como un Paquete de curso Brightspace, que contenga todos los recursos necesarios para compartir su curso con otra instancia de Brightspace.
+- Exporte componentes del curso como Common Cartridge, que es un conjunto de estándares abiertos para contenido, evaluaciones y contenido digital que permite a editores y creadores de contenido crear paquetes de cursos independientes del LMS.
+- Exporte componentes del curso como Thin Common Cartridge (Thin CC), que es un subconjunto de Common Cartridge desarrollado para empaquetar enlaces de interoperabilidad de herramientas de aprendizaje (LTI), enlaces web y metadatos.
+- Importe componentes del curso desde un Repositorio de recursos de aprendizaje (RRA) o un paquete de curso que incluya un Paquete de curso Brightspace, Common Cartridge, etc.
+Acerca de copiar componentes del curso entre unidades de organización
+La opción Copiar componentes de otra unidad de organización le permite copiar cuestionarios, contenido, elementos de calificación, foros de debate, carpetas de asignaciones, cursos con configuraciones de modelo S3 y casi cualquier otro tipo de componente de otra oferta de cursos o una plantilla principal de oferta de cursos.
+Puede utilizar la función de copia de componentes para realizar alguna de las siguientes acciones:
+- Reutilizar componentes creados en ofertas de cursos anteriores.
+- Agregar componentes creados por sus pares en su propia oferta de curso.
+- Establecer componentes estándares dentro de una plantilla del curso y copiarlos en una oferta de curso nueva cada vez que se vuelve a presentar un curso.
+- Copiar cursos con configuraciones de modelo S3
+- Incluir el curso seleccionado como un curso histórico adicional
+Requisitos para copiar componentes de cursos entre unidades de organización
+Según el rol que desempeñe en su organización, necesita uno o ambos de los siguientes permisos de copia de cursos:
+- Copiar componentes en unidad de organización
+- Copiar componentes de la unidad de organización.
+Estos dos permisos separados ofrecen un control detallado de la copia de componentes del curso y permiten flujos de trabajo asociados con el contenido principal (en una oferta de cursos o una unidad de organización de plantilla principal).
+Ejemplo
+Una organización tiene un Curso de ciencias diseñado como un curso del que los instructores pueden realizar copias, pero no hacer modificaciones.
+- Los instructores pueden copiar componentes comunes del Curso de ciencias a otros cursos de ciencias, por ejemplo, Ciencias 101 y Ciencias 202.
+- Jane tiene dos roles: rol de Revisora en el Curso de ciencias, y rol de Instructora en Ciencias 101 y Ciencias 202.
+- El rol de Revisor solo tiene aplicado el permiso Copiar componentes de la unidad de organización.
+- El rol de Instructor solo tiene aplicado el permiso Copiar componentes en la unidad de organización.
+- En el Curso de ciencias, en su rol de Revisora, Jane no puede ver la opción de Copiar componentes del curso en Administración de contenido o del curso. No puede copiar ningún componente en el Curso de ciencias.
+- En Ciencias 101, en su rol de Instructora, Jane puede ver las opciones de Copiar componentes del curso. Cuando busca cursos para copiar, puede ver el Curso de ciencias; sin embargo, no puede ver Ciencias 202.
+- Debe estar inscrito en ambas ofertas.
+- Debe estar inscrito y tener acceso a la plantilla principal para copiar componentes de la plantilla principal a una oferta de cursos. Tenga en cuenta que los agentes inteligentes copiados están desactivados de manera predeterminada, a menos que su administrador haya inhabilitado la variable de configuración de d2l.Tools.IntelligentAgents.DisableAgentsOnCopy.
+- Para copiar cursos con configuraciones de modelo S3, debe activar Student Success System en la instancia y el nivel de la organización.
+También puede copiar componentes en una plantilla de curso, y crear componentes estándar dentro de una plantilla y luego copiarlos en las ofertas de curso asociadas de la plantilla.
+También se incluye un paso lógico de validación en el proceso de copia. Para ayudar a reducir los objetos duplicados y la limpieza del proceso de copia, la lógica de validación le informa si ha copiado anteriormente desde el curso de origen.
+Inquietudes cuando se copian los componentes del curso
+En la tabla siguiente se abordan algunas preocupaciones comunes en torno a copiar componentes del curso entre las unidades de organización:
+Consideraciones especiales al momento de copiar componentes del curso
+Cuando se copian componentes del curso, asegúrese de que ha considerado las siguientes consecuencias o tareas asociadas.
+Componentes para importar/exportar/copiar
+En la siguiente tabla, se muestran los componentes del entorno de aprendizaje de Brightspace que pueden importarse, exportarse o copiarse entre los cursos.
+Acerca de la exportación de componentes del curso
+Puede exportar los componentes de su oferta de cursos a un archivo. Esto le permite volver a utilizar estos componentes en otro sistema de gestión educativa, incluido otro Brightspace, o almacenar los componentes y luego volver a importarlos dentro de otra oferta o plantilla de cursos en otro momento.
+Los componentes se exportan a un archivo zip compatible con IMS CP, que es un formato de archivo estándar basado en la IMS Content Packaging Especification (Especificación de empaque de contenido de IMS). Esto significa que debería poder reutilizar estos componentes en cualquier sistema de gestión educativa que sea compatible con este formato.
+Puede exportar los componentes del curso del nivel de organización, excepto los archivos en las áreas de archivos compartidos o de la organización.
+En la tabla siguiente se abordan algunas preocupaciones comunes en torno a exportar componentes del curso:
+¿Qué componentes del curso pueden exportarse?
+- Anuncios
+- Asignaciones
+- Calendario
+- Lista de verificación
+- Competencias
+- Herramienta de contenido
+- Archivos del curso
+- Debates
+- Enlaces externos
+- Preguntas frecuentes
+- Glosario
+- Calificaciones (excepto los elementos de calificación calculados y el Cero automático para la configuración de Material enviado faltante)
+- Cuaderno de calificaciones (no las opciones de visualización personal ni de artefactos del ePortfolio)
+- Plantillas de la barra de navegación (no las barras de navegación)
+- Biblioteca de preguntas
+- Cuestionarios
+- Condiciones de publicación y asociaciones
+- Rúbricas
+- Autoevaluaciones
+- Encuestas

@@ -1,0 +1,19 @@
+URL: https://community.d2l.com/brightspace-es-MX/kb/articles/15165-ver-el-progreso-del-usuario-en-contenido
+TITLE: Ver el progreso del usuario en Contenido - Brightspace
+HASH: 4e2be437c5cc1e2946589948ea9a15656a06811c8129647d4fad6c59c10b6180
+TYPE: web
+
+Puede ver el progreso de los estudiantes, realizar un seguimiento de cuántos temas vieron y cuánto tiempo dedican a examinar el contenido del curso al visitar la página Informes.
+Para ver el progreso del usuario en Contenido:
+- Vaya a Contenido.
+- Haga clic en Opciones del curso (ícono de engranaje) > Ver informes.
+Figura: Haga clic en Opciones del curso (ícono de engranaje) y seleccione Ver informes.
+- En la página Informes, en la pestaña Contenido, puede ver las estadísticas de sus temas de contenido.
+Figura: la pestaña Contenido que muestra las estadísticas de todos los Temas de contenido.
+- Para ver las estadísticas de los estudiantes para un Tema de contenido, en la columna Disponible para, haga clic en el número.
+Figura: la columna Disponible para.
+- La página Informes de su Tema de contenido le muestra las siguientes estadísticas de cada estudiante:
+- Última consulta
+- Cantidad de visitas
+- Cantidad total de Tiempo utilizado
+- Tiempo promedio dedicado (segundos)

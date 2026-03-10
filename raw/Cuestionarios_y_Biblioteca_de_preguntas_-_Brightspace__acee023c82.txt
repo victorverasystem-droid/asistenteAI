@@ -1,0 +1,17 @@
+URL: https://community.d2l.com/brightspace-es-MX/kb/articles/10820-cuestionarios-y-biblioteca-de-preguntas
+TITLE: Cuestionarios y Biblioteca de preguntas - Brightspace
+HASH: acee023c82d8f4ea5a37daca0010816f3a496030ad451f30b4d56c35f53755fe
+TYPE: web
+
+Puede agregar preguntas de la biblioteca de preguntas a los Cuestionarios.
+Importar preguntas de la Biblioteca de preguntas
+Puede importar preguntas de la Biblioteca de preguntas.
+Para agregar preguntas de la biblioteca de preguntas
+- En la página Crear cuestionario, haga clic en Agregar existente.
+- Seleccione Examinar Biblioteca de preguntas.
+Figura: haga clic en Cargar 200 más para cargar más preguntas.
+- Para reorganizar la lista de preguntas, puede seleccionar varios elementos y arrastrarlos y soltarlos dentro de la lista de preguntas.
+Figura: seleccione varios elementos y arrástrelos y suéltelos en la lista.
+- Haga clic en Importar.
+Las preguntas de la biblioteca de preguntas seleccionadas se importan a su cuestionario.
+Consideraciones al eliminar o copiar preguntas de la biblioteca de preguntas de los Cuestionarios

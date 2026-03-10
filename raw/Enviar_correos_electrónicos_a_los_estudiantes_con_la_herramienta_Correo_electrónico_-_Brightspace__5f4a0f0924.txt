@@ -1,0 +1,41 @@
+URL: https://community.d2l.com/brightspace-es-MX/kb/articles/10849-enviar-correos-electronicos-a-los-estudiantes-con-la-herramienta-correo-electronico
+TITLE: Enviar correos electrónicos a los estudiantes con la herramienta Correo electrónico - Brightspace
+HASH: 5f4a0f09240465e9705e2c6915b88e271c623ad77131e2a442e44c4bf2f09430
+TYPE: web
+
+Puede comunicarse con sus estudiantes en Brightspace mediante la herramienta correo electrónico.
+Para enviar correos electrónicos a otros utilizando la herramienta de correo electrónico
+- Desde la página de inicio de su curso, haga clic en el icono Alertas de mensajes y luego haga clic en Correo electrónico.
+- Redacte su mensaje y agregue cualquier archivo adjunto (si corresponde).
+- Haga clic en Enviar.
+Agregar y editar una firma de correo electrónico
+Agregue una firma a sus correos electrónicos para garantizar que cada mensaje sea personal y coherente.
+Para agregar una firma de correo electrónico
+- En la página de inicio de su organización o curso, haga clic en el ícono Alertas de mensajes y en Correo electrónico.
+- En la página Redactar nuevo mensaje, haga clic en Configuración.
+- En la página Configuración de correo electrónico, en el campo Firma de correo electrónico, cree su firma mediante el editor de Brightspace.
+- Haga clic en Guardar.
+Ya creó y agregó su firma de correo electrónico. Su firma aparecerá en la parte inferior del campo cuando redacte un nuevo mensaje.
+Para editar una firma de correo electrónico
+- En la página de inicio de su organización o curso, haga clic en el ícono Alertas de mensajes y en Correo electrónico.
+- En la página Redactar nuevo mensaje, haga clic en Configuración.
+- En la página Configuración de correo electrónico, en el campo Firma de correo electrónico, cambie su firma mediante el editor de Brightspace.
+- Haga clic en Guardar.
+Ya editó su firma de correo electrónico.
+Copiar los correos electrónicos a su cuenta de correo electrónico externa
+Puede configurar la herramienta Correo electrónico para enviar una copia de los correos electrónicos que envíe a su dirección de correo electrónico externa. Esto requiere validar su dirección de correo electrónico externa.
+Si aún no ha configurado una dirección de correo electrónico externa para su cuenta, consulte Cambiar la configuración de la cuenta.
+Para configurar la copia de correos electrónicos a su dirección de correo electrónico externa
+- Realice una de las siguientes acciones:
+- Haga clic en su nombre de usuario y vaya a Configuración de la cuenta > Correo electrónico.
+- Haga clic en el ícono Alertas de mensajes (sobre) y vaya a Correo electrónico > Configuración.
+- Marque Enviar una copia de cada mensaje saliente a [dirección de correo electrónico externa] y haga clic en Guardar. Se envía un correo electrónico de validación a su dirección de correo electrónico externa.
+- En la bandeja de entrada de su correo electrónico externo, haga clic en el enlace Confirmar dirección de correo electrónico incluido en su correo electrónico de validación.
+Su correo electrónico externo ya está verificado y todos los correos electrónicos enviados en Brightspace se copiarán a su dirección de correo electrónico especificada.
+Preguntas frecuentes: ¿Cómo veo los correos electrónicos que envié?
+Para ver sus correos electrónicos enviados
+- Desde la página de inicio de su curso, haga clic en el icono Alertas de mensajes y luego haga clic en Correo electrónico.
+Figura: Haga clic en el ícono Alertas de mensajes y luego en el botón Correo electrónico.
+- Haga clic en Correo enviado.
+Figura: Haga clic en Correo enviado para ver sus correos electrónicos enviados.
+- Ahora puede ver sus correos electrónicos enviados.

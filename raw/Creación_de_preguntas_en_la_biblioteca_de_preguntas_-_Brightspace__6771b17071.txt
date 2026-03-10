@@ -1,0 +1,289 @@
+URL: https://community.d2l.com/brightspace-es-MX/kb/articles/10846-creacion-de-preguntas-en-la-biblioteca-de-preguntas
+TITLE: Creación de preguntas en la biblioteca de preguntas - Brightspace
+HASH: 6771b17071ef56bd1416e83f710da5cb9aafaf02c81ef14b39c99fc995f70c08
+TYPE: web
+
+Puede utilizar la Biblioteca de preguntas para crear un repositorio de recursos de preguntas en Brightspace. Puede copiar, importar, editar, organizar en secciones y crear preguntas nuevas a cuestionarios, encuestas o autoevaluaciones.
+Organizar preguntas con secciones
+Puede crear secciones en Biblioteca de preguntas para organizar las preguntas.
+Crear una sección
+- Vaya a Cuestionarios, Encuestas, o Autoevaluaciones.
+- Haga clic en la pestaña Biblioteca de preguntas.
+- En el menú desplegable Nuevo y seleccione Sección.
+Figura: Seleccione Sección en el menú desplegable Nuevo.
+- Ingrese un Título de sección.
+- Para ocultar el título de sección a los estudiantes, marque la casilla de selección Ocultar el título de sección a los estudiantes.
+- Para agregar una descripción de esta sección, ingrese el Texto de sección.
+- Para ocultar el texto de sección a los estudiantes, marque la casilla de selección Ocultar el texto de sección a los estudiantes.
+- Para ordenar aleatoriamente las secciones y los grupos de preguntas de esta sección, marque la casilla de selección Ordenar aleatoriamente las preguntas de esta sección.
+La función de orden aleatorio no se establece en cascada para las subsecciones.
+- Haga clic en Guardar.
+Video: Descripción general de los tipos de preguntas
+Descripciones cortas para preguntas
+El campo Descripción corta se utiliza para diferenciar las preguntas del cuestionario en la Biblioteca de preguntas. Solo usted puede acceder al campo Descripción corta desde la Biblioteca de preguntas. Los estudiantes no pueden ver este campo cuando responden cuestionarios o usan cualquier tipo de herramienta para ver el HTML sin procesar.
+Cuando se edita o ve una pregunta individual, se muestra el campo Descripción corta; sin embargo, cuando se ven todas las preguntas de la Biblioteca de preguntas, aparece la columna Nombre con la Descripción corta de cada pregunta del cuestionario que aparece en la columna Nombre.
+Crear preguntas de verdadero o falso
+En las preguntas de verdadero o falso (V/F), los estudiantes deben determinar si la afirmación que se presenta es correcta o incorrecta.
+Para crear preguntas de verdadero o falso
+- Vaya a Cuestionarios, Encuestas, o Autoevaluaciones.
+- Haga clic en la pestaña Biblioteca de preguntas.
+- Haga clic en el menú desplegable Nuevo y seleccione Pregunta de verdadero o falso (V/F).
+- En el campo Texto de pregunta, ingrese la pregunta de verdadero o falso. Una vista previa de la pregunta aparece en el panel de vista previa cuando comience a crear la pregunta.
+- En el área Respuestas, seleccione Verdadero o Falso como la respuesta correcta.
+- Defina el número de Puntos predeterminados a obtener si un usuario responde correctamente la pregunta de verdadero o falso.
+- En la lista desplegable Opciones, realice las siguientes acciones de forma opcional:
+- Para agregar un comentario a cada respuesta, seleccione Agregar comentario.
+- Para agregar una pista a la pregunta, seleccione Agregar sugerencia.
+- Para agregar una descripción corta para la pregunta, seleccione Agregar descripción corta.
+- Para seleccionar cómo desea que se enumeren las opciones, seleccione una opción en la lista desplegable Agregar enumeración > Enumeración.
+- Haga clic en Guardar.
+Video: Crear una Pregunta nueva
+Crear preguntas de elección múltiple
+Las preguntas de elección múltiple (EM) presentan una afirmación o pregunta con una lista de posibles respuestas, de entre las cuales los estudiantes deben elegir la mejor respuesta posible. Las preguntas de elección múltiple difieren de las preguntas de selección múltiple en que los estudiantes seleccionan una respuesta para cada pregunta de elección múltiple.
+Si crea una pregunta de elección múltiple que tiene más de una solución posible, puede ponderar las respuestas de acuerdo a la exactitud de cada respuesta posible.
+Por ejemplo, si de cinco opciones de respuestas, dos se aceptan como correctas, ambas pueden ponderarse en 100 % y las otras tres opciones pueden ponderarse en 0 %. Si las cinco opciones de respuestas se aceptan como correctas pero algunas como más correctas que otras, cada una puede ponderarse en orden ascendente, con las respuestas más correctas ponderadas más que las respuestas menos correctas.
+Crear preguntas de elección múltiple
+- Vaya a Cuestionarios, Encuestas, o Autoevaluaciones.
+- Haga clic en la pestaña Biblioteca de preguntas.
+- Haga clic en el menú desplegable Nuevo y seleccione Elección múltiple.
+- En el campo Texto de pregunta, ingrese la pregunta de elección múltiple. Una vista previa de la pregunta aparece en el panel de vista previa cuando comience a crear la pregunta.
+- En el área Respuestas, ingrese las respuestas para la pregunta de elección múltiple.
+- Para agregar respuestas adicionales, haga clic en Agregar respuesta.
+- Si desea permitir que cada estudianteenvíe preguntas aleatorias, seleccione Aleatorizar el orden de respuesta.
+- Defina los Puntos predeterminados para la pregunta de elección múltiple.
+- En la lista desplegable Opciones, realice las siguientes acciones de forma opcional:
+- Para agregar un comentario a cada respuesta, seleccione Agregar comentario.
+- Para agregar una pista a la pregunta, seleccione Agregar sugerencia.
+- Para agregar una ponderación promedio a cada respuesta, seleccione Agregar ponderaciones personalizadas. Puede definir distintas ponderaciones para cada respuesta si algunas de las soluciones son más correctas que otras.
+- Para agregar una descripción corta para la pregunta, seleccione Agregar descripción corta.
+- Para seleccionar cómo desea que se enumeren las opciones, seleccione una opción en la lista desplegable Agregar enumeración > Enumeración.
+- Haga clic en Guardar.
+Crear preguntas de selección múltiple
+En las preguntas de selección múltiple (SM) los estudiantes deben identificar una o más respuestas correctas en una lista de respuestas posibles. A diferencia de las preguntas de elección múltiple (MC), en las preguntas de selección múltiple puede elegir un método de calificación y permitir que los usuarios puedan seleccionar más de una respuesta.
+Para crear una pregunta de selección múltiple
+- Vaya a Cuestionarios, Encuestas, o Autoevaluaciones.
+- Haga clic en la pestaña Biblioteca de preguntas.
+- Haga clic en el menú desplegable Nuevo y seleccione Pregunta de selección múltiple (SM).
+- En el campo Texto de pregunta, escriba su pregunta. Cuando selecciona el campo, aparece una barra de herramientas emergente para dar formato al texto y agregar imágenes, enlaces y ecuaciones gráficas. Mientras completa el campo, el panel de vista previa muestra cómo este se muestra a los estudiantes.
+- En Respuestas, ingrese las respuestas posibles. Marque la casilla de selección para cada respuesta correcta.
+- Para agregar información opcional a la pregunta de selección múltiple, haga clic en Opciones y elija una o más de las siguientes opciones: Agregar comentarios, Agregar sugerencia, Agregar descripción corta, y Agregar enumeración. Ingrese la información según sea necesario.
+- Si desea permitir que cada estudianteenvíe preguntas aleatorias, seleccione Aleatorizar el orden de respuesta.
+- Especifique un valor para Puntos predeterminados y seleccione una de las opciones siguientes para ¿Cómo se asignan los puntos a los espacios en blanco?
+- Todo o nada: Los estudiantes obtienen la puntuación completa solo cuando seleccionan todas las respuestas correctas y dejan en blanco todas las respuestas incorrectas.Los estudiantes no pueden ganar puntos parciales.
+- Selecciones correctas: Los puntos se distribuyen de manera uniforme entre todas las respuestas. Los estudiantes ganan puntos parciales por cada respuesta seleccionada correctamente y dejada en blanco.
+- Respuestas correctas, selecciones limitadas: Los puntos se distribuyen de manera uniforme entre las respuestas correctas únicamente. La cantidad de selecciones permitidas se limita a la cantidad de respuestas correctas. Los estudiantes ganan puntos parciales por cada respuesta correcta seleccionada.
+- Selecciones correctas menos incorrectas: Los puntos se distribuyen de manera uniforme entre todas las respuestas. Los estudiantes ganan puntos parciales por cada respuesta seleccionada correctamente y dejada en blanco. Los estudiantes pierden puntos por las respuestas seleccionadas incorrectamente o en blanco. Los estudiantes no pueden recibir menos de 0 puntos.
+- Haga clic en Guardar.
+Video: Crear una pregunta de selección múltiple
+Crear preguntas de respuesta escrita
+En las preguntas de respuesta escrita (RE) los estudiantes deben redactar respuestas detalladas a las preguntas abiertas. Puede permitir que los usuarios respondan en varias oraciones, párrafos o explicaciones y cálculos matemáticos, y adjunten archivos e imágenes para respaldar sus respuestas. Los estudiantes también pueden responder en código HTML.
+Si su curso habilitó la nueva experiencia de evaluación de cuestionarios, puede adjuntar una rúbrica a las preguntas de respuesta escrita cuando cree nuevas preguntas o edite preguntas existentes. Los estudiantes pueden ver la rúbrica adjunta a cada pregunta de RE mientras completan el cuestionario, y los instructores pueden calificar la pregunta con la rúbrica adjunta. Una vez que se haya evaluado el cuestionario, los alumnos podrán consultar directamente la rúbrica para consultar cualquier comentario o sugerencia.
+Para crear preguntas de respuesta escrita
+- Vaya a Cuestionarios, Encuestas, o Autoevaluaciones.
+- Haga clic en la pestaña Biblioteca de preguntas.
+- Haga clic en el menú desplegable Nuevo y seleccione Respuesta escrita (RE).
+- En el campo Texto de pregunta, ingrese los detalles de la pregunta de respuesta escrita.
+- Si desea que los estudiantes puedan darle formato a su respuesta, seleccione Activar el editor de HTML para las respuestas de los estudiantes.
+- Para permitir a estudiantes adjuntar archivos e imágenes que complementen sus respuestas, seleccione Permitir a los estudiantes insertar imágenes y agregar archivos adjuntos.
+- En el campo Puntos predeterminados, ingrese los puntos que los estudiantes recibirán por responder correctamente la pregunta completa.
+- Si desea adjuntar una rúbrica a la pregunta, haga clic en Agregar rúbrica, luego seleccione una rúbrica existente o cree una rúbrica en la ventana emergente. Haga clic en Adjuntar rúbrica. Los estudiantes verán la rúbrica debajo de la pregunta durante el cuestionario y los instructores la verán cuando califiquen preguntas de respuestas escritas. La rúbrica evaluada se incluye en los comentarios del cuestionario.
+- En la lista desplegable Opciones, realice una de las siguientes acciones:
+- Para agregar un comentario a la respuesta, seleccione Agregar comentario.
+- Para agregar una pista a la pregunta, seleccione Agregar sugerencia.
+- Para agregar una descripción corta para la pregunta, seleccione Agregar descripción corta.
+- Para agregar una clave de respuesta que ayude a los evaluadores en el proceso de calificación, seleccione Agregar clave de respuesta.
+- Para agregar un tamaño personalizado al cuadro de respuestas, seleccione Agregar tamaño personalizado al cuadro de respuestas.
+- Para agregar texto inicial a las respuestas del estudiante, seleccione Agregar texto inicial e ingrese el texto deseado.
+- Haga clic en Guardar.
+Video: Agregar una respuesta
+Crear preguntas de respuesta corta
+En las preguntas de respuesta corta (PRC), los estudiantes deben responder con una palabra u oración corta las preguntas abiertas.
+Crear preguntas de respuesta corta
+- Vaya a Cuestionarios, Encuestas, o Autoevaluaciones.
+- Haga clic en la pestaña Biblioteca de preguntas.
+- Haga clic en el menú desplegable Nuevo y seleccione Pregunta de respuesta corta (PRC).
+- En el campo Texto de pregunta, ingrese los detalles de la pregunta de respuesta corta.
+- En el campo Respuestas para espacio en blanco 1, ingrese la(s) respuesta(s).
+- En la lista desplegable abc para el espacio en blanco 1, seleccione entre los siguientes métodos de comparación:
+- Texto
+- Texto que distingue mayúsculas de minúsculas
+- Expresión regular.
+Todas las respuestas para un espacio en blanco se evalúan utilizando el mismo método de comparación.
+Si desea agregar más espacios en blanco, haga clic en Agregar espacio en blanco y escriba su(s) respuesta(s).
+Para todos los espacios en blanco adicionales, seleccione el método de comparación.
+En el campo Puntos predeterminados, ingrese los puntos que los estudiantes recibirán por responder correctamente la pregunta.
+En la lista desplegable ¿Cómo se asignan los puntos a los espacios en blanco?, seleccione una de las siguientes opciones:- Los estudiantes recibirán marcas por partes: Los puntos predeterminados para cada espacio en blanco se calculan automáticamente y se distribuyen de manera uniforme.
+- Los estudiantes deben llenar todos los espacios en blanco correctamente: Los puntos predeterminados solo se otorgarán si el estudiante llena todos los espacios en blanco con precisión.
+En la lista desplegable Opciones, realice una de las siguientes acciones:- Para agregar un comentario general a la respuesta, seleccione Agregar comentario.
+- Para agregar una pista a la pregunta, seleccione Agregar sugerencia.
+- Para agregar una descripción corta para la pregunta, seleccione Agregar descripción corta.
+Haga clic en Guardar.
+Crear preguntas de varias respuestas cortas
+En las preguntas de varias respuestas cortas (VRC), los estudiantes deben responder una pregunta que tiene varias soluciones e ingresar sus respuestas en casillas de entrada específicas. Las respuestas del encuestado se cotejan con cada respuesta posible almacenada en los campos de respuesta. Las preguntas de varias respuestas cortas difieren de las preguntas de respuestas cortas (PRC), ya que con las preguntas de varias respuestas cortas se pueden crear varios cuadros de respuesta y todos deben estar relacionados a un conjunto de respuestas; por el otro lado, las preguntas de respuesta corta también admiten varios cuadros de respuesta pero cada uno de ellos debe tener un conjunto diferente de respuestas posibles. El tipo de pregunta de respuesta corta es el ideal si necesita crear una pregunta de varias partes que no pueden compartir el mismo grupo de respuestas.
+Por ejemplo, en la pregunta "Nombre 3 capitales de estado" aparecerán tres casillas de entrada para los usuarios. Cada una de las respuestas enviadas por el usuario se coteja con las 51 respuestas correctas posibles almacenadas en los campos de respuesta, y cada campo de respuesta tiene una ponderación del 33,3 %.
+D2L recomienda que la cantidad de respuestas requeridas corresponda con la cantidad de casillas de entrada proporcionadas. El valor máximo de los puntos de una pregunta de varias respuestas cortas se indica con una ponderación de 100 %. Como práctica recomendada, D2L sugiere que el cálculo de la ponderación de cada respuesta posible equivalga al 100 % dividido por la cantidad de respuestas que requiere la pregunta.
+Crear preguntas de varias respuestas cortas
+- Vaya a Cuestionarios, Encuestas, o Autoevaluaciones.
+- Haga clic en la pestaña Biblioteca de preguntas.
+- Haga clic en el menú desplegable Nuevo y seleccione Pregunta de varias respuestas cortas (PVRC).
+- En el área General, ingrese los detalles de la pregunta de varias respuestas cortas.
+- En el área Opciones, haga lo siguiente:
+- En el campo Casillas de entrada, introduzca la cantidad de campos obligatorios de respuesta que desee que tenga la pregunta. Puede asignar la cantidad de filas y columnas para cada campo de respuesta.
+- En los campos Respuesta, ingrese las respuestas correctas para la pregunta, la ponderación de cada respuesta y cómo desea que se evalúen las respuestas.
+Puede definir distintas ponderaciones si algunas de las soluciones son más correctas que otras.
+- Para asignar más respuestas posibles a la pregunta, haga clic en Agregar respuesta.
+- Haga clic en Guardar para crear la pregunta de varias respuestas cortas.
+Crear preguntas para completar
+En las preguntas para completar (EEB), los estudiantes deben completar una o más palabras faltantes en una oración, afirmación, frase, lista o terminología clave incompletas.
+Como práctica recomendada, D2L sugiere que las respuestas de los campos en blanco no sean de más de una o dos palabras para garantizar la exactitud de la autocalificación. El orden listado de los campos en blanco y de texto corresponde con la secuencia que se muestra a los usuarios. El valor máximo de los puntos de una pregunta para completar se indica con una ponderación de 100 %. Como práctica adecuada, la ponderación combinada de sus respuestas debe equivaler a 100 %. Si la pregunta para completar tiene varios campos en blanco y cada campo en blanco tiene varias respuestas posibles, D2L sugiere que la ponderación combinada de la respuesta más correcta de cada campo en blanco equivalga a 100 %.
+A fin de crear preguntas para completar
+- Vaya a Cuestionarios, Encuestas, o Autoevaluaciones.
+- Haga clic en la pestaña Biblioteca de preguntas.
+- Haga clic en el menú desplegable Nuevo y seleccione Pregunta para completar (PPC).
+- En el área General, ingrese los detalles de la pregunta para completar.
+- En el área Texto de la pregunta, haga lo siguiente:
+- Ingrese el texto de la pregunta en el área Texto #1.
+- En el área Espacio en blanco #1, ingrese la información de la respuesta, incluida la respuesta al texto, la ponderación que desea asignar a la respuesta (puede definir diferentes ponderaciones si algunas soluciones son más correctas que otras), y cómo desea evaluar la respuesta.
+- Para asignar más respuestas posibles al espacio en blanco, haga clic en Agregar respuesta.
+- Para agregar más espacios en blanco a la pregunta, haga clic en Agregar espacio en blanco.
+- Para agregar más texto a la pregunta, haga clic en Agregar texto.
+- Haga clic en Vista previa para revisar cómo se muestra la pregunta a los usuarios.
+- Haga clic en Guardar para crear la pregunta para completar.
+Video: Crear preguntas para completar complejas
+Comprender las opciones de calificación para las preguntas de respuesta corta, las preguntas de varias respuestas cortas y las preguntas para completar.
+Existen tres opciones de calificación posibles para las preguntas de respuesta corta, las preguntas de varias respuestas cortas y las preguntas para completar:
+- No distinguir mayúsculas de minúsculas: la autocalificación busca un patrón de caracteres coincidentes en el texto de la respuesta, ya sea que tenga una coincidencia exacta o no de las mayúsculas o minúsculas.
+- Distinguir mayúsculas de minúsculas: la autocalificación busca un patrón de caracteres coincidentes en el texto de la respuesta que deben tener coincidencia exacta de las mayúsculas o minúsculas.
+- Expresión regular: la autocalificación utiliza metacaracteres para buscar una o más cadenas coincidentes en el patrón de caracteres del texto de la respuesta. Lo que defina como parámetros de metacaracteres ayudará a determinar la distinción entre mayúsculas y minúsculas.
+Crear preguntas de coincidencia
+En las preguntas de coincidencia (COIN), los estudiantes deben elegir entre un conjunto de posibles coincidencias de listas desplegables y asociarlas con los elementos relacionados. Con este tipo de pregunta puede evaluar el reconocimiento de información de los usuarios y demostrar la comprensión de relaciones específicas.
+Crear preguntas de coincidencia
+- Vaya a Cuestionarios, Encuestas, o Autoevaluaciones.
+- Haga clic en la pestaña Biblioteca de preguntas.
+- Haga clic en el menú desplegable Nuevo y seleccione Pregunta de coincidencia (COIN).
+- En el área General, ingrese los detalles de la pregunta de coincidencia.
+- En el área Elecciones, haga lo siguiente:
+- Seleccione el método de Calificación de la pregunta.
+- En cada campo Valor, ingrese una opción.
+- Para agregar valores adicionales a la pregunta, haga clic en Agregar opción.
+- En el área Coincidencias, haga lo siguiente:
+- En cada campo Valor, ingrese una respuesta coincidente con las opciones que creó.
+- Para agregar coincidencias adicionales a la pregunta, haga clic en Agregar coincidencia.
+- En la lista desplegable de cada valor coincidente, seleccione la Elección correcta correspondiente.
+- Para comprobar su pregunta, haga clic en Vista previa.
+- Haga clic en Guardar para crear la pregunta de coincidencia.
+Video: Crear una pregunta de coincidencia
+Crear preguntas de ordenamiento
+En las preguntas de ordenamiento (ORD), los estudiantes deben organizar una serie de elementos en el orden o secuencia correcto.
+Crear preguntas de ordenamiento
+- Vaya a Cuestionarios, Encuestas, o Autoevaluaciones.
+- Haga clic en la pestaña Biblioteca de preguntas.
+- Haga clic en el menú desplegable Nuevo y seleccione Pregunta de ordenamiento (ORD).
+- En el área General, ingrese los detalles de la pregunta de ordenamiento.
+- En el área Opciones, haga lo siguiente:
+- Seleccione el método de Calificación.
+- Ponderado equitativamente: El valor de la totalidad de los puntos se divide equitativamente entre todas las coincidencias correctas posibles. Los usuarios reciben puntos ponderados equitativamente por cada respuesta correcta.
+- Todo o nada: los usuarios obtienen la puntuación completa por la pregunta si seleccionan todas las respuestas correctas y ninguna respuesta incorrecta. Los usuarios obtienen cero puntos si no seleccionan todas las respuestas correctas o si seleccionan alguna respuesta incorrecta.
+- Bien menos mal: los usuarios reciben puntos equivalentes a la cantidad de respuestas correctas que hayan elegido menos la cantidad de respuestas incorrectas elegidas. Para determinar cuánto vale cada respuesta, el sistema toma la cantidad total de puntos asignados a la pregunta y lo divide por la cantidad total de respuestas. Por ejemplo, si una pregunta vale 10 puntos y tiene 5 opciones de respuesta, cada respuesta correcta vale 2 puntos y cada respuesta incorrecta vale 2 puntos (10/5 = 2). Si un usuario selecciona 3 respuestas correctas y 2 respuestas incorrectas, 2 es la cantidad total de puntos recibidos por la pregunta [(3*2)+(2*-2)]. Los usuarios pueden obtener un mínimo de cero por una pregunta: no pueden obtener una puntuación negativa.
+- En cada campo Valor, ingrese una opción. Para agregar más valores, haga clic en Agregar elemento.
+- En la lista desplegable Orden correcto de cada valor, establezca el orden de los valores.
+El primer valor en el orden correcto debe ser 1.
+- Para comprobar su pregunta, haga clic en Vista previa.
+- Haga clic en Guardar para crear la pregunta de ordenamiento.
+Crear preguntas aritméticas
+Con las preguntas aritméticas puede evaluar el conocimiento y la compresión de las teorías matemáticas y de números de los usuarios. Puede asegurarse de que cada estudiante reciba una pregunta única; para ello, incluya entre llaves las variables establecidas que generen los números del problema al azar. Por ejemplo, si establece las variables x, y, y z con un rango de números de un mínimo de 1 a un máximo de 5, en incrementos de 1, la pregunta: "Tiene {x} canicas verdes, {y} canicas rojas, y {z} canicas azules. ¿Cuántas canicas tiene en total?" generará al azar un número racional (1, 2, 3, 4, 5) para {x}, {y}, y {z}.
+En las preguntas aritméticas, D2L recomienda aplicar la precisión de las respuestas para limitar la cantidad de lugares decimales aceptables que se permiten en una respuesta. Se puede requerir que las respuestas correctas contengan una cantidad específica de lugares decimales.
+Para crear preguntas aritméticas
+- Vaya a Cuestionarios, Encuestas, o Autoevaluaciones.
+- Haga clic en la pestaña Biblioteca de preguntas.
+- Haga clic en el menú desplegable Nuevo y seleccione Pregunta aritmética (2+2).
+- En el campo Título, ingrese un título opcional para su pregunta.
+- En el campo Puntos*, ingrese la cantidad de puntos que un estudiante recibirá por responder la pregunta correctamente.
+- En el campo Texto de pregunta, ingrese el texto de su pregunta aritmética.
+- A fin de agregar una imagen a su pregunta aritmética, haga clic en Insertar una imagen, seleccione la imagen que desea agregar e ingrese una descripción para esta.
+- Para permitir el uso de adjuntos para respaldar sus respuestas, seleccione Permitir el uso de adjuntos para respaldar respuestas. Ingrese la Fórmula mediante las siguientes operaciones, funciones y constantes compatibles:
+- Para comprobar la fórmula antes de compartirla con los estudiantes, haga clic en Prueba.
+- En el menú desplegable Precisión de la respuesta, seleccione la cantidad de lugares decimales aceptables permitidos en una respuesta y seleccione implementar precisión para solicitar respuestas correctas que contengan esta cantidad específica de lugares decimales.
+- Utilice los niveles de Tolerancia para aceptar respuestas casi exactas, estimadas o redondeadas.
+- Para evaluar si las respuestas incluyen las unidades de medición correctas, ingrese un tipo de unidad (mm, cm, gramos, pulgadas, etc.) y establezca una de las siguientes Opciones de evaluación:
+- No distinguir mayúsculas de minúsculas: la autocalificación busca un patrón de caracteres coincidentes en el texto de la respuesta, ya sea que tenga una coincidencia exacta o no de las mayúsculas o minúsculas.
+- Distinguir mayúsculas de minúsculas: la autocalificación busca un patrón de caracteres coincidentes en el texto de la respuesta con coincidencia exacta de las mayúsculas o minúsculas.
+- Expresión regular: la autocalificación utiliza metacaracteres para buscar una o más cadenas coincidentes en el patrón de caracteres del texto de la respuesta. Lo que defina como parámetros de metacaracteres ayudará a determinar la distinción entre mayúsculas y minúsculas.
+- Para asignar un valor de puntos ponderado a la unidad de medición, en el menú desplegable Valor:, seleccione un porcentaje.
+- En el área Variables, haga lo siguiente:
+- Cree las variables que desea utilizar con su pregunta; para ello, asigne a la variable un Nombre, un valor mínimo en Mín. y un valor máximo en Máx.
+- Defina la cantidad de decimales en la lista desplegable Lugares decimales.
+- Para definir los pasos incrementales del sistema a medida que genera números desde el rango establecido por los campos Mín. y Máx., en el campo Paso, ingrese un número.
+- Ingrese una Sugerencia de pregunta y un Comentario sobre la pregunta.
+- Para comprobar su pregunta, haga clic en Vista previa.
+- Haga clic en Guardar para crear la pregunta aritmética.
+Video: Crear una pregunta aritmética
+Crear preguntas de cifras significativas
+En las preguntas de cifras significativas los estudiantes deben responder con fórmulas científicas y proporcionar soluciones que contengan una cantidad específica de cifras significativas. Los cursos de matemáticas y ciencias utilizan por lo general este tipo de preguntas. Puede asegurarse de que cada estudiante reciba una pregunta única; para ello, incluya entre llaves las variables establecidas que generen las fórmulas científicas del problema al azar.
+Para crear preguntas de cifras significativas
+- Vaya a Cuestionarios, Encuestas, o Autoevaluaciones.
+- Haga clic en la pestaña Biblioteca de preguntas.
+- Haga clic en el menú desplegable Nuevo y seleccione Cifras significativas (x10).
+- En el campo Título, ingrese un título opcional para su pregunta.
+- En el campo Puntos, ingrese la cantidad de puntos que un estudiante recibirá por responder la pregunta correctamente.
+- Establezca el nivel de Dificultad para la pregunta.
+- En el campo Texto de pregunta, ingrese el texto de su pregunta aritmética.
+- A fin de agregar una imagen a su pregunta aritmética, haga clic en Insertar una imagen, seleccione la imagen que desea agregar e ingrese una descripción para esta.
+- Para permitir que los usuarios agreguen archivos adjuntos que complementen sus respuestas, seleccione Permitir el uso de adjuntos para respaldar respuestas.
+- Ingrese la Fórmula de su pregunta aritmética mediante las siguientes operaciones, funciones y constantes compatibles:
+- Para comprobar la fórmula antes de compartirla con los usuarios, haga clic en Prueba.
+- En el menú desplegable Cifras significativas, seleccione la cantidad de cifras significativas que debe contener la respuesta.
+- En el menú desplegable Descontar, seleccione el porcentaje de la puntuación de la respuesta que se descontará si se incluyen cifras significativas incorrectas.
+- Utilice los niveles de Tolerancia para aceptar respuestas casi exactas, estimadas o redondeadas.
+- Para evaluar si las respuestas incluyen las unidades de medición correctas, ingrese un tipo de unidad (mm, cm, gramos, pulgadas, etc.) y establezca una de las siguientes Opciones de evaluación:
+- No distinguir mayúsculas de minúsculas: la autocalificación busca un patrón de caracteres coincidentes en el texto de la respuesta, ya sea que tenga una coincidencia exacta o no de las mayúsculas o minúsculas.
+- Distinguir mayúsculas de minúsculas: la autocalificación busca un patrón de caracteres coincidentes en el texto de la respuesta que deben tener coincidencia exacta de las mayúsculas o minúsculas.
+- Expresión regular: la autocalificación utiliza metacaracteres para buscar una o más cadenas coincidentes en el patrón de caracteres del texto de la respuesta. Lo que defina como parámetros de metacaracteres ayudará a determinar la distinción entre mayúsculas y minúsculas.
+- En el área Variables, haga lo siguiente:
+- Cree las variables que desea utilizar con su pregunta asignando a la variable un Nombre, un valor mínimo en el campo Mín. y un valor máximo en el campo Máx.
+- Para definir los pasos incrementales del sistema a medida que genera números desde el rango configurado por los campos Mín. y Máx., ingrese un número en el campo Paso.
+- Para comprobar su pregunta, haga clic en Vista previa.
+- Haga clic en Guardar para crear la pregunta de cifras significativas.
+Video: Crear preguntas de cifras significativas
+Comprender los componentes de las preguntas aritméticas y de cifras significativas
+En las preguntas aritméticas, aplique la precisión de las respuestas para limitar la cantidad de lugares decimales aceptables que se permiten en una respuesta. Se puede requerir que las respuestas correctas contengan una cantidad específica de lugares decimales.
+En las preguntas de cifras significativas, puede seleccionar un porcentaje de la puntuación de la respuesta para deducir, incluidas las cifras significativas incorrectas en una respuesta.
+Utilice los niveles de tolerancia para aceptar respuestas casi exactas, estimadas o redondeadas.
+Cuando se aplica el redondeo, Brightspace aplica automáticamente la regla de redondeo "redondear hacia el valor contiguo más cercano" (Round to Half Even) cuando se evalúan las respuestas que contienen lugares decimales terminados en "5". Actualmente, no existen opciones para cambiar las reglas de redondeo. Cuando se aplica la regla de redondeo hacia el valor contiguo más cercano, las respuestas con lugares decimales que terminan en "5" se redondearán hacia el cero en lugar de alejarse del cero.
+Ejemplo uno: 3,41 * 25 = 85,25
+Si crea una pregunta aritmética y establece la Precisión de la respuesta en 1, la respuesta correcta según la aplicación del redondeo hacia el valor contiguo más cercano es 85,2.
+Ejemplo dos: -3,41 * 25 = -85,25
+Si crea una pregunta aritmética y establece la Precisión de la respuesta en 1, la respuesta correcta según la aplicación del redondeo hacia el valor contiguo más cercano es -85,2.
+Puede ingresar un tipo de unidad (mm, cm, gramos, pulgadas, etc.) para evaluar si las respuestas incluyen las unidades de medición correctas. Para las preguntas de cifras significativas, puede seleccionar un porcentaje para asignar un valor de puntos ponderados para la unidad de medición. Si utiliza unidades en su pregunta, puede configurar las siguientes opciones de Evaluación:
+- No distinguir mayúsculas de minúsculas: la autocalificación busca un patrón de caracteres coincidentes en el texto de la respuesta, ya sea que tenga una coincidencia exacta o no de las mayúsculas o minúsculas.
+- Distinguir mayúsculas de minúsculas: la autocalificación busca un patrón de caracteres coincidentes en el texto de la respuesta con coincidencia exacta de las mayúsculas o minúsculas.
+- Expresión regular: la autocalificación utiliza metacaracteres para buscar una o más cadenas coincidentes en el patrón de caracteres del texto de la respuesta. Lo que defina como parámetros de metacaracteres ayudará a determinar la distinción entre mayúsculas y minúsculas.
+Crear preguntas de escala Likert
+Cree preguntas de escala Likert (LIK) para medir la información subjetiva como las opiniones, el conocimiento, las habilidades y las actitudes personales. Con las preguntas de escala Likert puede crear encuestas que evalúen la intensidad de lo que los estudiantes sienten con respecto a las afirmaciones que se les presentan.
+De manera similar a las autoevaluaciones, todos los tipos de pregunta que importe a las Encuestas omitirán automáticamente los indicadores de valor de los puntos y de nivel de dificultad.
+Crear preguntas de escala Likert
+- Vaya a Cuestionarios, Encuestas, o Autoevaluaciones.
+- Haga clic en la pestaña Biblioteca de preguntas.
+- Haga clic en el menú desplegable Nuevo y seleccione Pregunta de escala Likert (LIK).
+- En el área General, ingrese los detalles de las preguntas de escala Likert.
+- En el área Preguntas, haga lo siguiente:
+- Seleccione la Escala que desea que utilice la pregunta:
+- De uno a cinco (1 a 5)
+- De uno a ocho (1 a 8)
+- De uno a diez (1 a 10)
+- Escala de acuerdo (en desacuerdo/de acuerdo)
+- Escala de satisfacción (insatisfecho/satisfecho)
+- Escala de frecuencia (nunca/siempre)
+- Escala de relevancia (irrelevante/relevante)
+- Escala de oposición (en contra/a favor)
+- Para otorgar a los usuarios la opción de seleccionar no aplicable, seleccione Incluir una opción N/A.
+- En cada campo Valor, ingrese una afirmación. Para incluir afirmaciones adicionales, haga clic en Agregar opción.
+Figura: Configure la pregunta de escala Likert en el área Preguntas.
+- Para comprobar su pregunta, haga clic en Vista previa.
+- Haga clic en Guardar para crear la pregunta de escala Likert.
+Comprensión de las expresiones regulares
+Con las expresiones regulares, los usuarios que deben calificar ciertos tipos de preguntas pueden evaluar las respuestas comparándolas con un conjunto de valores aceptables. Una expresión regular utiliza caracteres alfanuméricos y metacaracteres para crear un patrón que describa una o más cadenas que deben coincidir exactamente con un cuerpo de texto.
+Se pueden usar expresiones regulares en preguntas de respuesta corta, de varias respuestas cortas, aritméticas, de cifras significativas y para completar.
+Por ejemplo, la pregunta para completar "¿Qué palabra describe rojo, azul, verde, amarillo, rosa, etc.?" puede utilizar expresiones regulares para la respuesta "colou?r*"
+Caracteres utilizados en expresiones regulares
+Video: Cree una pregunta mediante una expresión regular

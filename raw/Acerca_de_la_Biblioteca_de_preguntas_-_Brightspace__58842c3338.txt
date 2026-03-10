@@ -1,0 +1,27 @@
+URL: https://community.d2l.com/brightspace-es-MX/kb/articles/11017-acerca-de-la-biblioteca-de-preguntas
+TITLE: Acerca de la Biblioteca de preguntas - Brightspace
+HASH: 58842c3338c592cd944f641b9f8e2a4aa056ce0aad36d9177123066b53b7114b
+TYPE: web
+
+La Biblioteca de preguntas es un repositorio central que almacena y archiva preguntas que puede reutilizar dentro de un curso. Puede crear varias secciones en Biblioteca de preguntas para organizar las preguntas por tipo o tema, lo que le facilita la búsqueda de preguntas para los cuestionarios, las encuestas y las autoevaluaciones.
+Como una mejor práctica de almacenamiento, organización y fácil acceso, es conveniente que cree todas sus preguntas a través de la biblioteca de preguntas. También puede consolidar preguntas creadas en herramientas de cuestionario, encuesta y autoevaluación mediante su importarción de vuelta a la Biblioteca de preguntas.
+Requisitos
+Para ver y utilizar la herramienta Biblioteca de preguntas, debe tener los permisos de Colecciones de preguntas (Biblioteca de preguntas) necesarios, así como los permisos de Cuestionarios, Encuesta o Autoevaluaciones relacionados aplicados a su rol. Solo el administrador de su organización puede acceder a estos permisos.
+Acceso a la biblioteca de preguntas
+- Vaya a Cuestionarios, Encuestas, o Autoevaluaciones.
+- En la navegación de la herramienta, haga clic en Biblioteca de preguntas.
+Figura: Acceso a Biblioteca de preguntas desde Cuestionarios.
+Recorrido visual de la Biblioteca de preguntas
+Figura: Descripción general de la interfaz de Biblioteca de preguntas.
+Organice y clasifique fácilmente sus preguntas con la biblioteca de preguntas. La colección de preguntas dentro de esta herramienta les permite a los instructores reutilizar de manera eficiente las preguntas en un curso y ayuda a ahorrar tiempo cuando las copian en otras ofertas de cursos.
+- Previsualizar todas las secciones dentro de su biblioteca de preguntas.
+- Las secciones se pueden considerar como carpetas en las que las preguntas individuales se pueden agrupar.
+- Las secciones pueden contener otras secciones y preguntas individuales. Si hacen clic en el menú desplegable, los instructores pueden editar la configuración de la sección elegida.
+- Haga clic en Nueva para crear una nueva sección dentro de la biblioteca de preguntas o de una fuente existente en Brightspace, como Cuestionarios, Encuestas o Autoevaluaciones. Haga clic en Importar para agregar preguntas a la biblioteca de preguntas desde un archivo externo o un cuestionario, encuesta o autoevaluación existente en Brightspace.
+- La barra de administración Biblioteca de preguntas les proporciona a los instructores varias opciones:
+- Mover: Mueva las preguntas a las secciones o a otras secciones.
+- Eliminar: una pregunta o sección de la biblioteca de preguntas.
+- Ordenar: reorganizar preguntas o secciones dentro de la biblioteca de preguntas.
+- Editar valores: Edite el número de puntos, el nivel de dificultad o cambie el estado obligatorio de las preguntas individuales del cuestionario.
+- Los instructores pueden hacer clic en el menú desplegable de preguntas individuales para editar y previsualizar el elemento seleccionado, o ver los intentos realizados en la pregunta seleccionada.
+Video: Descripción general de la Biblioteca de preguntas

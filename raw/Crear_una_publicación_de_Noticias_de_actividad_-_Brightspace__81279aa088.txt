@@ -1,0 +1,47 @@
+URL: https://community.d2l.com/brightspace-es-MX/kb/articles/33892-crear-una-publicacion-de-noticias-de-actividad
+TITLE: Crear una publicación de Noticias de actividad - Brightspace
+HASH: 81279aa088e523c26d6d74f394c271bceb674d6393ccbae8e910b4cbad51042d
+TYPE: web
+
+En una ubicación central en la página de inicio de un curso, comuníquese con los instructores y los estudiantes para informar acerca de las próximas asignaciones, el nuevo contenido o los debates. Nunca se pierda información importante relacionada con el aprendizaje.
+Crear una publicación en Noticias de Actividad
+-
+Vaya al componente Noticias de Actividad de su curso.
+-
+Haga clic en cualquier parte del cuadro de texto Crear una publicación…
+Figura: Puede crear una publicación en Noticias de actividad si hace clic en Crear una publicación… e ingresa su mensaje.
+-
+Ingrese un mensaje para el instructor y sus compañeros de clase.
+-
+Haga clic en el botón Adjuntar (ícono de clip) si desea agregar un archivo adjunto a su publicación. Puede agregar:
+-
+Un archivo de su dispositivo.
+-
+Un enlace a materiales existentes del curso.
+-
+Un enlace web.
+-
+Un archivo adjunto de Google Drive.
+-
+Un archivo adjunto de OneDrive.
+-
+Un video de la Web.
+Figura: Haga clic en el botón Adjuntar en Noticias de actividad para cargar un archivo adjunto.
+-
+Haga clic en Publicar.
+El mensaje se publica y está visible para estudiantes y instructores a través de sus componentes Noticias de actividad.
+Agregar un comentario a una publicación de Noticias de Actividad
+En una ubicación central en la página de inicio de un curso, comuníquese con los instructores y los estudiantes para informar acerca de las próximas asignaciones, el nuevo contenido o los debates. Nunca se pierda información importante relacionada con el aprendizaje.
+Agregar un comentario a una publicación de Noticias de Actividad
+-
+Vaya al componente Noticias de Actividad de su curso.
+-
+Busque una publicación en la que desee comentar.
+-
+Haga clic en cualquier parte del cuadro de texto Escribir un comentario…
+-
+Ingrese un mensaje
+-
+Haga clic en Publicar.
+Figura: Ingrese su comentario en el campo Escriba un comentario… y haga clic en Publicar.
+Su respuesta se publica y está visible para estudiantes y instructores a través de sus componentes Noticias de actividad.

@@ -1,0 +1,33 @@
+URL: https://community.d2l.com/brightspace-es-MX/kb/articles/10940-administrar-de-los-registros-de-eventos-en-el-cuaderno-de-calificaciones
+TITLE: Administrar de los registros de eventos en el cuaderno de calificaciones - Brightspace
+HASH: 3c4ae1a338617f2cd1793e5b2a9cc9b636425f825484a5c5988e97ef8946d20b
+TYPE: web
+
+Acerca de los registros de eventos
+Los registros de eventos mantienen un registro de los cambios realizados en la herramienta Calificaciones. Los registros pueden ser de utilidad cuando se realiza una auditoría de un cuaderno de calificaciones, se administran las actualizaciones que realizan los asistentes educativos y se debaten las calificaciones con los estudiantes.
+- Los registros de eventos de Calificación del usuario registran todos los cambios realizados a las calificaciones de un usuario particular.
+- Los registros de eventos del Elemento de calificación registran los cambios hechos a las calificaciones en un único elemento de calificación.
+- Los registros de eventos de Calificación final registran los cambios hechos a las calificaciones finales de los usuarios.
+- Los registros de eventos de Administrar calificaciones registran los cambios hechos a las propiedades o restricciones de un elemento de calificación específico.
+- Los registros de eventos de Restablecimiento de los elementos de calificación registran la fecha y la hora en que un elemento de calificación se crea o elimina y el usuario que realiza la acción.
+Acceder al registro de eventos de un usuario
+- Vaya a Calificaciones.
+- En la pestaña Ingresar calificaciones, haga clic en el nombre del usuario para el que desea acceder al registro de eventos.
+- En el menú desplegable Acciones del nombre de usuario, seleccione Ver registro de eventos.
+Figura: La opción Ver registro de eventos en el menú desplegable Acciones.
+Acceder al registro de eventos de un elemento de calificación individual
+- Vaya a Calificaciones.
+- En la pestaña Administrar calificaciones, del menú desplegable Acciones del elemento de calificación para el que desea acceder al registro de eventos, seleccione Ver registro de eventos.
+Figura: La opción Ver registro de eventos para un elemento de calificación en el menú desplegable Acciones.
+Acceder al registro de eventos de las calificaciones finales de un usuario
+- Vaya a Calificaciones.
+- En la pestaña Ingresar calificaciones, del menú desplegable Acciones de la calificación calculada final o del elemento de calificación ajustado final, seleccione Ver registro de eventos.
+Acceder al registro de eventos para cambios en las propiedades o restricciones de un elemento de calificación
+- Vaya a Calificaciones.
+- En la pestaña Administrar calificaciones, del menú desplegable Acciones de la categoría o elemento de calificación que desee ver, seleccione Ver registro de eventos.
+Figura: La opción Ver registro de eventos en el menú desplegable Acciones para un elemento de calificación.
+Acceder al registro de eventos para restablecer elementos de calificación
+- Vaya a Calificaciones.
+- En la pestaña Administrar calificaciones, del menú desplegable Más acciones, seleccione Ver registro de eventos.
+Figura: El menú desplegable Más acciones en el que se muestra la opción Ver registro de eventos.
+- Si desea restablecer elementos de calificación numéricos, de cuadro de selección, de aprobado/reprobado o de texto que se eliminaron, haga clic en Restablecer junto al nombre del elemento.

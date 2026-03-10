@@ -1,0 +1,307 @@
+URL: https://community.d2l.com/brightspace-es-MX/kb/articles/10892-crear-y-configurar-un-cuestionario
+TITLE: Crear y configurar un cuestionario - Brightspace
+HASH: 34895b261e75a4a8656ff3ecb3a7c3b459cabcc138844303df5bca879272b7ef
+TYPE: web
+
+Cree cuestionarios utilizando diferentes tipos de preguntas. Cree cuestionarios que seleccionen preguntas al azar de un grupo de preguntas o que mezclen el orden de las preguntas.
+La página Crear un cuestionario tiene un diseño totalmente envolvente. Este diseño es coherente con otras áreas de Brightspace, incluidos Cuestionarios, Contenido y Lecciones, en las que puede cargar y configurar un cuestionario.
+Acceder a la página Nuevo cuestionario
+Para crear un nuevo cuestionario, debe abrir la página Nuevo cuestionario. Se puede acceder a esta página desde la Experiencia de contenido clásico, la Experiencia de contenido nuevo (Lecciones) o directamente desde la herramienta de cuestionarios.
+Para acceder a la página Nuevo cuestionario en la Experiencia de Contenido clásico
+- En la barra de navegación de su curso, haga clic en Contenido.
+- Seleccione el módulo en el que desea crear un cuestionario y haga clic en Cargar/Crear.
+- Haga clic en Nuevo cuestionario.
+Se abre la página Nuevo cuestionario y usted puede personalizar su cuestionario.
+Video: Cree un cuestionario mediante la Experiencia de Contenido clásico
+Para acceder a la página del Nuevo Cuestionario en la Nueva Experiencia
+- Desde la página de inicio de su curso, vaya a Contenido.
+- En la Tabla de contenido, en el módulo deseado, haga clic en Crear nuevo.
+- En la página ¿Qué le gustaría crear?, haga clic en Cuestionario.
+Para acceder a la página Nuevo cuestionario desde la herramienta de cuestionarios
+- En la barra de navegación de su curso, haga clic en Cuestionarios.
+- En la página Administrar cuestionarios, haga clic en Nuevo cuestionario.
+Copiar un cuestionario existente
+Puede crear cuestionarios nuevos rápidamente a partir de cuestionarios existentes mediante la función Copiar disponible en el menú desplegable del cuestionario individual.
+Para copiar un cuestionario existente
+- Vaya a Cuestionarios.
+- En el menú desplegable del cuestionario que desea copiar, haga clic en Copiar.
+- El cuestionario copiado se abre en modo de edición. Actualice el título del cuestionario, la calificación de, la fecha de vencimiento, la descripción y otros ajustes del cuestionario copiado.
+- Haga clic en Guardar.
+El cuestionario se copia y se agrega a la pestaña Administrar cuestionarios de la herramienta de cuestionarios.
+Complete los detalles del cuestionario
+Una vez que haya abierto la página Título del cuestionario, debe comenzar ingresando los detalles básicos de su cuestionario.
+Para completar los detalles del cuestionario
+- En la página Nuevo cuestionario, ingrese un Título del cuestionario.
+- Si no desea vincular su cuestionario a un elemento de calificación en el cuaderno de calificaciones, seleccione No está en el cuaderno de calificaciones. La opción Calificación de se establece en 0 puntos y es de solo lectura.
+- Si desea vincular el cuestionario al cuaderno de calificaciones, realice una de las siguientes acciones:
+- Seleccione Editar o vincular a existente: elija entre crear y enlazar a un nuevo elemento de calificación, o enlazar a un elemento de calificación existente.
+- Seleccione Agregar al cuaderno de calificaciones.
+- Para Calificar sobre, ingrese la cantidad de puntos del cuestionario.
+- Ingrese la Fecha de entrega de su cuestionario.
+- Ingrese una Descripción para su cuestionario.
+Ahora puede agregar preguntas de cuestionario a su cuestionario.
+Cree una nueva pregunta del cuestionario
+Puede crear y personalizar nuevas preguntas de cuestionario desde la página Nuevo cuestionario.
+Para crear una nueva pregunta de cuestionario
+- En la página Crear cuestionario, haga clic en Crear nuevo > Nueva pregunta.
+- Haga clic en el tipo de pregunta de la lista y complete los detalles de la pregunta.
+Nota: Las preguntas de respuesta escritas requieren que califique manualmente las respuestas.
+- Realice una de las siguientes acciones:
+- Haga clic en Guardar y nueva para crear otra pregunta del cuestionario.
+- Haga clic en Guardar y Copiar para guardar la pregunta del cuestionario y hacer una copia de la pregunta para agregar a su cuestionario.
+- Haga clic en Guardar para volver a la página Crear cuestionario.
+Se agregan nuevas preguntas del cuestionario a su cuestionario.
+Agregar preguntas de cuestionario existentes
+También puede agregar preguntas de cuestionario existentes cargando un archivo, examinando la biblioteca de cuestionarios o importando de otro repositorio de aprendizaje.
+Para agregar preguntas de cuestionario existentes
+- En la página Crear cuestionario, haga clic en Agregar existente.
+- Realice una de las siguientes acciones:
+- Haga clic en Cargar un archivo para adjuntar un archivo desde su dispositivo personal.
+- A continuación, haga clic en Examinar archivos y seleccione un archivo o arrastre el archivo correspondiente a la ventana Cargar un archivo.
+- Haga clic en Importar todo para importar las preguntas en el archivo.
+- Seleccione Examinar biblioteca de preguntas para importar preguntas de la biblioteca de preguntas o para reutilizar preguntas de cuestionarios anteriores.
+- Haga clic en la casilla de selección de las preguntas que desea agregar a su cuestionario.
+- A continuación, haga clic en Importar.
+- Seleccione Importar desde el repositorio de aprendizaje para examinar y elegir recursos de aprendizaje para agregar a su cuestionario.
+- Busque un repositorio o seleccione uno de las categorías disponibles.
+- Seleccione las preguntas que desea agregar y, luego haga clic en Seleccionar.
+Se agregan preguntas de cuestionario existentes a su cuestionario nuevo.
+Puede asignar 0 (cero) puntos a una pregunta del cuestionario para recopilar información no calificada, como comentarios u opiniones personales.
+Editar preguntas del cuestionario
+Puede editar las preguntas de un cuestionario eligiendo editar un cuestionario o durante su proceso de creación.
+Cuando un grupo de preguntas tiene preguntas insuficientes, aparece un indicador de advertencia que le permite editar las preguntas para resolver el problema antes de que los estudiantes comiencen un intento de cuestionario. Esto ocurre si en un cuestionario se intenta extraer más preguntas de las que están disponibles en un grupo de preguntas (por ejemplo, se solicitan 12 preguntas, pero solo hay 10 disponibles). En esos casos, la interfaz muestra un indicador de advertencia.
+Las advertencias visuales aparecen en las páginas Administrar cuestionarios y Editar cuestionario.
+En la página Administrar cuestionarios, un indicador de estado marca cuestionarios con grupos con una cantidad insuficiente de preguntas.
+En la página Editar cuestionario (generador de cuestionarios), aparece un ícono de advertencia directamente en el grupo de preguntas afectado.
+Para editar preguntas del cuestionario
+- Vaya a Cuestionarios.
+- Haga clic en el nombre del cuestionario que desea cambiar.
+- En la sección Preguntas, haga clic en la pregunta que desea editar.
+- En el cuadro de diálogo Editar, edite su pregunta realizando una o varias de las siguientes acciones:
+- Para editar el texto de la pregunta, haga clic dentro de los campos respectivos y escriba su cambio.
+- Si desea editar el formato del texto, haga clic dentro del campo y en la opción Pantalla completa de la barra emergente. El editor de Brightspace se abre por completo con el texto de su pregunta. Haga clic en Más acciones para activar más opciones de edición. Cambie el tamaño de letra, el formato, agregue enlaces o utilice Insertar objetos para agregar más contenido.
+Nota: El cuadro de diálogo Editar ofrece diferentes opciones de edición dependiendo del tipo de pregunta del cuestionario que esté editando.
+- Cuando termine de editar, vuelva a hacer clic en el botón Pantalla completa (si corresponde) y haga clic en Guardar en el cuadro de diálogo.
+- Repita los pasos 3 a 5 para otras preguntas que desee editar.
+- Haga clic en Guardar y cerrar.
+Utilice la Biblioteca de preguntas y los Grupos de preguntas para crear un conjunto aleatorio de preguntas de cuestionario
+Editó las preguntas del cuestionario.
+Establezca fechas y condiciones de disponibilidad
+Establezca un marco de tiempo para cuando el cuestionario esté disponible y cree condiciones para acceder al cuestionario.
+Para establecer la disponibilidad y las condiciones
+- En la página Nuevo cuestionario, haga clic para expandir la sección Fechas y condiciones de disponibilidad.
+- Personalice cualquiera de las siguientes opciones:
+- Fecha de inicio: Especifique la fecha en la que su cuestionario estará disponible para los alumnos.
+- Fecha de finalización: Especifique la fecha en que su cuestionario ya no estará disponible.
+- Agregar fechas de disponibilidad al calendario: marque la casilla de selección para agregar fechas de disponibilidad de cuestionarios al calendario de su curso. Los alumnos verán las fechas de disponibilidad de cuestionarios en su calendario. Los eventos de calendario se generan de la siguiente manera:
+- Si la fecha de inicio y la fecha final están configuradas, se crean eventos separados respecto del momento en que el cuestionario empieza y finaliza.
+- Si se establece la fecha de inicio, se crea un evento de fecha de inicio.
+- Si se establece la fecha de final, se crea un evento de fecha final.
+- Condiciones de publicación: Solo permita que los alumnos accedan al cuestionario si cumplen con sus condiciones o requisitos de publicación. Haga clic en Agregar condiciones de publicación y, luego, en Crear nuevo o Agregar existente. Por ejemplo, puede crear una condición de publicación que solo permita a los estudiantes ver el cuestionario después de completar un tema, módulo o unidad específica.
+- La opción Acceso especial permite que un cuestionario esté disponible para seleccionar grupos de alumnos o crear fechas de vencimiento individualizadas y personalizar las configuraciones de tiempo para ciertos alumnos.
+- Haga clic en Administrar acceso especial para establecer las condiciones.
+- Seleccione una de las siguientes opciones:
+- Permitir que los usuarios seleccionados tengan acceso especial a este cuestionario
+- Permitir que sólo los usuarios con acceso especial vean este cuestionario
+Haga clic en Agregar usuarios a acceso especial.
+- Especifique las Propiedades: Fechas de vencimiento y disponibilidad.
+- Establezca una o ambas de las siguientes opciones de Asignación de tiempo.
+Establezca una opción Intentos. Si selecciona Anular intentos permitidos, puede establecer un número de intentos permitidos de 1 a 10 y hacer clic en el botón Aplicar. Si se aplica más de un intento, puede seleccionar Condiciones de intento avanzadas opcionales. Para restringir el acceso a los intentos, ingrese un porcentaje mínimo y máximo (del 0 % al 100 %) que se deba alcanzar en el intento previo para poder avanzar a otro intento.
+Seleccione usuarios para Acceso especial. Puede filtrar por Equipos de trabajo y Secciones.
+Haga clic en Guardar.
+Contraseña: Solo los estudiantes que ingresan la contraseña pueden acceder al cuestionario para escribirlo.Restricciones de IP: solo los alumnos con las direcciones IP que defina pueden acceder al cuestionario. Puede restringir el acceso al cuestionario según los rangos de direcciones IPv4 o IPv6. Para definir los rangos de IP permitidos, haga clic en Administrar restricciones de IP y especifique las direcciones IP en los campos Inicio de rango IP y Fin de rango IP.
+Bloquee cada intento en una sola sesión iniciada para restringir los intentos a una sesión activa. Cuando esta configuración está activada, estudiantes no pueden reanudar el cuestionario desde otra sesión del navegador.
+Tenga en cuenta que esta configuración es controlada por la variable de configuración D2L.Tools.Quizzes.SingleSessionQuizzes (OrgUnit). Esta configuración está desactivada de forma predeterminada. Los administradores pueden activarla según sea necesario.
+Si terminó de personalizar su cuestionario, haga clic en Guardar y cerrar.
+Las fechas y condiciones de disponibilidad se guardan para su cuestionario.
+Agregar acceso especial a un cuestionario que requiere Respondus LockDown Browser
+Si Respondus LockDown Browser está activado para la oferta de cursos en la que se aloja el cuestionario, puede eximir a los alumnos del requisito de utilizar LockDown Browser al realizar un cuestionario.
+Para eximir a un usuario del uso del explorador Lockdown mientras realiza un cuestionario
+- Vaya a Cuestionarios.
+- En la pestaña Administrar cuestionarios, seleccione el cuestionario al que desea agregar acceso especial.
+- Haga clic en la sección Fechas y condiciones de disponibilidad.
+- Haga clic en Agregar acceso especial.
+- Haga clic en Agregar usuarios a acceso especial.
+- En la página Agregar acceso especial al cuestionario, en LockDown Browser, seleccione No requerido para responder este cuestionario.
+- Seleccione los estudiantes a los que desea eximir de usar el LockDown Browser para este cuestionario y haga clic en Guardar. Los alumnos a los que les ha otorgado este acceso especial aparecen debajo del botón Agregar usuarios a acceso especial con un ícono No se requiere LockDown Browser para este cuestionario junto a sus nombres.
+Configure Asignación de tiempo y visualización
+Si es necesario, puede crear un límite de tiempo para su cuestionario y configurar cómo se muestra el cuestionario a los alumnos.
+Establecer un límite de tiempo
+- En la página Nuevo cuestionario, haga clic para expandir la sección Asignación de tiempo y visualización.
+- Seleccione Establecer límite de tiempo.
+- En el campo Límite de tiempo, especifique la duración del cuestionario en minutos.
+- Haga clic en Configuración del temporizador.
+- En el cuadro de diálogo Asignación de tiempo en Comienzo del cuestionario, seleccione una de las siguientes opciones:
+- En el cuadro de diálogo Asignación de tiempo, en Cuándo expira el límite de tiempo, seleccione una de las siguientes opciones:
+- Si desea enviar automáticamente el cuestionario cuando se exceda el límite de tiempo, seleccione Enviar intento de cuestionario automáticamente.
+- Si desea que los estudiantes puedan seguir trabajando después del límite de tiempo, seleccione Avisar que se excedió el límite de tiempo y permitir que el estudiante siga trabajando.
+- Si no desea aplicar el límite de tiempo, seleccione No hacer nada: no se aplica límite de tiempo.
+- Haga clic en Aceptar.
+Para establecer las opciones de visualización del cuestionario
+- En la página Nuevo cuestionario, haga clic para expandir la sección Asignación de tiempo y visualización.
+- Configure lo siguiente:
+- Paginación: Seleccione cómo se muestran las preguntas en el cuestionario.
+- Cuestionario aleatorio: Para ordenar aleatoriamente las preguntas y secciones del cuestionario, seleccione Cuestionario aleatorio.
+- Visualización:
+- Para desactivar distintos tipos de notificaciones, seleccione Desactivar correo electrónico, mensajes instantáneos y alertas en Brightspace.
+- Para mostrar las sugerencias de su cuestionario, seleccione Permitir sugerencias.
+- Encabezado y pie de página: Haga clic en Administrar encabezado y pie de página para crear un encabezado o pie de página para su cuestionario.
+El Encabezado y el Pie de página tienen cada uno un límite de caracteres de 65 535 caracteres.
+- Si terminó de personalizar su cuestionario, haga clic en Guardar y cerrar.
+Se establece la configuración de Asignación de tiempo y visualización de su cuestionario.
+Configurar Intentos y finalización
+Configure la cantidad de intentos de cuestionario y administre la forma en que realiza el seguimiento del avance del cuestionario por parte de los alumnos
+Para configurar los intentos y la finalización
+- En la página Nuevo cuestionario, haga clic para expandir la sección Intentos y finalización.
+- Personalice lo siguiente:
+- Intentos: Haga clic en Administrar intentos para establecer cuántas veces un alumno puede responder un cuestionario.
+- Categoría: Seleccione una categoría para su cuestionario en el menú desplegable.
+Importante: Si no puede ver el menú desplegable Categoría, comuníquese con su administrador para asegurarse de que su instancia o unidad de organización tenga habilitada la variable de configuración requerida.- Correo electrónico de notificación: Ingrese las direcciones de correo electrónico para los correos electrónicos de notificación cuando un alumno completa un cuestionario.
+- Seguimiento de finalización: Haga clic en Administrar seguimiento de avances para configurar cuándo se considera que un alumno ha completado el cuestionario. Si selecciona El estudiante está marcado como completo si tiene una calificación general satisfactoria del cuestionario e ingresa una calificación, puede activar un mensaje con emoticones al final del cuestionario que notifica a los estudiantes si aprobaron o no.
+Importante: Si no ve Seguimiento de avances ni Administrar seguimiento de avances en la pantalla de configuración del cuestionario, su organización no compró el Seguimiento de avances como complemento o su organización necesita habilitarlo. Para obtener más información sobre las experiencias de creación de cuestionarios, consulte Comparar experiencias de creación de cuestionarios.
+- Si terminó de personalizar su cuestionario, haga clic en Guardar y cerrar.
+Se establece la configuración de Intentos y finalización de su cuestionario.
+Configurar la evaluación y los comentarios
+Puede agregar opciones de evaluación a sus cuestionarios para compartir comentarios sobre intentos y resultados mediante la configuración de Evaluación y comentarios. Esto le permite mostrar los resultados de los cuestionarios una vez completados y asociar cuestionarios con elementos de calificación a los fines de una evaluación.
+Para configurar los resultados y los comentarios del cuestionario
+- En la página Nuevo cuestionario, haga clic para expandir la sección Evaluación y comentarios.
+- Personalice lo siguiente:
+- Publicar de manera automática los resultados del intento inmediatamente después de finalizar: Publicar los resultados del cuestionario para los alumnos inmediatamente después de completar el cuestionario.
+- Sincronizar con la boleta de calificaciones después de publicar: Sincronizar las calificaciones de este cuestionario con la boleta de calificaciones. La opción aparece atenuada si no ha configurado la bolea de calificaciones.
+- Cuando se publique, mostrar a los alumnos: Haga clic en Calificación de intento para mostrar a los alumnos la calificación de su intento. Haga clic en el menú desplegable de la pantalla de preguntas para seleccionar qué preguntas se muestran a los alumnos después de publicar el cuestionario.
+- Personalizar visualización de resultados del cuestionario: Cree un diálogo personalizado para alumnos después de finalizar su cuestionario. Puede personalizar la vista primaria que aparecerá inmediatamente después de que los alumnos completen su cuestionario y una vista secundaria que aparecerá posteriormente en función de una fecha establecida por usted.
+- Objetivos de aprendizaje: Haga clic en Administrar objetivos de aprendizaje para asociar objetivos de aprendizaje a su cuestionario.
+- Si terminó de personalizar su cuestionario, haga clic en Guardar y cerrar.
+Se guarda la configuración de Evaluación y comentarios para su cuestionario.
+Personalizar la visualización de los resultados del cuestionario
+De forma predeterminada, los estudiantes solo ven sus intentos de calificación cuando se evalúan los intentos después del envío. Sin embargo, puede crear una visualización personalizada de resultados de cuestionario que les proporcione a los estudiantes más información sobre su intento y los intentos de sus pares.
+Para personalizar la visualización de los resultados del cuestionario, realice lo siguiente:
+- En la página Nuevo cuestionario o en la página de edición de un cuestionario existente, haga clic en la sección Evaluación y comentarios.
+- Haga clic en Personalizar visualizaciones de los resultados del cuestionario.
+- En el cuadro de diálogo Personalizar visualizaciones de los resultados del cuestionario, en la sección de visualización Vista principal, haga clic en Editar vista.
+- Personalice la visualización de los resultados del cuestionario con los siguientes detalles:
+- Ingrese un mensaje en el campo Mensaje personalizado.
+- En la sección Calificación, marque o desmarque la casilla de selección Mostrar calificación de intento de preguntas evaluadas.
+- En el menú desplegable Preguntas, seleccione una opción de cómo desea que se muestren las preguntas del cuestionario después de que un estudiante envíe su cuestionario.
+- En la sección Estadísticas, marque las casillas de selección correspondientes si desea Mostrar el promedio de la clase o Mostrar las estadísticas de distribución de calificaciones a los estudiantes.
+- Haga clic en Actualizar.
+- Si desea agregar una vista adicional al cuestionario, haga clic en el botón +Vista adicional. Las opciones de personalización son las mismas, excepto que también puede establecer la fecha y hora en que desea que aparezca la vista adicional.
+- Haga clic en Crear.
+- Haga clic en Aceptar.
+- Haga clic en Guardar y cerrar.
+La visualización de los resultados del cuestionario aparece cuando los estudiantes envían su cuestionario. Si también creó una visualización de resultados de cuestionario adicional, aparecerá para los estudiantes en la fecha y hora que usted haya establecido.
+Video: Personalizar la visualización de los resultados del cuestionario
+Cree un cuestionario con deducción de puntos
+Cuando crea o edita un cuestionario, puede usar la configuración de Evaluación y comentarios de su cuestionario para habilitar la deducción de puntos. La deducción de puntos establece un cuestionario para que reste un porcentaje del valor de puntos de una pregunta ante el envío de respuestas incorrectas. Esta función se aplica específicamente a los tipos de preguntas que se califican automáticamente, por ejemplo, preguntas de selección múltiple y preguntas de verdadero o falso. El único tipo de pregunta que no se puede calificar automáticamente es la respuesta escrita. Nota: El valor de Deducción resta un porcentaje del valor de puntos de cada pregunta del cuestionario. Por ejemplo, si una pregunta del cuestionario vale 1 punto, un descuento del 25 % penalizará a los usuarios con -0,25 puntos si su respuesta enviada es incorrecta. El valor de descuento no puede ser superior al 100%. También puede editar cuestionarios existentes para aplicar una deducción de puntos.
+Cómo crear un cuestionario con deducción de puntos
+- Seleccione el módulo en el que desea crear un cuestionario y haga clic en Cargar/Crear.
+- Haga clic en Nuevo cuestionario.
+- Expanda Evaluación y comentarios y seleccione Descontar puntos por respuestas incorrectas.
+- Ingrese un valor de porcentaje debajo de Descuento.
+- Seleccionar guardar y cerrar
+Su cuestionario ahora descuenta puntos por respuestas incorrectas enviadas.
+Restaurar un cuestionario eliminado
+Una vez eliminado un cuestionario, puede restaurarlo, junto con cualquier intento, así como cualquier estadística y puntaje asociado con dicho intento de cuestionario.
+Para restaurar un cuestionario eliminado debe hacer lo siguiente:
+- En la herramienta Cuestionarios, vaya a Administrar cuestionarios > Más acciones.
+- Haga clic en Restaurar.
+- Busque el cuestionario que desea restaurar en la Lista de restauración.
+- Haga clic en Restaurar.
+El cuestionario seleccionado se restaura en la pestaña Administrar cuestionarios.
+Permita que su cuestionario sea visible
+Haga visible su cuestionario para los alumnos.
+Para permitir que su cuestionario sea visible
+- Cuando esté editando un cuestionario, cambie su cuestionario para que esté Oculto o Visible para los estudiantes.
+- Guardar y cerrar.
+El cuestionario es visible para los alumnos.
+Ocultar un cuestionario
+Oculte los cuestionarios de la vista para que los alumnos no puedan acceder a ellos o verlos.
+Para ocultar un cuestionario
+- Vaya a Cuestionarios.
+- En la página Administrar cuestionarios, en el menú Acciones de un cuestionario, seleccione Ocultar a los usuarios.
+Hacer visibles los cuestionarios ocultos
+Haga visibles los cuestionarios para que los alumnos puedan llevarlos y verlos.
+Para hacer visibles los cuestionarios ocultos
+- Vaya a Cuestionarios.
+- En la página Administrar cuestionarios, en el menú Acciones de un cuestionario, seleccione Hacer visible para los usuarios.
+Ocultar o mostrar cuestionarios de forma masiva
+Oculte por volumen o haga visibles los cuestionarios para cambiar la vista de los alumnos.
+Para ocultar o mostrar cuestionarios de forma masiva
+- Vaya a Cuestionarios.
+- En la página Administrar cuestionarios, marque la casilla de selección de cualquier elemento del que desee cambiar la visibilidad.
+- Haga clic en Más acciones y seleccione Hacer visible para los usuarios u Ocultar a los usuarios.
+Todos los cuestionarios seleccionados están ocultos o visibles.
+Administrar las exenciones
+Puede administrar exenciones mediante el inicio de la página Administrar exenciones desde las siguientes ubicaciones en la herramienta de cuestionarios:
+- En la página Administrar cuestionarios, en el menú contextual desplegable a la derecha de un cuestionario.
+- En la página Calificar cuestionario, como un botón en la parte superior de la página.
+Previsualizar un intento de cuestionario
+A menudo hay situaciones en las que le gustaría ver el flujo completo del envío de un cuestionario que creó. Esto se puede lograr fácilmente haciendo clic en Vista previa dentro de la herramienta de cuestionarios. Puede pasar por el proceso de ver y enviar un cuestionario y tener su intento de cuestionario disponible en el flujo de trabajo de evaluación.
+Para previsualizar un intento de cuestionario
+- Vaya a Cuestionarios.
+- Seleccione el menú de contexto del cuestionario que desea y haga clic en Vista previa.
+- Haga clic en el botón Iniciar cuestionario para realizar el cuestionario como un intento de vista previa.
+- Haga clic en Enviar cuestionario cuando haya completado el cuestionario.
+- Seleccione Permitir que este intento de previsualización sea calificado en el área Calificar cuestionario y haga clic en Enviar cuestionario de nuevo.
+- Haga clic en Salir de vista previa.
+- Haga clic en el menú de contexto para el mismo cuestionario y seleccione Calificación.
+- En la pestaña Usuarios, haga clic en Mostrar opciones de búsqueda.
+- En la sección Restringir a, seleccione Usuarios que previsualizaron intentos.
+- Haga clic en el ícono Buscar,
+Ahora puede acceder al intento de cuestionario y ver el flujo de trabajo de evaluación.
+Configurar un informe de cuestionario.
+Puede ver y exportar los informes de cuestionario a un archivo CSV o Microsoft Excel para llevar a cabo un análisis de datos. El archivo contiene toda la información correspondiente del cuestionario, de manera que puede consultar, ordenar y evaluar los datos sin estar conectado al sistema de gestión educativa. Todas las estadísticas se calculan con base en el primer intento del cuestionario del usuario. Si una pregunta se cambia luego de varios intentos, solo se incluirán en los cálculos de las estadísticas los intentos en la versión más reciente. La calificación promedio se calcula solo para los primeros intentos del cuestionario. Para todos los informes, se puede establecer una fecha de publicación y seleccionar los roles para los que se publicará el informe.
+Cree un informe de cuestionario que contenga detalles estadísticos, como el promedio de clase o la distribución de la puntuación de su cuestionario.
+Para crear un informe de cuestionario
+- En la barra de navegación, haga clic en Cuestionarios.
+- En la página Administrar cuestionarios, en el menú contextual del cuestionario para el que desea crear un informe, haga clic en Configurar informes.
+- Ingrese un Nombre de informe.
+- Seleccione un Tipo de informe. Con las casillas de selección proporcionadas, personalice la visualización del informe.
+- Seleccione cuándo desea publicar el informe, y para qué roles desea publicarlo.
+- Haga clic en Guardar.
+Se crea un nuevo informe de cuestionario.
+Cómo descargar sus informes de cuestionarios
+- En la página Ver estadísticas, realice cualquiera de las siguientes acciones:
+- Para exportar a un archivo CSV, haga clic en Exportar a CSV
+- Para exportar como un archivo de Excel, haga clic en Exportar a Excel
+Puede generar y descargar los siguientes tipos de informes de forma asíncrona:
+- Detalles de los intentos
+- Estadísticas de preguntas
+- Detalles de la pregunta
+- Estadísticas de usuarios
+- Intentos del usuario
+Cuando los informes están listos para su descarga, Brightspace le notifica con el ícono de campana (alertas de actualización).
+Exportar el registro de eventos de todos los intentos de cuestionario
+Puede exportar un registro de eventos de todos los intentos de cuestionario realizados por todos los estudiantes del curso. En el registro de eventos de un cuestionario, se incluyen datos sobre qué usuarios han completado el cuestionario, cuántos intentos hicieron y la fecha y la hora en la que completaron el cuestionario; además, se muestran otros eventos relacionados con el cuestionario.
+Para exportar un registro de eventos
+- En la barra de navegación de su curso, haga clic en Cuestionarios.
+- Haga clic en el menú contextual que aparece junto al cuestionario para exportar un registro de eventos y seleccione Calificación.
+- En la página Calificar cuestionario, haga clic en Más acciones > Exportar registros de eventos.
+- Ingrese un nombre para el archivo.
+- Especifique dónde desea guardar el archivo.
+- Haga clic en Guardar.
+Se exportó el registro de eventos.
+Ver el registro de eventos de un solo intento de cuestionario
+Puede ver un registro de eventos de solo intento de cuestionario realizado por un estudiante individual.
+Para ver el registro de eventos de un solo intento de cuestionario
+- En la barra de navegación de su curso, haga clic en Cuestionarios.
+- Haga clic en el icono Acciones junto a un cuestionario y seleccione Calificar.
+- Haga clic en la pestaña Intentos y, a continuación, haga clic en un intento.
+- En la página Intento, haga clic en Opciones de evento (...) y seleccione Registro de eventos de cuestionarios.
+Utilice la columna Id. de sesión para identificar cuándo un estudiante ha utilizado varias sesiones en un intento de cuestionario, junto con la columna Dirección IP para identificar cuándo un estudiante ha cambiado las direcciones IP durante un intento de cuestionario.
+Se muestra el registro de eventos del intento de cuestionario.
+Integridad académica en cuestionarios
+D2L toma muy en serio la integridad académica. Dentro de la herramienta Cuestionarios, ofrecemos varias opciones para ayudar a reducir la posibilidad de que se haga trampa. Sin embargo, los diferentes escenarios (en persona, totalmente remoto, pruebas de alta exigencia, etc.) requieren diferentes enfoques y no es probable que ninguna opción evite todas las formas de conducta académica indebida.
+Las siguientes opciones están disponibles:
+- Contraseña del cuestionario: Requiere que los estudiantes ingresen una contraseña para acceder al cuestionario.
+- Restricciones de IP: Le permite restringir el acceso al cuestionario a rangos de direcciones IP específicos.
+- Grupos de preguntas: Se asegura de que cada estudiante reciba un conjunto diferente de preguntas mediante el sorteo aleatorio de un grupo grande de preguntas.
+- Ordenar aleatoriamente las preguntas: Aleatoriza el orden de las preguntas de cada estudiante.
+- Evita que se pueda volver a las páginas anteriores: Evita que los estudiantes vuelvan a las páginas anteriores del cuestionario.
+- Aleatorizar las opciones de respuesta: Aleatoriza el orden de las opciones de respuesta para preguntas de opción múltiple y de selección múltiple.
+- Integraciones: Las herramientas de terceros, como Respondus, Proctorio e Integrity Advocate, proporcionan funciones adicionales de supervisión e integridad académica.
+Además, puede utilizar las siguientes funciones para investigar actividades de cuestionario sospechosas o preocupantes:
+- La página Registros de intentos proporciona información detallada sobre los eventos durante un intento de cuestionario, incluidos los horarios de entrada y reentrada al cuestionario, y finalización del cuestionario. Cuando sea posible, las direcciones IP se registran para cada evento, lo que puede ayudar a identificar dónde se produjo la actividad. Varias direcciones IP en un solo intento de cuestionario podrían considerarse sospechosas.
+- Cuando la variable de configuración d2l.Tools.Quizzes.ShowSessionId (OrgUnit) está habilitada, puede utilizar la columna ID de sesión para identificar cuándo los estudiantes tienen varias sesiones en un intento de cuestionario.
+- Utilice la columna Dirección IP para identificar cuándo los estudiantes cambiaron las direcciones IP durante un intento de cuestionario. Esta función le permite determinar si se utilizaron diferentes sesiones para varios eventos de cuestionario.
+Para recopilar información adicional de los estudiantes durante un cuestionario o para implementar una pregunta de “Código de honestidad” al principio, también puede utilizar preguntas de cero puntos.

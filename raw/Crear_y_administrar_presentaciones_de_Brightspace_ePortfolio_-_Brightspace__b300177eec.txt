@@ -1,0 +1,69 @@
+URL: https://community.d2l.com/brightspace-es-MX/kb/articles/33903-crear-y-administrar-presentaciones-de-brightspace-eportfolio
+TITLE: Crear y administrar presentaciones de Brightspace ePortfolio - Brightspace
+HASH: b300177eecd48dc521097e7b7e98ecec442e785967f0e07ee39a9e591a511c59
+TYPE: web
+
+Las presentaciones le permiten compilar elementos de Brightspace ePortfolio en un proyecto web para mostrar sus logros. Las presentaciones pueden tener varias páginas. Las presentaciones ofrecen un medio depurado y profesional de demostrar su aprendizaje y sus logros.
+Una pancarta aparece en la parte superior de cada página de la presentación. Por lo general, el título de la presentación aparece en la pancarta, de manera muy similar a un encabezado en un libro. Puede incluir texto adicional en la pancarta como una descripción. El tema de la presentación controla el estilo de la pancarta, incluido el fondo y las fuentes usados.
+Los temas son plantillas de estilo predeterminadas que otorgan a su presentación una apariencia y sensación consistente. Los temas constan de estilos que controlan un aspecto del diseño. Por ejemplo, existen estilos separados que controlan la apariencia de los títulos, los enlaces, las fechas y las imágenes.
+Su organización proporciona temas de presentación, pero puede cambiar algunos o todos los aspectos de un tema.
+Agregar una presentación nueva
+Puede agregar una nueva presentación a ePortfolio.
+- En la barra de navegación del curso, haga clic en ePortfolio y, a continuación, haga clic en la pestaña Mis elementos.
+Figura: La pestaña Mis elementos de la página ePortfolio.
+- Haga clic en Nueva presentación. Se abre la página Nueva presentación.
+- En la pestaña Propiedades, introduzca los detalles de la presentación. Haga clic en Guardar.
+Figura: La pestaña Propiedades.
+- En la pestaña Contenido/diseño, realice una de las siguientes acciones:
+Figura: La pestaña Contenido/diseño.
+- Para agregar páginas a la presentación, en el panel Páginas, haga clic en el ícono Nueva página. Escriba los detalles de la página. Haga clic en Guardar.
+- Para agregar contenido a su presentación, en el panel Área de contenido, haga clic en Agregar componente. Busque el componente, selecciónelo y haga clic en Agregar.
+Nota: Hay un límite de caracteres de 1 millón para cualquier elemento de contenido en ePortfolio.
+- En la pestaña Pancarta, introduzca los detalles de la pancarta.
+- En la pestaña Tema, realice una de las siguientes acciones:
+- Para editar el tema actual, en el área Tema actual, haga clic en el ícono Editar estilos. Realice sus cambios. Haga clic en Guardar.
+- Para seleccionar un tema nuevo para su presentación, en el área Temas disponibles, haga clic en Seleccionar > Configurar tema.
+Puede hacer clic en Ver presentación en la parte superior de la página en cualquier momento para obtener una vista previa de sus actualizaciones.
+Figura: Una vista previa de una presentación de ePortfolio con el tema Refresh aplicado.
+Nota: Mientras ve su presentación, haga clic en Revisar presentación para agregar reflexiones, comentarios y más.
+Editar un diseño de presentación
+También puede editar su presentación de ePortfolio después de crearla.
+- En la barra de navegación del curso, haga clic en ePortfolio.
+- En la página Mis elementos, en el menú de contexto de la presentación que desea editar, haga clic en Editar.
+- En la pestaña Contenido/diseño, realice una de las siguientes acciones:
+- Para editar dónde aparece la navegación de la página, haga clic en Editar navegación de la presentación. Seleccione su opción de navegación. Haga clic en Guardar.
+- Para editar dónde aparecen las áreas de contenido de una página, haga clic en Editar diseño de página. Seleccione su opción de diseño. Haga clic en Guardar.
+- Para mover un elemento en un área de contenido, en el menú de contexto del elemento, haga clic en Mover [arriba/abajo/hacia].
+- Para quitar un elemento de un área de contenido, en el menú de contexto del elemento, haga clic en Quitar del diseño.
+- Para editar cómo aparece un elemento en un área de contenido, en el menú de contexto del elemento, haga clic en Editar opciones de visualización. Realice sus cambios. Haga clic en Guardar.
+Su presentación de ePortfolio está actualizada.
+Copiar una presentación de ePortfolio
+Puede copiar presentaciones solamente desde su propio Brightspace ePortfolio. Cuando se copia una presentación, se copia la siguiente información:
+- La descripción, las etiquetas, los comentarios y las propiedades de evaluación de la presentación
+- El tema
+- El título, la descripción y la apariencia de la pancarta
+- Todas las páginas, los diseños de páginas, el contenido de las páginas, las opciones de visualización y los órdenes de visualización
+No se copia la siguiente información:
+- Permisos
+- Comentarios o evaluaciones de la presentación
+- Reflexiones asociadas con la presentación
+Copiar una presentación de ePortfolio
+- En la barra de navegación del curso, haga clic en ePortfolio.
+- En la página Mis elementos, en el menú de contexto de la presentación que desea editar, haga clic en Editar.
+- Haga clic en Copiar.
+Figura: El cuadro de diálogo Copiar presentación.
+- Ingrese un Nombre de la nueva presentación y haga clic en Aceptar.
+La presentación copiada se agrega a la pestaña Mis elementos.
+Exportar una presentación a formato HTML
+Si cuenta con los permisos apropiados, puede exportar presentaciones a formato HTML directamente desde el menú contextual de una presentación.
+La exportación de su presentación a formato HTML le permite conservar una copia de su presentación en un formato visible externo al sistema. Esto resulta útil si cambia de institución y no desea perder su trabajo. Una vez que exporta su presentación a HTML, puede albergarla en forma externa en su propio sitio web o guardarla en su computadora para verla sin conexión.
+Nota: No se puede volver a importar una presentación HTML a Brightspace ePortfolio.
+- En la barra de navegación, haga clic en ePortfolio.
+- En la página Mis elementos, en el menú de contexto de la presentación que desea exportar, haga clic en Exportar.
+- Seleccione Exportar versión HTML de la presentación.
+Figura: Cuadro de diálogo Exportar elemento con la opción Exportar versión HTML de la presentación seleccionada.
+- Para incluir enlaces a páginas dentro del sistema, marque la casilla de selección Todos los enlaces del sistema. Los enlaces a páginas dentro del sistema exigirán a los usuarios iniciar sesión en el sistema y contar con los permisos correspondientes.
+- Haga clic en Siguiente.
+- En el cuadro de diálogo Descargar archivo que aparece, haga clic en el enlace de su paquete exportado para descargarlo.
+Ha descargado un archivo .zip que contiene el HTML de su presentación de ePortfolio.
+¿Qué cambios se producen en las propiedades cuando se exporta una presentación a formato HTML?

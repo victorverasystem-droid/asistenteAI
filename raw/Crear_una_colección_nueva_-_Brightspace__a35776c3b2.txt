@@ -1,0 +1,74 @@
+URL: https://community.d2l.com/brightspace-es-MX/kb/articles/33897-crear-una-coleccion-nueva
+TITLE: Crear una colección nueva - Brightspace
+HASH: a35776c3b27a9632bdc48d816765417d9a24c5bb09710d0d6b84a70fd1e01455
+TYPE: web
+
+Agregue elementos a una colección para organizar artefactos, presentaciones, reflexiones u objetivos de aprendizaje. Esto también lo ayuda a encontrar los materiales de manera rápida y fácil cuando desea enviarlos a su profesor.
+- En la barra de navegación del curso, haga clic en ePortfolio.
+Figura: La opción ePortfolio en la página de inicio del curso.
+- Vaya a Mis elementos y, luego, haga clic en Nueva colección.
+Figura: La opción Nueva lección.
+-
+En la página Nueva colección, especifique los siguientes campos:
+Haga clic en Guardar y cerrar para guardar la colección y navegar a la página Elementos en la colección.
+De lo contrario, haga clic en Guardar para permanecer en la colección creada y configurar otros ajustes:
+-
+Agregar rúbricas: Haga clic en el botón Agregar rúbricas para seleccionar las rúbricas que desea agregar a la colección.
+-
+Seleccione una rúbrica y haga clic en el botón Agregar lo seleccionado.
+Figura: La página Agregar rúbricas con una rúbrica seleccionada.
+Nota: Utilice la barra de búsqueda para buscar rúbricas o Mostrar opciones de búsqueda para restringir su consulta de búsqueda a ciertos tipos de elementos, de modo que pueda encontrar rúbricas con más facilidad.
+-
+Elementos en la colección: Haga clic en el botón Agregar a la colección para agregar elementos a la colección creada.
+Figura: El botón Agregar a la colección.
+Nota: Utilice la barra de búsqueda para buscar rúbricas o Mostrar opciones de búsqueda para restringir su consulta de búsqueda a ciertos tipos de elementos, de modo que pueda encontrar rúbricas con más facilidad.
+-
+Seleccione Artefactos, presentaciones, reflexiones u objetivos de aprendizaje.
+Figura: La opción Artefactos, presentaciones, reflexiones u objetivos de aprendizaje.
+-
+Seleccione los elementos que desea agregar y, a continuación, haga clic en Agregar.
+Figura: La página Agregar a la colección con los elementos seleccionados.
+Los artículos se agregan a la colección.
+Figura: Los elementos agregados a la colección.
+-
+Objetivos de aprendizaje: Haga clic en el botón Asociar objetivos de aprendizaje para vincular los elementos seleccionados a los objetivos de aprendizaje disponibles. Seleccione los objetivos y, a continuación, haga clic en Asociar.
+Figura: El botón Asociar objetivos de aprendizaje.
+Si se selecciona el botón Guardar y cerrar, puede configurar lo siguiente en la página Elementos de la colección:
+-
+Reflexiones: Haga clic en el botón Agregar reflexión para agregar una reflexión relacionada con los elementos de la colección.
+Figura: El botón Agregar reflexión.
+-
+Ingrese un título para la reflexión.
+Figura: El campo Título.
+-
+Agregue su párrafo de reflexión.
+Figura: El campo Reflexión.
+-
+Seleccione la opción Comentarios para permitir que otras personas agreguen o vean comentarios a la reflexión si tienen permiso suficiente.
+Figura: La opción Comentarios.
+-
+Después de revisar todos los campos, haga clic en el botón Agregar.
+La reflexión se agrega a la colección.
+Figura: La reflexión agregada.
+-
+Comentarios: Haga clic en el botón Agregar comentario para agregar un comentario sobre los elementos de la colección. Ingrese un comentario y, a continuación, haga clic en Agregar.
+Figura: El botón Agregar comentario.
+La nueva colección se guarda en Mis elementos > Colecciones, en el panel de ePortfolio.
+Figura: Las Colecciones en el panel de ePortfolio.
+Agregar elementos a una colección mediante una lista de etiquetas
+Todos los elementos que usan las etiquetas especificadas en la lista de etiquetas se agregan en forma automática a la colección. Si comparte la colección con otros usuarios, automáticamente comparte todos los elementos.
+Cuando se agrega un elemento a la colección mediante una lista de etiquetas, el elemento debe contener todas las etiquetas que se identifican en la lista. Por ejemplo, si crea una lista de etiquetas con las etiquetas “ciencia”, “astronomía” y “Venus”, debe etiquetar el elemento con las tres palabras para que se agregue automáticamente a la colección tras su creación. Si desea que el elemento solo requiera una de las etiquetas, cree tres listas de etiquetas separadas; cada una contendrá una de las palabras de etiqueta.
+- En la minibarra, haga clic en ePortfolio.
+Figura: La opción ePortfolio en la página de inicio del curso.
+- Vaya a Mis elementos y haga clic en el botón desplegable junto a la colección a la que desea agregar elementos. Seleccione Editar.
+Figura: La colección en la página Mis elementos con el botón Editar resaltado.
+- Desplácese hasta el área Elementos n la colección y haga clic en Agregar a la colección.
+Figura: El botón Agregar a la colección.
+- Seleccione Lista de etiquetas.
+Figura: La opción Lista de etiquetas.
+-
+Ingrese un Nombre de lista de etiquetas. En el campo Etiquetas en la lista, ingrese la etiqueta de su lista y, a continuación, haga clic en Agregar etiqueta. Haga clic en Guardar después de agregar todas las etiquetas
+Figura: La página Agregar elementos por etiquetas.
+Las etiquetas agregadas se mostrarán en Detalles del elemento.
+- Haga clic en Guardar y cerrar.
+Video: Usar las listas de etiquetas para agregar elementos a una colección

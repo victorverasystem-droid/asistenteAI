@@ -1,0 +1,81 @@
+URL: https://community.d2l.com/brightspace-es-MX/kb/articles/10884-administracion-de-preguntas-en-la-biblioteca-de-preguntas
+TITLE: Administración de preguntas en la biblioteca de preguntas - Brightspace
+HASH: 04aee16c23175134ab7e67532324f145c7bf47993707d82500974070e8c3f950
+TYPE: web
+
+Crear secciones en Biblioteca de preguntas
+Puede crear secciones para organizar las preguntas en carpetas mientras se encuentra en Biblioteca de preguntas.
+También puede importar secciones desde Biblioteca de preguntas directamente en un cuestionario, una encuesta o una autoevaluación. Al importar secciones desde Biblioteca de preguntas, se transferirán las carpetas de las secciones y todas las propiedades correspondientes (nombre de la sección, mensajes, imágenes o configuración de la sección).
+Aunque se pueden crear subsecciones dentro de las secciones, D2L sugiere mantener una organización simple e intuitiva de las preguntas.
+Para crear secciones en Biblioteca de preguntas
+- Vaya a la Biblioteca de preguntas.
+- Haga clic en Nueva > Sección.
+Figura: La lista desplegable Nueva en la que se muestra la opción Sección.
+- Ingrese un título de sección.
+- Para ocultar el título de sección a los estudiantes, seleccione la casilla de selección Ocultar el título de sección a los estudiantes.
+- Ingrese el texto de la sección.
+- Para ocultar el texto de sección a los estudiantes, seleccione la casilla de selección Ocultar el texto de sección a los estudiantes.
+- Para ordenar aleatoriamente las preguntas de esta sección, seleccione la casilla de selección Ordenar aleatoriamente las preguntas de esta sección.
+- Haga clic en Guardar o en el menú desplegable Guardar, haga clic en Guardar y nuevo o Guardar y copiar.
+Figura: La página de creación Sección.
+Video: crear una nueva sección
+Crear secciones fuera de Biblioteca de preguntas
+Puede crear secciones para organizar sus preguntas en carpetas mientras crea un cuestionario, una encuesta o una autoevaluación. Las carpetas que cree se ubicarán directamente dentro de la herramienta de evaluación en la que las cree, no en la biblioteca de preguntas principal.
+- En la página Editar [cuestionario/encuesta/autoevaluación], haga clic en Agregar/editar preguntas.
+- En el menú desplegable Nuevo, haga clic en Sección.
+- Ingrese un título de sección.
+- Para ocultar el título de sección a los estudiantes, seleccione la casilla de selección Ocultar el título de sección a los estudiantes.
+- Ingrese el texto de la sección.
+- Para ocultar el texto de sección a los estudiantes, seleccione la casilla de selección Ocultar el texto de sección a los estudiantes.
+- Para ordenar aleatoriamente las preguntas de esta sección, seleccione la casilla de selección Ordenar aleatoriamente las preguntas de esta sección.
+- Haga clic en Guardar o en el menú desplegable Guardar, haga clic en Guardar y nuevo o Guardar y copiar.
+Editar una pregunta o sección en la biblioteca de preguntas
+- En la Biblioteca de preguntas, en el menú contextual de la pregunta o sección que desea editar, haga clic en Editar.
+- Realice los cambios y haga clic en Guardar.
+Previsualizar preguntas en la biblioteca de preguntas
+Use la página de vista previa para ver la apariencia de una pregunta en particular y también los comentarios y las sugerencias incluidos con la pregunta. Si la pregunta aparece en más de un lugar, en la página de vista previa se muestran los otros lugares donde aparece la pregunta (por ejemplo, en las herramientas Cuestionarios, Encuestas y Autoevaluaciones).
+- Realice una de las siguientes acciones:
+- En la biblioteca de preguntas, en el menú contextual de la pregunta de la que desee obtener la vista previa, haga clic en Vista previa.
+- En la página Editar pregunta para la pregunta de la que desea obtener la vista previa, haga clic en Vista previa.
+- Haga clic en Listo.
+Reordenar preguntas o secciones en la biblioteca de preguntas
+- En la Biblioteca de preguntas, haga clic en Ordenar.
+- En la página Ordenar, marque la casilla de selección de las preguntas o secciones que desea mover.
+- Haga clic en los íconos Subir o Bajar.
+Publicar preguntas y secciones en un repositorio educativo
+- Vaya a la Biblioteca de preguntas.
+- En la Biblioteca de preguntas, marque la casilla de selección de las preguntas o secciones que desea publicar en un repositorio de aprendizaje y, a continuación, haga clic en Publicar en el RRA.
+Figura: La opción Publicar en el RRA en la Biblioteca de preguntas.
+- Realice una de las siguientes acciones:
+- En la lista desplegable Escoger un repositorio, seleccione el repositorio en el que desea publicar.
+- Para sobrescribir el contenido existente, seleccione Sobrescribir un recurso existente. Para localizar el recurso de aprendizaje que desea sobrescribir, haga clic en Buscar. Seleccione el recurso de aprendizaje y, a continuación, haga clic en Seleccionar.
+Figura: Las opciones Elegir un repositorio y Sobrescribir un recurso existente.
+- En el área Opciones para compartir y publicar, realice una de las siguientes acciones:
+- Si desea salir de la página mientras el sistema realiza una publicación, seleccione Publicar en segundo plano. Podrá comprobar el estado del trabajo de publicación en otro momento.
+- Si no desea que el recurso esté visible o disponible públicamente, seleccione Ocultar recurso de aprendizaje en los resultados de búsqueda. Solo los usuarios con los permisos adecuados pueden ver los recursos de aprendizaje ocultos.
+- Para asociar los derechos de Creative Commons con el recurso de aprendizaje, seleccione Con licencia de Creative Commons. La licencia de Creative Commons le permite retener los derechos de autor de su trabajo y distintos grados de reutilización a otros usuarios.
+Figura: Personalice la configuración de intercambio y publicación en el menú desplegable Opciones para compartir y publicar.
+- En el área Recursos de aprendizaje para publicar, desmarque la casilla de selección de las preguntas o secciones que no desee publicar con el paquete.
+- Haga clic en Siguiente.
+- En la página Publicar, en el área Metadatos, ingrese los detalles de los metadatos.
+- Haga clic en Publicar en el repositorio de recursos de aprendizaje (RRA).
+Acceder a la ventana Examinar biblioteca de preguntas
+- Vaya a Cuestionarios.
+- Haga clic en Nuevo cuestionario para crear un nuevo cuestionario o haga clic en el nombre del cuestionario para editar un cuestionario preexistente.
+- Haga clic en Agregar existente > Examinar biblioteca de preguntas.
+Figura: La lista desplegable Agregar existente muestra la opción Examinar Biblioteca de preguntas.
+Nota: Haga clic en Colección de origen o en Origenpara modificar la colección de origen, haga clic en Filtro para filtrar por tipo de preguntas y haga clic en Ordenar para reordenar las preguntas por tipo de pregunta o valor de puntos, o alfabéticamente por texto o título.
+Agregar preguntas desde la ventana Examinar biblioteca de preguntas
+- Vaya a Cuestionarios.
+- Haga clic en Nuevo cuestionario para crear un nuevo cuestionario o haga clic en el nombre del cuestionario para editar un cuestionario preexistente.
+- Ingrese un nombre para el cuestionario.
+- Haga clic en Agregar existente > Examinar biblioteca de preguntas.
+Figura: La lista desplegable Agregar existente muestra la opción Examinar Biblioteca de preguntas.
+- Para buscar en la Biblioteca de preguntas, escriba una palabra clave en el campo Buscar texto de pregunta.
+- Para buscar en cualquier otro cuestionario del curso, en el menú desplegable Origen o Colección de origen, seleccione el cuestionario.
+Nota: puede filtrar los resultados de búsqueda por tipo de pregunta y ordenarlos por tipo de pregunta y puntos, o de manera alfabética por título o texto.
+- Seleccione las preguntas que desea agregar y realice una de las siguientes acciones:
+- Haga clic en Importar para agregar automáticamente las preguntas al final del cuestionario.
+- Haga clic en el menú desplegable Importar a fin de seleccionar la sección del cuestionario para agregar preguntas. Puede seleccionar Importar a la parte superior del cuestionario, Importar a la parte inferior del cuestionario, o Importar a la sección > [Nombre de la sección].
+Figura: El cuadro de diálogo Examinar Biblioteca de preguntas.
+- Haga clic en Edición de preguntas lista.

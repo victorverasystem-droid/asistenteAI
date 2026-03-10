@@ -1,0 +1,135 @@
+URL: https://community.d2l.com/brightspace-es-MX/kb/articles/33493-configurar-condiciones-de-publicacion
+TITLE: Configurar condiciones de publicación - Brightspace
+HASH: b741d9e5429b01f8a27a6462bc6c335055caf8000949fd271e388f29b8bd55be
+TYPE: web
+
+Las condiciones de publicación le permiten crear rutas de aprendizaje estructuradas y personalizadas en su curso. Las siguientes prácticas recomendadas favorecen un comportamiento coherente, reducen la confusión de los estudiantes y ayudan a garantizar que las condiciones funcionen según lo previsto.
+Antes de comenzar
+Antes de agregar condiciones de publicación, es importante preparar el curso para que las condiciones se comporten de manera predecible y favorezcan una ruta de aprendizaje clara para los estudiantes.
+Configurar condiciones antes de que los estudiantes accedan al curso
+Cree los materiales de su curso y configure las condiciones de publicación antes de abrir el curso para los estudiantes. Esto le da tiempo para revisar la lógica de sus condiciones y lo ayuda a evitar condiciones circulares, contradictorias o innecesarias.
+Agregar nuevas condiciones después de que los estudiantes ya hayan accedido a los materiales puede causar confusión si los elementos no están disponibles o si cambian su visibilidad. Debido a que las condiciones no se restablecen automáticamente, es posible que los estudiantes también cumplan con las condiciones antes de que el contenido asociado esté listo.
+Prácticas recomendadas para condiciones de publicación fiables
+La aplicación de prácticas coherentes al crear condiciones de publicación ayuda a garantizar que sus condiciones sean lógicas, alcanzables y fáciles de entender tanto para usted como para sus estudiantes.
+Utilizar solo las condiciones que necesite
+Cada condición que agregue aumenta la cantidad de procesamiento que debe realizar el sistema. Utilice solo las condiciones que realmente necesite para mantener tiempos de carga de páginas razonables y reducir la complejidad.
+Por ejemplo, si los estudiantes deben leer un tema de contenido antes de responder a un cuestionario y deben hacerlo antes de enviar una asignación, solo es necesario agregar la condición de intento de cuestionario a la asignación. No es necesario agregar también la condición de visualización de contenido a la asignación, ya que esa ruta de acceso ya está implícita.
+Evitar referencias circulares
+Evite crear bucles en sus condiciones de publicación para que los estudiantes siempre tengan una ruta clara y alcanzable para acceder a los materiales necesarios.
+Se produce una referencia circular cuando las condiciones dependen unas de otras en un bucle, de modo que ninguna de las condiciones puede satisfacerse primero.
+Por ejemplo, un tema de contenido que requiere el envío de una asignación, junto con una asignación que requiere la visualización de ese mismo tema, crea un bucle que los estudiantes no pueden resolver. El resultado es que los estudiantes no pueden acceder a ninguno de los elementos.
+Evitar condiciones imposibles
+Asegúrese de que los estudiantes puedan cumplir de forma realista todas las condiciones que cree, según la configuración de los elementos del curso.
+Las condiciones imposibles son aquellas que los estudiantes no pueden cumplir debido a la configuración del curso.
+Por ejemplo, exigir un puntaje superior al 100 % en un elemento de calificación es imposible, a menos que el elemento esté configurado como Puede exceder. Si no se puede cumplir una condición, los estudiantes no podrán acceder al contenido o las herramientas asociados.
+Evitar condiciones contradictorias
+Compruebe que no haya pares de condiciones que entren en conflicto entre sí, de modo que los estudiantes siempre tengan una única ruta viable para avanzar.
+Las condiciones contradictorias se producen cuando dos o más condiciones se anulan entre sí.
+Por ejemplo, exigir a los estudiantes que obtengan un puntaje superior al 49.9 % e inferior al 50 % en el mismo elemento de calificación al mismo tiempo hace que el contenido relacionado no esté disponible de forma permanente. Ningún estudiante puede cumplir ambas condiciones a la vez.
+Usar las condiciones de publicación para apoyar el aprendizaje
+Las condiciones de publicación pueden ayudarlo a crear una experiencia de aprendizaje más personalizada y estructurada, ya que permiten adaptar el acceso al contenido según el progreso y las necesidades de los estudiantes.
+Personalizar el contenido según el rendimiento
+Puede personalizar el apoyo para los estudiantes mediante la publicación de contenido adicional según su rendimiento. Por ejemplo, puede publicar recursos de recuperación para los estudiantes que obtengan un puntaje inferior a un umbral determinado o publicar actividades de enriquecimiento para los estudiantes que superen las expectativas.
+Este enfoque le permite apoyar mejor las necesidades individuales de cada estudiante sin crear ofertas de cursos separadas.
+Publicar contenido por etapas
+Las condiciones de publicación secuenciales ayudan a guiar a los estudiantes por el material del curso a un ritmo adecuado y reducen la cantidad de información que se presenta de una sola vez.
+Para guiar a los estudiantes por el material del curso a un ritmo adecuado, puede adjuntar condiciones de publicación a los módulos o temas, de modo que el nuevo contenido solo aparezca después de que se haya visto o completado el contenido anterior.
+Publicar contenido con base en la fecha de inscripción
+Utilice condiciones de publicación basadas en la fecha de inscripción cuando su curso permita que los estudiantes se inscriban en diferentes momentos, de modo que cada uno de ellos tenga una experiencia coherente.
+En los cursos con inscripción continua, las condiciones de publicación pueden poner el contenido a disposición de acuerdo con la fecha de inscripción del estudiante. Esto permite que cada estudiante vea la misma secuencia de contenido independientemente de cuándo se haya inscrito en el curso.
+Personalizar el contenido para equipos de trabajo específicos
+Las condiciones de publicación específicas para equipos de trabajo le permiten proporcionar instrucciones, actividades o recursos específicos para diferentes cohortes o equipos de proyecto dentro del mismo curso.
+Si su curso utiliza proyectos grupales o tareas diferenciadas, puede crear contenido específico para cada equipo de trabajo y publicarlo solo para los miembros de esos equipos de trabajo.
+Herramientas que funcionan bien con las condiciones de publicación
+Algunas herramientas de Brightspace se combinan bien con las condiciones de publicación y pueden ayudarlo a estructurar las tareas de aprendizaje, supervisar el progreso y automatizar los recordatorios.
+Utilizar listas de control para organizar actividades
+Las listas de control pueden ayudar a los estudiantes a hacer un seguimiento de su progreso mediante tareas semanales o proyectos más extensos. Puede utilizar condiciones de publicación para que los nuevos contenidos, noticias o actividades estén disponibles una vez que los estudiantes completen los elementos de una lista de control.
+Utilizar agentes inteligentes para supervisar el progreso
+Los agentes inteligentes pueden utilizar condiciones de publicación para identificar a los estudiantes que no han completado las tareas requeridas, lo que facilita el envío de recordatorios oportunos u ofrecer apoyo.
+Por ejemplo, puede crear un agente que envíe un recordatorio a los estudiantes que no hayan intentado responder a un cuestionario ni enviado una asignación después de una fecha determinada.
+Validar la configuración
+Después de configurar las condiciones de publicación, revise la experiencia del estudiante para asegurarse de que la ruta de aprendizaje sea clara y de que el contenido correcto esté disponible en el momento correcto.
+Probar usar Ver como estudiante
+Utilice Ver como estudiante para verificar que las condiciones se comporten según lo esperado.
+- Confirme que el contenido aparezca cuando se cumplan las condiciones.
+- Confirme que el contenido permanezca oculto cuando no se cumplan las condiciones.
+- Compruebe que la ruta de aprendizaje sea clara y que los estudiantes no vean brechas inesperadas.
+Situaciones de ejemplo de condiciones de publicación
+Los siguientes ejemplos ilustran cómo se comportan las diferentes configuraciones de condiciones de publicación y cómo pueden ayudarlo a alcanzar los objetivos de diseño de su curso.
+Situación: publicar contenido de seguimiento basado en el rendimiento en un cuestionario
+Esta situación muestra cómo publicar contenido nuevo solo después de que un estudiante alcance un nivel mínimo de rendimiento.
+Objetivo: Los estudiantes pueden acceder a un tema de contenido de seguimiento solo si obtienen un puntaje de al menos el 80 % en el “Cuestionario del módulo 1”.
+Configuración:
+- Tipo de condición: valor de la calificación en un elemento de calificación.
+- Elemento de calificación objetivo: cuestionario del módulo 1.
+- Condición: el puntaje es mayor o igual al 80 %.
+Comportamiento:
+- Si un estudiante obtiene un puntaje del 80 % o superior, se cumple la condición y el tema se vuelve visible.
+- Si el puntaje es inferior al 80 %, el tema permanece oculto.
+- Si la calificación se actualiza posteriormente, la condición no se reevalúa automáticamente a menos que se elimine al estudiante del curso y se vuelva a agregar.
+Situación: mostrar un recordatorio cuando no se haya completado un tema
+Esta situación demuestra cómo se puede mantener visible un recordatorio hasta que un estudiante complete una parte del contenido requerida.
+Objetivo: mostrar un tema de recordatorio a los estudiantes que no hayan completado el tema de contenido “Introducción a la administración de proyectos”.
+Configuración:
+- Tipo de condición: contenido; no se completó el tema de contenido.
+- Tema de contenido objetivo: introducción a la administración de proyectos.
+Comportamiento:
+- Si el estudiante no ha completado el tema, el mensaje de recordatorio estará visible.
+- Una vez que el estudiante complete el tema, el mensaje de recordatorio se oculta.
+- Si la finalización se deshace más adelante, la condición no se volverá a evaluar y permanecerá en su último estado evaluado.
+Agregar condiciones de publicación a un activo de Brightspace
+Las condiciones de publicación le permiten controlar cuándo los estudiantes pueden ver elementos específicos en su curso. Puede utilizarlas para exigir a los estudiantes que completen una tarea, obtengan un puntaje o alcancen un hito antes de pasar a la siguiente actividad.
+Antes de configurar las condiciones de publicación, asegúrese de que las actividades y el contenido que desea controlar ya estén creados. Adjuntará las condiciones de publicación a los elementos existentes en lugar de crearlos al mismo tiempo.
+Su rol también debe tener permiso para editar la herramienta en la que desea utilizar las condiciones, como Asignaciones, Contenido, Debates o Cuestionarios.
+Paso 1. Abrir el elemento que desea restringir
+Para configurar una condición de publicación, primero abra el elemento al que desea controlar el acceso.
+- Para restringir un tema de contenido, vaya a Contenido, abra el módulo y haga clic en el menú del tema, luego haga clic en Editar o Editar propiedades en el lugar.
+- Para restringir una asignación, vaya a Asignaciones y haga clic en el nombre de la asignación para editarla.
+- Para restringir un tema de debate, vaya a Debates, haga clic en el menú del tema y haga clic en Editar tema.
+- Para restringir un cuestionario, vaya a Cuestionarios, haga clic en el nombre del cuestionario y edite la configuración.
+- Para restringir una noticia, una lista de control u otro elemento compatible, abra el editor para ese elemento.
+Paso 2. Buscar el área de condiciones de publicación
+La ubicación del área de condiciones de publicación varía levemente según la herramienta, pero, por lo general, se encuentra en el mismo lugar que las configuraciones de disponibilidad y visibilidad.
+- En muchas herramientas, expanda la sección Fechas y condiciones de disponibilidad para encontrar las Condiciones de publicación.
+- En flujos de trabajo anteriores, busque una pestaña Restricciones y desplácese hasta la sección Condiciones de publicación.
+Paso 3. Elegir crear o adjuntar una condición
+Cuando abra la sección condiciones de publicación, puede crear una nueva condición o reutilizar una existente.
+- Haga clic en Crear y adjuntar para configurar una nueva condición de publicación que se aplique a este elemento.
+- Haga clic en Adjuntar existente para reutilizar una condición que ya haya creado para otro elemento.
+Paso 4. Seleccionar el tipo de condición
+Cuando cree una nueva condición, debe elegir el tipo de condición de publicación. El tipo de condición determina qué acción o resultado se requiere del estudiante.
+Los siguientes son ejemplos frecuentes:
+- Contenido: el estudiante debe ver o completar un tema de contenido específico.
+- Asignaciones: el estudiante debe enviar a una asignación específica o recibir comentarios.
+- Debates: el estudiante debe crear una publicación en un tema.
+- Cuestionarios: el estudiante debe intentar responder un cuestionario o lograr un puntaje específico.
+- Calificaciones: el estudiante debe obtener una calificación determinada en un elemento de calificación.
+- Listas de control: el estudiante debe completar todos los elementos o un elemento específico en una lista de control.
+- Listado de alumnos: el estudiante debe estar inscrito en un equipo de trabajo, sección o unidad de organización específico.
+Paso 5. Configurar los detalles de la condición
+Después de elegir un tipo de condición, debe indicar al sistema exactamente qué debe comprobar.
+- Seleccione el elemento específico, como el cuestionario, el tema de debate, el elemento de calificación o el tema de contenido.
+- Para las condiciones basadas en calificaciones, seleccione el tipo de comparación, como mayor que, menor que o mayor o igual que, e ingrese el valor requerido.
+- Para las condiciones de listas de control y debates, especifique cuántos elementos o publicaciones se requieren.
+Cuando termine, haga clic en Crear o Adjuntar para agregar la condición al elemento.
+Paso 6. Revisa y combinar las condiciones
+Después de agregar una condición de publicación, aparecerá en una lista en el elemento.
+- Utilice Eliminar para borrar una condición que ya no desee aplicar.
+- Utilice Agregar otra condición si los estudiantes deben cumplir más de un requisito antes de poder acceder al elemento.
+Paso 7. Guardar y probar la experiencia del estudiante
+Cuando haya configurado las condiciones de publicación, guarde el elemento y pruebe lo que verán los estudiantes.
+- Haga clic en Guardar y cerrar (o una opción similar) para aplicar los cambios.
+- Utilice Ver como estudiante para comprobar que el elemento solo se hace visible después de cumplir la condición.
+Utilizar las condiciones de publicación con agentes inteligentes
+También puede utilizar las condiciones de publicación para controlar los agentes inteligentes que supervisan el progreso de los estudiantes y envían mensajes automáticos.
+Para utilizar las condiciones de publicación a fin de controlar agentes inteligentes
+- Vaya a Herramientas de administración > Agentes inteligentes para crear o editar un agente inteligente.
+- Asigne un nombre al agente y haga clic en Agente habilitado para habilitar el agente al momento de crearlo.
+- En la sección Programación, establezca la hora, la fecha y la frecuencia en la que se ejecutará el agente.
+- En la sección Criterios, agregue condiciones de publicación que describan la situación a supervisar (por ejemplo, no enviar una asignación u obtener un puntaje inferior al umbral).
+- En la sección Acciones:
+- Seleccione la casilla de verificación Enviar un correo electrónico cuando se cumplan los criterios para que el agente envíe un correo electrónico cuando se cumplan los criterios.
+- Ingrese la información del correo electrónico y los archivos adjuntos pertinentes.
+Nota: Para enviar el correo electrónico del agente a destinatarios específicos, haga clic en ¿Qué direcciones de correo electrónico especiales puedo utilizar?, luego, copie la cadena de reemplazo correspondiente y péguela en los campos Para, Cc Cco según sea necesario. Las direcciones de correo electrónico especiales incluyen, por ejemplo, usuarios, auditores y padres o tutores.
+- Configure el mensaje de correo electrónico y la programación, luego guarde y habilite el agente.
+Los agentes inteligentes no controlan si el contenido es visible. En su lugar, utilizan las condiciones de publicación para identificar qué usuarios deben recibir notificaciones o recordatorios.

@@ -1,0 +1,31 @@
+URL: https://community.d2l.com/brightspace-es-MX/kb/articles/10844-crear-y-eliminar-un-enlace-o-una-categoria-de-enlace
+TITLE: Crear y eliminar un enlace o una categoría de enlace - Brightspace
+HASH: bc22ba0c4fcd66539a5ebb6ca8a2e762d922033bce96ec8ced5849d9fb256b61
+TYPE: web
+
+Crear un enlace
+- En la barra de navegación, haga clic en Administración del curso.
+- Haga clic en Enlaces.
+- En la página Administrar enlaces, haga clic en Nuevo enlace.
+Figura: La opción Nuevo enlace en la página Administrar enlaces.
+- Realice una de las siguientes acciones:
+- Para agregar un enlace a una categoría existente, en la lista desplegable Categoría, seleccione una categoría.
+- Para agregar un enlace a una categoría nueva, haga clic en Nueva categoría. Introduzca los detalles de la categoría. Haga clic en Guardar.
+- Ingrese un título para el enlace.
+- Realice una de las siguientes acciones:
+- Para agregar un enlace externo, en el área URL, introduzca la dirección URL en el campo proporcionado.
+- Para agregar un enlace rápido, en el área URL, haga clic en el ícono Enlace rápido. En el cuadro de diálogo Insertar enlace rápido, desplácese hasta el enlace que desea insertar.
+- Haga clic en Guardar.
+Crear una categoría de enlace
+- En la barra de navegación, haga clic en Administración del curso.
+- Haga clic en Enlaces.
+- En la página Administrar enlaces, haga clic en Nueva categoría.
+Figura: La opción Nueva categoría en la página Administrar enlaces.
+- Introduzca los detalles de la categoría.
+- Haga clic en Guardar.
+Eliminar enlaces y categorías de enlace
+La eliminación de una categoría también elimina todos los enlaces de esa categoría.
+- En la barra de navegación, haga clic en Administración del curso.
+- Haga clic en Enlaces.
+- En el menú Acciones del enlace o categoría de enlace que desea eliminar, haga clic en Eliminar.
+Figura: El menú Acciones en el que se muestra la opción Eliminar para un enlace.

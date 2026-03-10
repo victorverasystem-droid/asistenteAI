@@ -1,0 +1,123 @@
+URL: https://community.d2l.com/brightspace-es-MX/kb/articles/15171-evaluar-cuestionarios
+TITLE: Evaluar cuestionarios - Brightspace
+HASH: 182e87d3df913566fc058b8e1c710a1a73c10fb2c0e8b3008cdada67325ade63
+TYPE: web
+
+Evaluar cuestionarios con la herramienta de cuestionarios
+Si su cuestionario tiene preguntas que pueden ser autocalificadas en Brightspace, no es necesario que evalúe esas preguntas a menos que lo desee.
+Para evaluar cuestionarios, realice lo siguiente:
+- En la página de inicio del curso, vaya a Cuestionarios.
+- Haga clic en el menú desplegable situado junto al nombre del cuestionario que desea evaluar.
+- SeleccioneCalificar.
+- En la página Calificar cuestionario, seleccione un intento a fin de abrir el cuestionario para calificar.
+- En la puntuación de una pregunta del cuestionario, ingrese un nuevo valor de puntos y seleccione Actualizar para guardar.
+Si en un cuestionario se intenta extraer más preguntas de las que están disponibles en un grupo de preguntas (por ejemplo, se solicitan 12 preguntas, pero solo hay 10 disponibles) y los estudiantes ya completaron el cuestionario con el grupo afectado, aparece un mensaje de advertencia durante la calificación, que indica que el grupo de preguntas ya no tiene preguntas disponibles.
+Visualizar el esquema de calificaciones que se aplicó al curso mientras evalúa un cuestionario
+Si aplicó un esquema de calificaciones a su curso, puede ver ese esquema de calificaciones mientras ingresa la calificación de un intento de cuestionario específico. Por ejemplo, si aplicó un esquema de calificaciones por Calificación mediante letras al curso y vinculó un cuestionario a un elemento de calificación, puede ingresar una Calificación general y el esquema de calificaciones del estudiante en Vista de calificaciones del estudiante. Esta acción es útil para comprender cómo se verá la calificación que ingresó para el estudiante cuando vea su calificación final con el esquema de calificaciones aplicado.
+Para ver el esquema de calificaciones que se aplicó al curso mientras evalúa
+- Vaya a Cuestionarios.
+- En la pestaña Administrar cuestionarios, haga clic en Acciones para (ícono de flecha) junto a un cuestionario y seleccione Calificación.
+- En la pestaña Usuarios de la página Calificación del cuestionario, haga clic en Intento de cuestionario para abrirlo y evaluarlo.
+- Ingrese la calificación del intento. La Vista de calificaciones del estudiante se actualiza de forma automática para representar el esquema de calificaciones aplicado.
+- Para ver todas las calificaciones de intentos de cuestionarios, seleccione Resumen de finalización en el menú desplegable.
+- Ingrese la calificación del intento. La Vista de calificaciones del estudiante se actualiza de forma automática para representar el esquema de calificaciones aplicado.
+- Para ver todas las calificaciones de intentos de cuestionarios, seleccione Resumen de finalización en el menú desplegable.
+Evaluar un cuestionario con una rúbrica adjunta a una pregunta de respuesta por escrito
+Puede adjuntar una rúbrica a las preguntas de respuesta por escrito (respuesta larga) en un cuestionario.
+Posteriormente, dentro del cuestionario, puede utilizar la rúbrica para calificar las preguntas del cuestionario de respuesta por escrito. La rúbrica aparece debajo de la respuesta del o puede hacer clic en el Mensaje emergente para abrir la respuesta del en un cuadro de diálogo separado, lo que le permite ver la rúbrica y la respuesta escrita en ventanas separadas.
+Borrar la puntuación de rúbrica en una rúbrica evaluada
+Puede borrar las selecciones de una rúbrica previamente evaluada, adjunta a las preguntas de respuesta por escrito de los cuestionarios. Esta opción es compatible con situaciones en las que debe empezar de nuevo sin afectar los comentarios ingresados previamente. Esta función elimina todas las puntuaciones de rúbrica sin afectar los comentarios.
+Antes de comenzar, asegúrese de que se haya agregado una rúbrica a una pregunta de respuesta por escrito evaluada y que se haya aplicado la puntuación.
+Para borrar la puntuación de rúbrica:
+- Vaya a la pregunta de respuesta escrita que contiene la rúbrica evaluada.
+- En el menú contextual Opciones de rúbricas, seleccione Borrar selecciones.
+- En el cuadro de diálogo de confirmación, haga clic en Borrar selecciones.
+Recorrido visual de la nueva experiencia de evaluación del cuestionario
+La nueva experiencia de evaluación del cuestionario presenta una vista de dos paneles para ingresar fácilmente un puntaje de la pregunta del cuestionario y los comentarios de un lado y revisar la calificación general del intento y los comentarios del intento del otro lado.
+- Haga clic en el menú desplegable para elegir el intento de cuestionario para evaluar o seleccionar Resumen de finalización.
+- Haga clic en Filtrar para ver las preguntas del cuestionario que aún están pendientes de evaluación o las preguntas que se han vuelto a contestar.
+- Haga clic en las flechas para pasar a la evaluación de cuestionario del siguiente usuario.
+- Ingrese un puntaje y los comentarios para una pregunta específica del cuestionario en el intento. Si tiene una pregunta de respuesta por escrito, puede adjuntar una rúbrica para la calificación.
+- Ingrese una calificación de intento y comentario de intento.
+- Acceda a las opciones de intento de cuestionario, que se muestran a continuación:
+- Editar cuestionario: Realice actualizaciones y cambios en el cuestionario.
+- Vista previa del cuestionario: Revise el cuestionario tal como lo vería un alumno.
+- Restablecer evaluación: Descarte cualquier cambio realizado en la evaluación del intento de cuestionario. Los puntajes de las preguntas se restablecerán a la autoevaluación del sistema.
+- Registro de eventos de cuestionarios: Revise una lista de todas las acciones que realizó el usuario durante el intento de cuestionario.
+Evalúe cuestionarios mediante la Experiencia de nuevo contenido
+Mediante el uso de la vista de actividades evaluables en la Experiencia de nuevo contenido, los profesores pueden acceder a los cuestionarios y evaluar a losalumnos de Contenido.
+Cómo evaluar cuestionarios en la Experiencia de nuevo contenido
+- Vaya a Contenido.
+- Seleccione el módulo que contiene su cuestionario y luego, haga clic en su cuestionario.
+- En la sección Resumen de finalización de la vista de actividades evaluables, haga clic en Ir a la evaluación correspondiente al alumno cuyo cuestionario desea evaluar.
+- En el menú desplegable junto al nombre del alumno, seleccione el intento de cuestionario que desea calificar. También puede seleccionar su Resumen de finalización en este menú desplegable cuando se publiquen los resultados de su cuestionario.
+- Califique su cuestionario e ingrese sus comentarios en la sección Comentarios sobre intentos. Puede anular manualmente su Calificación de intento si lo desea.
+- Cuando haya terminado, haga clic en Publicar o en Guardar borrador.
+Ha evaluado el cuestionario de un alumno desde Contenido.
+Evaluar cuestionarios en la pestaña Usuarios o Intentos
+Evaluar cuestionarios desde la pestaña Intentos le permite calificar los cuestionarios de los estudiantes seleccionando un intento de su registro de intentos.
+Para evaluar cuestionarios en la pestaña Usuarios o Intentos, realice lo siguiente:
+- En la página de inicio del curso, vaya a Cuestionarios.
+- Haga clic en el menú desplegable situado junto al nombre del cuestionario que desea evaluar.
+- SeleccioneCalificar.
+- Seleccione Intentos.
+- Seleccione el intento de cuestionario que desea calificar en la columna Intento.
+- En el menú desplegable Vista de preguntas, elija:
+- Todas las preguntas para ver todas las preguntas del cuestionario, tanto si las ha calificado como si no.
+- Evaluaciones pendientes para ver solo las preguntas que no ha calificado.
+- Para cada calificación de intento de una pregunta escrita, ingrese el puntaje de esa pregunta.
+- Para las preguntas con puntajes autocalificados, como las preguntas de opción múltiple, no es necesario que califique la pregunta a menos que esté corrigiendo un error.
+- Si lo desea, ingrese comentarios sobre la pregunta en el editor HTML de Comentarios. Puede hacer lo siguiente:
+- Cargar archivos de forma segura
+- Insertar ecuaciones
+- Usar herramientas de formato y medios avanzadas
+- Haga clic en Actualizar cuando termine de calificar para guardar su evaluación. También puede hacer clic en Retirar para eliminar su evaluación.
+- Haga clic en Atrás para volver a la página Calificar cuestionario.
+- Repita los pasos anteriores con cada estudiante.
+Evaluar cuestionarios en la pestaña Preguntas
+La pestaña Preguntas le permite calificar todos los intentos de los estudiantes en una misma pregunta. Puede elegir Calificar respuestas individuales para calificar la pregunta de cada estudiante; o bien puede Actualizar todos los intentos para darles a todos la misma calificación por una pregunta específica.
+Para el flujo de trabajo Calificar respuestas individuales:
+- En Calificar respuestas individuales, seleccione Ocultar nombres de estudiantes o Ver respuestas evaluadas para ver los nombres de los estudiantes.
+- Haga clic en la pregunta que desea evaluar.En la lista desplegable Tamaño de página situada debajo de Pregunta de calificación, haga clic en la cantidad de respuestas de estudiante que desea incluir por página. La cantidad de preguntas que pueden aparecer son 1, 5, 10 y 20.
+- Ingrese el puntaje.
+- Haga clic en Ampliar comentarios de la pregunta para abrir el cuadro de texto Comentarios. Ingrese sus comentarios si lo desea. Puede hacer lo siguiente:
+- Cargar archivos de forma segura
+- Insertar ecuaciones
+- Usar herramientas de formato y medios avanzadas
+- Para pasar a la siguiente página de respuestas, haga clic en las flechas situadas debajo de la Pregunta de calificación.
+- Cuando haya terminado de calificar, haga clic en Guardar para volver a la página Calificar cuestionario.
+- Repita los pasos anteriores con cada pregunta.
+Guardar comentarios del cuestionario en borrador
+Cuando evalúe un cuestionario, guarde los comentarios de su cuestionario como borrador para continuar su evaluación más adelante.
+Para guardar los comentarios del cuestionario como borrador
+- Vaya a Cuestionarios.
+- En el menú Acciones del cuestionario que desea calificar, haga clic en Calificar.
+- En la pestaña Usuarios, haga clic en el nombre del estudiante que desea evaluar.
+- Después de evaluar el envío de un cuestionario, haga clic en Guardar borrador para almacenar cualquier calificación e información de los comentarios.
+En la página Calificar cuestionario, en la columna Estado, los intentos con comentarios en borrador muestran Borrador guardado, junto con la fecha y la hora en que se guardó (para indicar que la evaluación está en curso).
+Haga clic en Publicar comentarios para publicar los comentarios simultáneamente para varios intentos.
+Una vez que se publican los comentarios, la interfaz de usuario muestra las opciones Actualizar y Retirar. Retirar permite ocultar de los estudiantes el puntaje y los comentarios. Los comentarios publicados aparecen automáticamente en su cuaderno de calificaciones. Si retira los comentarios publicados, la entrada se eliminará simultáneamente del cuaderno de calificaciones hasta que vuelva a publicarla.
+Repetir las preguntas incorrectas del cuestionario en intentos subsiguientes
+La opción Repetir solo las preguntas respondidas incorrectamente permite que los estudiantes solo retomen las preguntas que se respondieron de manera incorrecta en intentos anteriores de cuestionario. Cuando el estudiante vuelve a intentar su cuestionario, las preguntas que se respondieron de manera incorrecta en los intentos anteriores se indican con un símbolo de alerta. Cada intento de responder al cuestionario muestra las preguntas en el mismo orden que en el primer intento (incluidos los cuestionarios con grupos de preguntas). Las preguntas correctas en los intentos anteriores siguen mostrando la “raíz de la pregunta”, pero omitirán las respuestas.
+Puede utilizar la Vista previa del cuestionario para responderlo y enviar un intento de previsualización. Debe seleccionar Permitir que este intento de previsualización sea calificado en el área Calificar cuestionario, en la página de envío del intento de previsualización.
+Consideraciones de calificación
+- El puntaje de un estudiante en un intento de Repetir solo las preguntas respondidas incorrectamente se mantiene por lo menos en la calificación que tenían en el intento anterior. Las preguntas que se respondan correctamente en el intento Repetir solo las preguntas respondidas incorrectamente se suman al puntaje de los intentos del estudiante.
+- Cuando califica un intento de Repetir solo las preguntas respondidas incorrectamente, el instructor solo puede proporcionar una puntuación para las preguntas que se hayan respondido en ese intento. La puntuación general del cuestionario se calcula utilizando las funciones existentes de agregación Más alta/Más baja/Primera/Última/Promedio. La función de agregación Promedio se puede utilizar para asignarle al estudiante una calificación parcial en preguntas que no se respondieron correctamente en el primer intento.
+- D2L no recomienda usar la opción Configurar automáticamente como calificado para cuestionarios con preguntas de respuesta escrita. Si utiliza la calificación automática, las preguntas de respuesta escrita se marcarán como 0 y se incluirán en futuros intentos hasta que se califiquen de manera manual.
+En el registro de intentos, los instructores y los administradores pueden identificar las repeticiones de intentos:
+Además, en la pestaña Usuarios, las repeticiones de intentos se incluyen de modo que se diferencien de los primeros intentos.
+Habilitar la finalización del recurso de aprendizaje con una actividad de elemento de calificación con evaluación automática
+Puede configurar la evaluación automática de las actividades de elemento de calificación, de modo que el rendimiento de la actividad del estudiante se determine automáticamente en función del puntaje que obtuvo en el elemento de calificación.
+Para habilitar la finalización del recurso de aprendizaje con una actividad de elemento de calificación con evaluación automática
+- Navegue hasta Competencias.
+- En la página de inicio de Competencia, haga clic en el recurso de aprendizaje al que desea agregar una actividad de elemento de calificación para su evaluación automática.
+- Haga clic en Estructura.
+- En la pestaña Editar estructura, expanda la sección Agregar elementos secundarios.
+- Haga clic en la actividad que desea agregar al recurso de aprendizaje.
+- Marque la casilla de selección Evaluar objetivo.
+- En la lista desplegable Tipo de evaluación, seleccione Numérica.
+- Marque la casilla de selección La actividad es obligatoria para completar el recurso de aprendizaje y, a continuación, ingrese la información sobre el Umbral general.
+- Haga clic en Agregar.
+También puede configurar las actividades de elemento de calificación para realizar una evaluación automática; para ello, adjunte una rúbrica de enfoque holístico al elemento. Si adjunta una rúbrica de enfoque holístico a una actividad de elemento de calificación que utiliza Porcentajes como el método de puntuación, el porcentaje de calificación del estudiante se asigna automáticamente al nivel de logros adecuado.
+Video: Asocie competencias de cuestionario a preguntas de cuestionario
+Video: Nueva experiencia de evaluación de cuestionario

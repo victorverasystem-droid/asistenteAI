@@ -1,0 +1,39 @@
+URL: https://community.d2l.com/brightspace-es-MX/kb/articles/10933-acerca-de-los-agentes-inteligentes
+TITLE: Acerca de los agentes inteligentes - Brightspace
+HASH: d688926c8c36d1ee81151d80e805311fbcc5f3a102e46d447ea8e908ec2af26e
+TYPE: web
+
+La herramienta Agentes inteligentes supervisa una unidad de organización para descubrir una actividad que coincida con los criterios que establezca. Los criterios que buscan los agentes son la actividad de inicio de sesión, la actividad en el curso y las condiciones de publicación en Brightspace.
+Ejemplos de lo que pueden hacer los agentes:
+- Enviar correos electrónicos a los usuarios con calificaciones inferiores a determinado nivel
+- Verificar a los usuarios que no han iniciado sesión en una cantidad específica de días
+- Verificar a los usuarios que visualizan un tema de contenido específico
+Requisitos
+Se necesita lo siguiente para usar Agentes inteligentes:
+- Para ver y usar Agentes inteligentes, debe tener los permisos de Agentes inteligentes requeridos aplicados a su rol. Solo el administrador de su organización puede acceder a estos permisos.
+- Para localizar la página Agentes inteligentes, vaya a Administración del curso desde la barra de navegación.
+Importante: Si no encuentra la página Agentes inteligentes en su instancia de Brightspace, comuníquese con el administrador de su organización para obtener los permisos necesarios.
+Recorrido visual de Agentes inteligentes
+Figura: Utilice Agentes inteligentes para crear nuevos agentes, agrupar agentes en categorías, exportar un historial de todos los agentes en ejecución y mucho más.
+- Cree un nuevo agente, cree y edite categorías para agrupar agentes relacionados y seleccione Más acciones para obtener más opciones.
+- Active, desactive, elimine o edite de forma masiva agentes existentes.
+- Utilice la tabla para seleccionar agentes, editar agentes y revisar la información sobre las fechas de ejecución de los agentes.
+- Utilice el menú desplegable para filtrar agentes.
+- Personalice la configuración de correo electrónico relacionada con Agentes inteligentes.
+Consideraciones para la configuración de los agentes
+Cuando crea un agente nuevo, debe determinar:
+- Los criterios que busca el agente. El agente puede verificar la actividad de inicio de sesión, la actividad en el curso y las condiciones de publicación activadas. Tenga en cuenta que los agentes inteligentes evalúan el estado de las condiciones de publicación en el momento en que se ejecutan. Es posible que un usuario que haya cumplido con una condición de publicación en una ejecución anterior ya no cumpla con una condición de publicación en una ejecución posterior, especialmente en el caso de nuestras condiciones de “NO” publicación.
+- Frecuencia con la que se programa al agente para que se ejecute y busque usuarios que cumplan sus criterios. Si no establece un programa, el agente se debe activar manualmente en la página Lista de agentes.
+- Frecuencia con que el agente realiza acciones cuando un usuario satisface los criterios. Es decir, ¿el agente envía un correo electrónico la primera vez que el usuario activa el agente o envía correos electrónicos de recordatorio al usuario cada vez que se ejecute el agente?
+- La acción que desea que realice el agente cuando encuentra un usuario que se ajusta a los criterios que está buscando. Un agente puede: cambiar la inscripción en el curso actual o inscribirse en otro curso; enviar un correo electrónico al usuario, al auditor o a otro usuario; o no hacer nada (no optar por ninguna acción permite que el agente ejecute y genere informes de quién cumplió con los criterios durante las diferentes ejecuciones del agente).
+Notas:
+- Debe tener los permisos de inscripción correspondientes en los cursos actuales o de destino para crear agentes inteligentes que cambien las inscripciones de usuarios.
+- Los archivos adjuntos y las imágenes insertadas en los correos electrónicos no pueden exceder el límite establecido para su institución para los archivos adjuntos de correo electrónico.
+Prácticas recomendadas para crear y usar agentes
+Hay muchas cosas que debe considerar al configurar agentes para el curso a fin de obtener el máximo beneficio del uso de la herramienta. Los agentes son más útiles cuando ha estudiado detenidamente cómo organizarlos y presentarlos en un curso.
+Entre las prácticas recomendadas se incluyen:
+- Usar una convención de nombre estándar para mantener claros el orden y el propósito de cada agente
+- Usar el área Descripción del agente para recopilar notas de recordatorio de lo que necesita ajustar en el agente para cada oferta
+- Determinar si el agente se beneficiaría con la repetición
+- Usar cadenas de reemplazo para personalizar los correos electrónicos y minimizar la edición
+- Evitar el uso excesivo de agentes, especialmente si puede ofrecer la información a los alumnos de otra manera

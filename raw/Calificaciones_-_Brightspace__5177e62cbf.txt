@@ -1,0 +1,12 @@
+URL: https://community.d2l.com/brightspace-es-MX/kb/articles/33883-calificaciones
+TITLE: Calificaciones - Brightspace
+HASH: 5177e62cbffbf8b76c35c1bf201e6010504a2cf520e34306f57c20cd64819a96
+TYPE: web
+
+Revise fácilmente todos sus elementos de calificación, incluidos los puntos, los porcentajes de calificación y los comentarios y evaluaciones. También puede utilizar la herramienta Calificaciones para agregar a su ePortfolio.
+Recorrido visual: Calificaciones
+Figura: La herramienta Calificaciones se organiza en varias secciones, que se describen a continuación.
+- Haga clic en Calificaciones para revisar sus elementos de calificación.
+- Haga clic en Agregar a ePortfolio para agregar un artefacto a ePortfolio.
+- Revise sus Elementos de calificación, Puntos, Calificación y Comentarios y evaluaciones.
+- Imprima sus calificaciones.

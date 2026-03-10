@@ -1,0 +1,26 @@
+URL: https://community.d2l.com/brightspace-es-MX/kb/articles/11047-acerca-de-administrar-fechas
+TITLE: Acerca de Administrar fechas - Brightspace
+HASH: 15b01d95efc763775f00429df19a2da25fa6ee3705e6698da96481b14300098b
+TYPE: web
+
+Use la herramienta Administrar fechas para ver, editar y ajustar de forma masiva la disponibilidad de fechas y establecer el estado del calendario de los objetos del curso desde una ubicación central. Estos recursos incluyen:
+- Módulos y temas de contenido
+- Foros y temas de debate
+- Carpetas para envío de asignaciones
+- Categorías y elementos de calificación
+- Elementos de noticias
+- Cuestionarios
+- Listas de control
+- Encuestas
+- Agentes inteligentes
+Los recursos del curso se muestran en una cuadrícula que puede ordenar por cualquiera de los encabezados de columna. También puede utilizar la columna Tipo para ordenar la página Administrar fechas en función del orden específico de la herramienta y utilizar opciones avanzadas de filtro para trabajar con conjuntos de recursos más pequeños. Si filtra los recursos de su curso, cualquier cambio masivo que realice solo se aplicará a los resultados filtrados. Esto le permite actualizar múltiples fechas de disponibilidad según criterios específicos.
+Además de administrar fechas, puede abrir cada recurso del curso en una nueva ventana al hacer clic en su nombre. Esto abre la página de edición del recurso, en la que puede editar las propiedades adicionales sin salir de la herramienta Administrar fechas.
+Requisitos
+Para usar la herramienta Administrar fechas, se requiere lo siguiente:
+- Para ver y usar la herramienta Administrar fechas, debe tener los permisos de Administrar fechas requeridos aplicados a su rol. Solo el administrador de su organización puede acceder a estos permisos.
+- Para localizar la herramienta Administrar fechas, vaya a Administración del curso desde la barra de navegación.
+Recorrido visual de la herramienta Administrar fechas
+Figura: La herramienta Administrar fechas le permite filtrar, editar o realizar ajustes de forma masiva de varios recursos de aprendizaje en su curso.
+- Filtre la lista por herramienta o recurso del curso.
+- Seleccione herramientas específicas o recursos de aprendizaje y elija Edición masiva de fechas o Ajuste masivo de fechas.
+- Revise una lista de recursos del curso. Seleccione recursos específicos del curso para abrir y editar sus fechas de manera individual.

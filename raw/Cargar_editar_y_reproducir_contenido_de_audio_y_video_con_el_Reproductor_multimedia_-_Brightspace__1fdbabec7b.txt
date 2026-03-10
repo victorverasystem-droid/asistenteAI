@@ -1,0 +1,114 @@
+URL: https://community.d2l.com/brightspace-es-MX/kb/articles/10899-cargar-editar-y-reproducir-contenido-de-audio-y-video-con-el-reproductor-multimedia
+TITLE: Cargar, editar y reproducir contenido de audio y video con el Reproductor multimedia - Brightspace
+HASH: 1fdbabec7bc24a84aa15f195c58b1ab1333fff7e3afc1d67affded8357717340
+TYPE: web
+
+Reproductor multimedia de Brightspace es una ventana de visualización que le permite ver cualquier video cargado en Brightspace. Le permite reproducir videos, ajustar la velocidad de reproducción y descargar videos.
+Nota: Los videos integrados, como YouTube, no utilizan el Reproductor multimedia de Brightspace.
+Tipos de archivos de audio y video admitidos en Brightspace
+Los siguientes tipos de archivos son compatibles con Brightspace:
+Notas:
+- Brightspace es compatible con estos tipos de archivos, pero prefiere .mp4 y .mp3.
+- Si se detectan problemas al reproducir un video después de cargarlo, pruebe a utilizar la opción <Optimize for Streaming> en el conjunto de edición de la biblioteca multimedia. Esta opción optimiza el archivo para Brightspace y resuelve la mayoría de los problemas de reproducción.
+Cargar contenido de audio y video
+Debe cargar todo el contenido de audio y video en Brightspace antes de poder verlo en el Reproductor multimedia. Hay varios métodos disponibles para cargar contenido de audio y video.
+Los archivos de audio y video cargados se transcodifican de la siguiente manera:
+- Los archivos MP3 y de video MP4 se guardan en su formato original porque pueden reproducirse en un navegador sin transcodificación.
+- WMV y AVI se transcodifican automáticamente en la carga, ya que no se reproducen de forma predeterminada.
+Nota: Cuando se carga contenido, el archivo de medios no está disponible durante el procesamiento (transcodificación, creación de miniaturas, leyendas con generación automática). Sin embargo, puede salir de la página de carga para trabajar en otras tareas. Si otro usuario intenta acceder al archivo de medios en el tema antes de que se complete el procesamiento, aparecerá un mensaje en el que se le indicará que espere a que el archivo de medios esté disponible. Cuando se complete el procesamiento (o cuando el archivo de medios cargado no sea válido o esté dañado), se muestra una notificación de Alertas de actualización en la barra de navegación, con un enlace a la página de inicio de la organización. Según el formato de archivo de los archivos de audio y video, es posible que no se reproduzcan en un navegador web de forma predeterminada. La opción Optimizar para la transmisión en la herramienta de edición permite a los usuarios que desean transcodificar manualmente las versiones originales de los archivos, por ejemplo, reducir el tamaño del archivo o activar la transmisión de varias velocidades de bits.
+Para cargar contenido de audio y video en la Experiencia de contenido nuevo (Lecciones)
+- Vaya a Contenido.
+- Seleccione una unidad y haga clic en Agregar existente. Se abre la página ¿Qué le gustaría agregar?.
+- Realice una de las siguientes acciones:
+- Arrastre y suelte el archivo de medios en el cuadro de diálogo. Haga clic Examinar para seleccionar un archivo de su computadora. Comienza el proceso de carga.
+Figura: Arrastre y suelte un archivo o haga clic en Examinar.
+Una vez finalizada la carga, se crea un tema automáticamente para el archivo de medios.
+Para cargar contenido de audio y video en la Experiencia de contenido clásico
+- Vaya a Contenido.
+- Seleccione un módulo y haga clic en Cargar/Crear > Video o audio. Se abre el cuadro de diálogo Agregar video o audio.
+- Realice una de las siguientes acciones:
+- Para insertar un video web, haga clic en la pestaña Video o audio web e ingrese una dirección URL o un código para insertar.
+Figura: Ingrese una dirección URL o un código para insertar en la pestaña Video o audio web. - Para cargar un archivo de video, haga clic en la pestaña Cargar y realice una de las siguientes acciones:
+Figura: Arrastre y suelte un archivo o busque en la pestaña Cargar.- Arrastre y suelte el archivo.
+- Haga clic en Examinar… para cargar.
+- Cuando la carga esté completa, haga clic en Guardar.
+Se agrega un nuevo tema de audio y video al módulo seleccionado.
+Editar contenido de video
+Puede editar el contenido de video para cambiar el título, cambiar a otro archivo de video, ajustar la velocidad de reproducción predeterminada del video y cambiar la dirección URL de origen o el código para insertar de video o audio web.
+Nota: En este tema, se explica cómo editar archivos de video cargados desde la Experiencia de contenido clásico y la Experiencia de contenido nuevo (Lecciones). D2L recomienda usar la experiencia de escritorio cuando se editen videos.
+Según el formato de archivo de los archivos de audio y video, es posible que no se reproduzcan en un navegador web de forma predeterminada. Todos los archivos de audio y video cargados se transcodifican solo cuando es necesario. Todos los archivos MP3 y videos MP4 se guardan en su forma original porque pueden reproducirse en un navegador sin transcodificación. Otros archivos, como WMV y AVI, que no se reproducirían de forma predeterminada, se siguen transcodificando automáticamente al cargarlos. La opción Optimizar para la transmisión en la herramienta de edición les permite a los usuarios que desean transcodificar manualmente las versiones originales de los archivos, por ejemplo, activar la transmisión de varias velocidades de bits.
+Importante: Solo puede editar un video si es el propietario del archivo de video. Comuníquese con su administrador para obtener más información sobre la transferencia de la propiedad.
+Para editar contenido de video en la Experiencia de contenido clásico
+- Ubique y abra un video.
+- En el video, haga clic en Editar video. Se abre el cuadro de diálogo Actualizar video o audio.
+Figura: Aparece el cuadro de diálogo Actualizar video o audio después de hacer clic en Editar video.
+- En la pestaña Cargar, realice una de las siguientes acciones:
+- Edite el Título de su video.
+- Haga clic en Cambiar archivo para buscar en su computadora y cargar un nuevo video a fin de reemplazar el video existente.
+- Seleccione Notificar a los estudiantes que el contenido cambió si lo desea.
+- Haga clic en Edición avanzada para ver más opciones de edición. Consulte el encabezado Usar edición avanzada para editar contenido de audio y video para obtener más detalles.
+- Si está utilizando un video web, en la pestaña Video o audio web, realice cualquiera de las siguientes acciones:
+- Ingrese una dirección URL o un código para insertar actualizados. Haga clic en Vista previa para revisar el video actualizado.
+- Haga clic en Actualizar para guardar los cambios.
+Editó y guardó su video con el Reproductor multimedia en la Experiencia de contenido clásico.
+Para editar contenido de video desde la Experiencia de contenido nuevo (Lecciones)
+- En Contenido, vaya a un módulo que contenga un video.
+- Haga clic en el video para abrirlo.
+- Haga clic en Opciones (…) > Editar.
+Figura: Haga clic en Opciones y, a continuación, haga clic en Editar
+Figura: Actualice su video en la página de edición.
+- Personalice las siguientes opciones:
+- Edite el Nombre del video.
+- Establezca una Fecha de vencimiento para el video.
+- En Disponibilidad y fechas, establezca una Fecha de inicio y una Fecha final para la disponibilidad del video.
+- Haga clic para alternar el video como Visible u Oculto.
+- Haga clic en el ícono Configuración (engranaje) para establecer la velocidad de reproducción predeterminada del video.
+- Haga clic en Edición avanzada para ver más opciones de edición. Consulte el tema Usar edición avanzada para editar contenido de video para obtener más detalles.
+- Haga clic en Guardar y cerrar.
+Editó y guardó su video con el Reproductor multimedia en la Experiencia de contenido nuevo (Lecciones).
+Utilice Edición avanzada para editar contenido de audio y video
+También puede acceder a las opciones de Edición avanzada cuando edita el contenido de audio y video. Puede acceder a Edición avanzada desde la Experiencia de contenido clásico o la Experiencia de contenido nuevo (Lecciones).
+Para editar su contenido con la Edición avanzada
+- En el cuadro de diálogo Actualizar video o audio en la Experiencia de contenido clásico o la página Editar en la Experiencia de contenido nuevo (Lecciones), haga clic en Edición avanzada.
+Figura: Haga clic en Edición avanzada en Contenido clásico.
+Figura: Haga clic en Edición avanzada en la Nueva Experiencia de Contenido (Lecciones).
+- En el cuadro de diálogo Edición avanzada, personalice cualquiera de las siguientes opciones:
+Figura: Personalice su video en el cuadro de diálogo Edición avanzada.- Para optimizar la calidad de video para la transmisión, haga clic en Optimizar para la transmisión.
+- En la pestaña Tabla de contenido, escriba un Título de capítulo y haga clic en + para agregarlo.
+Figura: Agregue títulos de capítulos a su video en la pestaña Tabla de contenido.
+Nota: Los títulos de los capítulos aparecen arriba del código de tiempo cuando un usuario se desplaza por la línea de tiempo.
+- Para generar o cargar subtítulos, haga clic en la pestaña Subtítulos y realice una de las siguientes acciones:
+- Haga clic en el menú desplegable Inglés (Estados Unidos) para seleccionar el idioma predeterminado de su video.
+- Para generar automáticamente subtítulos, haga clic en Generación automática.
+Importante: El inglés (Estados Unidos) es el idioma predeterminado de los subtítulos generados automáticamente. Si selecciona un idioma diferente y genera automáticamente los subtítulos, debe seleccionar de forma explícita ese idioma para ver ese subtítulo. De lo contrario, un video mostrará automáticamente el inglés (Estados Unidos) como predeterminado e indicará que no hay subtítulos generados en inglés.
+- Para cargar un archivo de subtítulos, haga clic en Cargar.
+- En Editor de línea de tiempo, puede realizar cualquiera de las siguientes acciones:
+Figura: Edite su video en el Editor de línea de tiempo.- Haga clic en el ícono de flecha y, luego, haga clic en la línea de tiempo y arrástrela para moverse a un punto específico del video.
+- Para crear una sección o un bloque en la línea de tiempo, haga clic en el ícono de línea ( | ) y haga lo siguiente:
+- Haga clic en la línea de tiempo para colocar un marcador en un punto de inicio o “entrada”.
+- Haga clic en la línea de tiempo nuevamente para colocar un marcador en un punto final o “de salida”.
+- Para cortar una sección del video, haga clic en el ícono Tijeras y haga clic en una sección con un punto de entrada y salida.
+- Si desea recuperar una versión anterior de sus ediciones, haga clic en la fecha en la parte superior del cuadro de diálogo para seleccionar una versión anterior.
+Nota: La última versión guardada aparece donde se usa el archivo en Brightspace.
+- Cuando haya completado todas las ediciones, haga clic en Guardar borrador o en Finalizar para guardar el video anterior.
+Editó y guardó su video mediante la Edición avanzada.
+Localizar y ver contenido en el Reproductor multimedia
+Puede acceder al contenido de audio y video y editarlo desde la Experiencia de contenido clásico o la Experiencia de contenido nuevo (Lecciones).
+Para ver contenido en el Reproductor multimedia desde la Experiencia de contenido nuevo
+- Vaya a Contenido.
+- Haga clic para expandir la lección que contiene un video.
+Figura: Haga clic en un video de una de sus lecciones.
+- Haga clic para abrir el video en el Reproductor multimedia y reproducir su video.
+- Si lo desea, haga clic en el ícono Configuración (engranaje) y realice cualquiera de las siguientes acciones:
+- Ajuste la velocidad de reproducción.
+- Haga clic en Descargar para descargar el video.
+Localizó y vio un video mediante la Experiencia de contenido nuevo.
+Para ver contenido en el Reproductor multimedia desde Contenido clásico
+- Vaya a Contenido.
+- En Tabla de contenido, haga clic en un módulo que contenga un video y haga clic en el video para abrirlo.
+Figura: Haga clic en el video de un módulo de la Experiencia de Contenido Clásica para abrirlo.
+- Si lo desea, haga clic en el ícono Configuración (engranaje) y realice cualquiera de las siguientes acciones:
+- Ajuste la velocidad de reproducción.
+- Haga clic en Descargar para descargar el video.
+Figura: Haga clic en Descargar en el reproductor multimedia para descargar el video.
+Localizó y vio un video mediante la Experiencia de contenido clásico.

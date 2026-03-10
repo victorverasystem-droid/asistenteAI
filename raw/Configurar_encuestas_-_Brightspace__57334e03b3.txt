@@ -1,0 +1,119 @@
+URL: https://community.d2l.com/brightspace-es-MX/kb/articles/10807-configurar-encuestas
+TITLE: Configurar encuestas - Brightspace
+HASH: 57334e03b3f29ea1c300384db242097d5226e89736450a0786937962c77d7156
+TYPE: web
+
+Las encuestas son una excelente manera de recibir comentarios de los participantes con respecto a cualquier aspecto de su curso. Puede recopilar opiniones e información de carácter anónimo o no anónimo provenientes de los usuarios. A diferencia de los cuestionarios, las preguntas de las encuestas no necesitan respuestas correctas o incorrectas y pueden incluir preguntas de clasificación al estilo escala Likert.
+Requisitos
+Para usar la herramienta Encuestas, se requiere lo siguiente:
+- Para acceder y usar la herramienta Encuestas, debe tener los permisos de Encuesta requeridos aplicados a su rol. Solo el administrador de su organización puede otorgar estos permisos.
+Ejemplos de encuestas
+Comience el curso con una encuesta informal
+En una encuesta informal, se puede preguntar sobre los antecedentes, la formación previa y los intereses de los asistentes del curso. Existe la opción de hacer las respuestas anónimas, o bien compartirlas, de manera que los estudiantes puedan analizar las respuestas de sus compañeros de clase. Puede utilizar una variedad de tipos de preguntas para esta divertida encuesta, entre ellos:
+- Respuesta corta
+- Varias respuestas cortas
+- Selección múltiple
+- Opción múltiple
+Recopile evaluaciones informales del curso o de mitad de año
+Puede utilizar una combinación de diferentes tipos de preguntas que se encuentran con frecuencia en evaluaciones o revisiones, entre ellos:
+- Escala Likert
+- Respuesta escrita
+- Varias respuestas cortas
+Pregunte sobre los estilos de aprendizaje de las personas y las preferencias de entrega de contenido
+Puede utilizar diversos tipos de preguntas para conocer el estilo de aprendizaje y la preferencia de entrega, entre ellos:
+- Opción múltiple
+- Selección múltiple
+- Respuesta escrita o respuesta corta
+Determine qué recursos de aprendizaje fueron los más útiles para lograr los objetivos de aprendizaje
+Puede utilizar los siguientes tipos de preguntas para determinar el tipo de recursos de aprendizaje más útil:
+- Selección múltiple
+- Opción múltiple
+- Ordenar
+- Escala Likert
+Plantee preguntas abiertas para determinar las áreas de confusión de los estudiantes
+Puede utilizar tipos de preguntas de respuesta corta y escrita para esta situación.
+Establezca un juego o cuestionario de estilo “Elija su propia aventura”
+Es posible presentar el curso de una manera divertida o reforzar la mensajería del curso a través de este tipo de actividad de encuesta. Para lograr esto, puede usar la ramificación de encuestas con los siguientes tipos de preguntas:
+- Opción múltiple
+- Verdadero o falso
+Configurar una encuesta
+Cree encuestas y utilice las herramientas de estadísticas para controlar las tendencias del curso actual, pedir opiniones y evaluar la satisfacción del usuario.
+Para configurar una encuesta
+- Vaya a Encuestas.
+- En la pestaña Administrar encuestas, haga clic en Nueva encuesta.
+- Ingrese un Nombre y defina la configuración adicional de su encuesta.
+- Para agregar preguntas a la encuesta, haga clic en Agregar/editar preguntas.
+- Haga clic en Nuevo y seleccione el tipo de pregunta o elemento de información que desea crear.
+- Para compartir preguntas entre Autoevaluaciones, Cuestionarios y Encuestas en la biblioteca de preguntas, haga clic en Guardar y cerrar para salir de la encuesta. En la página Administrar encuestas, en la navegación de herramienta, haga clic en Biblioteca de preguntas.
+- Haga clic en Edición de preguntas lista.
+Creó una encuesta.
+Configurar una encuesta con la Biblioteca de preguntas
+Si creó preguntas para su encuesta fuera de la encuesta, puede agregar preguntas de la biblioteca de preguntas a su encuesta.
+Para configurar una encuesta con la Biblioteca de preguntas
+- En la página Administrar encuestas, haga clic en el nombre de la encuesta.
+- Haga clic en Agregar/editar preguntas > Importar.
+- Para importar preguntas de la Biblioteca de preguntas, en la lista desplegable Origen de la importación, seleccione De una colección existente.
+- En la lista desplegable Colección de origen, seleccione Biblioteca de preguntas.
+- Para mostrar todas las preguntas disponibles, seleccione Raíz de la colección en la lista desplegable Sección de origen.
+- En el área Colección de origen, seleccione las preguntas que desea importar a la encuesta.
+- Haga clic en Guardar.
+Importó preguntas a su encuesta desde la Biblioteca de preguntas.
+Establecer restricciones de la encuesta
+En la pestaña Restricciones de la encuesta, puede crear condiciones de publicación nuevas o adjuntar condiciones de publicación existentes si desea que una encuesta esté disponible para los usuarios solamente después de que estos hayan completado otras tareas específicas. Entre los ejemplos de condiciones de publicación se incluyen la realización de un envío de asignaciones, la puntuación de una calificación especificada en un cuestionario en particular, la realización de un envío de autoevaluaciones y la inscripción en una sección determinada. También puede utilizar Condiciones de publicación para que la encuesta esté disponible solo para un determinado rol. Puede editar y cambiar las condiciones de publicación; para ello, haga clic en el ícono Quitar o en Quitar todas las condiciones.
+Si decide que la encuesta esté disponible con ciertas condiciones de publicación, también puede utilizar la herramienta Agentes inteligentes para informar a los estudiantes que la encuesta estará disponible una vez que cumplan con las condiciones de publicación aplicables.
+En el área Disponibilidad, utilice Ocultar a los usuarios para controlar la visibilidad de una encuesta.
+Controlar las respuestas del usuario en una encuesta
+Es posible definir el tipo de respuesta para especificar la cantidad de intentos para responder la encuesta que los usuarios tienen permitidos.
+Para controlar las respuestas en una encuesta
+- Vaya a Encuestas.
+- En la página Encuestas, haga clic en el nombre de la encuesta.
+- Haga clic en la pestaña Restricciones.
+- En el área Respuestas del usuario, seleccione una de las siguientes opciones en la lista desplegable Intentos permitidos:
+- Ilimitado: los usuarios pueden responder y enviar una encuesta cuantas veces lo deseen.
+- Intento único editable: permite a los usuarios un solo intento para responder la encuesta. Pueden volver a acceder y editar las respuestas siempre y cuando la encuesta se encuentre todavía disponible.
+- Limitado: define un número de intentos permitidos para resolver la encuesta.
+Tiene respuestas controladas a su encuesta.
+Establecer un rango de fechas para una encuesta
+Puede especificar un rango de fechas en el que su encuesta esté disponible para todos los usuarios. También puede agregar encuestas asociadas a una fecha al calendario de su curso.
+Para establecer un rango de fechas para su encuesta
+- Vaya a Encuestas.
+- En la pestaña Administrar encuestas, haga clic en la encuesta.
+- Haga clic en la pestaña Restricciones.
+- En el área Disponibilidad, seleccione Tiene fecha de inicio o Tiene fecha final, y especifique las fechas y horas en las que los usuarios pueden acceder a la encuesta.
+- Para mostrar la encuesta en la herramienta Calendario, asegúrese de que la opción Ocultar a los usuarios no esté marcada y seleccione Mostrar en calendario.
+- Haga clic en Guardar y cerrar.
+Estableció un intervalo de fechas para su encuesta.
+Crear acceso especial a una encuesta
+Puede asignar a usuarios específicos un conjunto diferente de fechas de disponibilidad de la encuesta. Con las propiedades de acceso especial puede incrementar el límite de tiempo para los usuarios con necesidades especiales y permitir que determinados usuarios tengan fechas de inicio y final diferentes.
+Para crear acceso especial a una encuesta
+- Vaya a Encuestas.
+- En la página Encuestas, haga clic en el nombre de la encuesta.
+- Haga clic en la pestaña Restricciones.
+- Realice una de las siguientes acciones:
+- Para establecer un acceso especial para los usuarios seleccionados, seleccione Permitir que los usuarios seleccionados tengan acceso especial a esta encuesta.
+- Para restringir la encuesta solo a los usuarios con acceso especial, seleccione Permitir que solo los usuarios con acceso especial vean esta encuesta.
+- Haga clic en Agregar usuarios a acceso especial.
+- Busque los usuarios y marque la casilla de selección ubicada junto a los nombres de los usuarios a quienes desea asignar acceso especial.
+- Haga clic en Agregar acceso especial.
+Estableció un acceso especial para su encuesta.
+Ramificación de la encuesta
+Cuando se utiliza la ramificación, las preguntas de la encuesta se presentan de a una, cada una en una página separada. Los saltos de página se insertan entre cada pregunta. La ramificación de la encuesta permite que elija qué pregunta aparecerá después de otra en función de la respuesta del usuario.
+- En la barra de navegación, haga clic en Encuestas.
+- En la página Administrar encuestas, haga clic en la encuesta a la que desea agregar una ramificación.
+- En el área Preguntas de la encuesta, haga clic en Asistente de ramificación. El asistente muestra una lista de las preguntas de su encuesta y sus respectivos tipos. Se muestran las respuestas de las preguntas de elección múltiple y de verdadero o falso. Tiene la opción de omitir preguntas o finalizar la encuesta según la respuesta de una pregunta de elección múltiple o de verdadero o falso.
+- Seleccione las respuestas desde las que desea crear una ramificación y complete la información de ramificación correspondiente.
+- Haga clic en Guardar.
+Video: Cómo configurar una encuesta
+Configurar una encuesta como activa
+- Vaya a Encuestas.
+- En la pestaña Administrar encuestas, haga clic en el nombre de la encuesta.
+- Haga clic en la pestaña Restricciones.
+- En el área Fechas y restricciones, seleccione Ocultar a los usuarios para establecer la visibilidad.
+Método alternativo:
+- Vaya a Encuestas.
+- En la página Administrar cuestionarios, abra el menú contextual de un cuestionario.
+- Haga clic en Ocultar a los usuarios para evitar que los estudiantes vean la encuesta.
+Notificar a los participantes sobre una encuesta disponible
+Puede notificar a los participantes que una encuesta está disponible de una de las siguientes maneras:
+- En la página Editar encuesta, haga clic en Invitar participantes para enviar una notificación sobre la encuesta directamente a una dirección de correo electrónico externa del usuario. El cuerpo del correo electrónico tiene un límite de 65,535 caracteres.
+- En el componente Noticias, cree un elemento de Noticias en el que se indique la disponibilidad de la encuesta en la página de inicio del curso y los enlaces a la encuesta a través de un enlace rápido.

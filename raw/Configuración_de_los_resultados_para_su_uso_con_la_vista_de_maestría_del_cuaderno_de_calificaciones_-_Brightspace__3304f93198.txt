@@ -1,0 +1,46 @@
+URL: https://community.d2l.com/brightspace-es-MX/kb/articles/10750-configuracion-de-los-resultados-para-su-uso-con-la-vista-de-maestria-del-cuaderno-de-calificaciones
+TITLE: Configuración de los resultados para su uso con la vista de maestría del cuaderno de calificaciones - Brightspace
+HASH: 3304f9319897f37b59a36e262567cd70ccb8fbf741b80bbb94b0a39b8ed4bf90
+TYPE: web
+
+La Visualización de Dominio de Aprendizaje del cuaderno de calificaciones proporciona un resumen de los datos de las evaluaciones recopilados por la herramienta de resultados. Las siguientes características de resultados afectan el contenido que se muestra en la Visualización de Dominio de Aprendizaje.
+Escala de logros
+La Visualización de Dominio de Aprendizaje utiliza las etiquetas de nivel de logro y los colores que usted defina en su escala de logros. Para usar la herramienta de resultados, los administradores deberán definir una escala de logros y establecerla como predeterminada para la organización.
+Crear una nueva escala
+Cuando crea una nueva escala, puede determinar el número de niveles deseados (dos como mínimo), establecer los nombres para los niveles, asociar un color a los niveles e identificar los porcentajes de umbral entre los niveles.
+Figura: Página Editar escala.
+Después de que creó una escala de logros, algunos ajustes no se pueden cambiar. No puede cambiar lo siguiente:
+- La cantidad de niveles en la escala;
+- La opción para usar umbrales de porcentaje;
+- Los valores de porcentaje para cada umbral.
+Si necesita ajustar estos valores, cree una nueva escala y establézcala como el nuevo valor predeterminado.
+Consejo: Cuando define los umbrales de porcentaje en los niveles de escala, se proponen niveles de logro sugeridos para las evaluaciones de rúbrica y los envíos de cuestionarios. Si utiliza una escala que no tiene umbrales de porcentaje definidos, como la predeterminada, deberá asignar manualmente las rúbricas a los niveles de la escala de logros para poder obtener sugerencias de logro de resultados. Deberá evaluar manualmente los envíos de cuestionarios para determinar el nivel de logro para los resultados alineados. Si desea obtener información adicional relacionada con las escalas de logro, consulte las Prácticas recomendadas para el uso de la Visualización de Dominio de Aprendizaje del cuaderno de calificaciones.
+Nota: Si intenta cambiar la escala predeterminada, aparece un mensaje de alerta en la selección de la escala de logros predeterminada que le avisa que todas las evaluaciones de la escala anterior no se incluirán en los niveles de logros generales sugeridos. Las evaluaciones tampoco se incluyen en la línea de tendencia de evidencias de las evaluaciones de los estudiantes en la página Progreso de resultados ni en la página Evaluación manual de la Visualización de Dominio de Aprendizaje. Por lo general, no se recomienda seleccionar una escala de logros predeterminada diferente por estos motivos.
+Información adicional:
+Seleccionar una escala de logro para un curso
+Para evaluar los logros de los estudiantes relacionados con los resultados de aprendizaje, puede seleccionar las escalas de logro adecuadas dentro de una oferta de cursos.
+La etiqueta Org predeterminada se muestra junto a la escala de logro actualmente seleccionada como la escala predeterminada de la organización.
+Cuando se crean nuevos cursos, automáticamente recogen la escala predeterminada de la organización como su escala seleccionada. Si se cambia la escala predeterminada de la organización, todos los cursos existentes seguirán haciendo referencia a su escala de logro seleccionada o a la escala que fue la escala predeterminada de la organización cuando se crearon. Solo los cursos creados después de que se seleccione la nueva escala predeterminada de la organización se referirán automáticamente al nuevo valor predeterminado de la organización.
+Figura: Puede ver la etiqueta Org predeterminada junto a la escala de logro en la página Resultados de este curso.
+Para seleccionar una escala de logros
+- En el menú Administración del curso, haga clic en Resultados (Estándares).
+- Verifique la información de la escala de logro actualmente seleccionada en la página Resultados de este curso (Estándares en este curso).
+- Haga clic en el botón Editar configuración para elegir una escala de logros alternativa para el curso.
+Figura: Haga clic en Editar configuración en la página Resultados de este curso para actualizar los detalles de la escala de logros.
+- Seleccione una nueva escala de logro para su curso.
+Figura: Seleccione la escala de logros deseada en la página Editar configuración.
+Nota: Puede seleccionar una escala de logro alternativa de un curso hasta que se haya evaluado la primera actividad de evaluación del estudiante. Después de que comienza una evaluación en el curso, la selección de la escala de logro se bloquea para esa oferta de cursos.
+- Haga clic en Guardar.
+La escala de logro seleccionada se aplica a todas las evaluaciones de resultados realizadas en el curso. Se utiliza para determinar el nivel sugerido de logro para las evaluaciones de actividad individual y el nivel sugerido general de logro en la pestaña Vista de maestría de Calificaciones.
+Resultados a nivel de curso
+Para habilitar la Visualización de Dominio de Aprendizaje, deberá importar o crear resultados a nivel de curso dentro de la herramienta de resultados al nivel de oferta de cursos. Luego, debe alinear los resultados con las filas de criterios de rúbrica, las asignaciones, los foros de discusión, las preguntas de cuestionario o los recursos de evidencia de Brightspace Portfolio.
+Información adicional:
+- Importar estándares mediante la herramienta Estándares en Administración del curso
+- Importar estándares mediante la nueva experiencia de contenido
+Cuando se evalúa el material enviado por los estudiantes con respecto a esas actividades de evaluación, las evaluaciones aparecen automáticamente en la Visualización de Dominio de Aprendizaje mediante la utilización del cálculo automático predeterminado.
+Nota: Puede cambiar el tipo de cálculo en la configuración de la Visualización de Dominio de Aprendizaje. Para obtener más información sobre los métodos de cálculo, consulte la Configuración de cálculo de rendimiento general.
+Si no tiene un cálculo automático activado, los instructores pueden evaluar manualmente el nivel de rendimiento general en la página de Evaluación de la Visualización de Dominio de Aprendizaje.
+Nota: Si aún no se ha dado a conocer una evaluación a un estudiante, esa evaluación no se incluye en el cálculo del nivel de logro general sugerido y tampoco aparece en la línea de tendencia de evidencia del historial de evaluaciones relacionadas con un resultado.
+Cuando se eliminan pruebas en Portfolio, la Visualización de Dominio de Aprendizaje determina si se deben utilizar las pruebas en los cálculos de los logros generales del estudiante de acuerdo con los siguientes criterios:
+- Si se eliminan las pruebas (es decir, un estudiante o instructor las borró, pero el instructor las puede restaurar desde la Vista del instructor), se las incluirá en los cálculos generales de los logros.
+- Si las pruebas se eliminan de forma definitiva (es decir, se borran de forma permanente y no se pueden restaurar), no se las incluirá en los cálculos generales de los logros.

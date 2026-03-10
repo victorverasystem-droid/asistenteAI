@@ -1,0 +1,82 @@
+URL: https://community.d2l.com/brightspace-es-MX/kb/articles/15182-administrar-calificaciones-en-la-herramienta-de-calificaciones
+TITLE: Administrar calificaciones en la herramienta de calificaciones - Brightspace
+HASH: d3d408a927575502d05a5405e1d7894e5442dc651a75f6c0ba48781965c78f3f
+TYPE: web
+
+La pestaña Administrar calificaciones le permite crear y editar elementos de calificación y categorías de calificación, reordenar su cuaderno de calificaciones y más.
+En este video, se explica cómo administrar las calificaciones en Brightspace.
+Aprenderá a acceder a la herramienta Calificaciones, crear categorías de calificación y elementos de calificación y utilizar la edición por lotes para organizar eficientemente su cuaderno de calificaciones.
+Navegar a Administrar calificaciones
+Desde la herramienta Calificaciones, haga clic en la pestaña Administrar calificaciones.
+Crear una Categoría de calificación
+Puede crear una categoría de calificación con un nombre y una descripción para organizar y agrupar los elementos de calificación relacionados en secciones de su cuaderno de calificaciones.
+Para crear una categoría de calificación
+-
+En el área Administrar calificaciones, haga clic en Nuevo > Categoría.
+-
+Ingrese los detalles de la Categoría de calificación, incluidos:
+-
+Ingrese la Ponderación de calificación y configure los ajustes de distribución, incluidos:
+-
+La ponderación (porcentaje) que desea que la categoría contribuya a la calificación final, con elementos de calificación dentro de la categoría que contribuyen a esta ponderación (1)
+-
+La distribución de cómo los elementos de calificación dentro de la categoría contribuyen al total de la categoría. Se incluyen las siguientes opciones:
+- Asignar ponderación manualmente a los elementos de la categoría.
+- Distribuir ponderaciones por puntos entre todos los elementos de la categoría
+- Distribuir la ponderación uniformemente en todos los elementos, con la opción de anular los elementos de calificación más altos o bajos del cálculo total. (2)
+- Seleccione Opciones de visualización para la categoría de calificación.
+- Haga clic en Guardar y cerrar para volver a la página Administrar calificaciones, o haga clic en Guardar y nuevo para crear categorías de calificación adicionales.
+Nota: Para obtener más información, consulte Establecer restricciones de fecha para calificaciones y Establecer condiciones de publicación para calificaciones.
+Crear un elemento de calificación
+Puede crear un elemento de calificación para representar todo el trabajo con el que desea evaluar a los usuarios en un curso.
+Nota: Las evaluaciones que creó en otras áreas de Brightspace, como Contenido o Asignaciones, pueden ya aparecer en Calificaciones.
+Para crear un nuevo elemento de calificación
+-
+En Calificaciones en la pestaña Administrar calificaciones, haga clic en Nuevo > Elemento.
+- Seleccione uno de los Tipos de elementos de calificación disponibles:
+- Numérico: califique a los estudiantes mediante la asignación de un valor respecto de una cantidad especificada de puntos.
+- Cuadro de selección: califique a los estudiantes mediante el nivel del Esquema de calificaciones que mejor corresponda con sus logros.
+- Aprobado/reprobado: califique a los estudiantes mediante un esquema de calificaciones simple de aprobación/reprobación.
+- Fórmula: califique automáticamente a los estudiantes mediante una fórmula personalizada basada en los logros sobre otros elementos de calificación.
+- Calculado: calcule los logros acumulativos de los estudiantes en varios elementos de calificación.
+- Texto: proporcione comentarios en el Cuaderno de calificaciones que no se calculen en la calificación final.
+- Ingrese los detalles del Elemento de calificación, incluidos:
+- Nombre (1)
+- Nombre abreviado (2)
+- Categoría (3)
+- Descripción (4)
+- Ingrese las Propiedades de calificación para el elemento de calificación, incluido lo siguiente:
+- Puntos máximos (1)
+- Ponderación (porcentaje) que desea que el elemento de calificación contribuya a la categoría o calificación final. Si un elemento de calificación está dentro de una categoría, debe especificar la ponderación como un porcentaje de la categoría, no de la calificación final. (2)
+- Puede exceder indica si desea permitir que las calificaciones de los estudiantes excedan los puntos máximos especificados para el elemento. (3)
+- Extra indica si tiene la intención de usar elementos extra. Los elementos extra no se incluyen en los puntos máximos para una categoría o calificación final: se agregan encima de la calificación calculada. Los elementos extra no pueden hacer que la calificación del estudiante supere los puntos máximos especificados, a menos que seleccione la opción Puede exceder. (4)
+- Seleccione un Esquema de calificaciones (si el esquema predeterminado no es el que desea utilizar).
+- Agregue o cree una rúbrica para asociarla al elemento de calificación.
+Nota: Para obtener más información, consulte los artículos: Esquemas de calificación en la herramienta Calificaciones y Crear una rúbrica.
+- Seleccione las Opciones de visualización apropiadas, incluidas las opciones de Vista del estudiante, las opciones de esquema y las opciones de visualización de anulación.
+- Haga clic en Guardar y cerrar o Guardar y nuevo para crear más elementos de calificación.
+Editar elementos de calificación y categorías por lotes
+Puede editar varios elementos de calificación y categorías a la vez para ahorrar tiempo y garantizar la consistencia en su cuaderno de calificaciones.
+Para editar elementos de calificación y categorías por lotes
+- En la herramienta Calificaciones, seleccione los elementos o categorías que desea editar y realice una de las siguientes acciones:
+- Haga clic en la casilla de selección junto a cada nombre de elemento o categoría o
+- Haga clic en Seleccionar todas las filas en la parte superior de la columna para seleccionar todo.
+- Haga clic en Editar por lotes para abrir la página de edición.
+- En la ventana Editar, actualice los siguientes campos según sea necesario:
+Para categorías de calificación:
+- Nombre: el nombre completo como aparece en Calificaciones.
+- Nombre abreviado: etiqueta abreviada que aparece en determinadas áreas del curso.
+- Ponderación: la contribución porcentual de esta categoría hacia la calificación final.
+- Puede exceder: permite puntajes más altos que los puntos máximos del elemento.
+- Excluir de la calificación final: elimina todos los elementos de la categoría de los cálculos de calificación final.
+Para los elementos de calificación:
+- Nombre: nombre completo del elemento de calificación
+- Nombre abreviado: etiqueta reducida utilizada en áreas de visualización limitadas.
+- Puntos máximos: el total de puntos que un estudiante puede ganar por el elemento.
+- Ponderación: la contribución porcentual del elemento a la calificación final (si la categoría no está distribuida uniformemente).
+- Extra: marca el elemento como un extra opcional que puede aumentar la calificación final de un estudiante.
+- Puede exceder: permite puntajes más altos que los puntos máximos del elemento.
+- Excluir de la calificación final: elimina el elemento de los cálculos de calificación final.
+- Esquema de calificaciones: la escala de calificación utilizada para convertir puntajes numéricos (por ejemplo, calificaciones por letras o porcentajes).
+- Categoría: la categoría a la que pertenece este elemento.
+- Cuando termine de realizar cambios, haga clic en Guardar.

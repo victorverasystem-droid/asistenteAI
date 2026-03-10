@@ -1,0 +1,49 @@
+URL: https://community.d2l.com/brightspace-es-MX/kb/articles/10863-acerca-de-portafolio
+TITLE: Acerca de Portafolio - Brightspace
+HASH: dbdb82ae458f24308a64ef700cee9d6e233268e876151c5d8c383450fa62636a
+TYPE: web
+
+El Portafolio de Brightspace es una herramienta que permite a los estudiantes de todas las edades capturar y compartir de forma independiente las evidencias del aprendizaje. Los estudiantes pueden mantener su portafolio digital año tras año, a medida que avanzan en su viaje de aprendizaje.
+Con Brightspace Portfolio, puede realizar lo siguiente:
+- Crear portafolios digitales centrados en el estudiante
+- Utilizar los modos de la aplicación móvil adecuados a la edad para recoger las pruebas del aprendizaje
+- Documentar el proceso y el crecimiento
+- Proporcionar evaluaciones formativas y comentarios en tiempo real
+- Grabar observaciones en audio y video sobre el trabajo de un estudiante
+- Utilizar el Portafolio de Brightspace año tras año para reflejar el crecimiento del estudiante y mostrar su trabajo
+- Garantizar la seguridad y privacidad de los datos del estudiante
+- Compartir las pruebas de aprendizaje con los padres y tutores utilizando Brightspace Parent & Guardian
+Nota: Brightspace Portfolio está diseñado para reemplazar el producto heredado Brightspace ePortfolio. En combinación con todas las funciones de Brightspace Core, Brightspace Portfolio proporcionará una solución completa, no solo reemplazará a Brightspace ePortfolio, sino que también mejorará toda la experiencia. Para programar una presentación de hoja de ruta con el equipo de administración de productos de D2L, comuníquese con el administrador de éxito del cliente o el administrador técnico de cuentas.
+D2L recomienda que no utilice Brightspace Portfolio y Brightspace ePortfolio en la misma oferta de cursos de forma simultánea.
+Antes de comenzar
+Un administrador configura permisos y establece variables de configuración en Brightspace Learning Environment que le permiten utilizar Brightspace Portfolio en su organización y especificar el flujo de trabajo para enviar y aprobar pruebas. Por ejemplo, en un entorno de aprendizaje de educación primaria y secundaria, las pruebas enviadas se comparten automáticamente con los instructores y requieren aprobación antes de mostrarse en los portafolios. En un entorno de educación superior o de aprendizaje corporativo, las pruebas enviadas aparecen inmediatamente en los portafolios de los estudiantes (sin proceso de aprobación). Los instructores no ven las pruebas hasta que los estudiantes las comparten explícitamente con ellos.
+Si tiene preguntas acerca de si su organización está configurada para utilizar Brightspace Portfolio o el flujo de trabajo para enviar y aprobar pruebas, comuníquese con el administrador de Brightspace.
+Tenga en cuenta que un administrador puede instalar la aplicación Brightspace Portfolio en dispositivos que se comparten entre varias aulas.
+Requisitos de la plataforma Brightspace Portfolio
+Brightspace Portfolio se puede descargar de Google Play™ o Apple App Store® en todo el mundo. Por lo general, la aplicación se lanza a principios de mes y, en ocasiones, a mediados de mes, si se encuentran problemas. Según cómo esté configurado su dispositivo, la aplicación se actualizará de forma automática o, posiblemente, tendrá que buscar versiones nuevas de manera manual.
+Compatibilidad con regiones e idiomas
+Brightspace Portfolio es compatible en las siguientes regiones geográficas:
+- EE. UU.
+- Canadá
+- Europa, Oriente Medio y África (EMEA)
+- Asia Pacífico (Singapur y Australia)
+Brightspace Portfolio está disponible para su uso en los siguientes idiomas:
+- Inglés (EE. UU.)
+- Francés (Canadá)
+- Español (América Latina)
+Nota: La aplicación Brightspace Portfolio refleja la preferencia de idioma seleccionada en el dispositivo del usuario, no lo que está configurado en Brightspace.
+Compatibilidad con sistemas operativos
+Brightspace Portfolio es compatible en tabletas y dispositivos móviles con los siguientes sistemas operativos:
+- AndroidTM 5.0 o versiones posteriores en tabletas o teléfonos
+- iOS® 10.0 o versiones posteriores en iPhone® y iPad®
+Tipos de evidencia admitidos en Brightspace Portfolio
+Puede cargar o ver las pruebas que estén en PDF, o que se puedan convertir a ese formato, en la aplicación web de Brightspace Portfolio.
+Tipos de archivo admitidos
+- Video: SWF, MPG, MPEG, RM, MP3, MP4, M4V, M4A, AVI, WAV, RAM, ASF, MOV, RA
+Nota: No hay restricciones para el tamaño de los videos; sin embargo, está naturalmente limitado según la capacidad y el ancho de banda del dispositivo.
+- Imágenes: JPG, JPEG, PNG, GIF, BMP, TIF, TIFF
+- Documentos de texto: RTF, PPT, PPS, PDF, DOC, DOCX, PPTX, XML, XLS, TXT, WPD, XLSX, XLS
+- Documentos Web: HTM, HTML, MHT, MHTML
+- Enlaces externos a Google Drive
+- Enlaces externos a Office 365
+Cuando se descarga la evidencia de imágenes para verla, se realiza en el tipo de archivo y la resolución originales. Por ejemplo, si un estudiante carga un archivo JPEG con resolución completa, la imagen puede ajustar su tamaño y resolución en el visor del Portafolio; sin embargo, un instructor que descargue la imagen lo hace en archivo JPEG de resolución completa.
