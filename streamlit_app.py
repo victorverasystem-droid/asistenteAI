@@ -245,11 +245,6 @@ def _make_settings(rag, **overrides):
         llm_model    = st.session_state.get("llm_model", "gpt-4o-mini"),
         top_k        = st.session_state.get("top_k", 5),
         min_sim      = st.session_state.get("min_sim", 0.35),
-        # Mitigaciones del análisis de interpretabilidad
-        enable_abstention    = st.session_state.get("enable_abstention", True),
-        abstention_threshold = st.session_state.get("abstention_threshold", 0.855),
-        enable_calibration   = st.session_state.get("enable_calibration", True),
-        show_detected_intent = st.session_state.get("show_detected_intent", True),
     )
     kw.update(overrides)
     return rag.Settings(**kw)
@@ -285,42 +280,6 @@ with st.sidebar:
     st.markdown("**Recuperación**")
     st.slider("Top-K fuentes", 1, 10, 5, key="top_k")
     st.slider("Similitud mínima", 0.10, 0.90, 0.35, 0.05, key="min_sim")
-
-    st.divider()
-    st.markdown("**🛡️ Mitigaciones (Reporte Interpretabilidad)**")
-
-    with st.expander("Zona de abstención", expanded=False):
-        st.toggle(
-            "Activar abstención",
-            value=True,
-            key="enable_abstention",
-            help="Deriva a humano si confianza calibrada < umbral. Mitiga Riesgo 3: ausencia de escalamiento.",
-        )
-        st.slider(
-            "Umbral de abstención",
-            min_value=0.50, max_value=0.95, value=0.855, step=0.005,
-            key="abstention_threshold",
-            help="Umbral empírico calculado sobre dataset n=400 (≈15% casos dudosos). Ver Sección 5.1.",
-        )
-
-    with st.expander("Calibración del score", expanded=False):
-        st.toggle(
-            "Activar calibración isotónica",
-            value=True,
-            key="enable_calibration",
-            help=(
-                "Transforma el score bruto a probabilidad real de acierto. "
-                "Mitiga Riesgo 1: confianza no discriminativa (gap correctas/incorrectas = 0.001 sin calibrar)."
-            ),
-        )
-        st.caption("Mapa de calibración configurable en Settings.calibration_map del módulo RAG.")
-
-    st.toggle(
-        "Mostrar intent detectado",
-        value=True,
-        key="show_detected_intent",
-        help="Muestra al usuario la intención detectada en cada respuesta. Cumple principio de explicabilidad OECD.",
-    )
 
     st.divider()
     st.markdown("**Subir a `raw/`**")
@@ -426,35 +385,12 @@ with tab_chat:
         if msg["role"] == "user":
             st.markdown(f'<div class="bubble-user">{msg["content"]}</div>', unsafe_allow_html=True)
         else:
-            conf       = msg.get("confidence", 0)
-            raw_conf   = msg.get("raw_confidence", conf)
-            routed     = msg.get("routed_to_human", False)
-            abstention = msg.get("abstention_triggered", False)
-            lat        = msg.get("latency_s", 0)
-            intent     = msg.get("detected_intent", "")
-            intent_sim = msg.get("detected_intent_sim", 0.0)
-
-            if abstention:
-                badge = '<span class="badge-routed">⚠️ Abstención — derivado a soporte</span>'
-            elif routed:
-                badge = '<span class="badge-routed">↗ Derivado a humano</span>'
-            else:
-                badge = '<span class="badge-ok">✓ Respondido</span>'
-
-            conf_display = f"{conf:.0%}"
-            calibration_note = ""
-            if raw_conf and abs(raw_conf - conf) > 0.01:
-                calibration_note = f' <span style="color:#6e7681;font-size:0.75rem;">(bruto {raw_conf:.0%} → calibrado {conf:.0%})</span>'
-
-            intent_display = ""
-            if intent:
-                intent_display = f' &nbsp; 🏷️ <span style="color:#8892a0;font-size:0.79rem;">{intent} ({intent_sim:.2f})</span>'
-
-            st.markdown(
-                f'{badge} &nbsp; confianza <b>{conf_display}</b>{calibration_note}'
-                f' &nbsp; ⏱ {lat:.2f}s{intent_display}',
-                unsafe_allow_html=True,
-            )
+            conf   = msg.get("confidence", 0)
+            routed = msg.get("routed_to_human", False)
+            lat    = msg.get("latency_s", 0)
+            badge  = '<span class="badge-routed">↗ Derivado a humano</span>' if routed \
+                     else '<span class="badge-ok">✓ Respondido</span>'
+            st.markdown(f'{badge} &nbsp; confianza <b>{conf:.0%}</b> &nbsp; ⏱ {lat:.2f}s', unsafe_allow_html=True)
             st.markdown(f'<div class="answer-box">{msg["content"]}</div>', unsafe_allow_html=True)
 
             if msg.get("sources"):
@@ -490,17 +426,13 @@ with tab_chat:
                                         st.session_state.faiss_index,
                                         st.session_state.meta)
                 st.session_state.messages.append({
-                    "role":                "assistant",
-                    "content":             result["answer"],
-                    "confidence":          result["confidence"],
-                    "raw_confidence":      result.get("raw_confidence", result["confidence"]),
-                    "abstention_triggered":result.get("abstention_triggered", False),
-                    "routed_to_human":     result["routed_to_human"],
-                    "latency_s":           result["latency_s"],
-                    "has_citations":       result["has_citations"],
-                    "sources":             result["sources"],
-                    "detected_intent":     result.get("detected_intent", ""),
-                    "detected_intent_sim": result.get("detected_intent_sim", 0.0),
+                    "role":            "assistant",
+                    "content":         result["answer"],
+                    "confidence":      result["confidence"],
+                    "routed_to_human": result["routed_to_human"],
+                    "latency_s":       result["latency_s"],
+                    "has_citations":   result["has_citations"],
+                    "sources":         result["sources"],
                 })
             except Exception as e:
                 st.error(f"Error en RAG: {e}")
@@ -568,44 +500,24 @@ with tab_eval:
     if st.session_state.eval_metrics:
         m = st.session_state.eval_metrics
         st.markdown("#### Métricas")
-        cols = st.columns(8)
+        cols = st.columns(7)
         cards = [
-            ("Intent Acc",    f"{m.get('intent_accuracy',0):.1%}" if m.get('intent_accuracy') is not None else "—"),
+            ("Intent Acc",    f"{m.get('intent_accuracy',0):.1%}"),
             ("Confianza",     f"{m.get('mean_confidence',0):.1%}"),
-            ("Conf. Bruta",   f"{m.get('mean_confidence_raw',0):.1%}" if m.get('mean_confidence_raw') is not None else "—"),
             ("Citas",         f"{m.get('citation_rate',0):.1%}"),
             ("Derivados",     f"{m.get('routed_rate',0):.1%}"),
-            ("Abstenciones",  f"{m.get('abstention_rate',0):.1%}" if m.get('abstention_rate') is not None else "—"),
             ("Lat p50",       f"{m.get('p50_latency_s',0):.3f}s"),
             ("Lat p95",       f"{m.get('p95_latency_s',0):.3f}s"),
+            ("Evaluados",     str(m.get('n_intent_labeled',0))),
         ]
         for col, (lbl, val) in zip(cols, cards):
             col.metric(lbl, val)
 
-        # ── Advertencia de confianza no discriminativa (Riesgo 1) ─────
-        gap  = m.get("confidence_discrimination_gap")
-        warn = m.get("confidence_discrimination_warning")
-        if warn is True:
-            st.error(
-                f"⚠️ **Riesgo 1 — Confianza no discriminativa:** gap correctas/incorrectas = "
-                f"**{gap:+.4f}** (< 0.01). El score de confianza **no es fiable** como indicador "
-                f"de acierto. Se recomienda activar la **calibración isotónica** en el panel lateral."
-            )
-        elif gap is not None:
-            st.success(
-                f"✅ Gap de discriminación: **{gap:+.4f}** — La calibración ha mejorado la separabilidad del score."
-            )
-
-        # Notas originales
+        # Notas igual que en el notebook
         if m.get("citation_rate", 0) == 0.0:
             st.info("ℹ️ `citation_rate = 0.0` — esperado en modo sin LLM. Activa **Usar LLM** para medir citas reales.")
         if m.get("n_intent_labeled", 0) == 0 or m.get("intent_accuracy") is None:
             st.warning("⚠️ `intent_accuracy = None` — verifica que el JSONL tenga `{\"label\": {\"intent_id\": \"...\"}}`")
-        if m.get("abstention_rate") and m.get("abstention_rate", 0) > 0:
-            st.info(
-                f"ℹ️ **Zona de abstención:** {m.get('abstention_rate',0):.1%} de consultas derivadas "
-                f"por confianza < umbral. Comportamiento esperado según Sección 5.1 del reporte."
-            )
 
     if out_csv.exists():
         with st.expander("📄 Ver eval_results.csv", expanded=False):
@@ -784,17 +696,6 @@ RAG_PROJECT_ROOT=/ruta/a/RAG_Brightspace   # opcional
 - 266 documentos → **2184 chunks**
 - Intent accuracy: **87.5%** (400 queries)
 - Confianza media: **86.1%** | Latencia p50/p95: **115 ms / 175 ms** (sin LLM)
-
-### Mitigaciones implementadas (Reporte de Interpretabilidad v2)
-
-| # | Riesgo mitigado | Implementación |
-|---|---|---|
-| 1 | Opacidad del score de confianza | Calibración isotónica (Platt Scaling adaptado) — `Settings.calibration_map` |
-| 2 | Inequidad por vocabulario técnico | Intent detectado visible al usuario en cada respuesta |
-| 3 | Ausencia de escalamiento humano | Zona de abstención — deriva si confianza calibrada < 0.855 |
-
-> **Umbral de abstención 0.855** corresponde al percentil 15 del gap correctas/incorrectas
-> calculado sobre el dataset n=400 (Sección 5.1 del reporte). Configurable en el panel lateral.
     """)
     st.caption(f"Raíz del proyecto resuelta: `{PROJECT_ROOT}`")
     if not PROJECT_ROOT.exists():
