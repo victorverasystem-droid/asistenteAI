@@ -77,34 +77,6 @@ class Settings:
     chunk_overlap: int = 150
     min_chunk_chars: int = 80
 
-    # ── Mitigaciones derivadas del análisis de interpretabilidad ──────
-    # Riesgo 2 (Sección 5.1): Zona de abstención — conf < abstention_threshold
-    # deriva automáticamente a revisión humana (~15% casos dudosos).
-    # Umbral empírico calculado sobre el dataset de evaluación (n=400).
-    abstention_threshold: float = 0.855
-    enable_abstention: bool = True
-
-    # Riesgo 1 (Sección 5.1): Calibración isotónica del score de confianza.
-    # Si calibration_map no está vacío, el score bruto se transforma a
-    # probabilidad real de acierto mediante interpolación lineal sobre los
-    # pares (score_bruto, prob_calibrada) definidos abajo.
-    # Valores por defecto derivados del análisis SHAP (correctas=0.877,
-    # incorrectas=0.859 → diferencia de sólo +2.1 pp sin calibrar).
-    calibration_map: tuple = (
-        (0.00, 0.00),
-        (0.35, 0.20),
-        (0.70, 0.55),
-        (0.855, 0.72),
-        (0.877, 0.88),
-        (0.92, 0.95),
-        (1.00, 1.00),
-    )
-    enable_calibration: bool = True
-
-    # Riesgo 3 (Sección 5.2): Mostrar intent detectado en cada respuesta
-    # para cumplir el principio de explicabilidad OECD.
-    show_detected_intent: bool = True
-
     # Paths
     raw_dir: str = "./data/raw"
     index_dir: str = "./data/index"
@@ -135,21 +107,7 @@ def clean_text_basic(t: str) -> str:
     t = re.sub(r"\n{3,}", "\n\n", t)
     return t.strip()
 
-def calibrate_confidence(raw_score: float, calibration_map: tuple) -> float:
-    """
-    Aplica calibración isotónica mediante interpolación lineal sobre
-    los pares (score_bruto, prob_calibrada) definidos en Settings.
-    Mitiga el Riesgo 1 del análisis de interpretabilidad: el score sin
-    calibrar no discrimina predicciones correctas (0.861) de incorrectas
-    (0.860), generando falsa seguridad en los operadores de soporte.
-    """
-    if not calibration_map or len(calibration_map) < 2:
-        return raw_score
-    xs = [p[0] for p in calibration_map]
-    ys = [p[1] for p in calibration_map]
-    return float(np.interp(raw_score, xs, ys))
-
-
+def log_event(settings: Settings, event: Dict[str, Any]) -> None:
     ensure_dir(settings.log_dir)
     path = os.path.join(settings.log_dir, "events.jsonl")
     event["ts"] = time.time()
@@ -854,71 +812,12 @@ def rag_answer(settings: Settings, query: str, embedder: SentenceTransformer, in
             continue
         retrieved.append((float(score), meta[idx]))
 
-    prompt, raw_confidence, routed = build_prompt(settings, query, retrieved)
-
-    # ── Calibración isotónica (Riesgo 1: opacidad del score) ──────────
-    if settings.enable_calibration and raw_confidence > 0:
-        calibrated_confidence = calibrate_confidence(raw_confidence, settings.calibration_map)
-    else:
-        calibrated_confidence = raw_confidence
-
-    # ── Zona de abstención (Riesgo 3: ausencia de escalamiento humano) ─
-    # Si la confianza calibrada queda en la zona de incertidumbre, se
-    # fuerza derivación a humano aunque el guardrail min_sim no haya
-    # sido activado. Umbral = 0.855 (≈ percentil 15 del gap correctas/
-    # incorrectas según análisis SHAP, Sección 5.1 del reporte).
-    abstention_triggered = False
-    if (settings.enable_abstention
-            and not routed
-            and 0 < calibrated_confidence < settings.abstention_threshold):
-        routed = True
-        abstention_triggered = True
-        # Reescribir prompt para que el LLM explique la derivación
-        prompt = (
-            f"Pregunta: {query}\n\n"
-            f"ZONA DE ABSTENCIÓN ACTIVADA (confianza calibrada={calibrated_confidence:.2f} "
-            f"< umbral={settings.abstention_threshold}).\n"
-            "El sistema detectó que la confianza en la evidencia recuperada está en zona de "
-            "incertidumbre. Responde: 'La consulta ha sido derivada a un agente de soporte para "
-            "garantizar una atención precisa.' y explica brevemente por qué puede haber ambigüedad."
-        )
-
-    # ── Intent detection para transparencia (Riesgo 2: opacidad) ─────
-    # Se calcula aquí para incluirlo en la respuesta si show_detected_intent=True
-    detected_intent: Optional[str] = None
-    detected_intent_sim: float = 0.0
-
-    if settings.show_detected_intent:
-        try:
-            _intent_texts = [f"{n}: {n.replace('_', ' ')}" for n in [
-                "crear_aula","replicar_master","asignar_docente","cambiar_rol",
-                "copiar_contenido","recuperar_contenido","visibilidad_curso","cierre_curso",
-                "config_cuestionario","restablecer_intento","tiempo_adicional","exportar_notas",
-                "sync_banner","rubricas","evaluacion_final","problemas_login","importar_usuarios",
-                "integracion_smowl","integracion_turnitin","limite_archivos","navegadores",
-                "fechas_periodo","extension_fechas","cambio_paralelo","certificados",
-                "eliminar_usuario","estructura_aula","indicadores_participacion",
-                "reportes_actividad","capacitacion_docente",
-            ]]
-            _vecs = embedder.encode(_intent_texts, normalize_embeddings=True)
-            _vecs = np.asarray(_vecs, dtype="float32")
-            _qv = np.asarray(embedder.encode([query], normalize_embeddings=True), dtype="float32")[0]
-            _sims = _vecs @ _qv
-            _best = int(np.argmax(_sims))
-            detected_intent = _intent_texts[_best].split(":")[0].strip()
-            detected_intent_sim = float(_sims[_best])
-        except Exception:
-            pass
+    prompt, confidence, routed = build_prompt(settings, query, retrieved)
 
     if settings.use_llm:
         answer = asyncio.run(call_llm(settings, prompt))
     else:
         answer = "No tengo evidencia suficiente." if not retrieved else ("Evidencia (extracto):\n\n" + retrieved[0][1]["text"][:1000])
-
-    # ── Anotar intent detectado al final de la respuesta ─────────────
-    if settings.show_detected_intent and detected_intent and not routed:
-        intent_label = detected_intent.replace("_", " ").title()
-        answer += f"\n\n---\n📌 **Intención detectada:** `{detected_intent}` ({detected_intent_sim:.2f}) — {intent_label}"
 
     latency = time.time() - t0
 
@@ -934,32 +833,24 @@ def rag_answer(settings: Settings, query: str, embedder: SentenceTransformer, in
     out = {
         "query": query,
         "answer": answer,
-        "confidence": float(calibrated_confidence),
-        "raw_confidence": float(raw_confidence),
-        "abstention_triggered": abstention_triggered,
+        "confidence": float(confidence),
         "routed_to_human": bool(routed),
         "latency_s": float(latency),
         "has_citations": bool(CITE_PATTERN.search(answer)),
         "sources": sources,
-        "detected_intent": detected_intent,
-        "detected_intent_sim": detected_intent_sim,
     }
 
     log_event(settings, {
         "type": "chat",
         "query": query,
         "confidence": out["confidence"],
-        "raw_confidence": out["raw_confidence"],
-        "abstention_triggered": abstention_triggered,
         "routed_to_human": out["routed_to_human"],
         "latency_s": out["latency_s"],
         "has_citations": out["has_citations"],
-        "detected_intent": detected_intent,
         "sources": [{"title": s["title"], "score": s["score"], "type": s["meta"].get("type","")} for s in sources],
     })
 
     return out
-
 
 
 # =========================
@@ -1167,20 +1058,6 @@ def run_eval(settings: Settings, eval_path: str, out_csv: str, intents_json: str
 
         intent_pred, intent_sim = predict_intent(embedder, intent_names, intent_vecs, query)
 
-        # ── Calibración del score (Riesgo 1) ─────────────────────────
-        if settings.enable_calibration and conf > 0:
-            conf_calibrated = calibrate_confidence(conf, settings.calibration_map)
-        else:
-            conf_calibrated = conf
-
-        # ── Zona de abstención (Riesgo 3) ─────────────────────────────
-        abstention_triggered = False
-        if (settings.enable_abstention
-                and not routed
-                and 0 < conf_calibrated < settings.abstention_threshold):
-            routed = True
-            abstention_triggered = True
-
         has_citations = bool(CITE_PATTERN.search(answer))
         citation_ok = (has_citations if must_cite and not routed else True)
 
@@ -1195,9 +1072,7 @@ def run_eval(settings: Settings, eval_path: str, out_csv: str, intents_json: str
             "intent_pred": intent_pred,
             "intent_sim": intent_sim,
             "intent_correct": (intent_true == intent_pred) if intent_true else None,
-            "confidence_raw": conf,
-            "confidence": conf_calibrated,
-            "abstention_triggered": abstention_triggered,
+            "confidence": conf,
             "routed": routed,
             "latency_s": latency,
             "has_citations": has_citations,
@@ -1223,27 +1098,7 @@ def run_eval(settings: Settings, eval_path: str, out_csv: str, intents_json: str
     metrics["citation_rate"] = float(res["has_citations"].mean())
     metrics["citation_ok_rate"] = float(res["citation_ok"].mean())
     metrics["routed_rate"] = float(res["routed"].mean())
-    metrics["abstention_rate"] = float(res["abstention_triggered"].mean()) if "abstention_triggered" in res.columns else None
     metrics["mean_confidence"] = float(res["confidence"].mean())
-    metrics["mean_confidence_raw"] = float(res["confidence_raw"].mean()) if "confidence_raw" in res.columns else None
-
-    # ── Advertencia de confianza no discriminativa (Riesgo 1) ─────────
-    # Si la diferencia entre confianza de predicciones correctas e incorrectas
-    # es < 0.01, emitir advertencia para que los operadores no confíen en el score.
-    if mask_int.any() and "confidence_raw" in res.columns:
-        conf_correct   = res.loc[mask_int & res["intent_correct"].astype(bool), "confidence_raw"]
-        conf_incorrect = res.loc[mask_int & ~res["intent_correct"].astype(bool), "confidence_raw"]
-        if len(conf_correct) > 0 and len(conf_incorrect) > 0:
-            diff = float(conf_correct.mean()) - float(conf_incorrect.mean())
-            metrics["confidence_discrimination_gap"] = round(diff, 4)
-            metrics["confidence_discrimination_warning"] = diff < 0.01
-        else:
-            metrics["confidence_discrimination_gap"] = None
-            metrics["confidence_discrimination_warning"] = None
-    else:
-        metrics["confidence_discrimination_gap"] = None
-        metrics["confidence_discrimination_warning"] = None
-
     metrics["p50_latency_s"] = float(res["latency_s"].quantile(0.50))
     metrics["p95_latency_s"] = float(res["latency_s"].quantile(0.95))
 
