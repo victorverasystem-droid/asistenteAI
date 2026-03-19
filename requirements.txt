@@ -8,6 +8,6 @@ tqdm>=4.66
 beautifulsoup4>=4.12
 lxml>=5.0
 sentence-transformers>=2.7,<3.0
-faiss-cpu>=1.7,<1.9
+faiss-cpu==1.13.0
 pypdf>=4.0
 python-docx>=1.1
