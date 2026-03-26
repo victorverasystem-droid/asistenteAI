@@ -833,11 +833,12 @@ def rag_answer(settings: Settings, query: str, embedder: SentenceTransformer, in
     out = {
         "query": query,
         "answer": answer,
-        "confidence": float(confidence),
+        # Si se deriva a humano, confidence=0 y sources=[] (el score FAISS no es significativo)
+        "confidence": 0.0 if routed else float(confidence),
         "routed_to_human": bool(routed),
         "latency_s": float(latency),
         "has_citations": bool(CITE_PATTERN.search(answer)),
-        "sources": sources,
+        "sources": [] if routed else sources,
     }
 
     log_event(settings, {
