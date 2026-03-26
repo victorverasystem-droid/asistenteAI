@@ -270,12 +270,12 @@ def _confidence_badge(confidence: float, latency_s: float) -> str:
 
 def _sources_html(sources: list[dict]) -> str:
     """
-    Devuelve HTML con pills de fuentes.
-    - Si la fuente tiene 'url' o 'link' HTTP  → pill azul clicable con icono externo.
-    - Si la fuente tiene 'path' local          → pill violeta (no clicable en browser).
-    - Sin URL                                   → pill gris neutro.
+    Devuelve HTML con lista numerada de fuentes.
+    - URL HTTP  → enlace azul clicable con icono externo.
+    - Ruta local → texto violeta sin enlace.
+    - Sin URL    → texto gris neutro.
     """
-    seen, pills = set(), []
+    seen, items = set(), []
     for s in sources:
         raw_title = s.get("title", "")
         t = raw_title.replace("_", " ").replace("-Brightspace", "")
@@ -283,38 +283,44 @@ def _sources_html(sources: list[dict]) -> str:
             t = t[:t.rfind("__")]
         t = t.replace(".txt", "").replace(".xlsx", "").strip()
 
-        if not t or t in seen or len(pills) >= 5:
+        if not t or t in seen or len(items) >= 5:
             continue
         seen.add(t)
 
         url = s.get("url") or s.get("link") or s.get("path") or ""
+        items.append((t, url))
 
+    if not items:
+        return ""
+
+    rows = []
+    for i, (t, url) in enumerate(items, 1):
+        num = f'<span style="min-width:1.2rem;font-weight:700;color:#9ca3af;font-size:0.75rem;">{i}.</span>'
         if url and url.startswith("http"):
-            pill = (
+            link = (
                 f'<a href="{url}" target="_blank" rel="noopener noreferrer" '
                 f'class="source-pill source-pill--link" title="Abrir: {t}">'
-                f'<span>&#128196;</span> {t} '
-                f'<span class="pill-ext-icon">&#8599;</span></a>'
+                f'&#128196; {t} <span class="pill-ext-icon">&#8599;</span></a>'
             )
         elif url:
-            pill = (
+            link = (
                 f'<span class="source-pill source-pill--local" title="Archivo local: {url}">'
                 f'&#128193; {t}</span>'
             )
         else:
-            pill = f'<span class="source-pill">&#128196; {t}</span>'
+            link = f'<span class="source-pill">&#128196; {t}</span>'
 
-        pills.append(pill)
+        rows.append(
+            f'<div style="display:flex;align-items:center;gap:0.4rem;margin-bottom:0.3rem;">'
+            f'{num}{link}</div>'
+        )
 
-    if not pills:
-        return ""
-
-    pills_html = "".join(pills)
+    rows_html = "".join(rows)
     return (
-        '<div style="margin-top:0.5rem;">'
-        '<span style="font-size:0.70rem; color:#9ca3af; letter-spacing:0.04em;'
-        'text-transform:uppercase; font-weight:600;">Fuentes</span>'
-        f'<div class="source-pills" style="margin-top:0.3rem;">{pills_html}</div>'
+        '<div style="margin-top:0.6rem;">'
+        '<span style="font-size:0.70rem;color:#9ca3af;letter-spacing:0.04em;'
+        'text-transform:uppercase;font-weight:600;">Fuentes</span>'
+        f'<div style="margin-top:0.35rem;">{rows_html}</div>'
         '</div>'
     )
 
