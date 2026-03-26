@@ -769,12 +769,13 @@ def build_prompt(settings: Settings, query: str, retrieved: List[Tuple[float, Di
 
     prompt = (
         f"Pregunta del usuario:\n{query}\n\n"
-        "Evidencia disponible (usa SOLO esto para responder y cita [n]):\n\n"
+        "Evidencia disponible (usa SOLO esto para responder):\n\n"
         + "\n".join(ctx)
         + "\nInstrucciones:\n"
-          "1) Respuesta directa.\n"
-          "2) Pasos si aplica.\n"
-          "3) 'Fuentes' con [n].\n"
+          "1) Respuesta directa y clara.\n"
+          "2) Incluye pasos numerados si aplica.\n"
+          "3) Cita con [n] dentro del texto donde corresponda.\n"
+          "4b) NO incluyas sección 'Fuentes:' al final; las fuentes se muestran en la interfaz.\n"
           "4) Si falta evidencia para algo, dilo explícitamente.\n"
     )
     return prompt, float(max_score), False
@@ -788,7 +789,7 @@ async def call_llm(settings: Settings, prompt: str) -> str:
     payload = {
         "model": settings.llm_model,
         "messages": [
-            {"role": "system", "content": "Eres un asistente institucional. Responde solo con evidencia. Si no hay evidencia suficiente, dilo y deriva."},
+            {"role": "system", "content": "Eres un asistente institucional de Brightspace. Responde solo con la evidencia proporcionada. Puedes citar las fuentes con [n] dentro del texto. NO incluyas una sección 'Fuentes:' al final; las fuentes se muestran automáticamente en la interfaz. Si no hay evidencia suficiente, dilo claramente y deriva al soporte."},
             {"role": "user", "content": prompt},
         ],
         "temperature": 0.2,
