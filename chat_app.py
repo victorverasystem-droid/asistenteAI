@@ -474,10 +474,16 @@ for msg in st.session_state.messages:
 
         if role == "assistant":
             routed     = msg.get("routed_to_human", False)
-            sources    = msg.get("sources", [])
-            confidence = msg.get("confidence", 0.0)
             latency_s  = msg.get("latency_s", 0.0)
             is_small   = msg.get("is_small_talk", False)
+
+            # Nunca mostrar semáforo ni fuentes si no hay evidencia real
+            if routed or is_small:
+                confidence = 0.0
+                sources    = []
+            else:
+                confidence = msg.get("confidence", 0.0)
+                sources    = msg.get("sources", [])
 
             if routed:
                 st.warning("No encontré evidencia suficiente. Te recomiendo contactar a soporte.")
@@ -518,14 +524,19 @@ if query:
                         "has_citations":   False,
                     }
 
-        confidence = result.get("confidence", 0.0)
-        latency_s  = result.get("latency_s", 0.0)
-        sources    = result.get("sources", [])
-        routed     = result.get("routed_to_human", False)
+        routed        = result.get("routed_to_human", False)
+        latency_s     = result.get("latency_s", 0.0)
+        is_small_talk = result.get("is_small_talk", False)
+
+        # Si no hay evidencia real o es small talk: limpiar confidence y fuentes
+        if routed or is_small_talk:
+            confidence = 0.0
+            sources    = []
+        else:
+            confidence = result.get("confidence", 0.0)
+            sources    = result.get("sources", [])
 
         st.markdown(result["answer"])
-
-        is_small_talk = result.get("is_small_talk", False)
 
         if routed:
             st.warning("No encontré evidencia suficiente. Te recomiendo contactar a soporte.")
