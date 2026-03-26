@@ -365,6 +365,31 @@ def read_txt(path: str) -> str:
     with open(path, "r", encoding="utf-8", errors="ignore") as f:
         return f.read()
 
+def parse_txt_meta(path: str) -> Dict[str, str]:
+    """
+    Extrae URL y TITLE del encabezado de los archivos .txt generados por el crawler.
+    Formato esperado en las primeras líneas:
+      URL: https://...
+      TITLE: ...
+      HASH: ...
+      TYPE: web
+    """
+    url, title = "", ""
+    try:
+        with open(path, "r", encoding="utf-8", errors="ignore") as f:
+            for line in f:
+                line = line.strip()
+                if line.startswith("URL:"):
+                    url = line[4:].strip()
+                elif line.startswith("TITLE:"):
+                    title = line[6:].strip()
+                elif line and not line.startswith(("HASH:", "TYPE:")):
+                    # Primera línea de contenido real — detener lectura del header
+                    break
+    except Exception:
+        pass
+    return {"url": url, "title": title}
+
 def normalize_columns(df: pd.DataFrame) -> pd.DataFrame:
     df = df.copy()
     df.columns = [str(c).strip().lower().replace(" ", "_") for c in df.columns]
@@ -623,11 +648,15 @@ def ingest_generic_file(path: str) -> List[Dict[str, Any]]:
         text = clean_text_basic(read_txt(path))
         if len(text) < 20:
             return []
+        txt_meta = parse_txt_meta(path)
+        # Preferir el TITLE del encabezado si existe; si no, usar nombre de archivo
+        doc_title = txt_meta.get("title") or title
+        doc_url   = txt_meta.get("url", "")
         return [{
             "doc_id": f"txt::{title}",
-            "title": title,
+            "title": doc_title,
             "text": text,
-            "meta": {"type": "txt", "source_file": path},
+            "meta": {"type": "txt", "source_file": path, "url": doc_url},
         }]
 
     if ext in {".xlsx", ".xls"}:
@@ -829,6 +858,8 @@ def rag_answer(settings: Settings, query: str, embedder: SentenceTransformer, in
         "score": float(score),
         "snippet": item["text"][:350],
         "meta": item.get("meta", {}),
+        # Propagar URL desde meta para que la UI pueda generar enlaces clicables
+        "url": item.get("meta", {}).get("url", ""),
     } for score, item in retrieved]
 
     out = {
