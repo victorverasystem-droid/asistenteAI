@@ -2,6 +2,12 @@
 chat_app.py — Asistente Brightspace · usuarios finales
 Solo chat, sin configuración. Usa componentes nativos de Streamlit.
 
+Mejoras:
+  - Semáforo de confianza (🔴🟡🟢) con barra visual animada
+  - Fuentes con enlaces clicables (href al documento)
+  - Badge de latencia
+  - Diseño refinado con tipografía Lora + DM Sans
+
 Repo (raíz):
   ├── asistente_rag_project_v3.py
   ├── chat_app.py
@@ -62,6 +68,133 @@ def _load_engine():
     except Exception:
         return None, None, None, None, None, traceback.format_exc()
 
+# ── Helpers: semáforo y fuentes ──────────────────────────────────────
+
+def _confidence_badge(confidence: float, latency_s: float) -> str:
+    """
+    Devuelve HTML con:
+      - Semáforo de color según nivel de confianza
+      - Barra de progreso animada
+      - Etiqueta textual + latencia
+    Umbrales: alto >= 0.70 | medio >= 0.45 | bajo < 0.45
+    """
+    pct = min(max(int(confidence * 100), 0), 100)
+
+    if confidence >= 0.70:
+        dot_color  = "#22c55e"   # verde
+        bar_color  = "#22c55e"
+        label      = "Alta confianza"
+        text_color = "#15803d"
+        bg_color   = "#f0fdf4"
+        border_col = "#bbf7d0"
+    elif confidence >= 0.45:
+        dot_color  = "#f59e0b"   # ambar
+        bar_color  = "#f59e0b"
+        label      = "Confianza media"
+        text_color = "#b45309"
+        bg_color   = "#fffbeb"
+        border_col = "#fde68a"
+    else:
+        dot_color  = "#ef4444"   # rojo
+        bar_color  = "#ef4444"
+        label      = "Confianza baja"
+        text_color = "#b91c1c"
+        bg_color   = "#fef2f2"
+        border_col = "#fecaca"
+
+    lat_str = f"{latency_s:.1f}s" if latency_s else ""
+
+    return f"""
+<div style="
+    display:flex; align-items:center; gap:0.7rem;
+    background:{bg_color}; border:1px solid {border_col};
+    border-radius:10px; padding:0.45rem 0.75rem;
+    margin-top:0.65rem; width:fit-content; max-width:100%;
+">
+  <span style="
+      width:11px; height:11px; border-radius:50%;
+      background:{dot_color};
+      box-shadow: 0 0 0 3px {dot_color}33;
+      flex-shrink:0;
+  "></span>
+
+  <div style="flex:1; min-width:120px;">
+    <div style="
+        display:flex; justify-content:space-between; align-items:center;
+        margin-bottom:3px;
+    ">
+      <span style="font-size:0.73rem; font-weight:600; color:{text_color}; letter-spacing:0.01em;">
+          {label}
+      </span>
+      <span style="font-size:0.70rem; color:#9ca3af; margin-left:0.5rem;">
+          {pct}%{"  &middot;  " + lat_str if lat_str else ""}
+      </span>
+    </div>
+    <div style="
+        height:4px; border-radius:4px;
+        background:#e5e7eb; overflow:hidden; width:180px;
+    ">
+      <div style="
+          height:100%; border-radius:4px;
+          width:{pct}%; background:{bar_color};
+          transition: width 0.6s cubic-bezier(.4,0,.2,1);
+      "></div>
+    </div>
+  </div>
+</div>
+"""
+
+
+def _sources_html(sources: list[dict]) -> str:
+    """
+    Devuelve HTML con pills de fuentes.
+    - Si la fuente tiene 'url' o 'link' HTTP  → pill azul clicable con icono externo.
+    - Si la fuente tiene 'path' local          → pill violeta (no clicable en browser).
+    - Sin URL                                   → pill gris neutro.
+    """
+    seen, pills = set(), []
+    for s in sources:
+        raw_title = s.get("title", "")
+        t = raw_title.replace("_", " ").replace("-Brightspace", "")
+        if "__" in t:
+            t = t[:t.rfind("__")]
+        t = t.replace(".txt", "").replace(".xlsx", "").strip()
+
+        if not t or t in seen or len(pills) >= 5:
+            continue
+        seen.add(t)
+
+        url = s.get("url") or s.get("link") or s.get("path") or ""
+
+        if url and url.startswith("http"):
+            pill = (
+                f'<a href="{url}" target="_blank" rel="noopener noreferrer" '
+                f'class="source-pill source-pill--link" title="Abrir: {t}">'
+                f'<span>&#128196;</span> {t} '
+                f'<span class="pill-ext-icon">&#8599;</span></a>'
+            )
+        elif url:
+            pill = (
+                f'<span class="source-pill source-pill--local" title="Archivo local: {url}">'
+                f'&#128193; {t}</span>'
+            )
+        else:
+            pill = f'<span class="source-pill">&#128196; {t}</span>'
+
+        pills.append(pill)
+
+    if not pills:
+        return ""
+
+    pills_html = "".join(pills)
+    return (
+        '<div style="margin-top:0.5rem;">'
+        '<span style="font-size:0.70rem; color:#9ca3af; letter-spacing:0.04em;'
+        'text-transform:uppercase; font-weight:600;">Fuentes</span>'
+        f'<div class="source-pills" style="margin-top:0.3rem;">{pills_html}</div>'
+        '</div>'
+    )
+
 # ── Página ───────────────────────────────────────────────────────────
 
 st.set_page_config(
@@ -71,28 +204,24 @@ st.set_page_config(
     initial_sidebar_state = "collapsed",
 )
 
-# CSS — solo estilos visuales, sin HTML personalizado en burbujas
 st.markdown("""
 <style>
-@import url('https://fonts.googleapis.com/css2?family=Lora:wght@600&family=DM+Sans:wght@300;400;500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lora:wght@600&family=DM+Sans:ital,wght@0,300;0,400;0,500;0,600;1,400&display=swap');
 
 html, body, [class*="css"] {
     font-family: 'DM Sans', sans-serif;
     background: #FAFAF8;
 }
 
-/* Ocultar header nativo */
 header[data-testid="stHeader"] { display: none; }
 section[data-testid="stSidebar"] { display: none; }
 .block-container { padding-top: 1.5rem !important; max-width: 740px !important; }
 
-/* Avatar del asistente */
 [data-testid="stChatMessageAvatarAssistant"] {
     background: #1a3a2e !important;
     border-radius: 10px !important;
 }
 
-/* Burbuja del asistente */
 [data-testid="stChatMessageContentAssistant"] {
     background: #ffffff;
     border: 1px solid #e8e4dc;
@@ -104,7 +233,6 @@ section[data-testid="stSidebar"] { display: none; }
     color: #1a1a1a;
 }
 
-/* Burbuja del usuario */
 [data-testid="stChatMessageContentUser"] {
     background: #1a3a2e;
     color: #f0ede6 !important;
@@ -116,14 +244,12 @@ section[data-testid="stSidebar"] { display: none; }
 }
 [data-testid="stChatMessageContentUser"] p { color: #f0ede6 !important; }
 
-/* Input */
 [data-testid="stChatInput"] {
     border: 1px solid #e0dbd1 !important;
     border-radius: 12px !important;
     background: #ffffff !important;
 }
 
-/* Botones de sugerencias */
 .stButton button {
     background: #ffffff;
     border: 1px solid #ddd9cf;
@@ -143,16 +269,59 @@ section[data-testid="stSidebar"] { display: none; }
     background: #f2faf6;
 }
 
-/* Pills de fuentes */
+/* ── Pills de fuentes ── */
 .source-pills {
-    margin-top: 0.5rem;
-    display: flex; flex-wrap: wrap; gap: 0.4rem;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.4rem;
 }
+
 .source-pill {
-    background: #f2efe8; border: 1px solid #ddd9cf;
-    border-radius: 20px; padding: 2px 10px;
-    font-size: 0.72rem; color: #5a5a5a;
-    display: inline-block;
+    border-radius: 20px;
+    padding: 3px 11px;
+    font-size: 0.72rem;
+    display: inline-flex;
+    align-items: center;
+    gap: 0.25rem;
+    font-family: 'DM Sans', sans-serif;
+    font-weight: 500;
+    transition: all 0.15s ease;
+    text-decoration: none !important;
+}
+
+/* Sin enlace */
+.source-pill:not(a) {
+    background: #f2efe8;
+    border: 1px solid #ddd9cf;
+    color: #5a5a5a;
+    cursor: default;
+}
+
+/* Con enlace HTTP */
+a.source-pill--link {
+    background: #edf6ff;
+    border: 1px solid #bfdbfe;
+    color: #1d4ed8 !important;
+    cursor: pointer;
+}
+a.source-pill--link:hover {
+    background: #dbeafe;
+    border-color: #93c5fd;
+    color: #1e40af !important;
+    text-decoration: none !important;
+    transform: translateY(-1px);
+    box-shadow: 0 2px 6px rgba(29,78,216,0.12);
+}
+.pill-ext-icon {
+    font-size: 0.65rem;
+    opacity: 0.7;
+}
+
+/* Ruta local */
+span.source-pill--local {
+    background: #f5f3ff;
+    border: 1px solid #ddd6fe;
+    color: #6d28d9;
 }
 </style>
 """, unsafe_allow_html=True)
@@ -217,41 +386,30 @@ if not st.session_state.messages:
 
 # ── Historial ────────────────────────────────────────────────────────
 
-def _clean_title(raw: str) -> str:
-    t = raw.replace("_", " ").replace("-Brightspace", "")
-    if "__" in t:
-        t = t[:t.rfind("__")]
-    return t.replace(".txt", "").replace(".xlsx", "").strip()
-
 for msg in st.session_state.messages:
     role = msg["role"]
 
     with st.chat_message(role, avatar="🎓" if role == "assistant" else "👤"):
         st.markdown(msg["content"])
 
-        # Fuentes (solo en mensajes del asistente)
         if role == "assistant":
-            sources = msg.get("sources", [])
-            routed  = msg.get("routed_to_human", False)
+            routed     = msg.get("routed_to_human", False)
+            sources    = msg.get("sources", [])
+            confidence = msg.get("confidence", 0.0)
+            latency_s  = msg.get("latency_s", 0.0)
 
             if routed:
                 st.warning("No encontré evidencia suficiente. Te recomiendo contactar a soporte.")
-
-            elif sources:
-                seen, pills = set(), []
-                for s in sources:
-                    t = _clean_title(s["title"])
-                    if t and t not in seen and len(pills) < 4:
-                        seen.add(t)
-                        pills.append(t)
-                if pills:
-                    pills_html = "".join(
-                        f'<span class="source-pill">📄 {t}</span>' for t in pills
-                    )
+            else:
+                if confidence is not None and confidence > 0:
                     st.markdown(
-                        f'<div class="source-pills">{pills_html}</div>',
+                        _confidence_badge(confidence, latency_s),
                         unsafe_allow_html=True,
                     )
+                if sources:
+                    src_html = _sources_html(sources)
+                    if src_html:
+                        st.markdown(src_html, unsafe_allow_html=True)
 
 # ── Input ────────────────────────────────────────────────────────────
 
@@ -274,32 +432,32 @@ if query:
                     "has_citations":   False,
                 }
 
+        confidence = result.get("confidence", 0.0)
+        latency_s  = result.get("latency_s", 0.0)
+        sources    = result.get("sources", [])
+        routed     = result.get("routed_to_human", False)
+
         st.markdown(result["answer"])
 
-        if result.get("routed_to_human"):
+        if routed:
             st.warning("No encontré evidencia suficiente. Te recomiendo contactar a soporte.")
-        elif result.get("sources"):
-            seen, pills = set(), []
-            for s in result["sources"]:
-                t = _clean_title(s["title"])
-                if t and t not in seen and len(pills) < 4:
-                    seen.add(t)
-                    pills.append(t)
-            if pills:
-                pills_html = "".join(
-                    f'<span class="source-pill">📄 {t}</span>' for t in pills
-                )
+        else:
+            if confidence is not None and confidence > 0:
                 st.markdown(
-                    f'<div class="source-pills">{pills_html}</div>',
+                    _confidence_badge(confidence, latency_s),
                     unsafe_allow_html=True,
                 )
+            if sources:
+                src_html = _sources_html(sources)
+                if src_html:
+                    st.markdown(src_html, unsafe_allow_html=True)
 
     st.session_state.messages.append({
         "role":            "assistant",
         "content":         result["answer"],
-        "routed_to_human": result["routed_to_human"],
-        "sources":         result["sources"],
-        "confidence":      result["confidence"],
-        "latency_s":       result["latency_s"],
+        "routed_to_human": routed,
+        "sources":         sources,
+        "confidence":      confidence,
+        "latency_s":       latency_s,
     })
     st.rerun()
