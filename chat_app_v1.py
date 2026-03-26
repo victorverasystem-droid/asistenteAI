@@ -45,6 +45,86 @@ for _d in [str(PROJECT_ROOT), str(Path(__file__).parent)]:
     if _d not in sys.path:
         sys.path.insert(0, _d)
 
+# ── Detector de saludos y despedidas ────────────────────────────────
+
+import re as _re
+import random as _random
+
+_GREET_PATTERNS = _re.compile(
+    r"^\s*("
+    r"hola|buenas?|buenos?\s+(días?|tardes?|noches?)|saludos?|hey|hi|hello|"
+    r"qué\s+tal|como\s+estás?|cómo\s+estás?|buen\s+día"
+    r")\W*$",
+    _re.IGNORECASE | _re.UNICODE,
+)
+
+_BYE_PATTERNS = _re.compile(
+    r"^\s*("
+    r"adios?|adiós?|hasta\s+(luego|pronto|mañana|la\s+vista)|"
+    r"chao|chau|bye|goodbye|nos\s+vemos?|hasta\s+pronto|"
+    r"muchas?\s+gracias?|gracias?|thanks?|thank\s+you|de\s+nada"
+    r")\W*$",
+    _re.IGNORECASE | _re.UNICODE,
+)
+
+_GREET_REPLIES = [
+    "¡Hola! 👋 Soy el asistente de Brightspace. ¿En qué puedo ayudarte hoy?",
+    "¡Buenas! Estoy aquí para ayudarte con cualquier duda sobre Brightspace. ¿Qué necesitas?",
+    "¡Hola! ¿Tienes alguna pregunta sobre la plataforma? Con gusto te ayudo. 😊",
+    "¡Bienvenido/a! Puedo ayudarte con cursos, calificaciones, cuestionarios y más. ¿Por dónde empezamos?",
+]
+
+_BYE_REPLIES = [
+    "¡Hasta luego! Fue un gusto ayudarte. Si tienes más dudas sobre Brightspace, aquí estaré. 👋",
+    "¡Cuídate mucho! Cualquier otra consulta sobre la plataforma, no dudes en escribir. 😊",
+    "¡Hasta pronto! Espero haber sido de ayuda. 🎓",
+    "Con mucho gusto. ¡Que tengas un excelente día! Si necesitas algo más, aquí estoy. 👋",
+]
+
+_THANKS_REPLIES = [
+    "¡De nada! 😊 Si tienes más preguntas sobre Brightspace, con gusto te ayudo.",
+    "¡Un placer! Para eso estoy. ¿Hay algo más en lo que pueda ayudarte?",
+    "¡Me alegra haber podido ayudar! Escríbeme cuando necesites. 🎓",
+]
+
+_THANKS_PATTERNS = _re.compile(
+    r"^\s*(muchas?\s+gracias?|gracias?|thanks?|thank\s+you)\W*$",
+    _re.IGNORECASE | _re.UNICODE,
+)
+
+def _is_small_talk(text: str) -> str | None:
+    """
+    Retorna la categoría si el texto es saludo/despedida/agradecimiento.
+    Retorna None si debe procesarse con RAG.
+    """
+    t = text.strip()
+    if _GREET_PATTERNS.match(t):
+        return "greet"
+    if _THANKS_PATTERNS.match(t):
+        return "thanks"
+    if _BYE_PATTERNS.match(t):
+        return "bye"
+    return None
+
+def _small_talk_result(kind: str) -> dict:
+    """Construye un resultado sintético (sin RAG) para small talk."""
+    if kind == "greet":
+        answer = _random.choice(_GREET_REPLIES)
+    elif kind == "thanks":
+        answer = _random.choice(_THANKS_REPLIES)
+    else:
+        answer = _random.choice(_BYE_REPLIES)
+    return {
+        "answer":          answer,
+        "routed_to_human": False,
+        "sources":         [],
+        "confidence":      1.0,   # confianza máxima, pero no se muestra
+        "latency_s":       0.0,
+        "has_citations":   False,
+        "is_small_talk":   True,  # flag para suprimir semáforo y fuentes
+    }
+
+
 # ── Carga del motor RAG (cacheado) ───────────────────────────────────
 
 @st.cache_resource(show_spinner=False)
@@ -397,10 +477,11 @@ for msg in st.session_state.messages:
             sources    = msg.get("sources", [])
             confidence = msg.get("confidence", 0.0)
             latency_s  = msg.get("latency_s", 0.0)
+            is_small   = msg.get("is_small_talk", False)
 
             if routed:
                 st.warning("No encontré evidencia suficiente. Te recomiendo contactar a soporte.")
-            else:
+            elif not is_small:
                 if confidence is not None and confidence > 0:
                     st.markdown(
                         _confidence_badge(confidence, latency_s),
@@ -420,17 +501,22 @@ if query:
 
     with st.chat_message("assistant", avatar="🎓"):
         with st.spinner(""):
-            try:
-                result = rag.rag_answer(cfg, query, embedder, index, meta)
-            except Exception as e:
-                result = {
-                    "answer":          f"Ocurrió un error. Por favor intenta de nuevo.\n\n`{e}`",
-                    "routed_to_human": True,
-                    "sources":         [],
-                    "confidence":      0,
-                    "latency_s":       0,
-                    "has_citations":   False,
-                }
+            # ── Detector de small talk (saludo / despedida / gracias) ──
+            small_talk_kind = _is_small_talk(query)
+            if small_talk_kind:
+                result = _small_talk_result(small_talk_kind)
+            else:
+                try:
+                    result = rag.rag_answer(cfg, query, embedder, index, meta)
+                except Exception as e:
+                    result = {
+                        "answer":          f"Ocurrió un error. Por favor intenta de nuevo.\n\n`{e}`",
+                        "routed_to_human": True,
+                        "sources":         [],
+                        "confidence":      0,
+                        "latency_s":       0,
+                        "has_citations":   False,
+                    }
 
         confidence = result.get("confidence", 0.0)
         latency_s  = result.get("latency_s", 0.0)
@@ -439,9 +525,11 @@ if query:
 
         st.markdown(result["answer"])
 
+        is_small_talk = result.get("is_small_talk", False)
+
         if routed:
             st.warning("No encontré evidencia suficiente. Te recomiendo contactar a soporte.")
-        else:
+        elif not is_small_talk:
             if confidence is not None and confidence > 0:
                 st.markdown(
                     _confidence_badge(confidence, latency_s),
@@ -459,5 +547,6 @@ if query:
         "sources":         sources,
         "confidence":      confidence,
         "latency_s":       latency_s,
+        "is_small_talk":   result.get("is_small_talk", False),
     })
     st.rerun()
