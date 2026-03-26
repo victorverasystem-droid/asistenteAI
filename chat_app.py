@@ -562,6 +562,10 @@ query = st.chat_input("Escribe tu pregunta sobre Brightspace…")
 if query:
     st.session_state.messages.append({"role": "user", "content": query})
 
+    # Mostrar el mensaje del usuario inmediatamente, sin esperar la respuesta
+    with st.chat_message("user", avatar="👤"):
+        st.markdown(query)
+
     with st.chat_message("assistant", avatar="🎓"):
         with st.spinner(""):
             # ── Detector de small talk (saludo / despedida / gracias) ──
