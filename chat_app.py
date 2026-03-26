@@ -287,7 +287,7 @@ def _sources_html(sources: list[dict]) -> str:
             continue
         seen.add(t)
 
-        url = s.get("url") or s.get("link") or s.get("path") or ""
+        url = s.get("url") or s.get("link") or s.get("path") or s.get("meta", {}).get("url", "") or ""
         items.append((t, url))
 
     if not items:
