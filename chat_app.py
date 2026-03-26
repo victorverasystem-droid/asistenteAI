@@ -522,9 +522,19 @@ for msg in st.session_state.messages:
         st.markdown(msg["content"])
 
         if role == "assistant":
-            routed     = msg.get("routed_to_human", False)
-            latency_s  = msg.get("latency_s", 0.0)
-            is_small   = msg.get("is_small_talk", False)
+            routed    = msg.get("routed_to_human", False)
+            latency_s = msg.get("latency_s", 0.0)
+            is_small  = msg.get("is_small_talk", False)
+
+            # Detección defensiva por texto (cubre versiones antiguas del motor)
+            _no_evidence_phrases = (
+                "no hay evidencia", "no tengo evidencia", "evidencia suficiente",
+                "no puedo proporcionar", "no encuentro información",
+                "no tengo información", "no dispongo de",
+                "fuera de mi base", "no está en mi base",
+            )
+            if any(p in msg.get("content", "").lower() for p in _no_evidence_phrases):
+                routed = True
 
             # Nunca mostrar semáforo ni fuentes si no hay evidencia real
             if routed or is_small:
@@ -576,6 +586,24 @@ if query:
         routed        = result.get("routed_to_human", False)
         latency_s     = result.get("latency_s", 0.0)
         is_small_talk = result.get("is_small_talk", False)
+
+        # Detección defensiva: si el LLM respondió que no hay evidencia,
+        # forzar routed=True aunque el motor no lo haya marcado así.
+        # Cubre el caso en que se usa una versión antigua del motor RAG.
+        _no_evidence_phrases = (
+            "no hay evidencia",
+            "no tengo evidencia",
+            "evidencia suficiente",
+            "no puedo proporcionar",
+            "no encuentro información",
+            "no tengo información",
+            "no dispongo de",
+            "fuera de mi base",
+            "no está en mi base",
+        )
+        _ans_lower = result.get("answer", "").lower()
+        if any(p in _ans_lower for p in _no_evidence_phrases):
+            routed = True
 
         # Si no hay evidencia real o es small talk: limpiar confidence y fuentes
         if routed or is_small_talk:
