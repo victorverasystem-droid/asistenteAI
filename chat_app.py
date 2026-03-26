@@ -544,9 +544,7 @@ for msg in st.session_state.messages:
                 confidence = msg.get("confidence", 0.0)
                 sources    = msg.get("sources", [])
 
-            if routed:
-                st.warning("No encontré evidencia suficiente. Te recomiendo contactar a soporte.")
-            elif not is_small:
+            if not routed and not is_small:
                 if confidence is not None and confidence > 0:
                     st.markdown(
                         _confidence_badge(confidence, latency_s),
@@ -615,9 +613,7 @@ if query:
 
         st.markdown(result["answer"])
 
-        if routed:
-            st.warning("No encontré evidencia suficiente. Te recomiendo contactar a soporte.")
-        elif not is_small_talk:
+        if not routed and not is_small_talk:
             if confidence is not None and confidence > 0:
                 st.markdown(
                     _confidence_badge(confidence, latency_s),
