@@ -50,20 +50,46 @@ for _d in [str(PROJECT_ROOT), str(Path(__file__).parent)]:
 import re as _re
 import random as _random
 
-_GREET_PATTERNS = _re.compile(
-    r"^\s*("
-    r"hola|buenas?|buenos?\s+(días?|tardes?|noches?)|saludos?|hey|hi|hello|"
-    r"qué\s+tal|como\s+estás?|cómo\s+estás?|buen\s+día"
-    r")\W*$",
+# Palabras clave de saludo al inicio del mensaje
+_GREET_START = _re.compile(
+    r"^\s*(hola|buenas?|buenos?\s+(días?|tardes?|noches?)|saludos?|hey|hi|hello|buen\s+día)",
     _re.IGNORECASE | _re.UNICODE,
 )
 
-_BYE_PATTERNS = _re.compile(
+# Frases que son SOLO saludo/cortesía (sin contenido real)
+_GREET_ONLY = _re.compile(
+    r"^\s*("
+    r"hola|buenas?|buenos?\s+(días?|tardes?|noches?)|saludos?|hey|hi|hello|buen\s+día|"
+    r"qué\s+tal|cómo\s+estás?|como\s+estás?|cómo\s+te\s+va|todo\s+bien|"
+    r"hola[,\s]+cómo\s+estás?|hola[,\s]+como\s+estás?|"
+    r"buenas[,\s]+cómo\s+estás?|buenas[,\s]+como\s+estás?|"
+    r"hola[,\s]+qué\s+tal|buenas[,\s]+qué\s+tal"
+    r")[!?¡¿.,\s]*$",
+    _re.IGNORECASE | _re.UNICODE,
+)
+
+_BYE_ONLY = _re.compile(
     r"^\s*("
     r"adios?|adiós?|hasta\s+(luego|pronto|mañana|la\s+vista)|"
     r"chao|chau|bye|goodbye|nos\s+vemos?|hasta\s+pronto|"
-    r"muchas?\s+gracias?|gracias?|thanks?|thank\s+you|de\s+nada"
-    r")\W*$",
+    r"fue\s+un\s+placer|un\s+placer|que\s+tengas?\s+(buen|buena)"
+    r")[!?¡¿.,\s]*$",
+    _re.IGNORECASE | _re.UNICODE,
+)
+
+_THANKS_ONLY = _re.compile(
+    r"^\s*("
+    r"muchas?\s+gracias?|gracias?|thanks?|thank\s+you|de\s+nada|"
+    r"te\s+lo\s+agradezco|muy\s+amable|excelente[,\s]+gracias?"
+    r")[!?¡¿.,\s]*$",
+    _re.IGNORECASE | _re.UNICODE,
+)
+
+# Palabras que indican que hay una pregunta real sobre la plataforma
+_HAS_REAL_QUERY = _re.compile(
+    r"(cómo|como|cuándo|cuando|dónde|donde|qué|que|cuál|cual|puedo|puede|"
+    r"necesito|quiero|ayuda|problema|error|configurar|crear|exportar|importar|"
+    r"activar|calificaci|cuestionario|curso|aula|usuario|login|acceso|brightspace)",
     _re.IGNORECASE | _re.UNICODE,
 )
 
@@ -87,23 +113,40 @@ _THANKS_REPLIES = [
     "¡Me alegra haber podido ayudar! Escríbeme cuando necesites. 🎓",
 ]
 
-_THANKS_PATTERNS = _re.compile(
-    r"^\s*(muchas?\s+gracias?|gracias?|thanks?|thank\s+you)\W*$",
-    _re.IGNORECASE | _re.UNICODE,
-)
-
 def _is_small_talk(text: str) -> str | None:
     """
-    Retorna la categoría si el texto es saludo/despedida/agradecimiento.
-    Retorna None si debe procesarse con RAG.
+    Retorna la categoría ('greet', 'bye', 'thanks') si el mensaje es
+    puro small talk sin contenido real sobre Brightspace.
+    Retorna None si debe procesarse con el RAG.
+
+    Lógica:
+    1. Si coincide exactamente con patrón de saludo/despedida/gracias → small talk.
+    2. Si empieza con saludo pero también tiene palabras clave de consulta real → RAG.
     """
     t = text.strip()
-    if _GREET_PATTERNS.match(t):
-        return "greet"
-    if _THANKS_PATTERNS.match(t):
+
+    # Agradecimientos puros
+    if _THANKS_ONLY.match(t):
         return "thanks"
-    if _BYE_PATTERNS.match(t):
+
+    # Despedidas puras
+    if _BYE_ONLY.match(t):
         return "bye"
+
+    # Saludos puros (sin pregunta real adjunta)
+    if _GREET_ONLY.match(t):
+        return "greet"
+
+    # Mensaje que empieza con saludo pero contiene consulta real → RAG
+    # (ej: "hola, ¿cómo exporto las calificaciones?")
+    if _GREET_START.match(t) and _HAS_REAL_QUERY.search(t):
+        return None
+
+    # Mensaje corto (<= 6 palabras) que empieza con saludo y no tiene
+    # palabras de consulta → probablemente es un saludo informal
+    if _GREET_START.match(t) and len(t.split()) <= 6 and not _HAS_REAL_QUERY.search(t):
+        return "greet"
+
     return None
 
 def _small_talk_result(kind: str) -> dict:
