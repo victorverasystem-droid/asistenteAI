@@ -352,10 +352,11 @@ section[data-testid="stSidebar"] { display: none; }
 }
 
 [data-testid="stChatMessageContentAssistant"] {
-    background: #ffffff;
-    border: 1px solid #e8e4dc;
+    background: #f4f1ea;
+    border: 1px solid #e0dbd0;
+    border-left: 3px solid #1a3a2e;
     border-radius: 4px 16px 16px 16px;
-    padding: 0.85rem 1.1rem;
+    padding: 0.85rem 1.1rem 0.85rem 1.4rem;
     box-shadow: 0 1px 4px rgba(0,0,0,0.06);
     font-size: 0.95rem;
     line-height: 1.75;
