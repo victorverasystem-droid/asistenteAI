@@ -518,7 +518,7 @@ if not st.session_state.messages:
     for i, sug in enumerate(SUGGESTIONS):
         col = c1 if i % 2 == 0 else c2
         if col.button(sug, key=f"sug_{i}"):
-            st.session_state.messages.append({"role": "user", "content": sug})
+            st.session_state["pending_query"] = sug
             st.rerun()
     st.markdown("<br>", unsafe_allow_html=True)
 
@@ -567,6 +567,10 @@ for msg in st.session_state.messages:
 # ── Input ────────────────────────────────────────────────────────────
 
 query = st.chat_input("Escribe tu pregunta sobre Brightspace…")
+
+# Recoger pregunta pendiente de sugerencias
+if not query and st.session_state.get("pending_query"):
+    query = st.session_state.pop("pending_query")
 
 if query:
     st.session_state.messages.append({"role": "user", "content": query})
