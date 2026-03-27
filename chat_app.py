@@ -182,7 +182,7 @@ def _load_engine():
             use_llm     = True,
             llm_api_key = os.getenv("OPENAI_API_KEY", ""),
             llm_model   = "gpt-4o-mini",
-            top_k       = 5,
+            top_k       = 10,
             min_sim     = 0.35,
         )
         index, meta = rag.load_index(cfg)
