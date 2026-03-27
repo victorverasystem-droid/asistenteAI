@@ -803,8 +803,7 @@ def build_prompt(settings: Settings, query: str, retrieved: List[Tuple[float, Di
         + "\nInstrucciones:\n"
           "1) Respuesta directa y clara.\n"
           "2) Incluye pasos numerados si aplica.\n"
-          "3) Cita con [n] dentro del texto donde corresponda.\n"
-          "4b) NO incluyas sección 'Fuentes:' al final; las fuentes se muestran en la interfaz.\n"
+          "3) NO incluyas referencias [n] en el texto ni sección 'Fuentes:' al final; las fuentes se muestran automáticamente en la interfaz.\n"
           "4) Si falta evidencia para algo, dilo explícitamente.\n"
     )
     return prompt, float(max_score), False
@@ -818,7 +817,7 @@ async def call_llm(settings: Settings, prompt: str) -> str:
     payload = {
         "model": settings.llm_model,
         "messages": [
-            {"role": "system", "content": "Eres un asistente institucional de Brightspace. Responde solo con la evidencia proporcionada. Puedes citar las fuentes con [n] dentro del texto. NO incluyas una sección 'Fuentes:' al final; las fuentes se muestran automáticamente en la interfaz. Si no hay evidencia suficiente, dilo claramente y deriva al soporte."},
+            {"role": "system", "content": "Eres un asistente institucional de Brightspace. Responde solo con la evidencia proporcionada. NO incluyas referencias numéricas [n] en el texto ni sección 'Fuentes:' al final; las fuentes se muestran automáticamente en la interfaz. Si no hay evidencia suficiente, dilo claramente y deriva al soporte."},
             {"role": "user", "content": prompt},
         ],
         "temperature": 0.2,
@@ -849,18 +848,65 @@ def rag_answer(settings: Settings, query: str, embedder: SentenceTransformer, in
     else:
         answer = "No tengo evidencia suficiente." if not retrieved else ("Evidencia (extracto):\n\n" + retrieved[0][1]["text"][:1000])
 
+    # Limpiar referencias [n] y sección "Fuentes:" que el LLM pueda haber incluido
+    answer = re.sub(r"\s*\[\d+\]", "", answer)
+    answer = re.sub(r"(?mi)^\s*(Fuentes?|Referencias?|Sources?):?\s*\n(\s*[-\*\d\.]+.*\n?)*", "", answer).strip()
+
     latency = time.time() - t0
 
-    sources = [{
+    # Construir mapa posición→source (el LLM cita con [1]..[n] según el orden de retrieved)
+    all_sources = [{
         "source_id": item["source_id"],
         "title": item["title"],
         "section": item["section"],
         "score": float(score),
         "snippet": item["text"][:350],
         "meta": item.get("meta", {}),
-        # Propagar URL desde meta para que la UI pueda generar enlaces clicables
         "url": item.get("meta", {}).get("url", ""),
-    } for score, item in retrieved]
+        "_pos": i,  # posición original (1-based) usada por el LLM para citar [i]
+    } for i, (score, item) in enumerate(retrieved, 1)]
+
+    # Extraer qué números citó el LLM en la respuesta, en orden de aparición
+    cited_nums = list(dict.fromkeys(          # orden de aparición, sin duplicados
+        int(m) for m in re.findall(r"\[(\d+)\]", answer)
+        if 1 <= int(m) <= len(all_sources)
+    ))
+
+    if cited_nums:
+        # Solo mostrar fuentes citadas, renumeradas según orden de aparición
+        cited_sources = []
+        seen_titles = set()
+        old_to_new = {}
+        new_num = 1
+        for n in cited_nums:
+            src = next((s for s in all_sources if s["_pos"] == n), None)
+            if src is None:
+                continue
+            title = src["title"]
+            if title not in seen_titles:
+                seen_titles.add(title)
+                old_to_new[n] = new_num
+                cited_sources.append({k: v for k, v in src.items() if k != "_pos"})
+                new_num += 1
+            else:
+                # Mismo documento citado varias veces — mapear al número ya asignado
+                existing = next(s for s in cited_sources if s["title"] == title)
+                old_to_new[n] = cited_sources.index(existing) + 1
+
+        # Reescribir [n] en la respuesta con la nueva numeración
+        def replace_ref(m):
+            n = int(m.group(1))
+            return f"[{old_to_new[n]}]" if n in old_to_new else m.group(0)
+        answer = re.sub(r"\[(\d+)\]", replace_ref, answer)
+        sources = cited_sources
+    else:
+        # Sin citas explícitas: mostrar las primeras fuentes únicas por título
+        seen_titles, sources = set(), []
+        for s in all_sources:
+            t = s["title"]
+            if t not in seen_titles and len(sources) < 5:
+                seen_titles.add(t)
+                sources.append({k: v for k, v in s.items() if k != "_pos"})
 
     out = {
         "query": query,
