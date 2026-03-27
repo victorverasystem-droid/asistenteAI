@@ -428,7 +428,17 @@ section[data-testid="stSidebar"] { display: none; }
 /* ── Burbuja usuario (derecha, verde oscuro) ── */
 [data-testid="stChatMessage"]:has([data-testid="stChatMessageContentUser"]) {
     flex-direction: row-reverse !important;
-    justify-content: flex-start !important;
+}
+/* Contenedor interno del mensaje usuario */
+[data-testid="stChatMessage"]:has([data-testid="stChatMessageContentUser"]) > div {
+    display: flex !important;
+    flex-direction: row-reverse !important;
+    width: 100% !important;
+}
+[data-testid="stChatMessage"]:has([data-testid="stChatMessageContentUser"]) [data-testid="stChatMessageContent"] {
+    display: flex !important;
+    justify-content: flex-end !important;
+    width: 100% !important;
 }
 [data-testid="stChatMessageContentUser"] {
     background: #1f7a4a;
@@ -439,8 +449,10 @@ section[data-testid="stSidebar"] { display: none; }
     font-size: 0.93rem;
     line-height: 1.6;
     max-width: 78%;
+    width: fit-content !important;
     position: relative;
-    margin-left: auto;
+    margin-left: auto !important;
+    margin-right: 0 !important;
 }
 [data-testid="stChatMessageContentUser"] p { color: #ffffff !important; }
 /* Triángulo derecho */
