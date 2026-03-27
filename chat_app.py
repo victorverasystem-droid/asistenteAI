@@ -425,45 +425,7 @@ section[data-testid="stSidebar"] { display: none; }
     border-color: transparent #ffffff transparent transparent;
 }
 
-/* ── Burbuja usuario (derecha, verde oscuro) ── */
-[data-testid="stChatMessage"]:has([data-testid="stChatMessageContentUser"]) {
-    flex-direction: row-reverse !important;
-}
-/* Contenedor interno del mensaje usuario */
-[data-testid="stChatMessage"]:has([data-testid="stChatMessageContentUser"]) > div {
-    display: flex !important;
-    flex-direction: row-reverse !important;
-    width: 100% !important;
-}
-[data-testid="stChatMessage"]:has([data-testid="stChatMessageContentUser"]) [data-testid="stChatMessageContent"] {
-    display: flex !important;
-    justify-content: flex-end !important;
-    width: 100% !important;
-}
-[data-testid="stChatMessageContentUser"] {
-    background: #1f7a4a;
-    color: #ffffff !important;
-    border-radius: 12px 0px 12px 12px;
-    padding: 0.6rem 0.9rem 0.55rem 0.9rem;
-    box-shadow: 0 1px 3px rgba(0,0,0,0.22);
-    font-size: 0.93rem;
-    line-height: 1.6;
-    max-width: 78%;
-    width: fit-content !important;
-    position: relative;
-    margin-left: auto !important;
-    margin-right: 0 !important;
-}
-[data-testid="stChatMessageContentUser"] p { color: #ffffff !important; }
-/* Triángulo derecho */
-[data-testid="stChatMessageContentUser"]::after {
-    content: '';
-    position: absolute;
-    top: 0; right: -8px;
-    border-width: 8px 8px 0 0;
-    border-style: solid;
-    border-color: #1f7a4a transparent transparent transparent;
-}
+/* Burbuja usuario: renderizada via HTML puro en _user_bubble() */
 
 /* ── Input bar tipo WhatsApp ── */
 [data-testid="stBottom"] {
@@ -611,10 +573,33 @@ if not st.session_state.messages:
 
 # ── Historial ────────────────────────────────────────────────────────
 
+def _user_bubble(text: str):
+    """Renderiza burbuja de usuario alineada a la derecha via HTML puro."""""
+    import html as _html
+    safe = _html.escape(text).replace("\n", "<br>")
+    st.markdown(
+        f'''<div style="display:flex;justify-content:flex-end;margin:0.3rem 0;">
+  <div style="background:#1f7a4a;color:#fff;border-radius:12px 2px 12px 12px;
+              padding:0.55rem 0.9rem;max-width:78%;font-size:0.93rem;
+              line-height:1.6;box-shadow:0 1px 3px rgba(0,0,0,0.22);
+              font-family:\'Nunito\',sans-serif;word-wrap:break-word;
+              position:relative;">
+    {safe}
+    <span style="position:absolute;top:0;right:-7px;width:0;height:0;
+                 border-top:8px solid #1f7a4a;border-left:8px solid transparent;"></span>
+  </div>
+</div>''',
+        unsafe_allow_html=True,
+    )
+
 for msg in st.session_state.messages:
     role = msg["role"]
 
-    with st.chat_message(role, avatar="🎓" if role == "assistant" else "👤"):
+    if role == "user":
+        _user_bubble(msg["content"])
+        continue
+
+    with st.chat_message(role, avatar="🎓"):
         st.markdown(msg["content"])
 
         if role == "assistant":
@@ -663,8 +648,7 @@ if query:
     st.session_state.messages.append({"role": "user", "content": query})
 
     # Mostrar el mensaje del usuario inmediatamente, sin esperar la respuesta
-    with st.chat_message("user", avatar="👤"):
-        st.markdown(query)
+    _user_bubble(query)
 
     with st.chat_message("assistant", avatar="🎓"):
         with st.spinner(""):
