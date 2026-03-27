@@ -425,23 +425,24 @@ section[data-testid="stSidebar"] { display: none; }
     border-color: transparent #ffffff transparent transparent;
 }
 
-/* ── Burbuja usuario (derecha, verde) ── */
+/* ── Burbuja usuario (derecha, verde oscuro) ── */
 [data-testid="stChatMessage"]:has([data-testid="stChatMessageContentUser"]) {
     flex-direction: row-reverse !important;
+    justify-content: flex-start !important;
 }
 [data-testid="stChatMessageContentUser"] {
-    background: #dcf8c6;
-    color: #111 !important;
+    background: #1f7a4a;
+    color: #ffffff !important;
     border-radius: 12px 0px 12px 12px;
     padding: 0.6rem 0.9rem 0.55rem 0.9rem;
-    box-shadow: 0 1px 2px rgba(0,0,0,0.13);
+    box-shadow: 0 1px 3px rgba(0,0,0,0.22);
     font-size: 0.93rem;
     line-height: 1.6;
-    max-width: 88%;
+    max-width: 78%;
     position: relative;
     margin-left: auto;
 }
-[data-testid="stChatMessageContentUser"] p { color: #111 !important; }
+[data-testid="stChatMessageContentUser"] p { color: #ffffff !important; }
 /* Triángulo derecho */
 [data-testid="stChatMessageContentUser"]::after {
     content: '';
@@ -449,7 +450,7 @@ section[data-testid="stSidebar"] { display: none; }
     top: 0; right: -8px;
     border-width: 8px 8px 0 0;
     border-style: solid;
-    border-color: #dcf8c6 transparent transparent transparent;
+    border-color: #1f7a4a transparent transparent transparent;
 }
 
 /* ── Input bar tipo WhatsApp ── */
