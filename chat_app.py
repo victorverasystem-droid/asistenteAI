@@ -277,51 +277,33 @@ def _clean_title(raw: str) -> str:
 
 def _sources_html(sources: list[dict], answer: str = "") -> str:
     """
-    Devuelve HTML con lista numerada de fuentes.
-
-    Si `answer` contiene referencias [n], solo muestra las fuentes cuyos
-    índices (1-based, posición en la lista de sources deduplicada) aparecen
-    citados en el texto. El número mostrado coincide con la referencia del LLM.
+    Muestra solo las fuentes cuyo número [n] aparece en el texto de la respuesta.
+    El número mostrado coincide exactamente con la referencia en el texto.
 
     - URL HTTP  → enlace azul clicable con icono externo.
     - Ruta local → texto violeta sin enlace.
     - Sin URL    → texto gris neutro.
     """
-    import re as _re2
-
-    # Primero construir la lista deduplicada conservando el orden original
-    # (posición 1-based = número que usó el LLM en el prompt)
-    seen, all_items = set(), []
-    for s in sources:
-        t = _clean_title(s.get("title", ""))
-        if not t:
-            continue
-        url = s.get("url") or s.get("link") or s.get("path") or s.get("meta", {}).get("url", "") or ""
-        # Guardar aunque sea duplicado de título para mantener índice correcto
-        all_items.append((t, url, t in seen))
-        seen.add(t)
-
-    if not all_items:
+    if not sources:
         return ""
 
-    # Detectar qué números cita el LLM en la respuesta
-    cited_nums = set(int(n) for n in _re2.findall(r"\[(\d+)\]", answer))
+    import re
+    # Detectar qué números [n] menciona el LLM en su respuesta
+    cited = set(int(m) for m in re.findall(r"\[(\d+)\]", answer)) if answer else set()
 
-    # Filtrar: solo los citados (si hay citas), sin duplicados de título, máx 5
     rows = []
-    shown_titles = set()
-    for idx, (t, url, is_dup) in enumerate(all_items, 1):
-        # Si hay citas explícitas, mostrar solo las referenciadas
-        if cited_nums and idx not in cited_nums:
+    seen_titles = set()
+    for idx, s in enumerate(sources, 1):
+        # Omitir fuentes no citadas en el texto (si hay citas detectadas)
+        if cited and idx not in cited:
             continue
-        # Deduplicar por título en lo que se muestra
-        if t in shown_titles:
+        t = _clean_title(s.get("title", ""))
+        if not t or t in seen_titles:
             continue
-        shown_titles.add(t)
-        if len(rows) >= 5:
-            break
+        seen_titles.add(t)
+        url = s.get("url") or s.get("link") or s.get("path") or s.get("meta", {}).get("url", "") or ""
 
-        num = f'<span style="min-width:1.2rem;font-weight:700;color:#9ca3af;font-size:0.75rem;">[{idx}]</span>'
+        num = f'<span style="min-width:1.6rem;font-weight:700;color:#9ca3af;font-size:0.75rem;">[{idx}]</span>'
         if url and url.startswith("http"):
             link = (
                 f'<a href="{url}" target="_blank" rel="noopener noreferrer" '
@@ -341,9 +323,49 @@ def _sources_html(sources: list[dict], answer: str = "") -> str:
             f'{num} {link}</div>'
         )
 
+    # Si no hay citas detectadas, mostrar todas (fallback)
+    if not rows and not cited:
+        return _sources_html_all(sources)
+
     if not rows:
         return ""
 
+    rows_html = "".join(rows)
+    return (
+        '<div style="margin-top:0.6rem;">'
+        '<span style="font-size:0.70rem;color:#9ca3af;letter-spacing:0.04em;'
+        'text-transform:uppercase;font-weight:600;">Fuentes</span>'
+        f'<div style="margin-top:0.35rem;">{rows_html}</div>'
+        '</div>'
+    )
+
+
+def _sources_html_all(sources: list[dict]) -> str:
+    """Fallback: muestra todas las fuentes sin filtrar por cita."""
+    seen, rows = set(), []
+    for idx, s in enumerate(sources, 1):
+        t = _clean_title(s.get("title", ""))
+        if not t or t in seen:
+            continue
+        seen.add(t)
+        url = s.get("url") or s.get("link") or s.get("path") or s.get("meta", {}).get("url", "") or ""
+        num = f'<span style="min-width:1.6rem;font-weight:700;color:#9ca3af;font-size:0.75rem;">[{idx}]</span>'
+        if url and url.startswith("http"):
+            link = (
+                f'<a href="{url}" target="_blank" rel="noopener noreferrer" '
+                f'class="source-pill source-pill--link" title="Abrir: {t}">'
+                f'&#128196; {t} <span class="pill-ext-icon">&#8599;</span></a>'
+            )
+        elif url:
+            link = f'<span class="source-pill source-pill--local">&#128193; {t}</span>'
+        else:
+            link = f'<span class="source-pill">&#128196; {t}</span>'
+        rows.append(
+            f'<div style="display:flex;align-items:center;gap:0.4rem;margin-bottom:0.3rem;">'
+            f'{num} {link}</div>'
+        )
+    if not rows:
+        return ""
     rows_html = "".join(rows)
     return (
         '<div style="margin-top:0.6rem;">'
