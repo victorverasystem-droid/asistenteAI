@@ -296,11 +296,14 @@ def _sources_html(sources: list[dict], answer: str = "") -> str:
         return ""
 
     seen, rows = set(), []
-    for i, s in enumerate(sources, 1):
+    for s in sources:
+        if len(rows) >= 5:
+            break
         t = _clean_title(s.get("title", ""))
         if not t or t in seen:
             continue
         seen.add(t)
+        i = len(rows) + 1
         url = s.get("url") or s.get("link") or s.get("path") or s.get("meta", {}).get("url", "") or ""
         num = f'<span style="min-width:1.2rem;font-weight:600;color:#9ca3af;font-size:0.75rem;">{i}.</span>'
         if url and url.startswith("http"):
