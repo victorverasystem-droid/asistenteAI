@@ -343,58 +343,139 @@ st.set_page_config(
 
 st.markdown("""
 <style>
-@import url('https://fonts.googleapis.com/css2?family=Lora:wght@600&family=DM+Sans:ital,wght@0,300;0,400;0,500;0,600;1,400&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@400;500;600;700&display=swap');
 
+/* ── Fondo tipo WhatsApp con patrón ── */
 html, body, [class*="css"] {
-    font-family: 'DM Sans', sans-serif;
-    background: #FAFAF8;
+    font-family: 'Nunito', sans-serif;
+}
+.stApp {
+    background-color: #dfe7ed;
+    background-image: url("data:image/svg+xml,%3Csvg width='60' height='60' viewBox='0 0 60 60' xmlns='http://www.w3.org/2000/svg'%3E%3Cg fill='none' fill-rule='evenodd'%3E%3Cg fill='%23b2c8d4' fill-opacity='0.3'%3E%3Cpath d='M36 34v-4h-2v4h-4v2h4v4h2v-4h4v-2h-4zm0-30V0h-2v4h-4v2h4v4h2V6h4V4h-4zM6 34v-4H4v4H0v2h4v4h2v-4h4v-2H6zM6 4V0H4v4H0v2h4v4h2V6h4V4H6z'/%3E%3C/g%3E%3C/g%3E%3C/svg%3E");
 }
 
 header[data-testid="stHeader"] { display: none; }
 section[data-testid="stSidebar"] { display: none; }
-.block-container { padding-top: 1.5rem !important; max-width: 740px !important; }
-
-[data-testid="stChatMessageAvatarAssistant"] {
-    background: #1a3a2e !important;
-    border-radius: 10px !important;
+.block-container {
+    padding-top: 0 !important;
+    padding-bottom: 1rem !important;
+    max-width: 680px !important;
 }
 
+/* ── Header tipo WhatsApp ── */
+.wa-header {
+    position: sticky;
+    top: 0;
+    z-index: 100;
+    background: #075e54;
+    color: white;
+    padding: 0.7rem 1.1rem;
+    display: flex;
+    align-items: center;
+    gap: 0.75rem;
+    margin: -1rem -1rem 1rem -1rem;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.2);
+}
+.wa-avatar {
+    width: 40px; height: 40px;
+    background: #25d366;
+    border-radius: 50%;
+    display: flex; align-items: center; justify-content: center;
+    font-size: 1.2rem;
+    flex-shrink: 0;
+}
+.wa-header-info { flex: 1; }
+.wa-header-name {
+    font-weight: 700;
+    font-size: 1rem;
+    letter-spacing: 0.01em;
+    line-height: 1.2;
+}
+.wa-header-status {
+    font-size: 0.75rem;
+    color: #b2dfdb;
+    font-weight: 400;
+}
+
+/* ── Ocultar avatares nativos de Streamlit ── */
+[data-testid="stChatMessageAvatarAssistant"],
+[data-testid="stChatMessageAvatarUser"] {
+    display: none !important;
+}
+
+/* ── Burbuja asistente (izquierda, blanca) ── */
 [data-testid="stChatMessageContentAssistant"] {
-    background: #f4f1ea;
-    border: 1px solid #e0dbd0;
-    border-left: 3px solid #1a3a2e;
-    border-radius: 4px 16px 16px 16px;
-    padding: 0.85rem 1.1rem 0.85rem 1.4rem;
-    box-shadow: 0 1px 4px rgba(0,0,0,0.06);
-    font-size: 0.95rem;
-    line-height: 1.75;
-    color: #1a1a1a;
-}
-
-[data-testid="stChatMessageContentUser"] {
-    background: #1a3a2e;
-    color: #f0ede6 !important;
-    border-radius: 16px 4px 16px 16px;
-    padding: 0.75rem 1.1rem;
-    font-size: 0.95rem;
+    background: #ffffff;
+    border-radius: 0px 12px 12px 12px;
+    padding: 0.6rem 0.9rem 0.55rem 0.9rem;
+    box-shadow: 0 1px 2px rgba(0,0,0,0.13);
+    font-size: 0.93rem;
     line-height: 1.6;
-    box-shadow: 0 2px 8px rgba(26,58,46,0.15);
+    color: #111;
+    max-width: 88%;
+    position: relative;
 }
-[data-testid="stChatMessageContentUser"] p { color: #f0ede6 !important; }
+/* Triángulo izquierdo */
+[data-testid="stChatMessageContentAssistant"]::before {
+    content: '';
+    position: absolute;
+    top: 0; left: -8px;
+    border-width: 0 8px 8px 0;
+    border-style: solid;
+    border-color: transparent #ffffff transparent transparent;
+}
 
+/* ── Burbuja usuario (derecha, verde) ── */
+[data-testid="stChatMessage"]:has([data-testid="stChatMessageContentUser"]) {
+    flex-direction: row-reverse !important;
+}
+[data-testid="stChatMessageContentUser"] {
+    background: #dcf8c6;
+    color: #111 !important;
+    border-radius: 12px 0px 12px 12px;
+    padding: 0.6rem 0.9rem 0.55rem 0.9rem;
+    box-shadow: 0 1px 2px rgba(0,0,0,0.13);
+    font-size: 0.93rem;
+    line-height: 1.6;
+    max-width: 88%;
+    position: relative;
+    margin-left: auto;
+}
+[data-testid="stChatMessageContentUser"] p { color: #111 !important; }
+/* Triángulo derecho */
+[data-testid="stChatMessageContentUser"]::after {
+    content: '';
+    position: absolute;
+    top: 0; right: -8px;
+    border-width: 8px 8px 0 0;
+    border-style: solid;
+    border-color: #dcf8c6 transparent transparent transparent;
+}
+
+/* ── Input bar tipo WhatsApp ── */
+[data-testid="stBottom"] {
+    background: #f0f0f0 !important;
+    padding: 0.5rem 0.75rem !important;
+    border-top: 1px solid #ccc !important;
+}
 [data-testid="stChatInput"] {
-    border: 1px solid #e0dbd1 !important;
-    border-radius: 12px !important;
+    border: none !important;
+    border-radius: 24px !important;
     background: #ffffff !important;
+    box-shadow: 0 1px 3px rgba(0,0,0,0.1) !important;
+    font-family: 'Nunito', sans-serif !important;
 }
 
+/* ── Botones de sugerencias ── */
 .stButton button {
     background: #ffffff;
-    border: 1px solid #ddd9cf;
-    border-radius: 10px;
-    color: #3a3a3a;
-    font-size: 0.85rem;
-    padding: 0.55rem 0.9rem;
+    border: 1.5px solid #25d366;
+    border-radius: 20px;
+    color: #075e54;
+    font-size: 0.83rem;
+    font-family: 'Nunito', sans-serif;
+    font-weight: 600;
+    padding: 0.45rem 0.85rem;
     transition: all 0.15s;
     text-align: left;
     white-space: normal;
@@ -402,64 +483,57 @@ section[data-testid="stSidebar"] { display: none; }
     line-height: 1.4;
 }
 .stButton button:hover {
-    border-color: #1a3a2e;
-    color: #1a3a2e;
-    background: #f2faf6;
+    background: #25d366;
+    border-color: #25d366;
+    color: #ffffff;
 }
 
 /* ── Pills de fuentes ── */
-.source-pills {
-    display: flex;
-    flex-wrap: wrap;
-    gap: 0.4rem;
-}
-
 .source-pill {
     border-radius: 20px;
-    padding: 3px 11px;
-    font-size: 0.72rem;
+    padding: 2px 10px;
+    font-size: 0.71rem;
     display: inline-flex;
     align-items: center;
-    gap: 0.25rem;
-    font-family: 'DM Sans', sans-serif;
-    font-weight: 500;
+    gap: 0.2rem;
+    font-family: 'Nunito', sans-serif;
+    font-weight: 600;
     transition: all 0.15s ease;
     text-decoration: none !important;
 }
-
-/* Sin enlace */
 .source-pill:not(a) {
-    background: #f2efe8;
-    border: 1px solid #ddd9cf;
-    color: #5a5a5a;
+    background: #f0f0f0;
+    border: 1px solid #ddd;
+    color: #555;
     cursor: default;
 }
-
-/* Con enlace HTTP */
 a.source-pill--link {
-    background: #edf6ff;
-    border: 1px solid #bfdbfe;
-    color: #1d4ed8 !important;
-    cursor: pointer;
+    background: #e8f5e9;
+    border: 1px solid #a5d6a7;
+    color: #1b5e20 !important;
 }
 a.source-pill--link:hover {
-    background: #dbeafe;
-    border-color: #93c5fd;
-    color: #1e40af !important;
+    background: #c8e6c9;
+    border-color: #66bb6a;
+    color: #1b5e20 !important;
     text-decoration: none !important;
     transform: translateY(-1px);
-    box-shadow: 0 2px 6px rgba(29,78,216,0.12);
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
 }
-.pill-ext-icon {
-    font-size: 0.65rem;
-    opacity: 0.7;
+.pill-ext-icon { font-size: 0.62rem; opacity: 0.75; }
+span.source-pill--local {
+    background: #f3e5f5;
+    border: 1px solid #ce93d8;
+    color: #4a148c;
 }
 
-/* Ruta local */
-span.source-pill--local {
-    background: #f5f3ff;
-    border: 1px solid #ddd6fe;
-    color: #6d28d9;
+/* ── Caption PREGUNTAS FRECUENTES ── */
+.stCaptionContainer p {
+    color: #666 !important;
+    font-size: 0.75rem !important;
+    font-weight: 700 !important;
+    letter-spacing: 0.06em !important;
+    text-align: center;
 }
 </style>
 """, unsafe_allow_html=True)
@@ -473,15 +547,15 @@ if "engine_ready" not in st.session_state:
 
 # ── Header ───────────────────────────────────────────────────────────
 
-st.markdown(
-    "<h2 style='font-family:Lora,serif;font-size:1.5rem;color:#1a1a1a;"
-    "margin:0 0 0.2rem;letter-spacing:-0.02em;'>🎓 Asistente Brightspace</h2>"
-    "<p style='color:#6b6b6b;font-size:0.88rem;margin:0 0 1.2rem;'>"
-    "Resuelvo dudas sobre la plataforma · Respuestas basadas en la documentación oficial</p>",
-    unsafe_allow_html=True,
-)
-
-st.divider()
+st.markdown("""
+<div class="wa-header">
+  <div class="wa-avatar">🎓</div>
+  <div class="wa-header-info">
+    <div class="wa-header-name">Asistente Brightspace</div>
+    <div class="wa-header-status">● en línea</div>
+  </div>
+</div>
+""", unsafe_allow_html=True)
 
 # ── Carga del motor ──────────────────────────────────────────────────
 
