@@ -277,79 +277,22 @@ def _clean_title(raw: str) -> str:
 
 def _sources_html(sources: list[dict], answer: str = "") -> str:
     """
-    Muestra solo las fuentes cuyo número [n] aparece en el texto de la respuesta.
-    El número mostrado coincide exactamente con la referencia en el texto.
-
+    Lista numerada de fuentes únicas sin referencias [n].
     - URL HTTP  → enlace azul clicable con icono externo.
-    - Ruta local → texto violeta sin enlace.
+    - Ruta local → texto violeta.
     - Sin URL    → texto gris neutro.
     """
     if not sources:
         return ""
 
-    import re
-    # Detectar qué números [n] menciona el LLM en su respuesta
-    cited = set(int(m) for m in re.findall(r"\[(\d+)\]", answer)) if answer else set()
-
-    rows = []
-    seen_titles = set()
-    for idx, s in enumerate(sources, 1):
-        # Omitir fuentes no citadas en el texto (si hay citas detectadas)
-        if cited and idx not in cited:
-            continue
-        t = _clean_title(s.get("title", ""))
-        if not t or t in seen_titles:
-            continue
-        seen_titles.add(t)
-        url = s.get("url") or s.get("link") or s.get("path") or s.get("meta", {}).get("url", "") or ""
-
-        num = f'<span style="min-width:1.6rem;font-weight:700;color:#9ca3af;font-size:0.75rem;">[{idx}]</span>'
-        if url and url.startswith("http"):
-            link = (
-                f'<a href="{url}" target="_blank" rel="noopener noreferrer" '
-                f'class="source-pill source-pill--link" title="Abrir: {t}">'
-                f'&#128196; {t} <span class="pill-ext-icon">&#8599;</span></a>'
-            )
-        elif url:
-            link = (
-                f'<span class="source-pill source-pill--local" title="Archivo local: {url}">'
-                f'&#128193; {t}</span>'
-            )
-        else:
-            link = f'<span class="source-pill">&#128196; {t}</span>'
-
-        rows.append(
-            f'<div style="display:flex;align-items:center;gap:0.4rem;margin-bottom:0.3rem;">'
-            f'{num} {link}</div>'
-        )
-
-    # Si no hay citas detectadas, mostrar todas (fallback)
-    if not rows and not cited:
-        return _sources_html_all(sources)
-
-    if not rows:
-        return ""
-
-    rows_html = "".join(rows)
-    return (
-        '<div style="margin-top:0.6rem;">'
-        '<span style="font-size:0.70rem;color:#9ca3af;letter-spacing:0.04em;'
-        'text-transform:uppercase;font-weight:600;">Fuentes</span>'
-        f'<div style="margin-top:0.35rem;">{rows_html}</div>'
-        '</div>'
-    )
-
-
-def _sources_html_all(sources: list[dict]) -> str:
-    """Fallback: muestra todas las fuentes sin filtrar por cita."""
     seen, rows = set(), []
-    for idx, s in enumerate(sources, 1):
+    for i, s in enumerate(sources, 1):
         t = _clean_title(s.get("title", ""))
         if not t or t in seen:
             continue
         seen.add(t)
         url = s.get("url") or s.get("link") or s.get("path") or s.get("meta", {}).get("url", "") or ""
-        num = f'<span style="min-width:1.6rem;font-weight:700;color:#9ca3af;font-size:0.75rem;">[{idx}]</span>'
+        num = f'<span style="min-width:1.2rem;font-weight:600;color:#9ca3af;font-size:0.75rem;">{i}.</span>'
         if url and url.startswith("http"):
             link = (
                 f'<a href="{url}" target="_blank" rel="noopener noreferrer" '
@@ -357,13 +300,14 @@ def _sources_html_all(sources: list[dict]) -> str:
                 f'&#128196; {t} <span class="pill-ext-icon">&#8599;</span></a>'
             )
         elif url:
-            link = f'<span class="source-pill source-pill--local">&#128193; {t}</span>'
+            link = f'<span class="source-pill source-pill--local" title="{url}">&#128193; {t}</span>'
         else:
             link = f'<span class="source-pill">&#128196; {t}</span>'
         rows.append(
             f'<div style="display:flex;align-items:center;gap:0.4rem;margin-bottom:0.3rem;">'
             f'{num} {link}</div>'
         )
+
     if not rows:
         return ""
     rows_html = "".join(rows)
