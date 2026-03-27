@@ -268,34 +268,60 @@ def _confidence_badge(confidence: float, latency_s: float) -> str:
 """
 
 
-def _sources_html(sources: list[dict]) -> str:
+def _clean_title(raw: str) -> str:
+    t = raw.replace("_", " ").replace("-Brightspace", "")
+    if "__" in t:
+        t = t[:t.rfind("__")]
+    return t.replace(".txt", "").replace(".xlsx", "").strip()
+
+
+def _sources_html(sources: list[dict], answer: str = "") -> str:
     """
     Devuelve HTML con lista numerada de fuentes.
+
+    Si `answer` contiene referencias [n], solo muestra las fuentes cuyos
+    índices (1-based, posición en la lista de sources deduplicada) aparecen
+    citados en el texto. El número mostrado coincide con la referencia del LLM.
+
     - URL HTTP  → enlace azul clicable con icono externo.
     - Ruta local → texto violeta sin enlace.
     - Sin URL    → texto gris neutro.
     """
-    seen, items = set(), []
-    for s in sources:
-        raw_title = s.get("title", "")
-        t = raw_title.replace("_", " ").replace("-Brightspace", "")
-        if "__" in t:
-            t = t[:t.rfind("__")]
-        t = t.replace(".txt", "").replace(".xlsx", "").strip()
+    import re as _re2
 
-        if not t or t in seen or len(items) >= 5:
+    # Primero construir la lista deduplicada conservando el orden original
+    # (posición 1-based = número que usó el LLM en el prompt)
+    seen, all_items = set(), []
+    for s in sources:
+        t = _clean_title(s.get("title", ""))
+        if not t:
             continue
+        url = s.get("url") or s.get("link") or s.get("path") or s.get("meta", {}).get("url", "") or ""
+        # Guardar aunque sea duplicado de título para mantener índice correcto
+        all_items.append((t, url, t in seen))
         seen.add(t)
 
-        url = s.get("url") or s.get("link") or s.get("path") or s.get("meta", {}).get("url", "") or ""
-        items.append((t, url))
-
-    if not items:
+    if not all_items:
         return ""
 
+    # Detectar qué números cita el LLM en la respuesta
+    cited_nums = set(int(n) for n in _re2.findall(r"\[(\d+)\]", answer))
+
+    # Filtrar: solo los citados (si hay citas), sin duplicados de título, máx 5
     rows = []
-    for i, (t, url) in enumerate(items, 1):
-        num = f'<span style="min-width:1.2rem;font-weight:700;color:#9ca3af;font-size:0.75rem;">{i}.</span>'
+    shown_titles = set()
+    for idx, (t, url, is_dup) in enumerate(all_items, 1):
+        # Si hay citas explícitas, mostrar solo las referenciadas
+        if cited_nums and idx not in cited_nums:
+            continue
+        # Deduplicar por título en lo que se muestra
+        if t in shown_titles:
+            continue
+        shown_titles.add(t)
+        if len(rows) >= 5:
+            break
+
+        num = f'<span style="min-width:1.2rem;font-weight:700;color:#9ca3af;font-size:0.75rem;">[{idx}]</span>'
         if url and url.startswith("http"):
             link = (
                 f'<a href="{url}" target="_blank" rel="noopener noreferrer" '
@@ -312,8 +338,11 @@ def _sources_html(sources: list[dict]) -> str:
 
         rows.append(
             f'<div style="display:flex;align-items:center;gap:0.4rem;margin-bottom:0.3rem;">'
-            f'{num}{link}</div>'
+            f'{num} {link}</div>'
         )
+
+    if not rows:
+        return ""
 
     rows_html = "".join(rows)
     return (
@@ -552,7 +581,7 @@ for msg in st.session_state.messages:
                         unsafe_allow_html=True,
                     )
                 if sources:
-                    src_html = _sources_html(sources)
+                    src_html = _sources_html(sources, answer=msg.get("content", ""))
                     if src_html:
                         st.markdown(src_html, unsafe_allow_html=True)
 
@@ -625,7 +654,7 @@ if query:
                     unsafe_allow_html=True,
                 )
             if sources:
-                src_html = _sources_html(sources)
+                src_html = _sources_html(sources, answer=result.get("answer", ""))
                 if src_html:
                     st.markdown(src_html, unsafe_allow_html=True)
 
