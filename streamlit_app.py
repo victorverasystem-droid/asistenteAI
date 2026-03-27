@@ -234,6 +234,72 @@ def _dir_count(d: Path) -> str:
 def _index_exists() -> bool:
     return (INDEX_DIR / "faiss.index").exists() and (INDEX_DIR / "chunks_meta.jsonl").exists()
 
+# ── GitHub push helper ────────────────────────────────────────────────
+def _github_push_files(local_paths: list[tuple[str, Path]]) -> list[str]:
+    """
+    Sube una lista de archivos locales al repositorio GitHub configurado en Secrets.
+
+    Parámetros
+    ----------
+    local_paths : list of (github_relative_path, local_Path)
+        Ej: [("raw/documento.pdf", Path("/ruta/local/documento.pdf"))]
+
+    Retorna
+    -------
+    list[str]  — lista de errores (vacía si todo fue bien)
+    """
+    import base64
+    import requests as req
+
+    github_token  = st.secrets.get("GITHUB_TOKEN",  "") or os.getenv("GITHUB_TOKEN",  "")
+    github_repo   = st.secrets.get("GITHUB_REPO",   "") or os.getenv("GITHUB_REPO",   "")
+    github_branch = st.secrets.get("GITHUB_BRANCH", "main")
+
+    if not github_token or not github_repo:
+        return ["GITHUB_TOKEN o GITHUB_REPO no configurados en Secrets."]
+
+    api_base = f"https://api.github.com/repos/{github_repo}/contents"
+    headers  = {
+        "Authorization": f"Bearer {github_token}",
+        "Accept":        "application/vnd.github+json",
+    }
+
+    errors: list[str] = []
+
+    for gh_path, local_path in local_paths:
+        if not local_path.exists():
+            errors.append(f"Archivo no encontrado localmente: {local_path}")
+            continue
+
+        content_b64 = base64.b64encode(local_path.read_bytes()).decode()
+
+        # Obtener SHA actual (necesario para actualizar un archivo existente en GitHub)
+        sha = None
+        r = req.get(f"{api_base}/{gh_path}", headers=headers, params={"ref": github_branch})
+        if r.status_code == 200:
+            sha = r.json().get("sha")
+
+        payload: dict = {
+            "message": f"ci: actualizar {gh_path}",
+            "content": content_b64,
+            "branch":  github_branch,
+        }
+        if sha:
+            payload["sha"] = sha
+
+        r = req.put(f"{api_base}/{gh_path}", headers=headers, json=payload)
+        if r.status_code not in (200, 201):
+            errors.append(f"{gh_path}: HTTP {r.status_code} — {r.text[:300]}")
+
+    return errors
+
+
+def _has_github_config() -> bool:
+    """True si GITHUB_TOKEN y GITHUB_REPO están configurados."""
+    token = st.secrets.get("GITHUB_TOKEN", "") or os.getenv("GITHUB_TOKEN", "")
+    repo  = st.secrets.get("GITHUB_REPO",  "") or os.getenv("GITHUB_REPO",  "")
+    return bool(token and repo)
+
 def _make_settings(rag, **overrides):
     kw = dict(
         raw_dir      = str(RAW_DIR),
@@ -291,9 +357,25 @@ with st.sidebar:
     )
     if st.button("💾 Guardar en raw/", width='stretch') and up_raw:
         RAW_DIR.mkdir(parents=True, exist_ok=True)
+        saved_raw = []
         for f in up_raw:
-            (RAW_DIR / f.name).write_bytes(f.read())
-        st.success(f"✅ {len(up_raw)} archivo(s) → `raw/`")
+            dest = RAW_DIR / f.name
+            dest.write_bytes(f.read())
+            saved_raw.append(dest)
+        st.success(f"✅ {len(saved_raw)} archivo(s) guardado(s) localmente en `raw/`")
+
+        # ── Push a GitHub ──────────────────────────────────────────
+        if _has_github_config():
+            with st.spinner("Subiendo a GitHub…"):
+                pairs = [(f"raw/{p.name}", p) for p in saved_raw]
+                errs  = _github_push_files(pairs)
+            if errs:
+                st.error("Errores al subir a GitHub:\n" + "\n".join(errs))
+            else:
+                st.success(f"✅ {len(saved_raw)} archivo(s) subido(s) a GitHub (`raw/`)")
+        else:
+            st.warning("⚠️ Archivos guardados solo localmente. "
+                       "Agrega GITHUB_TOKEN y GITHUB_REPO en Secrets para persistir en GitHub.")
 
     st.markdown("**Subir a `eval/`**")
     up_eval = st.file_uploader(
@@ -304,9 +386,25 @@ with st.sidebar:
     )
     if st.button("💾 Guardar en eval/", width='stretch') and up_eval:
         EVAL_DIR.mkdir(parents=True, exist_ok=True)
+        saved_eval = []
         for f in up_eval:
-            (EVAL_DIR / f.name).write_bytes(f.read())
-        st.success(f"✅ {len(up_eval)} archivo(s) → `eval/`")
+            dest = EVAL_DIR / f.name
+            dest.write_bytes(f.read())
+            saved_eval.append(dest)
+        st.success(f"✅ {len(saved_eval)} archivo(s) guardado(s) localmente en `eval/`")
+
+        # ── Push a GitHub ──────────────────────────────────────────
+        if _has_github_config():
+            with st.spinner("Subiendo a GitHub…"):
+                pairs = [(f"eval/{p.name}", p) for p in saved_eval]
+                errs  = _github_push_files(pairs)
+            if errs:
+                st.error("Errores al subir a GitHub:\n" + "\n".join(errs))
+            else:
+                st.success(f"✅ {len(saved_eval)} archivo(s) subido(s) a GitHub (`eval/`)")
+        else:
+            st.warning("⚠️ Archivos guardados solo localmente. "
+                       "Agrega GITHUB_TOKEN y GITHUB_REPO en Secrets para persistir en GitHub.")
 
     st.divider()
     c1, c2 = st.columns(2)
@@ -318,9 +416,26 @@ with st.sidebar:
         with st.spinner("Construyendo índice FAISS…"):
             try:
                 _, _, n = rag.build_faiss_index(_make_settings(rag))
-                st.success(f"✅ {n} chunks indexados")
+                st.success(f"✅ {n} chunks indexados localmente")
             except Exception as e:
-                st.error(f"Error: {e}")
+                st.error(f"Error al indexar: {e}")
+                st.stop()
+
+        # ── Push a GitHub ──────────────────────────────────────────
+        if _has_github_config():
+            with st.spinner("Subiendo índice a GitHub…"):
+                pairs = [
+                    ("index/faiss.index",       INDEX_DIR / "faiss.index"),
+                    ("index/chunks_meta.jsonl",  INDEX_DIR / "chunks_meta.jsonl"),
+                ]
+                errs = _github_push_files(pairs)
+            if errs:
+                st.error("Errores al subir el índice a GitHub:\n" + "\n".join(errs))
+            else:
+                st.success("✅ Índice subido a GitHub (`index/`)")
+        else:
+            st.warning("⚠️ Índice generado solo localmente. "
+                       "Agrega GITHUB_TOKEN y GITHUB_REPO en Secrets para persistir en GitHub.")
 
     if btn_load:
         rag = import_rag()
