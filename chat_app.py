@@ -168,6 +168,16 @@ def _small_talk_result(kind: str) -> dict:
     }
 
 
+def _strip_citations(text: str) -> str:
+    """Elimina referencias [n] y sección Fuentes: del texto del LLM."""
+    import re as _re
+    text = _re.sub(r'\s*\[\d+\]', '', text)
+    text = _re.sub(
+        r'(?mi)^\s*(Fuentes?|Referencias?|Sources?):?\s*\n(\s*[-\*\d\.\[\]]+.*\n?)*',
+        '', text
+    ).strip()
+    return text
+
 # ── Carga del motor RAG (cacheado) ───────────────────────────────────
 
 @st.cache_resource(show_spinner=False)
@@ -611,7 +621,8 @@ if query:
             confidence = result.get("confidence", 0.0)
             sources    = result.get("sources", [])
 
-        st.markdown(result["answer"])
+        clean_answer = _strip_citations(result["answer"])
+        st.markdown(clean_answer)
 
         if not routed and not is_small_talk:
             if confidence is not None and confidence > 0:
@@ -620,13 +631,13 @@ if query:
                     unsafe_allow_html=True,
                 )
             if sources:
-                src_html = _sources_html(sources, answer=result.get("answer", ""))
+                src_html = _sources_html(sources, answer=clean_answer)
                 if src_html:
                     st.markdown(src_html, unsafe_allow_html=True)
 
     st.session_state.messages.append({
         "role":            "assistant",
-        "content":         result["answer"],
+        "content":         clean_answer,
         "routed_to_human": routed,
         "sources":         sources,
         "confidence":      confidence,
